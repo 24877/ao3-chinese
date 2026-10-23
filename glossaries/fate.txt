@@ -1,0 +1,178 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-23
+
+// ===== 词条：区分大小写，人名/英灵真名 =====
+词条
+// —— 御主侧（FSN/FZ）——
+Shirou Emiya = 卫宫士郎
+Kiritsugu Emiya = 卫宫切嗣
+Rin Tohsaka = 远坂凛
+Tokiomi Tohsaka = 远坂时臣
+Aoi Tohsaka = 远坂葵
+Sakura Matou = 间桐樱
+Shinji Matou = 间桐慎二
+Kariya Matou = 间桐雁夜
+Zouken Matou = 间桐脏砚
+Illyasviel von Einzbern = 伊莉雅斯菲尔·冯·爱因兹贝伦
+Irisviel von Einzbern = 爱丽丝菲尔·冯·爱因兹贝伦
+Maiya Hisau = 久宇舞弥
+Kirei Kotomine = 言峰绮礼
+Risei Kotomine = 言峰璃正
+Waver Velvet = 韦伯·维尔维特
+Kayneth El-Melloi Archibald = 肯尼斯·埃尔梅罗·阿奇博尔德
+Sola-Ui Nuada-Re Sophia-Ri = 索拉·娜泽莱·索非亚莉
+Ryuunosuke Uryuu = 雨生龙之介
+Kuzuki Sohichirou = 葛木宗一郎
+Taiga Fujimura = 藤村大河
+
+// —— 从者 / 英灵（FSN/FZ）——
+Artoria Pendragon = 阿尔托莉雅·潘德拉贡
+Saber = 阿尔托莉雅·潘德拉贡
+Gilgamesh = 吉尔伽美什
+Emiya = 英灵卫宫
+Cu Chulainn = 库·丘林
+Lancer = 库·丘林
+Iskandar = 伊斯坎达尔
+Rider = 伊斯坎达尔
+Diarmuid Ua Duibhne = 迪尔姆德·奥迪那
+Medusa = 美杜莎
+Rider = 美杜莎
+Medea = 美狄亚
+Caster = 美狄亚
+Gilles de Rais = 吉尔·德·雷
+Caster = 吉尔·德·雷
+Hassan-i-Sabbah = 哈桑·萨巴赫
+Assassin = 哈桑·萨巴赫
+Heracles = 赫拉克勒斯
+Berserker = 赫拉克勒斯
+Lancelot = 兰斯洛特
+Berserker = 兰斯洛特
+Sasaki Kojiro = 佐佐木小次郎
+Assassin = 佐佐木小次郎
+
+// —— FGO 常见英灵补充 ——
+Mash Kyrielight = 玛修·基列莱特
+Jeanne d'Arc = 贞德
+Jeanne d'Arc Alter = 贞德〔Alter〕
+Nero Claudius = 尼禄·克劳狄乌斯
+Okita Souji = 冲田总司
+Miyamoto Musashi = 宫本武藏
+Tamamo no Mae = 玉藻前
+Minamoto no Raikou = 源赖光
+Scathach = 斯卡哈
+Skadi = 斯卡哈
+Mordred = 莫德雷德
+Gawain = 高文
+Bedivere = 贝德维尔
+Tristan = 崔斯坦
+Astolfo = 阿斯托尔福
+Achilles = 阿喀琉斯
+Atalanta = 阿塔兰忒
+Arash = 阿拉什
+Robin Hood = 罗宾汉
+Frankenstein = 弗兰肯斯坦
+Elizabeth Bathory = 伊丽莎白·巴托里
+Kiyohime = 清姬
+Shuten Douji = 酒吞童子
+Ibaraki Douji = 茨木童子
+Sakata Kintoki = 坂田金时
+Leonardo da Vinci = 列奥纳多·达·芬奇
+Solomon = 所罗门
+Merlin = 梅林
+Zhuge Liang = 诸葛孔明
+Thomas Edison = 托马斯·爱迪生
+Wu Zetian = 武则天
+Jing Ke = 荆轲
+Jack the Ripper = 开膛手杰克
+Hassan of the Cursed Arm = 咒腕之哈桑
+Hassan of the Hundred Faces = 百貌之哈桑
+Hassan of the Silent = 静谧之哈桑
+Grand Assassin = 山之翁
+
+// —— 职阶名（作为称呼时直译）——
+"Saber": 剑士
+"Archer": 弓兵
+"Lancer": 枪兵
+"Rider": 骑兵
+"Caster": 魔术师
+"Assassin": 暗杀者
+"Berserker": 狂战士
+"Ruler": 裁定者
+"Avenger": 复仇者
+"Shielder": 盾兵
+"Moon Cancer": 月之癌
+"Foreigner": 降临者
+"Alter Ego": 他人格
+"Beast": 原罪之兽
+
+// ===== 通用词条：不区分大小写，设定概念 =====
+通用词条
+Holy Grail = 圣杯
+Holy Grail War = 圣杯战争
+Greater Grail = 大圣杯
+Lesser Grail = 小圣杯
+Heaven's Feel = 天之杯
+Third Magic = 第三魔法
+Heroic Spirit = 英灵
+Throne of Heroes = 英灵之座
+Servant = 从者
+Master = 御主
+Command Spell = 令咒
+Magic Circuit = 魔术回路
+Magical Energy = 魔力
+Mana = 魔力
+Prana = 普拉纳
+Mystic Code = 礼装
+Noble Phantasm = 宝具
+Territory Creation = 阵地作成
+Item Construction = 道具作成
+Independent Action = 单独行动
+Mad Enhancement = 狂化
+Riding = 骑乘
+Anti-Army = 对军
+Anti-Fortress = 对城
+Anti-Personnel = 对人
+Anti-World = 对界
+Bounded Field = 结界
+Catalyst = 触媒
+Root = 根源
+Akasha = 根源
+Mage's Association = 魔术协会
+Clock Tower = 时钟塔
+Einzbern = 爱因兹贝伦
+Tohsaka = 远坂
+Matou = 间桐
+Three Founding Families = 御三家
+Fuyuki City = 冬木市
+Chaldea = 迦勒底
+Chaldea Security Organization = 迦勒底安全保障机构
+Singularity = 特异点
+Lostbelt = 异闻带
+Human Order = 人理
+Pruned Event = 剪定事件
+Olympus = 奥林匹斯
+Shadow Border = 影之国边境
+
+// ===== 禁翻词条：作品名/缩写保持原样 =====
+禁翻词条
+Fate/stay night
+Fate/Zero
+Fate/hollow ataraxia
+Fate/Grand Order
+FGO
+Fate/Apocrypha
+Fate/Extra
+Fate/Extella
+Fate/kaleid liner PRISMA☆ILLYA
+Fate/strange Fake
+TYPE-MOON
+
+// ===== 正则：长音变体兜底 =====
+正则表达式
+
+\bArtoria\b: 阿尔托莉雅
+\bAltria\b: 阿尔托莉雅
+\bIskandar\b: 伊斯坎达尔
+\bCu ?Chulainn\b: 库·丘林
+\bEmiya\b: 卫宫
