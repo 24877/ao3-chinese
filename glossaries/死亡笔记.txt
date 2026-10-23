@@ -1,0 +1,104 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-23
+
+// ===== 词条：区分大小写，人名/死神真名 =====
+词条
+// —— 核心角色 ——
+Light Yagami = 夜神月
+L Lawliet = L·Lawliet
+L = L
+Ryuk = 琉克
+Rem = 雷姆
+Misa Amane = 弥海砂
+Near = 尼亚
+Nate River = 尼亚
+Mello = 梅洛
+Mihael Keehl = 梅洛
+Matt = 马特
+Mail Jeevas = 马特
+Watari = 瓦特
+Quillsh Wammy = 库尔什·沃米
+
+// —— 夜神家 ——
+Soichiro Yagami = 夜神总一郎
+Sachiko Yagami = 夜神幸子
+Sayu Yagami = 夜神妆裕
+
+// —— 警方 / 基拉搜查本部 ——
+Hirokazu Ukita = 宇生田广数
+Kanzo Mogi = 模木完造
+Touta Matsuda = 松田桃太
+Shuichi Aizawa = 相泽周市
+Yukio Himura = 日村雪秀
+
+// —— 后续篇关键角色 ——
+Teru Mikami = 魅上照
+Kiyomi Takada = 高田清美
+Aiber = 艾贝尔
+Wedy = 薇蒂
+Linda = 琳达
+Stephen Gevanni = 史蒂芬·杰万尼
+Anthony Rester = 安东尼·雷斯特
+Roger Ruvie = 罗杰·鲁维
+
+// —— 死神 ——
+Gelus = 杰卢斯
+Rem = 雷姆
+Armonia Justin Beyondormason = 阿尔莫尼亚·贾斯汀·比扬多梅森
+Sidoh = 希多
+Beppo = 贝波
+Deridovely = 德里多利
+Midora = 美朵拉
+Nu = 奴
+
+// —— 称呼/敬称防误翻 ——
+"Yagami-kun": 夜神同学
+"Light-kun": 月同学
+"Ryuzaki": 龙崎
+
+// ===== 通用词条：不区分大小写，设定与概念 =====
+通用词条
+Kira = 基拉
+Death Note = 死亡笔记
+Shinigami = 死神
+Shinigami Eyes = 死神之眼
+Eyeball Trade = 眼球交易
+Task Force = 基拉搜查本部
+Kira Task Force = 基拉搜查本部
+Japanese Task Force = 日本搜查本部
+SPK = SPK
+Secret Police Kai = 秘密警察K
+Wammy's House = 沃米之家
+L's Successor = L的继承人
+New World = 新世界
+Justice = 正义
+Rule = 规则
+Rules of the Death Note = 死亡笔记规则
+Names and Lifespans = 姓名与寿命
+13 Days = 13天规则
+Four Death Notes = 四本笔记
+Fake Rules = 伪造规则
+Real Rules = 真实规则
+Notebook = 笔记
+Second Death Note = 第二本死亡笔记
+Shinigami Realm = 死神界
+Human World = 人类世界
+Suspect = 嫌疑人
+Criminal = 罪犯
+
+// ===== 禁翻词条：作品名/缩写保持原样 =====
+禁翻词条
+L: Change the WorLd
+L: change the world
+SPK
+
+
+// ===== 正则：常见拼写变体兜底 =====
+正则表达式
+\bYagami\b: 夜神
+\bRyuuk\b: 琉克
+\bRyuzaki\b: 龙崎
+\bLawliet\b: 罗莱特
+\bMikami\b: 魅上
+\bTakada\b: 高田
