@@ -1,0 +1,159 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-23
+
+// ===== 词条：区分大小写，人名/真名 =====
+词条
+// —— 1-D 主角团 ——
+Kiyotaka Ayanokoji = 绫小路清隆
+Atsuomi Ayanokoji = 绫小路笃臣
+Suzune Horikita = 堀北铃音
+Manabu Horikita = 堀北学
+Kikyo Kushida = 栉田桔梗
+Kei Karuizawa = 轻井泽惠
+Airi Sakura = 佐仓爱里
+Yosuke Hirata = 平田洋介
+Kanji Ike = 池宽治
+Haruki Yamauchi = 山内春树
+Teruhiko Yukimura = 幸村辉彦
+Rokusuke Koenji = 高圆寺六助
+Ken Sudo = 须藤健
+Chiaki Matsushita = 松下千秋
+Haruka Hasebe = 长谷部波瑠加
+Satsuki Shinohara = 筱原皋月
+Maya Sato = 佐藤麻耶
+Hiyori Shiina = 椎名日和
+Daichi Ishizaki = 石崎大地
+Hayato Kito = 鬼头隼
+Hideo Sotomura = 外村秀雄
+Kyogo Komiva = 小宫叶吾
+Shigeru Takemoto = 竹本茂
+Kyo Ishigami = 石上京
+
+// —— 学生会 / 教职员 ——
+Sae Chabashira = 茶柱佐枝
+Chie Hoshinomiya = 星之宫知惠
+Tsukishiro = 月城常成
+Narumori Sakayanagi = 坂柳成守
+Akane Tachibana = 橘茜
+Miyabi Nagumo = 南云雅
+Riku Utomiya = 宇都宫陆
+Takuya Yagami = 八神拓也
+
+// —— 龙园班（1-C / 2-C）——
+Kakeru Ryuen = 龙园翔
+Kazuomi Hosen = 宝泉和臣
+Ishigami Kyo = 石上京
+Daichi Ishizaki = 石崎大地
+Takurou Morishige = 森重卓郎
+Satoru Kaneda = 金田悟
+Tetsuya Hamaguchi = 滨口哲也
+Ryuji Kanzaki = 神崎隆二
+Katsunori Shiba = 司马克典
+Norihito Watanabe = 渡边纪仁
+Tomonari Mashima = 真岛智也
+
+// —— 一之濑班（1-B / 2-B）——
+Honami Ichinose = 一之濑帆波
+Akito Miyake = 三宅明人
+Ikuto Kiriyama = 桐山生叶
+Kozue Minamikata = 南方小梢
+Mako Amikura = 网仓麻子
+Nanami Yabu = 薮菜菜美
+Shiho Manabe = 真锅志保
+Nene Mori = 森宁宁
+Kokoro Inogashira = 井之头心
+Minoru Kinoshita = 木下美野里
+Takeko Nishino = 西野武子
+Yamashita Saki = 山下沙希
+Himeno Yuki = 姬野雪
+Rika Morofuji = 诸藤梨花
+Kayano Onodera = 小野寺萱乃
+Shiraishi Asuka = 白石飞鸟
+Yamamura Miki = 山村美纪
+Wang Meiyu = 王美雨
+
+// —— 坂柳班（1-A / 2-A）——
+Arisu Sakayanagi = 坂柳有栖
+Masumi Kamuro = 神室真澄
+Kohei Katsuragi = 葛城康平
+Yuki Himeno = 姬野雪
+Nazuna Asahina = 朝比奈荠
+Tsubasa Nanase = 七濑翼
+Fuka Kiryuin = 鬼龙院枫花
+Sakurako Tsubaki = 椿樱子
+Kosei Sanada = 真田康生
+Masayoshi Hashimoto = 桥本正义
+Kazuma Sagami = 坂上数马
+Ichika Amasawa = 天泽一夏
+Mio Ibuki = 伊吹澪
+Chihiro Shiranami = 白波千寻
+
+// —— 称呼/敬称防误翻 ——
+"Ayanokoji-kun": 绫小路君
+"Horikita-san": 堀北
+"Karuizawa-san": 轻井泽
+"Kushida-san": 栉田
+"Ichinose-san": 一之濑
+"Sakayanagi-san": 坂柳
+
+// ===== 通用词条：不区分大小写，设定与概念 =====
+通用词条
+Advanced Nurturing High School = 高度育成高中
+Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
+Class A = A班
+Class B = B班
+Class C = C班
+Class D = D班
+S-System = S系统
+S-Point = S点数
+Class Point = 班级点
+Private Point = 个人点
+Protection Point = 保护点
+Special Exam = 特别考试
+Paper Shuffle = 纸牌洗牌考试
+Island Exam = 无人岛考试
+Uninhabited Island Exam = 无人岛考试
+Sports Festival = 体育祭
+Mixed Training Camp = 合宿训练
+Field Trip = 修学旅行
+School Trip = 修学旅行
+White Room = 白屋
+White Room Graduate = 白屋出身者
+OAA = OAA
+OAA App = OAA应用
+Student Council = 学生会
+Keyaki Mall = 榉树商场
+Dormitory = 宿舍
+Expulsion = 退学
+Evaluation = 评价
+Academic Ability = 学力
+Intellect = 知性
+Judgment = 判断力
+Physical Ability = 身体能力
+Cooperativeness = 协作性
+Social Contribution = 社会贡献
+Leadership = 领导能力
+
+// ===== 禁翻词条：作品名/缩写保持原样 =====
+禁翻词条
+OAA
+White Room
+
+// ===== 正则：长音/拼写变体兜底 =====
+正则表达式
+\bAyanokouji\b: 绫小路
+\bAyanokoji\b: 绫小路
+\bHorikita\b: 堀北
+\bKaruizawa\b: 轻井泽
+\bKushida\b: 栉田
+\bIchinose\b: 一之濑
+\bSakayanagi\b: 坂柳
+\bRyuen\b: 龙园
+\bRyūen\b: 龙园
+\bNagumo\b: 南云
+\bChabashira\b: 茶柱
+\bHoshinomiya\b: 星之宫
+\bKoenji\b: 高圆寺
+\bSudo\b: 须藤
+\bHirata\b: 平田
