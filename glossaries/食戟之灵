@@ -1,0 +1,62 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-23
+
+// 词条：区分大小写，人名/专有名词
+词条
+Soma Yukihira = 幸平创真
+Joichiro Yukihira = 幸平城一郎
+Tamako Yukihira = 幸平珠子
+Erina Nakiri = 薙切绘里奈
+Alice Nakiri = 薙切爱丽丝
+Senzaemon Nakiri = 薙切仙左卫门
+Azami Nakiri = 薙切蓟
+Mana Nakiri = 薙切真凪
+Asahi Saiba = 才波朝阳
+Megumi Tadokoro = 田所惠
+Satoshi Isshiki = 一色慧
+Akira Hayama = 叶山亮
+Rindo Kobayashi = 小林龙胆
+Takumi Aldini = 塔克米·阿尔迪尼
+Isami Aldini = 伊萨米·阿尔迪尼
+Yuki Yoshino = 吉野悠姬
+Ryoko Sakaki = 榊凉子
+Daigo Aoki = 青木大吾
+Shun Ibusaki = 伊武崎峻
+Fumio Daimido = 大御堂文绪
+Gin Dojima = 堂岛银
+Jun Shiomi = 汐见润
+Ryuto Kurokiba = 黑木场凉
+Miyoko Hojo = 北条美代子
+Nao Sadatsuka = 贞冢奈绪
+Subaru Mimasaka = 美作昴
+Eishi Tsukasa = 司瑛士
+Rindo Kobayashi = 小林龙胆
+Momo Akanegiku = 朱雀牡丹
+Saito = 斋藤
+Kuga Terunori = 久我照纪
+
+通用词条
+// 不区分大小写，机构与概念
+Totsuki = 远月
+Tōtsuki = 远月
+Polar Star Dormitory = 极星寮
+Elite Ten = 十杰
+Shokugeki = 食戟
+God's Tongue = 神之舌
+God Tongue = 神之舌
+Regimental Shokugeki = 阵营食戟
+Central = 中枢美食机关
+BLUE = BLUE料理大赛
+Autumn Election = 秋季选拔
+Stagiaire = 实习
+Molecular Gastronomy = 分子料理
+Chef's Table = 主厨餐桌
+
+
+
+正则表达式
+// 处理英文名常见大小写变体
+\bSōma\b: 创真
+\bYukihira\b: 幸平
+\bNakiri\b: 薙切
