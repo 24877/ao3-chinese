@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -52,6 +52,9 @@ Autumn Election = 秋季选拔
 Stagiaire = 实习
 Molecular Gastronomy = 分子料理
 Chef's Table = 主厨餐桌
+Erina Nakiri = 薙切绘里奈
+Nakiri Erina = 薙切绘里奈
+Erina = 绘里奈
 
 
 正则表达式
