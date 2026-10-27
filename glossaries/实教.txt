@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -99,6 +99,9 @@ Chihiro Shiranami = 白波千寻
 
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
+Kiyotaka  = 清隆
+Ayanokoji = 绫小路
+Arisu Sakayanagi = 坂柳有栖
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
 Class A = A班
