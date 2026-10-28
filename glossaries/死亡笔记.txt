@@ -88,11 +88,6 @@ Human World = 人类世界
 Suspect = 嫌疑人
 Criminal = 罪犯
 
-// ===== 禁翻词条：作品名/缩写保持原样 =====
-禁翻词条
-L: Change the WorLd
-L: change the world
-SPK
 
 
 // ===== 正则：常见拼写变体兜底 =====
