@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -74,11 +74,5 @@ Evolution Home：进化之家
 
 
 正则表达式
-// 处理 Saitama / Genos 语境
-\bSaitama\b: 埼玉
-\bGenos\b: 杰诺斯
-\bTatsumaki\b: 龙卷
-\bFubuki\b: 吹雪
-
 // 处理 Rank 数字
 \bRank (\d+)\b: 第$1位
