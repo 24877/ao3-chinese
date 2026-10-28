@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -50,7 +50,6 @@ Sidoh = 希多
 Beppo = 贝波
 Deridovely = 德里多利
 Midora = 美朵拉
-Nu = 奴
 
 // —— 称呼/敬称防误翻 ——
 "Yagami-kun": 夜神同学
@@ -77,8 +76,6 @@ Justice = 正义
 Rule = 规则
 Rules of the Death Note = 死亡笔记规则
 Names and Lifespans = 姓名与寿命
-13 Days = 13天规则
-Four Death Notes = 四本笔记
 Fake Rules = 伪造规则
 Real Rules = 真实规则
 Notebook = 笔记
