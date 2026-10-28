@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -36,7 +36,7 @@ Chabashira Sae = 茶柱 佐枝
 Hoshinomiya Chie = 星之宫 知惠
 Tsukishiro = 月城 常成
 Sakayanagi Narumori = 坂柳 成守
-Tachibana Akane = 橘 茜
+Tachibana Akane: 橘茜
 Nagumo Miyabi = 南云 雅
 Utomiya Riku = 宇都宫 陆
 Yagami Takuya = 八神 拓也
