@@ -1,0 +1,140 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-28
+
+词条
+// 赫斯缇雅眷族
+Bell Cranel：贝尔·克朗尼
+Cranel Bell：贝尔·克朗尼
+Hestia：赫斯缇雅
+Liliruca Arde：莉莉露卡·厄德
+Welf Crozzo：韦尔夫·克罗佐
+Yamato Mikoto：倭·命
+Sanjouno Haruhime：三条野·春姬
+Haruhime Sanjouno：三条野·春姬
+
+// 洛基眷族
+Loki：洛基
+Ais Wallenstein：艾丝·华伦斯坦
+Wallenstein Ais：艾丝·华伦斯坦
+Finn Deimne：芬恩·迪姆那
+Riveria Ljos Alf：里维莉雅·利欧斯·阿尔弗
+Gareth Landrock：格瑞斯·兰德罗克
+Bete Loga：伯特·罗加
+Tiona Hiryute：蒂奥娜·席吕特
+Tione Hiryute：蒂奥涅·席吕特
+Lefiya Viridis：蕾菲亚·维里迪斯
+Raul Nord：劳尔·诺德
+Alicia Foresight：亚莉希雅·福雷斯莱特
+
+// 芙蕾雅眷族
+Freya：芙蕾雅
+Ottar：奥它
+Allen Fromel：艾伦·傅洛摩
+Hogni Ragnar：赫格尼·拉格纳尔
+Hedin Selland：赫定·瑟兰德
+
+// 其他眷族主神与关键角色
+Hephaistos：赫菲斯托丝
+Miach：米赫
+Hermes：赫尔墨斯
+Ganesha：迦尼萨
+Takemikazuchi：建御雷
+Dionysus：狄俄尼索斯
+Demeter：狄蜜特
+Ishtar：伊丝塔
+Apollon：阿波罗
+Zeus：宙斯
+Hera：赫拉
+Uranus：乌拉诺斯
+Artemis：阿尔忒弥斯
+Astraea：阿斯特莉亚
+Ryuu Lion：琉·利昂
+Lion Ryuu：琉·利昂
+Asfi Al Andromeda：亚丝菲·阿尔·安朵美达
+Naaza Erisuis：娜扎·俄里希斯
+Daphne Lauros：达芙妮·拉洛斯
+Cassandra Ilion：卡珊德拉·伊利翁
+Filvis Challia：菲儿葳丝·夏利亚
+Syr Flover：希尔·弗洛瓦
+Mia Grand：米亚·格兰德
+Anya Fromel：阿妮雅·傅洛摩
+Chloe Rollo：克洛伊·罗洛
+Lunoire Faust：露诺娃·法斯特
+
+// 怪物 / 异端 / 特殊存在
+Wiene：薇妮
+Ray：雷伊
+Gros：格罗斯
+Lido：利度
+Rei：零
+Zald：扎尔德
+Braver：布雷弗
+Antianeira：安提阿涅拉
+Xenos：异端儿
+
+禁翻词条
+// 作品名 / 英文标题 / 特殊系统名
+"DanMachi"
+"Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+"Sword Oratoria"
+
+
+通用词条
+// 世界观与组织
+Orario：欧拉丽
+Labyrinth City：迷宫都市
+Dungeon：地下城
+Babel：巴别塔
+Guild：公会
+Familia：眷族
+Adventurer：冒险者
+Supporter：支援者
+Level 1：Lv.1
+Level 2：Lv.2
+Level 3：Lv.3
+Level 4：Lv.4
+Level 5：Lv.5
+Level 6：Lv.6
+Level 7：Lv.7
+Status：能力值
+Basic Abilities：基础能力
+Development Ability：发展能力
+Magic：魔法
+Skill：技能
+Alias：称号
+Two-Name：二名
+Falna：恩惠
+Arcanum：神力
+Divinity：神威
+Magic Stone：魔石
+Magic Sword：魔剑
+Spirit Weapon：精灵武器
+Floor Boss：楼层主
+Guard Barbarian：迷宫孤王
+Safe Floor：安全楼层
+Upper Floors：上层
+Middle Floors：中层
+Lower Floors：下层
+Deep Floors：深层
+Monster Rex：迷宫孤王
+Zagreth：扎格纳特
+Juggernaut：扎格纳特
+Godslayer：神之刺客
+Three Great Quests：三大冒险者委托
+Behemoth：贝希摩斯
+Leviathan：利维坦
+One-Eyed Black Dragon：独眼黑龙
+
+正则表达式
+// 处理 Bell / Cranel 不同写法
+\bBell\b: 贝尔
+\bBell Cranel\b: 贝尔·克朗尼
+\bCranel\b: 克朗尼
+
+// 处理 Ais 单独出现
+\bAis\b: 艾丝
+\bAis Wallenstein\b: 艾丝·华伦斯坦
+
+// 处理 Level 数字
+\bLevel (\d+)\b: Lv.$1
