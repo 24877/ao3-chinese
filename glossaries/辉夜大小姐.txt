@@ -1,0 +1,98 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-28
+
+词条
+// 核心主角
+Miyuki Shirogane：白银御行
+Shirogane Miyuki：白银御行
+Kaguya Shinomiya：四宫辉夜
+Shinomiya Kaguya：四宫辉夜
+Chika Fujiwara：藤原千花
+Fujiwara Chika：藤原千花
+Yu Ishigami：石上优
+Ishigami Yu：石上优
+Miko Iino：伊井野弥子
+Iino Miko：伊井野弥子
+Ai Hayasaka：早坂爱
+Hayasaka Ai：早坂爱
+
+// 配角与家属
+Kei Shirogane：白银圭
+Shirogane Kei：白银圭
+Nagisa Kashiwagi：柏木渚
+Kobachi Osaragi：大佛小钵
+Osaragi Kobachi：大佛小钵
+Tsubasa Tanuma：田沼翼
+Maki Shijo：四条真妃
+Shijo Maki：四条真妃
+Yan Fan：子安燕
+Unyo Iijima：伊井野（父系相关，按需）
+Koyuki Hayasaka：早坂（变装态，保留语境）
+Gin Shirogane：白银父亲（同人可用）
+Nene Yotsuba：四宫家相关（按需）
+
+// 四宫家
+Gan'an Shinomiya：四宫雁庵
+Kouou Shinomiya：四宫黄光
+Seiryuu Shinomiya：四宫青龙
+Uncho Shinomiya：四宫云鹰
+Oko Shinomiya：四宫黄光（繁体译名冲突时用手动覆盖）
+
+通用词条
+// 学校与职务
+Shuchiin Academy：秀知院学园
+Student Council：学生会
+President：会长
+Vice President：副会长
+Secretary：书记
+Treasurer：会计
+Auditor：会计监察
+Disciplinary Committee：风纪委员会
+Volunteer Club：志愿者部
+Archery Club：弓道部
+Pure-in：纯院生
+Mixed-in：混院生
+
+
+// 设定与心理活动
+Love Is War：恋爱是战争
+Mental Court：脑内法庭
+Brain Meeting：脑内会议
+Ice Kaguya：冰之辉夜
+Normal Kaguya：普通辉夜
+Young Kaguya：幼年辉夜
+Love Detective：恋爱侦探
+Veteran of Love：恋爱百战老手
+Confession：告白
+Defeat Slave：败北奴隶
+Master-Slave Rule：主从规则
+Heart Object：心形物品
+Hoshin Festival：奉心祭
+How Cute：真是可爱呢
+Avatar of Chaos：混沌化身
+
+// 四宫相关
+Shinomiya Group：四宫集团
+Four Major Conglomerates：四大财团
+Kaguya-hime：辉夜姬
+Taketori Monogatari：竹取物语
+
+禁翻词条
+// 作品名 / 英文标题 / 特殊称呼
+"Kaguya-sama: Love Is War"
+"Kaguya-sama: Love Is War? -Super Romantic-"
+"Kaguya-sama: Love Is War -The First Kiss That Never Ends-"
+"Shuchiin"
+"Pure-in"
+"Mixed-in"
+
+正则表达式
+// 处理 Shirogane 不同写法
+\bShirogane\b: 白银
+\bMiyuki Shirogane\b: 白银御行
+\bKei Shirogane\b: 白银圭
+
+// 处理 Shinomiya 不同写法
+\bShinomiya\b: 四宫
+\bKaguya Shinomiya\b: 四宫辉夜
