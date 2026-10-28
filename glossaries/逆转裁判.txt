@@ -1,0 +1,67 @@
+词条
+// 本传主角组
+Phoenix Wright：成步堂龙一
+Ryuuichi Naruhodo：成步堂龙一
+Maya Fey：绫里真宵
+Mia Fey：绫里千寻
+Pearl Fey：绫里春美
+Morgan Fey：绫里贵美子
+Misty Fey：绫里舞子
+Larry Butz：矢张政志
+Trucy Wright：成步堂美贯
+Apollo Justice：王泥喜法介
+Athena Cykes：希月心音
+Simon Blackquill：夕神迅
+Bobby Fulbright：番轰三
+
+// 检察官组
+Miles Edgeworth：御剑怜侍
+Gregory Edgeworth：御剑信
+Manfred von Karma：狩魔豪
+Franziska von Karma：狩魔冥
+Klavier Gavin：牙琉响也
+Kristoph Gavin：牙琉雾人
+Godot：戈多 / 吾童
+Winston Payne：亚内武文
+Ben Tennyson：亚内彬彬
+
+// 警察 / 法院
+Dick Gumshoe：糸锯圭介
+Lotta Hart：大泽木夏实
+Judge：裁判长
+Ema Skye：宝月茜
+Kay Faraday：一条美云
+Yanni Yogi：灰根高太郎
+
+// 大逆转裁判
+Ryunosuke Naruhodo：成步堂龙之介
+Susato Mikotoba：御琴羽寿沙都
+Kazuma Asogi：亚双义一真
+Barok van Zieks：巴洛克·班卓克斯
+Iris Wilson：艾瑞丝·威尔森
+
+// 逆转检事关联
+Bansai Ichiyanagi：一条九郎
+Yumihiko Ichiyanagi：一条美云
+
+
+
+
+// 系统与设定
+Bracelet：手镯
+Mood Matrix：心理分析
+Luminol：鲁米诺试剂
+Science Investigation：科学搜查
+Spirit Medium：灵媒
+Kurain Village：仓院之里
+Kurain Channeling：仓院流灵媒道
+
+禁翻词条
+// 作品名 / 英文标题 / 特殊称呼
+
+
+正则表达式
+// 处理 Naruhodo 不同写法
+\bNaruhodo\b: 成步堂
+\bRyunosuke Naruhodo\b: 成步堂龙之介
+\bRyuuichi Naruhodo\b: 成步堂龙一
