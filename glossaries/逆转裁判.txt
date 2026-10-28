@@ -1,52 +1,52 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-28
 
 词条
-// 本传主角组
-Phoenix Wright：成步堂龙一
-Ryuuichi Naruhodo：成步堂龙一
-Maya Fey：绫里真宵
-Mia Fey：绫里千寻
-Pearl Fey：绫里春美
-Morgan Fey：绫里贵美子
-Misty Fey：绫里舞子
-Larry Butz：矢张政志
-Trucy Wright：成步堂美贯
-Apollo Justice：王泥喜法介
-Athena Cykes：希月心音
-Simon Blackquill：夕神迅
-Bobby Fulbright：番轰三
+// —— 本传主角组 ——
+Wright Phoenix = 成步堂 龙一
+Naruhodo Ryuuichi = 成步堂 龙一
+Fey Maya = 绫里 真宵
+Fey Mia = 绫里 千寻
+Fey Pearl = 绫里 春美
+Fey Morgan = 绫里 贵美子
+Fey Misty = 绫里 舞子
+Butz Larry = 矢张 政志
+Wright Trucy = 成步堂 美贯
+Justice Apollo = 王泥喜 法介
+Cykes Athena = 希月 心音
+Blackquill Simon = 夕神 迅
+Fulbright Bobby = 番 轰三
 
-// 检察官组
-Miles Edgeworth：御剑怜侍
-Gregory Edgeworth：御剑信
-Manfred von Karma：狩魔豪
-Franziska von Karma：狩魔冥
-Klavier Gavin：牙琉响也
-Kristoph Gavin：牙琉雾人
-Godot：戈多 / 吾童
-Winston Payne：亚内武文
-Ben Tennyson：亚内彬彬
+// —— 检察官组 ——
+Edgeworth Miles = 御剑 怜侍
+Edgeworth Gregory = 御剑 信
+von Karma Manfred = 狩魔 豪
+von Karma Franziska = 狩魔 冥
+Gavin Klavier = 牙琉 响也
+Gavin Kristoph = 牙琉 雾人
+Godot = 戈多 / 吾童
+Payne Winston = 亚内 武文
+Tennyson Ben = 亚内 彬彬
 
-// 警察 / 法院
-Dick Gumshoe：糸锯圭介
-Lotta Hart：大泽木夏实
-Judge：裁判长
-Ema Skye：宝月茜
-Kay Faraday：一条美云
-Yanni Yogi：灰根高太郎
+// —— 警察 / 法院 ——
+Gumshoe Dick = 糸锯 圭介
+Hart Lotta = 大泽木 夏实
+Judge = 裁判长
+Skye Ema = 宝月 茜
+Faraday Kay = 一条 美云
+Yogi Yanni = 灰根 高太郎
 
-// 大逆转裁判
-Ryunosuke Naruhodo：成步堂龙之介
-Susato Mikotoba：御琴羽寿沙都
-Kazuma Asogi：亚双义一真
-Barok van Zieks：巴洛克·班卓克斯
-Iris Wilson：艾瑞丝·威尔森
+// —— 大逆转裁判 ——
+Naruhodo Ryunosuke = 成步堂 龙之介
+Mikotoba Susato = 御琴羽 寿沙都
+Asogi Kazuma = 亚双义 一真
+van Zieks Barok = 巴洛克·班卓克斯
+Wilson Iris = 艾瑞丝·威尔森
 
-// 逆转检事关联
-Bansai Ichiyanagi：一条九郎
-Yumihiko Ichiyanagi：一条美云
+// —— 逆转检事关联 ——
+Ichiyanagi Bansai = 一条 九郎
+Ichiyanagi Yumihiko = 一条 美云
 
 
 
