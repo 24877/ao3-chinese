@@ -1,40 +1,40 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-23
 
 // ===== 词条：区分大小写，人名/死神真名 =====
 词条
 // —— 核心角色 ——
-Light Yagami = 夜神月
-L Lawliet = L·Lawliet
+Yagami Light = 夜神 月
+Lawliet L = L·Lawliet
 L = L
 Ryuk = 琉克
 Rem = 雷姆
-Misa Amane = 弥海砂
+Amane Misa = 弥 海砂
 Near = 尼亚
-Nate River = 尼亚
+River Nate = 尼亚
 Mello = 梅洛
-Mihael Keehl = 梅洛
+Keehl Mihael = 梅洛
 Matt = 马特
-Mail Jeevas = 马特
+Jeevas Mail = 马特
 Watari = 瓦特
-Quillsh Wammy = 库尔什·沃米
+Wammy Quillsh = 库尔什·沃米
 
 // —— 夜神家 ——
-Soichiro Yagami = 夜神总一郎
-Sachiko Yagami = 夜神幸子
-Sayu Yagami = 夜神妆裕
+Yagami Soichiro = 夜神 总一郎
+Yagami Sachiko = 夜神 幸子
+Yagami Sayu = 夜神 妆裕
 
 // —— 警方 / 基拉搜查本部 ——
-Hirokazu Ukita = 宇生田广数
-Kanzo Mogi = 模木完造
-Touta Matsuda = 松田桃太
-Shuichi Aizawa = 相泽周市
-Yukio Himura = 日村雪秀
+Ukita Hirokazu = 宇生田 广数
+Mogi Kanzo = 模木 完造
+Matsuda Touta = 松田 桃太
+Aizawa Shuichi = 相泽 周市
+Himura Yukio = 日村 雪秀
 
 // —— 后续篇关键角色 ——
-Teru Mikami = 魅上照
-Kiyomi Takada = 高田清美
+Mikami Teru = 魅上 照
+Takada Kiyomi = 高田 清美
 Aiber = 艾贝尔
 Wedy = 薇蒂
 Linda = 琳达
@@ -60,7 +60,7 @@ Nu = 奴
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
 Kira = 基拉
-Misa Amane = 弥海砂
+Amane Misa = 弥 海砂
 Death Note = 死亡笔记
 Shinigami = 死神
 Shinigami Eyes = 死神之眼
