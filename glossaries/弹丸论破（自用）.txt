@@ -26,7 +26,8 @@ Mioda Ibuki = 澪田 唯吹
 Hanamura Teruteru = 花村 辉辉
 Mitarai Ryota = 御手洗 亮太
 Kuzuryu Natsumi = 九头龙 夏美
-Monomi：兔美
+Sato = 佐藤
+Monomi = 兔美
 
 // 1代 角色
 Naegi Makoto = 苗木 诚
