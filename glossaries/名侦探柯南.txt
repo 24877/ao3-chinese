@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -118,8 +118,6 @@ Snake = 斯内克
 Detective Conan = 名侦探柯南
 Case Closed = 名侦探柯南
 Black Organization = 黑衣组织
-Organisation = 黑衣组织
-The Organization = 黑衣组织
 Wine Cellar = 酒厂
 APTX4869 = APTX4869
 Apoptoxin 4869 = APTX4869
@@ -127,6 +125,7 @@ Silver Bullet = 银色子弹
 Teitan Elementary = 帝丹小学
 Teitan High School = 帝丹高中
 Mouri Detective Agency = 毛利侦探事务所
+Shinichi = 新一
 Kaito = 快斗
 Beika Town = 米花町
 Beika = 米花
@@ -143,7 +142,6 @@ MI6 = 军情六处
 Ransom = 赎金
 Alibi = 不在场证明
 Murder Case = 杀人案
-Mystery = 谜题
 Anesthetic Watch = 手表麻醉枪
 Voice-Changing Bowtie = 蝴蝶结变声器
 Tracking Glasses = 追踪眼镜
