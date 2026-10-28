@@ -8,6 +8,7 @@ Ryougi Shiki：两仪式
 Shiki Ryougi：两仪式
 Mikiya Kokutou：黑桐干也
 Kokutou Mikiya：黑桐干也
+Mikiya ：干也
 Azaka Kokutou：黑桐鲜花
 Touko Aozaki：苍崎橙子
 Aozaki Touko：苍崎橙子
@@ -71,6 +72,7 @@ Tohno：远野
 Arima：有间
 Kuonji：久远寺
 Mikoshi：巫条
+Kokutou：黑桐
 Sankaha：三咲市
 Sankacho：三咲町
 Brunestud：布伦史塔德
