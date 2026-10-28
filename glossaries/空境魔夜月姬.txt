@@ -76,18 +76,7 @@ Brunestud：布伦史塔德
 Millennium Castle Brunestud：千年城布伦斯塔德
 Flawless Mausoleum：无瑕墓碑
 
-禁翻词条
-// 英文术式 / 称号 / 作品名
-"Blue Blue Glass Moon, Under the Crimson Air"
-"Magic Gunner"
-"Miss Blue"
-"PLOY"
-"Marble Phantasm"
-"Tsukihime"
-"Mahoutsukai no Yoru"
-"Kara no Kyoukai"
-"Melty Blood"
-"TYPE-MOON"
+
 
 正则表达式
 // 处理 Shiki 不同写法（远野志贵 / 两仪式 / 七夜志贵）
