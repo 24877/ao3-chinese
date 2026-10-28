@@ -1,0 +1,50 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-28
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Hikigaya Hachiman = 比企谷 八幡
+Yukinoshita Yukino = 雪之下 雪乃
+Yuigahama Yui = 由比滨 结衣
+Yukinoshita Haruno = 雪之下 阳乃
+Hikigaya Komachi = 比企谷 小町
+Isshiki Iroha = 一色 伊吕波
+Totsuka Saika = 户冢 彩加
+Hayama Hayato = 叶山 隼人
+Zaimokuza Yoshiteru = 材木座 义辉
+Hiratsuka Shizuka = 平冢 静
+Miura Yumiko = 三浦 优美子
+Ebina Hina = 海老名 姬菜
+Kawasaki Saki = 川崎 沙希
+Kawasaki Kai = 川崎 大志
+Kawasaki Chinatsu = 川崎 京华
+Tobe Sho = 户部 翔
+Tamazawa = 玉绳
+Jounouchi Meguri = 城回 巡
+Oreki Kaori = 折本 香织
+Yuigahama Mai = 由比滨 舞衣
+  
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Soubu High：总武高中
+Chiba Municipal Soubu High School：千叶市立总武高中
+Service Club：侍奉部
+Volunteer Club：侍奉部
+Student Council：学生会
+Genuine Article：真物
+Real Thing：真物
+Fake：伪物
+Phony：伪物
+Self-Destruction：自爆
+Self-Destruct：自爆
+Culture Festival：文化祭
+Courtyard：中庭
+Athletic Festival：体育祭
+Christmas Event：圣诞活动
+Field Day：体育祭
+Yukino below：雪之下雪乃的（同人圈梗，指“雪下面”）
+Yahari Ore no Seishun Love Come wa Machigatteiru： 《我的青春恋爱物语果然有问题》
+Oregairu：春物
+My Teen Romantic Comedy SNAFU：我的青春恋爱物语果然有问题
+Snafu：春物
