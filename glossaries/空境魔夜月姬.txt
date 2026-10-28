@@ -1,0 +1,92 @@
+词条
+// 空之境界
+Ryougi Shiki：两仪式
+Shiki Ryougi：两仪式
+Mikiya Kokutou：黑桐干也
+Kokutou Mikiya：黑桐干也
+Azaka Kokutou：黑桐鲜花
+Touko Aozaki：苍崎橙子
+Aozaki Touko：苍崎橙子
+Satsuki Kurogiri：玄雾皋月
+Misaya Oji：黄路美沙夜
+Fujino Asagami：浅上藤乃
+Kirie Fujou：巫条雾绘
+Araya Souren：荒耶宗莲
+Tomoe Enjou：胭条巴
+Akitaka Suzurigi：砚木秋隆
+Mana Ryougi：两仪未那
+
+// 魔法使之夜
+Aoko Aozaki：苍崎青子
+Aozaki Aoko：苍崎青子
+Alice Kuonji：久远寺有珠
+Kuonji Alice：久远寺有珠
+Kojirou Shizuki：静希草十郎
+Kinroku Kumanari：久万梨金鹿
+Touko Aozaki：苍崎橙子
+
+// 月姬
+Shiki Tohno：远野志贵
+Tohno Shiki：远野志贵
+Arcueid Brunestud：爱尔奎特·布伦史塔德
+Ciel：希耶尔
+Akiha Tohno：远野秋叶
+Hisui：翡翠
+Kohaku：琥珀
+Roa：罗亚
+Len：莲
+Akira Seo：濑尾晶
+Shiki Nanaya：七夜志贵
+
+通用词条
+// 世界观与设定
+Magician：魔法使
+Magecraft：魔术
+True Ancestor：真祖
+Dead Apostle：死徒
+Twenty-Seven Dead Apostle Ancestors：死徒二十七祖
+Mystic Eyes of Death Perception：直死之魔眼
+Mystic Eyes：魔眼
+Moonlight：魔眼杀
+Sealing Glasses：魔眼杀眼镜
+Akasha：根源
+Root：根源
+Counter Force：抑制力
+Gaia：盖亚
+Arayashiki：阿赖耶
+Reality Marble：固有结界
+Burial Agency：埋葬机关
+Holy Church：圣堂教会
+Clock Tower：时钟塔
+Mikon：巫净
+Nanaya：七夜
+Ryougi：两仪
+Tohno：远野
+Arima：有间
+Kuonji：久远寺
+Mikoshi：巫条
+Sankaha：三咲市
+Sankacho：三咲町
+Brunestud：布伦史塔德
+Millennium Castle Brunestud：千年城布伦斯塔德
+Flawless Mausoleum：无瑕墓碑
+
+禁翻词条
+// 英文术式 / 称号 / 作品名
+"Blue Blue Glass Moon, Under the Crimson Air"
+"Magic Gunner"
+"Miss Blue"
+"PLOY"
+"Marble Phantasm"
+"Tsukihime"
+"Mahoutsukai no Yoru"
+"Kara no Kyoukai"
+"Melty Blood"
+"TYPE-MOON"
+
+正则表达式
+// 处理 Shiki 不同写法（远野志贵 / 两仪式 / 七夜志贵）
+\bShiki\b: 式
+\bShiki Tohno\b: 远野志贵
+\bShiki Ryougi\b: 两仪式
+\bShiki Nanaya\b: 七夜志贵
