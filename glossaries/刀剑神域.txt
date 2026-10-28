@@ -1,0 +1,100 @@
+版本号：1.0.0
+维护者：V-Lipset
+更新时间：2026-10-28
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Kirigaya Kazuto = 桐谷 和人
+Kirito = 桐人
+Yuuki Asuna = 结城 明日奈
+Asuna = 亚丝娜
+Tsuboi Ryoutarou = 壶井 辽太郎
+Klein = 克莱因
+Ayano Keiko = 绫野 珪子
+Silica = 西莉卡
+Shinozaki Rika = 篠崎 里香
+Lisbeth = 莉兹贝特
+Hosaka Carina Tomo = 帆坂 卡丽娜 朋
+Argo = 阿尔戈
+Kayaba Akihiko = 茅场 晶彦
+Heathcliff = 希兹克利夫
+Yuuki = 有纪
+Yuuki Konno = 绀野 有纪
+Zekken = 绝剑
+Eugeo = 尤吉欧
+Alice Zuberg = 爱丽丝 滋贝鲁库
+Alice Synthesis Thirty = 爱丽丝 辛赛西斯 萨提
+Kirigaya Suguha = 桐谷 直叶
+Leafa = 莉法
+Asada Shino = 朝田 诗乃
+Sinon = 诗乃
+Andrew Gilbert Mills = 安德鲁 吉尔伯特 米尔斯
+Agil = 艾基尔
+Kikuoka Seijirou = 菊冈 诚二郎
+Higa Takeru = 比嘉 健
+Vasago Casals = 瓦沙克 卡萨鲁斯
+PoH = 瓦沙克
+Ronie Arabel = 罗妮耶 阿拉贝鲁
+Tiese Schtrinen = 缇洁 休特里涅
+Selka Zuberg = 赛鲁卡 滋贝鲁库
+Bercouli = 贝格利
+Fanatio = 法娜迪奥
+Iskahn = 伊斯卡恩
+Deuselbert = 迪索尔巴特
+Kibaou = 牙王
+Diavel = 迪亚贝尔
+Coper = 柯贝尔
+Kladil = 克拉帝尔
+Schmitt = 修密特
+Yui = 结衣
+Pina = 毕娜
+Strea = 斯朵蕾雅
+  
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Sword Art Online：刀剑神域
+SAO：刀剑神域
+Aincrad：艾恩葛朗特
+ALfheim Online：妖精国度
+ALO：妖精国度
+Gun Gale Online：枪械旷野
+GGO：枪战在线
+Underworld：地下世界
+UW：地下世界
+NERvGear：精神联动装置
+AmuSphere：次世代潜行环
+Medicuboid：医疗潜行舱
+NERDLES：神经直连环境系统
+Cardinal System：卡迪纳尔系统
+The Seed：种子系统
+Fluctlight：摇光
+Incarnation：心意
+Object Control Interface：物体控制接口
+Sword Skill：剑技
+Dual Blades：二刀流
+Beater：封弊者
+Clearing Group：攻略组
+Moonlit Black Cats：月夜的黑猫团
+Knights of the Blood：血盟骑士团
+KOB：血盟骑士团
+Divine Dragon Alliance：圣龙联合
+DDA：圣龙联合
+Fuurinkazan：风林火山
+Laughing Coffin：微笑棺木
+Sleeping Knights：沉睡骑士
+Orange Player：橙名玩家
+Red Player：红名玩家
+Murder Guild：杀人公会
+Black Iron Palace：黑铁宫
+Tomb of the Players：生命之碑
+Sword Memory：剑士之碑
+Starting City：起始之镇
+Floor Boss：楼层头目
+Teleport Gate：转移门
+Mental Health Care Program：心理状态管理程序
+MHCP：心理状态管理程序
+Admin Authority：管理员权限
+System Console：系统控制台
+Brain Burst：脑爆
+  
+
