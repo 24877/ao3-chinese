@@ -132,10 +132,7 @@ Cooperativeness = 协作性
 Social Contribution = 社会贡献
 Leadership = 领导能力
 
-// ===== 禁翻词条：作品名/缩写保持原样 =====
-禁翻词条
-OAA
-White Room
+
 
 // ===== 正则：长音/拼写变体兜底 =====
 正则表达式
