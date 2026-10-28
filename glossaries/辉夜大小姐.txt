@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -71,14 +71,7 @@ Four Major Conglomerates：四大财团
 Kaguya-hime：辉夜姬
 Taketori Monogatari：竹取物语
 
-禁翻词条
-// 作品名 / 英文标题 / 特殊称呼
-"Kaguya-sama: Love Is War"
-"Kaguya-sama: Love Is War? -Super Romantic-"
-"Kaguya-sama: Love Is War -The First Kiss That Never Ends-"
-"Shuchiin"
-"Pure-in"
-"Mixed-in"
+
 
 正则表达式
 // 处理 Shirogane 不同写法
