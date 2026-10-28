@@ -1,0 +1,35 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-28
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Aki Tomoya = 安艺 伦也
+Katou Megumi = 加藤 惠
+Sawamura Spencer Eriri = 泽村 斯潘塞 英梨梨
+Kasumigaoka Utaha = 霞之丘 诗羽
+Hyodo Michiru = 冰堂 美智留
+Hashima Izumi = 波岛 出海
+Hashima Iori = 波岛 伊织
+Kousaka Akane = 红坂 朱音
+Kashiwagi Eri = 柏木 英理
+Kasumi Utako = 霞 诗子
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Blessing Software：祝福软件
+"Icy Tail"：冰尾乐队
+"Egoistic-Lily"：自我百合
+"Rouge en rouge"：红中之红
+"Fancy Wave"：奇幻浪潮
+"Field Chronicles"：寰域编年纪
+"Fields Chronicle"：寰域编年纪
+"Koisuru Metronome"：恋爱节拍器
+"Metronome in Love"：恋爱节拍器
+Toyogasaki Academy：丰之崎学园
+Fushikawa Fantastic Bunko：伏川奇幻文库
+doujin：同人
+circle：社团
+scenario：剧本
+illustrator：原画师
+producer：制作人
