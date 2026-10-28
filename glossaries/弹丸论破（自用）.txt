@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-10-28
 
@@ -58,6 +58,7 @@ Akamatsu Kaede = 赤松 枫
 Amami Rantarou = 天海 兰太郎
 Iruma Miu = 入间 美兔
 Ouma Kokichi = 王马 小吉
+Oma Kokichi = 王马 小吉
 Gokuhara Gonta = 狱原 权太
 Kiibo：机望
 K1-B0：机望
