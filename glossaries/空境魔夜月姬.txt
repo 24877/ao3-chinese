@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -18,6 +18,8 @@ Enjou Tomoe = 胭条 巴
 Suzurigi Akitaka = 砚木 秋隆
 Ryougi Mana = 两仪 未那
 Shirazumi Lio = 白纯 里绪
+Cornelius Alba = 柯尼勒斯 阿鲁巴
+Noel = 诺艾尔
 
 
 // —— 魔法使之夜 ——
@@ -80,7 +82,7 @@ Flawless Mausoleum：无瑕墓碑
 
 正则表达式
 // 处理 Shiki 不同写法（远野志贵 / 两仪式 / 七夜志贵）
-\bShiki\b: 式
 \bShiki Tohno\b: 远野志贵
+\bTohno Shiki\b: 远野志贵
 \bShiki Ryougi\b: 两仪式
 \bShiki Nanaya\b: 七夜志贵
