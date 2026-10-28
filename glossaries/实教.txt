@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -104,15 +104,7 @@ Ayanokoji = 绫小路
 Arisu Sakayanagi = 坂柳有栖
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
-Class A = A班
-Class B = B班
-Class C = C班
-Class D = D班
-S-System = S系统
-S-Point = S点数
-Class Point = 班级点
-Private Point = 个人点
-Protection Point = 保护点
+
 Special Exam = 特别考试
 Paper Shuffle = 纸牌洗牌考试
 Island Exam = 无人岛考试
