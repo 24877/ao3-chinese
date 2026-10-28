@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -23,7 +23,6 @@ Shirazumi Lio = 白纯 里绪
 // —— 魔法使之夜 ——
 Aozaki Aoko = 苍崎 青子
 Kuonji Alice = 久远寺 有珠
-Alice Kuonji = 久远寺 有珠
 Shizuki Kojirou = 静希 草十郎
 Kumanari Kinroku = 久万梨 金鹿
 Aozaki Touko = 苍崎 橙子
