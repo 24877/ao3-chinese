@@ -1,17 +1,14 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-28
 
 词条
 // —— 空之境界 ——
 Ryougi Shiki = 两仪 式
-Shiki Ryougi = 两仪 式
 Kokutou Mikiya = 黑桐 干也
-Mikiya Kokutou = 黑桐 干也
 Mikiya = 干也
 Kokutou Azaka = 黑桐 鲜花
 Aozaki Touko = 苍崎 橙子
-Touko Aozaki = 苍崎 橙子
 Kurogiri Satsuki = 玄雾 皋月
 Oji Misaya = 黄路 美沙夜
 Asagami Fujino = 浅上 藤乃
@@ -21,11 +18,10 @@ Enjou Tomoe = 胭条 巴
 Suzurigi Akitaka = 砚木 秋隆
 Ryougi Mana = 两仪 未那
 Shirazumi Lio = 白纯 里绪
-Lio Shirazumi = 白纯 里绪
+
 
 // —— 魔法使之夜 ——
 Aozaki Aoko = 苍崎 青子
-Aoko Aozaki = 苍崎 青子
 Kuonji Alice = 久远寺 有珠
 Alice Kuonji = 久远寺 有珠
 Shizuki Kojirou = 静希 草十郎
@@ -34,7 +30,6 @@ Aozaki Touko = 苍崎 橙子
 
 // —— 月姬 ——
 Tohno Shiki = 远野 志贵
-Shiki Tohno = 远野 志贵
 Brunestud Arcueid = 爱尔奎特·布伦史塔德
 Ciel = 希耶尔
 Tohno Akiha = 远野 秋叶
