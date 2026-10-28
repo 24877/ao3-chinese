@@ -154,12 +154,9 @@ Turbo Engine Skateboard = 涡轮滑板
 // ===== 正则：常见拼写变体兜底 =====
 正则表达式
 \bKudo\b: 工藤
-\bMouri\b: 毛利
 \bEdogawa\b: 江户川
 \bHaibara\b: 灰原
-\bMiyano\b: 宫野
 \bHattori\b: 服部
-\bAkai\b: 赤井
 \bAmuro\b: 安室
 \bFuruya\b: 降谷
 \bGin\b: 琴酒
