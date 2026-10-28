@@ -1,40 +1,47 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-23
 
 // 词条：区分大小写，人名/专有名词
 词条
-Soma Yukihira = 幸平创真
-Joichiro Yukihira = 幸平城一郎
-Tamako Yukihira = 幸平珠子
-Erina Nakiri = 薙切绘里奈
-Alice Nakiri = 薙切爱丽丝
-Senzaemon Nakiri = 薙切仙左卫门
-Azami Nakiri = 薙切蓟
-Mana Nakiri = 薙切真凪
-Asahi Saiba = 才波朝阳
-Megumi Tadokoro = 田所惠
-Satoshi Isshiki = 一色慧
-Akira Hayama = 叶山亮
-Rindo Kobayashi = 小林龙胆
-Takumi Aldini = 塔克米·阿尔迪尼
-Isami Aldini = 伊萨米·阿尔迪尼
-Yuki Yoshino = 吉野悠姬
-Ryoko Sakaki = 榊凉子
-Daigo Aoki = 青木大吾
-Shun Ibusaki = 伊武崎峻
-Fumio Daimido = 大御堂文绪
-Gin Dojima = 堂岛银
-Jun Shiomi = 汐见润
-Ryuto Kurokiba = 黑木场凉
-Miyoko Hojo = 北条美代子
-Nao Sadatsuka = 贞冢奈绪
-Subaru Mimasaka = 美作昴
-Eishi Tsukasa = 司瑛士
-Rindo Kobayashi = 小林龙胆
-Momo Akanegiku = 朱雀牡丹
+
+// —— 幸平家 ——
+Yukihira Soma = 幸平 创真
+Yukihira Joichiro = 幸平 城一郎
+Yukihira Tamako = 幸平 珠子
+// —— 薙切家 ——
+Nakiri Erina = 薙切 绘里奈
+Nakiri Alice = 薙切 爱丽丝
+Nakiri Senzaemon = 薙切 仙左卫门
+Nakiri Azami = 薙切 蓟
+Nakiri Mana = 薙切 真凪
+Saiba Asahi = 才波 朝阳
+// —— 远月学园·学生 ——
+Tadokoro Megumi = 田所 惠
+Isshiki Satoshi = 一色 慧
+Hayama Akira = 叶山 亮
+Kobayashi Rindo = 小林 龙胆
+Aldini Takumi = 塔克米·阿尔迪尼
+Aldini Isami = 伊萨米·阿尔迪尼
+Yoshino Yuki = 吉野 悠姬
+Sakaki Ryoko = 榊 凉子
+Aoki Daigo = 青木 大吾
+Ibusaki Shun = 伊武崎 峻
+Kurokiba Ryou = 黑木场 凉
+Houjou Miyoko = 北条 美代子
+Sadatsuka Nao = 贞冢 奈绪
+Mimasaka Subaru = 美作 昴
+Tsukasa Eishi = 司 瑛士
+Akanegiku Momo = 朱雀 牡丹
 Saito = 斋藤
-Kuga Terunori = 久我照纪
+Kuga Terunori = 久我 照纪
+// —— 远月学园·教职员 ——
+Daimido Fumio = 大御堂 文绪
+Doujima Gin = 堂岛 银
+Shiomi Jun = 汐见 润
+
+
+
 
 通用词条
 // 不区分大小写，机构与概念
@@ -52,9 +59,9 @@ Autumn Election = 秋季选拔
 Stagiaire = 实习
 Molecular Gastronomy = 分子料理
 Chef's Table = 主厨餐桌
-Erina Nakiri = 薙切绘里奈
-Nakiri Erina = 薙切绘里奈
-Erina = 绘里奈
+Erina Nakiri = 薙切 绘里奈
+Nakiri Erina = 薙切 绘里奈
+
 
 
 正则表达式
