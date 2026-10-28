@@ -60,8 +60,7 @@ Spirit Medium：灵媒
 Kurain Village：仓院之里
 Kurain Channeling：仓院流灵媒道
 
-禁翻词条
-// 作品名 / 英文标题 / 特殊称呼
+
 
 
 正则表达式
