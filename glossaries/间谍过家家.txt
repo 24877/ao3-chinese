@@ -1,0 +1,95 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-28
+
+词条
+// 福杰家（区分大小写，专名精准映射）
+Loid Forger：劳埃德·福杰
+Forger Loid：劳埃德·福杰
+Twilight：黄昏
+Yor Forger：约尔·福杰
+Yor Briar：约尔·布莱尔
+"Briar"：布莱尔
+Thorn Princess：荆棘公主
+Sleeping Beauty：睡美人
+Anya Forger：阿尼亚·福杰
+Subject 007：实验体007
+Bond Forger：邦德·福杰
+Apple No.8：苹果计划实验体8号
+
+// WISE
+Sylvia Sherwood：西尔维亚·舍伍德
+Fiona Frost：菲奥娜·弗洛斯特
+Nightfall：夜帷
+Franky Franklin：弗兰克·富兰克林
+
+// 东国侧
+Yuri Briar：尤里·布莱尔
+Damian Desmond：达米安·德斯蒙
+Donovan Desmond：多诺万·德斯蒙
+Melinda Desmond：梅琳达·德斯蒙
+Demetrius Desmond：德米特里厄斯·德斯蒙
+Becky Blackbell：贝姬·布莱克贝尔
+Henry Henderson：亨利·亨德森
+
+// 花园（暗杀组织）
+Shopkeeper：店长
+Matthew McMahon：马修·麦克马洪
+Garden：花园
+
+// 其他常驻
+Martha Marriott：玛莎·马里奥特
+Olga Gretcher：欧尔嘉·葛雷切
+Gretcher：葛雷切
+
+通用词条
+// 国家与机构
+Westalis：西国
+Ostania：东国
+Berlint：伯林特
+Berlint City：伯林特市
+National Unity Party：国家统一党
+State Security Service：国家保安局
+SSS：国家保安局
+WISE：西国情报局对东课
+Intelligence Bureau East：西国情报局对东课
+City Hall：市政厅
+Eden Academy：伊甸学园
+Imperial Scholar：帝国学徒
+Star Crest：星章
+Thunder Crest：雷章
+
+// 行动与设定
+Operation Strix：枭作战
+Strix：枭
+Fake Family：虚假家庭
+Spy Wars：间谍大战
+Bondman：邦德曼
+Telepath：读心能力者
+Mind Reader：读心者
+Future Sight：预知能力
+Assassination：暗杀
+Client：目标
+Cover Identity：伪装身份
+Handler：联络官
+
+
+
+
+正则表达式
+// 处理 Forger 不同写法
+\bForger\b: 福杰
+\bLoid Forger\b: 劳埃德·福杰
+\bYor Forger\b: 约尔·福杰
+\bAnya Forger\b: 阿尼亚·福杰
+\bBond Forger\b: 邦德·福杰
+
+// 处理 Desmond 家族
+\bDesmond\b: 德斯蒙
+\bDamian Desmond\b: 达米安·德斯蒙
+\bDonovan Desmond\b: 多诺万·德斯蒙
+
+// 处理 Briar 旧姓
+\bBriar\b: 布莱尔
+\bYor Briar\b: 约尔·布莱尔
+\bYuri Briar\b: 尤里·布莱尔
