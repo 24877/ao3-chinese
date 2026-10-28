@@ -26,8 +26,8 @@ Mioda Ibuki = 澪田 唯吹
 Hanamura Teruteru = 花村 辉辉
 Mitarai Ryota = 御手洗 亮太
 Kuzuryu Natsumi = 九头龙 夏美
-Sato = 佐藤
-Monomi = 兔美
+Sato：佐藤
+Monomi：兔美
 
 // 1代 角色
 Naegi Makoto = 苗木 诚
@@ -56,9 +56,9 @@ Amami Rantarou = 天海 兰太郎
 Iruma Miu = 入间 美兔
 Ouma Kokichi = 王马 小吉
 Gokuhara Gonta = 狱原 权太
-Kiibo = 机望
-K1-B0 = 机望
-Keebo = 机望
+Kiibo：机望
+K1-B0：机望
+Keebo：机望
 Saihara Shuichi = 最原 终一
 Shirogane Tsumugi = 白银 紬
 Shinguji Korekiyo = 真宫寺 是清
@@ -88,8 +88,8 @@ Daimon Masaru = 大门 胜
 Kemuri Jataro = 烟 蛇太郎
 Utsugi Kotoko = 空木 言子
 Shingetsu Nagisa = 新月 渚
-Shirokuma = 白熊
-Kurokuma = 黑熊
+Shirokuma：白熊
+Kurokuma：黑熊
   
 
 Murasame Soushun = 村雨 早春
@@ -123,11 +123,11 @@ Virtual World：虚拟世界
 Gofer Project：界外者计划
 Hope Cultivation Plan = 希望育成计划
 Kamukura Project = 神座计划
-The Biggest, Most Awful, Most Tragic Event in Human History = 人类史上最大最恶的绝望事件
-Truth Bullet = 言弹
-Nonstop Debate = 无休止议论
-Hangman's Gambit = 文字接龙
-Bullet Time Battle = 机关枪论战
-Electronic Student Handbook = 电子学生手册
-Warriors of Hope = 希望战士
-Towa City = 塔和市
+The Biggest, Most Awful, Most Tragic Event in Human History：人类史上最大最恶的绝望事件
+Truth Bullet：言弹
+Nonstop Debate：无休止议论
+Hangman's Gambit：文字接龙
+Bullet Time Battle：机关枪论战
+Electronic Student Handbook：电子学生手册
+Warriors of Hope：希望战士
+Towa City：塔和市
