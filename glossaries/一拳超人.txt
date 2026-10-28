@@ -71,8 +71,6 @@ Blizzard Group：吹雪组
 Tanktop Group：背心集团
 Evolution Home：进化之家
 
-禁翻词条
-// 作品名 / 英文标题 / 特殊称号
 
 
 正则表达式
