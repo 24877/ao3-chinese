@@ -14,6 +14,7 @@ Karuizawa Kei = 轻井泽 惠
 Sakura Airi = 佐仓 爱里
 Hirata Yosuke = 平田 洋介
 Ike Kanji = 池 宽治
+Maezono = 前园
 Yamauchi Haruki = 山内 春树
 Yukimura Teruhiko = 幸村 辉彦
 Kouenji Rokusuke = 高圆寺 六助
