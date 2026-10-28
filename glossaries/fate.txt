@@ -117,7 +117,6 @@ Third Magic = 第三魔法
 Heroic Spirit = 英灵
 Throne of Heroes = 英灵之座
 Servant = 从者
-Master = 御主
 Command Spell = 令咒
 Magic Circuit = 魔术回路
 Magical Energy = 魔力
@@ -155,6 +154,7 @@ Human Order = 人理
 Pruned Event = 剪定事件
 Olympus = 奥林匹斯
 Shadow Border = 影之国边境
+Shinji = 慎二
 
 // ===== 禁翻词条：作品名/缩写保持原样 =====
 禁翻词条
