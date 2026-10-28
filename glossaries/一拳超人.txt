@@ -10,8 +10,8 @@ Genos：杰诺斯
 Speed-o'-Sound Sonic：音速索尼克
 Garou：饿狼
 King：KING
-Tatsumaki：战栗的龙卷
-Fubuki：地狱的吹雪
+Tatsumaki：龙卷
+Fubuki：吹雪
 Bang：邦古
 Silver Fang：银牙
 Atomic Samurai：原子武士
@@ -79,8 +79,8 @@ Evolution Home：进化之家
 // 处理 Saitama / Genos 语境
 \bSaitama\b: 埼玉
 \bGenos\b: 杰诺斯
-\bTatsumaki\b: 战栗的龙卷
-\bFubuki\b: 地狱的吹雪
+\bTatsumaki\b: 龙卷
+\bFubuki\b: 吹雪
 
 // 处理 Rank 数字
 \bRank (\d+)\b: 第$1位
