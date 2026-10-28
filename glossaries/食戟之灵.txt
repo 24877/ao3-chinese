@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -12,6 +12,8 @@ Nakiri Erina = 薙切 绘里奈
 Nakiri Alice = 薙切 爱丽丝
 Nakiri Azami = 薙切 蓟
 Nakamura Azami = 薙切 蓟
+Nakiri Mana = 薙切 真凪
+Saiba Asahi = 才波 朝阳
 Nakiri Leonora = 薙切 蕾欧诺拉
 Arato Hisako = 新户 绯沙子
 Tadokoro Megumi = 田所 惠
