@@ -1,0 +1,33 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-28
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Azusagawa Sakuta = 梓川 咲太
+Sakurajima Mai = 樱岛 麻衣
+Koga Tomoe = 古贺 朋绘
+Futaba Rio = 双叶 理央
+Toyohama Nodoka = 丰浜 和花
+Azusagawa Kaede = 梓川 花枫
+Azusagawa Kaede = 梓川 枫
+Makinohara Shoko = 牧之原 翔子
+Kunimi Yuma = 国见 佑真
+Kamisato Saki = 上里 沙希
+Hirokawa Uzuki = 广川 卯月
+Akagi Ikumi = 赤城 郁实
+Yoneyama Nana = 米山 奈奈
+Nanjou Fumika = 南条 文香
+" 《Sweet Bullet》"：甜蜜子弹
+"Minegahara High School"：峰原高中
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Adolescence Syndrome：青春期综合征
+Puberty Syndrome：青春期综合征
+Bunny Girl：兔女郎
+Science Club：科学社
+Possible World：可能世界
+Time Loop：时间循环
+Schrödinger's Cat：薛定谔的猫
+Laplace's Demon：拉普拉斯妖
