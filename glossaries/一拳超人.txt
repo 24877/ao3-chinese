@@ -1,0 +1,86 @@
+版本号：1.0.0
+维护者：你的名字
+更新时间：2026-10-28
+
+词条
+// 主角组
+Saitama：埼玉
+Genos：杰诺斯
+"Caped Baldy"：秃头披风侠
+Speed-o'-Sound Sonic：音速索尼克
+Garou：饿狼
+King：KING
+Tatsumaki：战栗的龙卷
+Fubuki：地狱的吹雪
+Bang：邦古
+Silver Fang：银牙
+Atomic Samurai：原子武士
+Metal Knight：金属骑士
+Zombieman：僵尸男
+Drive Knight：驱动骑士
+Pig God：猪神
+Superalloy Darkshine：超合金黑光
+Watchdog Man：守门犬侠
+Flashy Flash：闪光弗拉休
+Metal Bat：金属球棒
+Tanktop Master：背心大师
+Puri-Puri Prisoner：水嫩嫩囚犯
+Blast：爆破
+Child Emperor：童帝
+Mumen Rider：无照骑士
+Sweet Mask：甜美假面
+
+// 怪人侧
+Boros：波罗斯
+Orochi：怪人王大蛇
+Psykos：赛克斯
+Gyoro Gyoro：陀螺陀螺
+Elder Centipede：蜈蚣长老
+Evil Natural Water：恶液
+Fuhrer Ugly：丑王
+Homeless Emperor：流浪帝
+Gouketsu：豪杰
+Bakuzan：爆山
+Deep Sea King：深海王
+Armored Gorilla：装甲大猩猩
+Mosquito Girl：蚊女
+Vaccine Man：疫苗人
+Carnage Kabuto：屠杀独角仙
+Awakened Cockroach：觉醒蟑螂
+
+通用词条
+// 组织与制度
+Hero Association：英雄协会
+Monster Association：怪人协会
+Neo Heroes：新英雄协会
+Hero License：英雄执照
+Rank 1：第一位
+Rank 2：第二位
+Disaster Level：灾害等级
+Wolf：狼级
+Tiger：虎级
+Demon：鬼级
+Dragon：龙级
+God：神级
+Limit Breaker：突破极限者
+Limiter：限制器
+Human Monster：人类怪人
+Cyborg：改造人
+Demon Cyborg：魔鬼改造人
+Blizzard Group：吹雪组
+Tanktop Group：背心集团
+Evolution Home：进化之家
+
+禁翻词条
+// 作品名 / 英文标题 / 特殊称号
+
+
+正则表达式
+// 处理 Saitama / Genos 语境
+\bSaitama\b: 埼玉
+\bGenos\b: 杰诺斯
+\bTatsumaki\b: 战栗的龙卷
+\bFubuki\b: 地狱的吹雪
+
+// 处理 Rank 数字
+\bRank (\d+)\b: 第$1位
