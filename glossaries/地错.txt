@@ -73,11 +73,7 @@ Braver：布雷弗
 Antianeira：安提阿涅拉
 Xenos：异端儿
 
-禁翻词条
-// 作品名 / 英文标题 / 特殊系统名
-"DanMachi"
-"Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-"Sword Oratoria"
+
 
 
 通用词条
@@ -136,5 +132,4 @@ One-Eyed Black Dragon：独眼黑龙
 \bAis\b: 艾丝
 \bAis Wallenstein\b: 艾丝·华伦斯坦
 
-// 处理 Level 数字
-\bLevel (\d+)\b: Lv.$1
+
