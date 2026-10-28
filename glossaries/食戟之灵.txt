@@ -1,44 +1,55 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你的名字
 更新时间：2026-10-23
 
 // 词条：区分大小写，人名/专有名词
 词条
-
-// —— 幸平家 ——
-Yukihira Soma = 幸平 创真
-Yukihira Joichiro = 幸平 城一郎
-Yukihira Tamako = 幸平 珠子
-// —— 薙切家 ——
+Yukihira Souma = 幸平 创真
+Yukihira Jouichirou = 幸平 城一郎
+Saiba Jouichirou = 幸平 城一郎
+Nakiri Senzaemon = 薙切 仙左卫门
 Nakiri Erina = 薙切 绘里奈
 Nakiri Alice = 薙切 爱丽丝
-Nakiri Senzaemon = 薙切 仙左卫门
 Nakiri Azami = 薙切 蓟
-Nakiri Mana = 薙切 真凪
-Saiba Asahi = 才波 朝阳
-// —— 远月学园·学生 ——
+Nakamura Azami = 薙切 蓟
+Nakiri Leonora = 薙切 蕾欧诺拉
+Arato Hisako = 新户 绯沙子
 Tadokoro Megumi = 田所 惠
-Isshiki Satoshi = 一色 慧
-Hayama Akira = 叶山 亮
-Kobayashi Rindo = 小林 龙胆
-Aldini Takumi = 塔克米·阿尔迪尼
-Aldini Isami = 伊萨米·阿尔迪尼
-Yoshino Yuki = 吉野 悠姬
-Sakaki Ryoko = 榊 凉子
-Aoki Daigo = 青木 大吾
+Sakaki Ryouko = 榊 凉子
+Yoshino Yuuki = 吉野 悠姬
+Marui Zenji = 丸井 善二
 Ibusaki Shun = 伊武崎 峻
+Aoki Daigo = 青木 大吾
+Mito Ikumi = 水户 郁魅
+Aldini Takumi = 阿尔迪尼 巧
+Aldini Isami = 阿尔迪尼 勇
 Kurokiba Ryou = 黑木场 凉
 Houjou Miyoko = 北条 美代子
-Sadatsuka Nao = 贞冢 奈绪
+Hayama Akira = 叶山 亮
 Mimasaka Subaru = 美作 昴
-Tsukasa Eishi = 司 瑛士
-Akanegiku Momo = 朱雀 牡丹
-Saito = 斋藤
+Isshiki Satoshi = 一色 慧
 Kuga Terunori = 久我 照纪
-// —— 远月学园·教职员 ——
-Daimido Fumio = 大御堂 文绪
+Kinokuni Nene = 纪之国 宁宁
+Tsukasa Eishi = 司 瑛士
+Kobayashi Rindou = 小林 龙胆
+Akanegakubo Momo = 茜久保 桃
+Megishima Tousuke = 女木岛 冬辅
+Saitou Soumei = 斋藤 综明
 Doujima Gin = 堂岛 银
+Shinomiya Kojirou = 四宫 小次郎
+Mizuhara Fuyumi = 水原 冬美
+Inui Hinako = 乾 日向子
+Tsunozaki Taki = 角崎 泷
+Kikuchi Sonoka = 木久知 园果
 Shiomi Jun = 汐见 润
+Eizan Etsuya = 叡山 枝津也
+Konishi Kanichi = 小西 宽一
+Daimidou Fumio = 大御堂 文绪
+Satou Shouji = 佐藤 昭二
+Roland Chapelle = 罗兰 沙佩尔
+Sena Hiromi = 濑奈 广美
+
+
 
 
 
@@ -59,7 +70,6 @@ Autumn Election = 秋季选拔
 Stagiaire = 实习
 Molecular Gastronomy = 分子料理
 Chef's Table = 主厨餐桌
-Erina Nakiri = 薙切 绘里奈
 Nakiri Erina = 薙切 绘里奈
 
 
