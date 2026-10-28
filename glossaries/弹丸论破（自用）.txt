@@ -135,3 +135,53 @@ Bullet Time Battle：机关枪论战
 Electronic Student Handbook：电子学生手册
 Warriors of Hope：希望战士
 Towa City：塔和市
+
+// 超高校级的才能
+Ultimate Lucky Student：超高校级的幸运
+Ultimate Hope：超高校级的希望
+Ultimate Despair：超高校级的绝望
+Ultimate Detective：超高校级的侦探
+Ultimate Pop Sensation：超高校级的偶像
+Ultimate Baseball Star：超高校级的棒球选手
+Ultimate Programmer：超高校级的程序员
+Ultimate Moral Compass：超高校级的风纪委员
+Ultimate Affluent Progeny：超高校级的名门子弟
+Ultimate Swimmer：超高校级的游泳选手
+Ultimate Biker Gang Leader：超高校级的暴走族
+Ultimate Clairvoyant：超高校级的占卜师
+Ultimate Fanfic Creator：超高校级的同人作家
+Ultimate Fashionista：超高校级的辣妹
+Ultimate Martial Artist：超高校级的格斗家
+Ultimate Soldier：超高校级的军人
+Ultimate Gambler：超高校级的赌徒
+Ultimate Writing Prodigy：超高校级的文学少女
+Ultimate Murderous Fiend：超高校级的杀人魔
+Ultimate Gamer：超高校级的游戏玩家
+Ultimate Yakuza：超高校级的黑道
+Ultimate Swordswoman：超高校级的剑道家
+Ultimate Mechanic：超高校级的机械师
+Ultimate Breeder：超高校级的饲育委员
+Ultimate Musician：超高校级的轻音部员
+Ultimate Photographer：超高校级的摄影师
+Ultimate Traditional Dancer：超高校级的日本舞蹈家
+Ultimate Gymnast：超高校级的体操选手
+Ultimate Team Manager：超高校级的经理
+Ultimate Nurse：超高校级的保健委员
+Ultimate Princess：超高校级的王女
+Ultimate Cook：超高校级的厨师
+Ultimate Imposter：超高校级的欺诈师
+Ultimate Pianist：超高校级的钢琴师
+Ultimate Inventor：超高校级的发明家
+Ultimate Supreme Leader：超高校级的总统
+Ultimate Robot：超高校级的机器人
+Ultimate Entomologist：超高校级的昆虫博士
+Ultimate Cosplayer：超高校级的角色扮演
+Ultimate Anthropologist：超高校级的民俗学者
+Ultimate Aikido Master：超高校级的合气道
+Ultimate Maid：超高校级的女仆
+Ultimate Caregiver：超高校级的保姆
+Ultimate Astronaut：超高校级的宇航员
+Ultimate Magician：超高校级的魔术师
+Ultimate Artist：超高校级的艺术家
+Ultimate Adventurer：超高校级的冒险家
+Ultimate Survivor：超高校级的生存者
