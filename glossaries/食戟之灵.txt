@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -30,6 +30,8 @@ Houjou Miyoko = 北条 美代子
 Hayama Akira = 叶山 亮
 Mimasaka Subaru = 美作 昴
 Isshiki Satoshi = 一色 慧
+Sekimori Hitoshi = 关守 平
+Kawashima Urara = 川岛 丽
 Kuga Terunori = 久我 照纪
 Kinokuni Nene = 纪之国 宁宁
 Tsukasa Eishi = 司 瑛士
