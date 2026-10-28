@@ -6,6 +6,7 @@
 词条
 // —— 御主侧（FSN/FZ）——
 Shirou Emiya = 卫宫士郎
+Emiya Shirou = 卫宫士郎
 Kiritsugu Emiya = 卫宫切嗣
 Rin Tohsaka = 远坂凛
 Tokiomi Tohsaka = 远坂时臣
