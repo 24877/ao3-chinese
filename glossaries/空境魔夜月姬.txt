@@ -1,49 +1,52 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-28
 
 词条
-// 空之境界
-Ryougi Shiki：两仪式
-Shiki Ryougi：两仪式
-Mikiya Kokutou：黑桐干也
-Kokutou Mikiya：黑桐干也
-Mikiya ：干也
-Azaka Kokutou：黑桐鲜花
-Touko Aozaki：苍崎橙子
-Aozaki Touko：苍崎橙子
-Satsuki Kurogiri：玄雾皋月
-Misaya Oji：黄路美沙夜
-Fujino Asagami：浅上藤乃
-Kirie Fujou：巫条雾绘
-Araya Souren：荒耶宗莲
-Tomoe Enjou：胭条巴
-Akitaka Suzurigi：砚木秋隆
-Mana Ryougi：两仪未那
-Shirazumi Lio：白纯里绪
-Lio Shirazumi：白纯里绪
+// —— 空之境界 ——
+Ryougi Shiki = 两仪 式
+Shiki Ryougi = 两仪 式
+Kokutou Mikiya = 黑桐 干也
+Mikiya Kokutou = 黑桐 干也
+Mikiya = 干也
+Kokutou Azaka = 黑桐 鲜花
+Aozaki Touko = 苍崎 橙子
+Touko Aozaki = 苍崎 橙子
+Kurogiri Satsuki = 玄雾 皋月
+Oji Misaya = 黄路 美沙夜
+Asagami Fujino = 浅上 藤乃
+Fujou Kirie = 巫条 雾绘
+Araya Souren = 荒耶 宗莲
+Enjou Tomoe = 胭条 巴
+Suzurigi Akitaka = 砚木 秋隆
+Ryougi Mana = 两仪 未那
+Shirazumi Lio = 白纯 里绪
+Lio Shirazumi = 白纯 里绪
 
-// 魔法使之夜
-Aoko Aozaki：苍崎青子
-Aozaki Aoko：苍崎青子
-Alice Kuonji：久远寺有珠
-Kuonji Alice：久远寺有珠
-Kojirou Shizuki：静希草十郎
-Kinroku Kumanari：久万梨金鹿
-Touko Aozaki：苍崎橙子
+// —— 魔法使之夜 ——
+Aozaki Aoko = 苍崎 青子
+Aoko Aozaki = 苍崎 青子
+Kuonji Alice = 久远寺 有珠
+Alice Kuonji = 久远寺 有珠
+Shizuki Kojirou = 静希 草十郎
+Kumanari Kinroku = 久万梨 金鹿
+Aozaki Touko = 苍崎 橙子
 
-// 月姬
-Shiki Tohno：远野志贵
-Tohno Shiki：远野志贵
-Arcueid Brunestud：爱尔奎特·布伦史塔德
-Ciel：希耶尔
-Akiha Tohno：远野秋叶
-Hisui：翡翠
-Kohaku：琥珀
-Roa：罗亚
-Len：莲
-Akira Seo：濑尾晶
-Shiki Nanaya：七夜志贵
+// —— 月姬 ——
+Tohno Shiki = 远野 志贵
+Shiki Tohno = 远野 志贵
+Brunestud Arcueid = 爱尔奎特·布伦史塔德
+Ciel = 希耶尔
+Tohno Akiha = 远野 秋叶
+Hisui = 翡翠
+Kohaku = 琥珀
+Roa = 罗亚
+Len = 莲
+Seo Akira = 濑尾 晶
+Nanaya Shiki = 七夜 志贵
+
+
+
 
 通用词条
 // 世界观与设定
