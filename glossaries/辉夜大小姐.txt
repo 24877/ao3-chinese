@@ -1,43 +1,36 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-28
 
 词条
-// 核心主角
-Miyuki Shirogane：白银御行
-Shirogane Miyuki：白银御行
-Kaguya Shinomiya：四宫辉夜
-Shinomiya Kaguya：四宫辉夜
-Chika Fujiwara：藤原千花
-Fujiwara Chika：藤原千花
-Yu Ishigami：石上优
-Ishigami Yu：石上优
-Miko Iino：伊井野弥子
-Iino Miko：伊井野弥子
-Ai Hayasaka：早坂爱
-Hayasaka Ai：早坂爱
+// —— 主角组 ——
+Shirogane Miyuki = 白银 御行
+Shinomiya Kaguya = 四宫 辉夜
+Fujiwara Chika = 藤原 千花
+Ishigami Yu = 石上 优
+Iino Miko = 伊井野 弥子
+Hayasaka Ai = 早坂 爱
 
-// 配角与家属
-Kei Shirogane：白银圭
-Shirogane Kei：白银圭
-Nagisa Kashiwagi：柏木渚
-Kobachi Osaragi：大佛小钵
-Osaragi Kobachi：大佛小钵
-Tsubasa Tanuma：田沼翼
-Maki Shijo：四条真妃
-Shijo Maki：四条真妃
-Yan Fan：子安燕
-Unyo Iijima：伊井野（父系相关，按需）
-Koyuki Hayasaka：早坂（变装态，保留语境）
-Gin Shirogane：白银父亲（同人可用）
-Nene Yotsuba：四宫家相关（按需）
+// —— 配角与家属 ——
+Shirogane Kei = 白银 圭
+Kashiwagi Nagisa = 柏木 渚
+Osaragi Kobachi = 大佛 小钵
+Tanuma Tsubasa = 田沼 翼
+Shijo Maki = 四条 真妃
+Yan Fan = 子安 燕
+Iijima Unyo = 伊井野（父系相关，按需）
+Hayasaka Koyuki = 早坂（变装态，保留语境）
+Shirogane Gin = 白银 父亲（同人可用）
+Yotsuba Nene = 四宫家相关（按需）
 
-// 四宫家
-Gan'an Shinomiya：四宫雁庵
-Kouou Shinomiya：四宫黄光
-Seiryuu Shinomiya：四宫青龙
-Uncho Shinomiya：四宫云鹰
-Oko Shinomiya：四宫黄光（繁体译名冲突时用手动覆盖）
+// —— 四宫家 ——
+Shinomiya Gan'an = 四宫 雁庵
+Shinomiya Kouou = 四宫 黄光
+Shinomiya Seiryuu = 四宫 青龙
+Shinomiya Uncho = 四宫 云鹰
+Shinomiya Oko = 四宫 黄光（繁体译名冲突时用手动覆盖）
+
+
 
 通用词条
 // 学校与职务
