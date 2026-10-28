@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-10-28
 
@@ -40,7 +40,7 @@ Fukawa Toko = 腐川 冬子
 Genocider Syo = 灭族者 翔
 Asahina Aoi = 朝日奈 葵
 Ogami Sakura = 大神 樱
-Ishimaru Investment = 石丸 清多夏
+Ishimaru Kiyotaka = 石丸 清多夏
 Owada Mondo = 大和田 纹土
 Fujisaki Chihiro = 不二咲 千寻
 Yamada Hifumi = 山田 一二三
@@ -56,7 +56,9 @@ Amami Rantarou = 天海 兰太郎
 Iruma Miu = 入间 美兔
 Ouma Kokichi = 王马 小吉
 Gokuhara Gonta = 狱原 权太
-Keebo：机望
+Kiibo = 机望
+K1-B0 = 机望
+Keebo = 机望
 Saihara Shuichi = 最原 终一
 Shirogane Tsumugi = 白银 紬
 Shinguji Korekiyo = 真宫寺 是清
@@ -107,6 +109,7 @@ Class Trial：学级审判
 Murder Game：自相残杀
 Kill Game：杀戮游戏
 Jabberwock Island：贾巴沃克岛
+Jabberwock：贾巴沃克
 New World Program：新世界程序
 Reserve Course：预备学科
 Main Course：本科
