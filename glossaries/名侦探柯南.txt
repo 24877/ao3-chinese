@@ -5,106 +5,107 @@
 // ===== 词条：区分大小写，人名/真名/代号真名 =====
 词条
 // —— 主角团 / 核心 ——
-Conan Edogawa = 江户川柯南
-Shinichi Kudo = 工藤新一
-Yusaku Kudo = 工藤优作
-Yukiko Kudo = 工藤有希子
-Ran Mouri = 毛利兰
-Kogoro Mouri = 毛利小五郎
-Eri Kisaki = 妃英理
-Hiroshi Agasa = 阿笠博士
-Ai Haibara = 灰原哀
-Shiho Miyano = 宫野志保
-Akemi Miyano = 宫野明美
-Atsushi Miyano = 宫野厚司
+Edogawa Conan = 江户川 柯南
+Kudou Shinichi = 工藤 新一
+Kudou Yusaku = 工藤 优作
+Kudou Yukiko = 工藤 有希子
+Mouri Ran = 毛利 兰
+Mouri Kogorou = 毛利 小五郎
+Kisaki Eri = 妃 英理
+Agasa Hiroshi = 阿笠 博士
+Haibara Ai = 灰原 哀
+Miyano Shiho = 宫野 志保
+Miyano Akemi = 宫野 明美
+Miyano Atsushi = 宫野 厚司
 Miyano = 宫野
 
 // —— 少年侦探团 ——
-Ayumi Yoshida = 吉田步美
-Mitsuhiko Tsuburaya = 圆谷光彦
-Genta Kojima = 小岛元太
-Sumiko Kobayashi = 小林澄子
+Yoshida Ayumi = 吉田 步美
+Tsuburaya Mitsuhiko = 圆谷 光彦
+Kojima Genta = 小岛 元太
+Kobayashi Sumiko = 小林 澄子
 
 // —— 铃木家 / 帝丹高中 ——
-Sonoko Suzuki = 铃木园子
-Shiro Suzuki = 铃木史郎
-Tomoko Suzuki = 铃木朋子
-Ayako Suzuki = 铃木绫子
-Makoto Kyogoku = 京极真
+Suzuki Sonoko = 铃木 园子
+Suzuki Shiro = 铃木 史郎
+Suzuki Tomoko = 铃木 朋子
+Suzuki Ayako = 铃木 绫子
+Kyougoku Makoto = 京极 真
 
 // —— 关西组 ——
-Heiji Hattori = 服部平次
-Shizuka Hattori = 服部静华
-Heizo Hattori = 服部平藏
-Kazuyoshi Hattori = 服部平藏
-Kazuha Toyama = 远山和叶
-Ginshiro Toyama = 远山银司郎
-Otaki Goro = 大泷悟郎
+Hattori Heiji = 服部 平次
+Hattori Shizuka = 服部 静华
+Hattori Heizou = 服部 平藏
+Hattori Kazuyoshi = 服部 平藏
+Toyama Kazuha = 远山 和叶
+Toyama Ginshirou = 远山 银司郎
+Otaki Gorou = 大泷 悟郎
 
 // —— 警视厅 搜查一课 ——
-Juzo Megure = 目暮十三
-Wataru Takagi = 高木涉
-Miwako Sato = 佐藤美和子
-Ninzaburo Shiratori = 白鸟任三郎
-Kazunobu Chiba = 千叶和伸
-Yumi Miyamoto = 宫本由美
-Naeko Miike = 三池苗子
-Kiyonaga Matsumoto = 松本清长
-Hyoe Kuroda = 黑田兵卫
-Misao Yamamura = 山村操
-Sango Yokomizo = 横沟参悟
-Saguru Hakuba = 白马探
-Tomoaki Araide = 新出智明
-Jinpei Matsuda = 松田阵平
-Hideo Akagi = 赤木英雄
-Wataru Date = 伊达航
+Megure Juuzou = 目暮 十三
+Takagi Wataru = 高木 涉
+Satou Miwako = 佐藤 美和子
+Shiratori Ninzaburou = 白鸟 任三郎
+Chiba Kazunobu = 千叶 和伸
+Miyamoto Yumi = 宫本 由美
+Miike Naeko = 三池 苗子
+Matsumoto Kiyonaga = 松本 清长
+Kuroda Hyoue = 黑田 兵卫
+Yamamura Misao = 山村 操
+Yokomizo Sango = 横沟 参悟
+Hakuba Saguru = 白马 探
+Araide Tomoaki = 新出 智明
+Matsuda Jinpei = 松田 阵平
+Akagi Hideo = 赤木 英雄
+Date Wataru = 伊达 航
 
 // —— FBI ——
-Shuichi Akai = 赤井秀一
-Daisuke Moroboshi = 诸星大
-Mary Sera = 赤井玛丽
-Masumi Sera = 世良真纯
-Shukichi Haneda = 羽田秀吉
-Jodie Starling = 茱蒂·斯泰琳
-Andre Camel = 安德雷·卡迈尔
-James Black = 詹姆斯·布莱克
+Akai Shuichi = 赤井 秀一
+Moroboshi Daisuke = 诸星 大
+Sera Mary = 赤井 玛丽
+Sera Masumi = 世良 真纯
+Haneda Shuukichi = 羽田 秀吉
+Starling Jodie = 茱蒂·斯泰琳
+Camel Andre = 安德雷·卡迈尔
+Black James = 詹姆斯·布莱克
 
 // —— CIA / 公安 ——
-Hidemi Hondou = 本堂瑛海
+Hondou Hidemi = 本堂 瑛海
 Kir = 基尔
-Ethan Hondou = 伊森·本堂
-Rei Furuya = 降谷零
-Tooru Amuro = 安室透
+Hondou Ethan = 伊森·本堂
+Furuya Rei = 降谷 零
+Amuro Tooru = 安室 透
 Bourbon = 波本
-Hiromitsu Morofushi = 诸伏景光
+Morofushi Hiromitsu = 诸伏 景光
 Scotch = 苏格兰
 
 // —— 黑衣组织（酒厂）——
 Gin = 琴酒
 Vodka = 伏特加
 Vermouth = 贝尔摩德
-Sharon Vineyard = 莎朗·温亚德
-Chris Vineyard = 克丽丝·温亚德
+Vineyard Sharon = 莎朗·温亚德
+Vineyard Chris = 克丽丝·温亚德
 Sherry = 雪莉
 Chianti = 基安蒂
 Korn = 科恩
 Calvados = 卡尔瓦多斯
 Rum = 朗姆
-Wakita Kanenori = 胁田兼则
-Kuroda Hyoue = 黑田兵卫
+Wakita Kanenori = 胁田 兼则
+Kuroda Hyoue = 黑田 兵卫
 Tequila = 龙舌兰
 Pisco = 皮斯克
 Riesling = 雷司令
 Curaçao = 库拉索
-Karasuma Renya = 乌丸莲耶
+Karasuma Renya = 乌丸 莲耶
 
 // —— 怪盗基德 ——
-Kaito Kuroba = 黑羽快斗
-Kaitou Kid = 怪盗基德
-Konosuke Jii = 寺井黄之助
-Nakamori Ginzo = 中森银三
-Aoko Nakamori = 中森青子
+Kuroba Kaito = 黑羽 快斗
+Kaitou Kid = 怪盗 基德
+Jii Konosuke = 寺井 黄之助
+Nakamori Ginzo = 中森 银三
+Nakamori Aoko = 中森 青子
 Snake = 斯内克
+
 
 // —— 称呼/敬称防误翻 ——
 "Conan-kun": 柯南君
