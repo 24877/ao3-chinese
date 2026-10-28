@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -159,7 +159,4 @@ Turbo Engine Skateboard = 涡轮滑板
 \bHattori\b: 服部
 \bAmuro\b: 安室
 \bFuruya\b: 降谷
-\bGin\b: 琴酒
-\bVodka\b: 伏特加
-\bVermouth\b: 贝尔摩德
-\bSherry\b: 雪莉
+
