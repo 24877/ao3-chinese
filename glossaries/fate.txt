@@ -157,19 +157,7 @@ Olympus = 奥林匹斯
 Shadow Border = 影之国边境
 Shinji = 慎二
 
-// ===== 禁翻词条：作品名/缩写保持原样 =====
-禁翻词条
-Fate/stay night
-Fate/Zero
-Fate/hollow ataraxia
-Fate/Grand Order
-FGO
-Fate/Apocrypha
-Fate/Extra
-Fate/Extella
-Fate/kaleid liner PRISMA☆ILLYA
-Fate/strange Fake
-TYPE-MOON
+
 
 // ===== 正则：长音变体兜底 =====
 正则表达式
