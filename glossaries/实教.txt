@@ -1,93 +1,96 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你的名字
 更新时间：2026-10-23
 
 // ===== 词条：区分大小写，人名/真名 =====
 词条
 // —— 1-D 主角团 ——
-Kiyotaka Ayanokoji = 绫小路清隆
-Atsuomi Ayanokoji = 绫小路笃臣
-Suzune Horikita = 堀北铃音
-Manabu Horikita = 堀北学
-Kikyo Kushida = 栉田桔梗
-Kei Karuizawa = 轻井泽惠
-Airi Sakura = 佐仓爱里
-Yosuke Hirata = 平田洋介
-Kanji Ike = 池宽治
-Haruki Yamauchi = 山内春树
-Teruhiko Yukimura = 幸村辉彦
-Rokusuke Koenji = 高圆寺六助
-Ken Sudo = 须藤健
-Chiaki Matsushita = 松下千秋
-Haruka Hasebe = 长谷部波瑠加
-Satsuki Shinohara = 筱原皋月
-Maya Sato = 佐藤麻耶
-Hiyori Shiina = 椎名日和
-Daichi Ishizaki = 石崎大地
-Hayato Kito = 鬼头隼
-Hideo Sotomura = 外村秀雄
-Kyogo Komiva = 小宫叶吾
-Shigeru Takemoto = 竹本茂
-Kyo Ishigami = 石上京
+Ayanokouji Kiyotaka = 绫小路 清隆
+Ayanokouji Atsuomi = 绫小路 笃臣
+Horikita Suzune = 堀北 铃音
+Horikita Manabu = 堀北 学
+Kushida Kikyou = 栉田 桔梗
+Karuizawa Kei = 轻井泽 惠
+Sakura Airi = 佐仓 爱里
+Hirata Yosuke = 平田 洋介
+Ike Kanji = 池 宽治
+Yamauchi Haruki = 山内 春树
+Yukimura Teruhiko = 幸村 辉彦
+Kouenji Rokusuke = 高圆寺 六助
+Sudou Ken = 须藤 健
+Matsushita Chiaki = 松下 千秋
+Hasebe Haruka = 长谷部 波瑠加
+Shinohara Satsuki = 筱原 皋月
+Satou Maya = 佐藤 麻耶
+Shiina Hiyori = 椎名 日和
+Ishizaki Daichi = 石崎 大地
+Kitou Hayato = 鬼头 隼
+Sotomura Hideo = 外村 秀雄
+Komiya Kyougo = 小宫 叶吾
+Takemoto Shigeru = 竹本 茂
+Ishigami Kyou = 石上 京
 
 // —— 学生会 / 教职员 ——
-Sae Chabashira = 茶柱佐枝
-Chie Hoshinomiya = 星之宫知惠
-Tsukishiro = 月城常成
-Narumori Sakayanagi = 坂柳成守
-Akane Tachibana = 橘茜
-Miyabi Nagumo = 南云雅
-Riku Utomiya = 宇都宫陆
-Takuya Yagami = 八神拓也
+Chabashira Sae = 茶柱 佐枝
+Hoshinomiya Chie = 星之宫 知惠
+Tsukishiro = 月城 常成
+Sakayanagi Narumori = 坂柳 成守
+Tachibana Akane = 橘 茜
+Nagumo Miyabi = 南云 雅
+Utomiya Riku = 宇都宫 陆
+Yagami Takuya = 八神 拓也
 
 // —— 龙园班（1-C / 2-C）——
-Kakeru Ryuen = 龙园翔
-Kazuomi Hosen = 宝泉和臣
-Ishigami Kyo = 石上京
-Daichi Ishizaki = 石崎大地
-Takurou Morishige = 森重卓郎
-Satoru Kaneda = 金田悟
-Tetsuya Hamaguchi = 滨口哲也
-Ryuji Kanzaki = 神崎隆二
-Katsunori Shiba = 司马克典
-Norihito Watanabe = 渡边纪仁
-Tomonari Mashima = 真岛智也
+Ryūen Kakeru = 龙园 翔
+Housen Kazuomi = 宝泉 和臣
+Ishigami Kyou = 石上 京
+Ishizaki Daichi = 石崎 大地
+Morishige Takurou = 森重 卓郎
+Kaneda Satoru = 金田 悟
+Hamaguchi Tetsuya = 滨口 哲也
+Kanzaki Ryuuji = 神崎 隆二
+Shiba Katsunori = 司马 克典
+Watanabe Norihito = 渡边 纪仁
+Mashima Tomonari = 真岛 智也
 
 // —— 一之濑班（1-B / 2-B）——
-Honami Ichinose = 一之濑帆波
-Akito Miyake = 三宅明人
-Ikuto Kiriyama = 桐山生叶
-Kozue Minamikata = 南方小梢
-Mako Amikura = 网仓麻子
-Nanami Yabu = 薮菜菜美
-Shiho Manabe = 真锅志保
-Nene Mori = 森宁宁
-Kokoro Inogashira = 井之头心
-Minoru Kinoshita = 木下美野里
-Takeko Nishino = 西野武子
-Yamashita Saki = 山下沙希
-Himeno Yuki = 姬野雪
-Rika Morofuji = 诸藤梨花
-Kayano Onodera = 小野寺萱乃
-Shiraishi Asuka = 白石飞鸟
-Yamamura Miki = 山村美纪
-Wang Meiyu = 王美雨
+Ichinose Honami = 一之濑 帆波
+Miyake Akito = 三宅 明人
+Kiriyama Ikuto = 桐山 生叶
+Minamikata Kozue = 南方 小梢
+Amikura Mako = 网仓 麻子
+Yabu Nanami = 薮 菜菜美
+Manabe Shiho = 真锅 志保
+Mori Nene = 森 宁宁
+Inogashira Kokoro = 井之头 心
+Kinoshita Minoru = 木下 美野里
+Nishino Takeko = 西野 武子
+Yamashita Saki = 山下 沙希
+Himeno Yuki = 姬野 雪
+Morofuji Rika = 诸藤 梨花
+Onodera Kayano = 小野寺 萱乃
+Shiraishi Asuka = 白石 飞鸟
+Yamamura Miki = 山村 美纪
+Wang Meiyu = 王 美雨
 
 // —— 坂柳班（1-A / 2-A）——
-Arisu Sakayanagi = 坂柳有栖
-Masumi Kamuro = 神室真澄
-Kohei Katsuragi = 葛城康平
-Yuki Himeno = 姬野雪
-Nazuna Asahina = 朝比奈荠
-Tsubasa Nanase = 七濑翼
-Fuka Kiryuin = 鬼龙院枫花
-Sakurako Tsubaki = 椿樱子
-Kosei Sanada = 真田康生
-Masayoshi Hashimoto = 桥本正义
-Kazuma Sagami = 坂上数马
-Ichika Amasawa = 天泽一夏
-Mio Ibuki = 伊吹澪
-Chihiro Shiranami = 白波千寻
+Sakayanagi Arisu = 坂柳 有栖
+Kamuro Masumi = 神室 真澄
+Katsuragi Kouhei = 葛城 康平
+Himeno Yuki = 姬野 雪
+Asahina Nazuna = 朝比奈 荠
+Nanase Tsubasa = 七濑 翼
+Kiryūin Fuka = 鬼龙院 枫花
+Tsubaki Sakurako = 椿 樱子
+Sanada Kousei = 真田 康生
+Hashimoto Masayoshi = 桥本 正义
+Sagami Kazuma = 坂上 数马
+Amasawa Ichika = 天泽 一夏
+Ibuki Mio = 伊吹 澪
+Shiranami Chihiro = 白波 千寻
+
+
+
 
 // —— 称呼/敬称防误翻 ——
 "Ayanokoji-kun": 绫小路君
@@ -99,12 +102,10 @@ Chihiro Shiranami = 白波千寻
 
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
-Kiyotaka  = 清隆
-Ayanokoji = 绫小路
-Arisu Sakayanagi = 坂柳有栖
+Ayanokouji Kiyotaka = 绫小路 清隆
+Sakayanagi Arisu = 坂柳 有栖
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
-
 Special Exam = 特别考试
 Paper Shuffle = 纸牌洗牌考试
 Island Exam = 无人岛考试
