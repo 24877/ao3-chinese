@@ -136,18 +136,8 @@ Leadership = 领导能力
 
 // ===== 正则：长音/拼写变体兜底 =====
 正则表达式
-\bAyanokouji\b: 绫小路
 \bAyanokoji\b: 绫小路
-\bHorikita\b: 堀北
-\bKaruizawa\b: 轻井泽
-\bKushida\b: 栉田
-\bIchinose\b: 一之濑
-\bSakayanagi\b: 坂柳
 \bRyuen\b: 龙园
 \bRyūen\b: 龙园
-\bNagumo\b: 南云
-\bChabashira\b: 茶柱
-\bHoshinomiya\b: 星之宫
-\bKoenji\b: 高圆寺
 \bSudo\b: 须藤
-\bHirata\b: 平田
+
