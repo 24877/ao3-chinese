@@ -21,6 +21,7 @@ Yukimura Teruhiko = 幸村 辉彦
 Kouenji Rokusuke = 高圆寺 六助
 Sudou Ken = 须藤 健
 Sudo Ken = 须藤 健
+Sudō Ken = 须藤 健
 Matsushita Chiaki = 松下 千秋
 Hasebe Haruka = 长谷部 波瑠加
 Shinohara Satsuki = 筱原 皋月
