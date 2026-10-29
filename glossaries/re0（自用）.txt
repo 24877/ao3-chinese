@@ -12,7 +12,7 @@ Puck = 帕克
 Rem = 蕾姆
 Ram = 拉姆
 Beatrice = 碧翠丝
-Roswaal L Mathers = 罗兹瓦尔·L·梅札斯
+Roswaal L Mathers = 罗兹瓦尔 L 梅札斯
 Rosewall：罗兹瓦尔
 Al：阿尔
 Otto Suwen = 奥托 苏文
