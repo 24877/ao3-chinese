@@ -40,6 +40,7 @@ Maizono Sayaka = 舞园 沙耶香
 Kuwata Leon = 桑田 怜恩
 Togami Byakuya = 十神 白夜
 Fukawa Toko = 腐川 冬子
+Fukawa Touko = 腐川 冬子
 Genocider Syo = 灭族者 翔
 Asahina Aoi = 朝日奈 葵
 Ogami Sakura = 大神 樱
