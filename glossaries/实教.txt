@@ -110,7 +110,7 @@ Shiranami Chihiro = 白波 千寻
 通用词条
 Ayanokouji Kiyotaka = 绫小路 清隆
 Sakayanagi Arisu = 坂柳 有栖
-Sakayanagi Chairperson = 坂柳 理事长
+Sakayanagi Chairman = 坂柳 理事长
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
 Special Exam = 特别考试
