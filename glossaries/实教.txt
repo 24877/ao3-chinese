@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -6,6 +6,8 @@
 词条
 // —— 1-D 主角团 ——
 Ayanokouji Kiyotaka = 绫小路 清隆
+Ayanokouji：绫小路 
+Kiyotaka：清隆
 Ayanokoji Kiyotaka = 绫小路 清隆
 Ayanokouji Atsuomi = 绫小路 笃臣
 Horikita Suzune = 堀北 铃音
@@ -98,14 +100,6 @@ Shiranami Chihiro = 白波 千寻
 
 
 
-
-// —— 称呼/敬称防误翻 ——
-"Ayanokoji-kun": 绫小路君
-"Horikita-san": 堀北
-"Karuizawa-san": 轻井泽
-"Kushida-san": 栉田
-"Ichinose-san": 一之濑
-"Sakayanagi-san": 坂柳
 
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
