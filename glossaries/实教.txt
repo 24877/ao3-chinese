@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -6,6 +6,7 @@
 词条
 // —— 1-D 主角团 ——
 Ayanokouji Kiyotaka = 绫小路 清隆
+Ayanokoji Kiyotaka = 绫小路 清隆
 Ayanokouji Atsuomi = 绫小路 笃臣
 Horikita Suzune = 堀北 铃音
 Horikita Manabu = 堀北 学
@@ -19,6 +20,7 @@ Yamauchi Haruki = 山内 春树
 Yukimura Teruhiko = 幸村 辉彦
 Kouenji Rokusuke = 高圆寺 六助
 Sudou Ken = 须藤 健
+Sudo Ken = 须藤 健
 Matsushita Chiaki = 松下 千秋
 Hasebe Haruka = 长谷部 波瑠加
 Shinohara Satsuki = 筱原 皋月
@@ -43,7 +45,10 @@ Yagami Takuya = 八神 拓也
 
 // —— 龙园班（1-C / 2-C）——
 Ryūen Kakeru = 龙园 翔
+Ryuen Kakeru = 龙园 翔
+Yamada Albert = 山田 阿尔伯特
 Housen Kazuomi = 宝泉 和臣
+Hosen Kazuomi = 宝泉 和臣
 Ishigami Kyou = 石上 京
 Ishizaki Daichi = 石崎 大地
 Morishige Takurou = 森重 卓郎
@@ -105,6 +110,7 @@ Shiranami Chihiro = 白波 千寻
 通用词条
 Ayanokouji Kiyotaka = 绫小路 清隆
 Sakayanagi Arisu = 坂柳 有栖
+Sakayanagi Chairperson = 坂柳 理事长
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
 Special Exam = 特别考试
@@ -136,10 +142,5 @@ Leadership = 领导能力
 
 
 
-// ===== 正则：长音/拼写变体兜底 =====
-正则表达式
-\bAyanokoji\b: 绫小路
-\bRyuen\b: 龙园
-\bRyūen\b: 龙园
-\bSudo\b: 须藤
+
 
