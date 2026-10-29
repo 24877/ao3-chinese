@@ -53,6 +53,7 @@ Subaru-dono:昴殿下
 Emilia-tan:爱蜜莉雅碳 
 Subaru-kyun:昴卿
 Od Laguna:欧德·拉格纳
+Od：欧德
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
