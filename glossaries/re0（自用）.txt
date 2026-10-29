@@ -38,6 +38,7 @@ Sirius Romannee-Conti = 西里乌斯 罗曼尼康蒂
 Capella Emerada Lugunica = 卡佩拉 埃梅拉达 露格尼卡
 Betty：贝蒂
 Beako：贝亚子
+Great Spirit：大精灵
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
@@ -53,7 +54,6 @@ Witch of Vanity：虚荣魔女
 Sin Archbishop：大罪司教
 Royal Selection：王选
 Half-Elf：半精灵
-Spirit：精灵
 Great Spirit：大精灵
 Mana：玛那
 Oni：鬼族
