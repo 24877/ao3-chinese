@@ -1,12 +1,13 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你的名字
 更新时间：2026-10-23
 
 // 词条：区分大小写，人名/专有名词
 词条
 Yukihira Souma = 幸平 创真
+Yukihira Soma = 幸平 创真
 Yukihira Jouichirou = 幸平 城一郎
-Saiba Jouichirou = 幸平 城一郎
+Saiba Jouichirou：幸平 城一郎
 Nakiri Senzaemon = 薙切 仙左卫门
 Nakiri Erina = 薙切 绘里奈
 Nakiri Alice = 薙切 爱丽丝
@@ -28,7 +29,9 @@ Mito Ikumi = 水户 郁魅
 Aldini Takumi = 阿尔迪尼 巧
 Aldini Isami = 阿尔迪尼 勇
 Kurokiba Ryou = 黑木场 凉
+Kurokiba Ryō = 黑木场 凉
 Houjou Miyoko = 北条 美代子
+Hōjō Miyoko = 北条 美代子
 Hayama Akira = 叶山 亮
 Mimasaka Subaru = 美作 昴
 Isshiki Satoshi = 一色 慧
@@ -58,8 +61,6 @@ Sena Hiromi = 濑奈 广美
 
 
 
-
-
 通用词条
 // 不区分大小写，机构与概念
 Totsuki = 远月
@@ -77,7 +78,6 @@ Stagiaire = 实习
 Molecular Gastronomy = 分子料理
 Chef's Table = 主厨餐桌
 Nakiri Erina = 薙切 绘里奈
-
 
 
 正则表达式
