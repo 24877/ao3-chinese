@@ -12,7 +12,7 @@ Nakiri Senzaemon = 薙切 仙左卫门
 Nakiri Erina = 薙切 绘里奈
 Nakiri Alice = 薙切 爱丽丝
 Nakiri Azami = 薙切 蓟
-Nakamura Azami = 薙切 蓟
+Nakamura Azami：薙切 蓟
 Nakiri Mana = 薙切 真凪
 Saiba Asahi = 才波 朝阳
 Nakiri Leonora = 薙切 蕾欧诺拉
