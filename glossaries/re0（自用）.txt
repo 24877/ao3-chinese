@@ -34,9 +34,10 @@ Meili Portroute = 梅丽 波尔图特
 Echidna = 艾姬多娜
 Satella = 莎缇拉
 Fortuna = 福尔图娜
+Petelgeuse RomaneeConti = 培提尔其乌斯 罗曼尼康蒂
 Lye Batenkaitos = 莱伊 巴登凯托斯
 Regulus Corneas = 雷格鲁斯 柯尼亚斯
-Sirius Romannee-Conti = 西里乌斯 罗曼尼康蒂
+Sirius RomanneeConti = 西里乌斯 罗曼尼康蒂
 Capella Emerada Lugunica = 卡佩拉 埃梅拉达 露格尼卡
 Betty：贝蒂
 Beako：碧翠子
