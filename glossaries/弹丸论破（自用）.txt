@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你
 更新时间：2026-10-28
 
@@ -189,3 +189,13 @@ Ultimate Magician：超高校级的魔术师
 Ultimate Artist：超高校级的艺术家
 Ultimate Adventurer：超高校级的冒险家
 Ultimate Survivor：超高校级的生存者
+Ultimate ???：超高校级的“???”
+Ultimate Assassin：超高校级的刺客
+
+Ultimate Student Council President：超高校级的学生会长 
+Ultimate Housekeeper：超高校级的女佣
+Ultimate Boxer：超高校级的拳击手
+Ultimate Pharmacist：超高校级的药剂师 
+Ultimate Therapist：超高校级的治疗师 
+Ultimate Confectioner：超高校级的点心师
+Ultimate Blacksmith：超高校级的铁匠
