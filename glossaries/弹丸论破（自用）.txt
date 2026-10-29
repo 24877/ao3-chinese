@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你
 更新时间：2026-10-28
 
@@ -205,3 +205,4 @@ Ultimate Spy：超高校级的谍报员
 Ultimate Botanist：超高校级的植物学家
 Ultimate Secretary：超高校级的书记
 Ultimate Analyst：超高校级的分析师
+Ultimate Bodyguard：超高校级的保镖
