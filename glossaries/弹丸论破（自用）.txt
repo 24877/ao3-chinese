@@ -84,7 +84,7 @@ Tengan Kazuo = 天愿 和夫
 Ando Ruruka = 安藤 流流歌
 Kimura Seiko = 忌村 静子
 Gekkogahara Miaya = 月光原 美彩
-Izayoi Sonosuke = 十六夜 园之助
+Izayoi Sonosuke = 十六夜 惣之助
 Munakata Kyosuke = 宗方 京助
 
 // 外传 绝对绝望少女
