@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你
 更新时间：2026-10-28
 
@@ -42,6 +42,7 @@ Togami Byakuya = 十神 白夜
 Fukawa Toko = 腐川 冬子
 Fukawa Touko = 腐川 冬子
 Genocider Syo = 灭族者 翔
+Genocide Jack = 灭族者 翔
 Asahina Aoi = 朝日奈 葵
 Ogami Sakura = 大神 樱
 Ishimaru Kiyotaka = 石丸 清多夏
