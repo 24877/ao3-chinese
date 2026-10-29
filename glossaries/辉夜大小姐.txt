@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -73,12 +73,4 @@ Taketori Monogatari：竹取物语
 
 
 
-正则表达式
-// 处理 Shirogane 不同写法
-\bShirogane\b: 白银
-\bMiyuki Shirogane\b: 白银御行
-\bKei Shirogane\b: 白银圭
 
-// 处理 Shinomiya 不同写法
-\bShinomiya\b: 四宫
-\bKaguya Shinomiya\b: 四宫辉夜
