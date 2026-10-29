@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-10-29
 
@@ -18,7 +18,8 @@ Al：阿尔
 Otto Suwen = 奥托 苏文
 Petra Leyte = 佩特拉 雷蒂
 Patrasche = 帕特拉修
-Frederica Baumann = 弗雷德丽卡 鲍曼
+Frederica Baumann = 弗蕾德里卡 鲍曼
+Fredrica Baumann = 弗蕾德里卡 鲍曼
 Garfiel Tinsel = 加菲尔 汀泽尔
 Felt = 菲鲁特
 Reinhard Van Astrea = 莱因哈鲁特·范·阿斯特雷亚
@@ -42,6 +43,15 @@ Capella Emerada Lugunica = 卡佩拉 埃梅拉达 露格尼卡
 Betty：贝蒂
 Beako：碧翠子
 Great Spirit：大精灵
+Old Man Rom：罗姆爷
+Rom：罗姆爷
+Richardo Welkin = 里卡多 威尔金
+Richardo = 里卡多
+Ricardo = 里卡多
+Big Bro:小哥
+Subaru-dono:昴殿下 
+Emilia-tan:爱蜜莉雅碳 
+Subaru-kyun:昴卿
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
@@ -92,4 +102,4 @@ Royal Guard：近卫骑士团
 Pleiades Watchtower：普莱迪斯监视塔
 Forbidden Library：禁书库
 Barusu：巴鲁斯
-"Emilia-tan"：爱蜜莉雅碳
+
