@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你
 更新时间：2026-10-28
 
@@ -29,7 +29,6 @@ Kuzuryu Natsumi = 九头龙 夏美
 Sato：佐藤
 Monomi：兔美
 Chou Koukou Kyuu no Sagishi = 超高校级的欺诈师
-Ultimate Imposter = 终极冒名者
 "Chou Koukou Kyuu no Sagishi | Ultimate Imposter" = 超高校级的欺诈师 | 终极冒名者
 
 // 1代 角色
