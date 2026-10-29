@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -18,7 +18,9 @@ Nakiri Leonora = 薙切 蕾欧诺拉
 Arato Hisako = 新户 绯沙子
 Tadokoro Megumi = 田所 惠
 Sakaki Ryouko = 榊 凉子
+Sakaki Ryoko = 榊 凉子
 Yoshino Yuuki = 吉野 悠姬
+Yoshino Yuki = 吉野 悠姬
 Marui Zenji = 丸井 善二
 Ibusaki Shun = 伊武崎 峻
 Aoki Daigo = 青木 大吾
@@ -81,5 +83,4 @@ Nakiri Erina = 薙切 绘里奈
 正则表达式
 // 处理英文名常见大小写变体
 \bSōma\b: 创真
-\bYukihira\b: 幸平
-\bNakiri\b: 薙切
+
