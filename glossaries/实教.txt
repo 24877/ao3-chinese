@@ -95,7 +95,7 @@ Sanada Kousei = 真田 康生
 Hashimoto Masayoshi = 桥本 正义
 Sagami Kazuma = 坂上 数马
 Amasawa Ichika = 天泽 一夏
-Ibuki Mio = 伊吹 澪
+Ibuki Mio：伊吹澪
 Shiranami Chihiro = 白波 千寻
 
 
