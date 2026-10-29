@@ -68,7 +68,7 @@ Miyake Akito = 三宅 明人
 Kiriyama Ikuto = 桐山 生叶
 Minamikata Kozue = 南方 小梢
 Amikura Mako = 网仓 麻子
-Yabu Nanami = 薮 菜菜美
+Yabu Nanami：薮菜菜美
 Manabe Shiho = 真锅 志保
 Mori Nene = 森 宁宁
 Inogashira Kokoro = 井之头 心
