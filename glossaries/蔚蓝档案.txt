@@ -1,0 +1,181 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Takanashi Hoshino = 小鸟游 星野
+Sunaookami Shiroko = 砂狼 白子
+Shiroko Terror = 白子 恐怖
+Izayoi Nonomi = 十六夜 野宫
+Kuromi Serika = 黑见 芹香
+Okusora Ayane = 奥空 绫音
+Kuchinashi Yume = 栀子 梦
+Hanuma Makoto = 羽沼 真琴
+Kyogoku Satsuki = 京极 皋月
+Natsume Iroha = 枣 伊吕波
+Tanga Ibuki = 丹花 伊吹
+Motomiya Chiaki = 元宫 千秋
+Sorasaki Hina = 空崎 日奈
+Amau Ako = 天雨 亚子
+Shiromi Iori = 银镜 伊织
+Hinomiya Chinatsu = 火宫 千夏
+Rikuhachima Aru = 陆八魔 爱露
+Onikata Kayoko = 鬼方 佳代子
+Asagi Mutsuki = 浅黄 睦月
+Igusa Haruka = 伊草 遥香
+Kurodate Haruna = 黑馆 晴奈
+Wanibuchi Akari = 鳄渊 亚伽里
+Shishido Izumi = 狮子堂 泉
+Akashi Junko = 赤司 淳子
+Aikiyo Fuuka = 爱清 风华
+Ushimaki Juri = 牛牧 茱莉
+Himuro Sena = 冰室 濑奈
+Kinugawa Kasumi = 鬼怒川 霞
+Shimokura Megu = 下仓 惠
+Hatami Erika = 旗见 绘里香
+Yozakura Kirara = 夜樱 绮罗罗
+Kirifuji Nagisa = 桐藤 渚
+Misono Mika = 圣园 未花
+Yurizono Seia = 百合园 圣亚
+Kenzaki Tsurugi = 剑先 弦生
+Hanekawa Hasumi = 羽川 莲实
+Shizuyama Mashiro = 静山 麻白
+Nakamasa Ichika = 仲正 一花
+Utazumi Sakurako = 歌住 樱子
+Wakaba Hinata = 若叶 日向
+Iochi Marie = 伊落 玛丽
+Ajitani Hifumi = 阿慈谷 日富美
+Urawa Hanako = 白洲 花子
+Shirasu Azusa = 白洲 梓
+Shimoe Koharu = 下江 小春
+Kurimura Airi = 栗村 爱莉
+Ibaraki Yoshimi = 伊原木 喜美
+Yutori Natsu = 柚鸟 夏
+Kyoyama Kazusa = 杏山 千纱
+Aomori Mine = 苍森 美弥
+Sumi Serina = 鹫见 芹奈
+Asagao Hanae = 朝颜 花绘
+Kozeki Ui = 古关 忧
+Endo Shimiko = 圆堂 志美子
+Morizuki Suzumi = 守月 铃美
+Uzawa Reisa = 宇泽 玲纱
+Jomaе Saori = 锭前 纱织
+Hakari Atsuko = 秤 亚津子
+Imashino Misaki = 戒野 美咲
+Tsuchinaga Hiyori = 槌永 日和
+Tsukatsuki Rio = 调月 莉音
+Hayase Yuuka = 早濑 优香
+Ushio Noa = 生盐 乃爱
+Kurosaki Koyuki = 黑崎 小雪
+Mikamo Neru = 美甘 宁瑠
+Ichinose Asuna = 一之濑 明日奈
+Kakudate Karin = 角楯 花凛
+Murokasa Akane = 室笠 茜
+Asuma Toki = 飞鸟马 时
+Hanaoka Yuzu = 花冈 柚子
+Saiba Momoi = 才羽 桃井
+Saiba Midori = 才羽 绿
+Tendou Arisu = 天童 爱丽丝
+Kei = 凯伊
+Shiraishi Utaha = 白石 咏叶
+Nekozuka Hibiki = 猫冢 响
+Toyomi Kotori = 丰见 小鸠
+Kagami Chihiro = 各务 千寻
+Otose Kotama = 音濑 小玉
+Omagari Hare = 小钩 晴
+Konuri Maki = 小涂 真纪
+Akeboshi Himari = 和泉元 英美
+Izumimoto Eimi = 和泉元 绘美
+Nomasa Rei = 野正 丽
+Otohana Sumire = 乙花 堇
+Renkawa Cherino = 连河 切里诺
+Sashiro Tomoe = 佐城 巴
+Ikekura Marina = 池仓 真里奈
+Miyama Shigure = 间宵 时雨
+Akemoji Momiji = 秋泉 红叶
+Himeki Mero = 姬木 芽瑠
+Yasumori Minori = 安守 实里
+Kuwagami Fina = 朝比奈 菲娜
+Kasagake Chise = 桑上 嘉穗
+Wakara Chiyo = 和乐 知世
+Amabuki Izuna = 天雨 泉奈
+Kuzunoe Kaede = 葛叶 枫
+Shikisо Kikyou = 七棱 桔梗
+Mikado Nagusa = 御棱 名草
+Fuwa Renge = 不破 莲华
+Kiryu Yukari = 桐生 紫
+Riobayashi Tsubaki = 里滨 海香
+Mizuba Mitsumori = 水羽 三森
+Isami Kaede = 勇美 枫
+Harubi Tsubaki = 春日 椿
+Kisaki Kokona = 药子 纱绫
+Harubara Shun = 春原 瞬
+Konoe Minato = 近卫 南
+Shujo Rumi = 朱城 瑠海
+Harubara Kokona = 春原 心奈
+Ryuka Hikari = 龙华 妃咲
+Fubuki Kanna = 合欢垣 吹雪
+Onoha Kanna = 尾刃 康娜
+Kanoe Eri = 中务 桐乃
+Miyo Fuyu = 妙 冬
+Rena Ritsu = 玲奈 律
+Kurumi Miyako = 月雪 宫子
+Sora Saki = 空井 咲
+Otogi Miyu = 霞泽 美游
+Moe Fuuka = 风仓 萌绘
+Niko = 妮可
+Arona = 阿罗娜
+Plana = 普拉娜
+Sora = 空
+Sensei = 老师
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Blue Archive：蔚蓝档案
+Kivotos：基沃托斯
+Schale：沙勒
+Sensei：老师
+General Student Council：联邦学生会
+Halo：光环
+Total Assault：总力战
+Pyroxene：青辉石
+Abydos High School：阿拜多斯高中
+Gehenna Academy：格黑娜学园
+Millennium Science School：千年科学学园
+Trinity General School：三一综合学园
+Hyakkiyako Academy： 《百鬼夜行》联合学园
+Red Winter Federal Academy：红冬联邦学园
+Shanhaijing Academy： 《山海经》学园
+Arius Satellite School：阿里乌斯卫星学园
+SRT Academy：SRT学园
+Valkyrie Police School：瓦尔基丽警察学园
+Wildhunt Art Academy：野猎美术学园
+Foreclosure Task Force：对策委员会
+Pandemonium Society：万魔殿
+Prefect Team：风纪委员会
+Problem Solver 68：便利屋68
+Gourmet Research Society：美食研究会
+School Lunch Club：供给部
+Medical Emergency Club：急救医学部
+Hot Springs Development Department：温泉开发部
+Going Home Club：闪闪发光部
+Tea Party：茶会
+Make-Up Work Club：补课部
+Militant Justice Task Force：实现正义部
+After-School Sweets Club：放学后甜点部
+Remedial Knights：救护骑士团
+Library Committee：图书部
+Vigilante Crew：三一自卫队
+Sisterhood：修女会
+Seminar：研讨会
+Game Development Department：游戏开发部
+Engineering Department：工程师部
+Veritas：贝里塔斯
+C&C：C&C
+Training Club：训练部
+Super Phenomenon Task Force：超现象特务部
+Pseudoscience Club：伪科学部
+Red Winter Secretariat：红冬秘书处
+Red Winter Guard：红冬亲卫队
+Independent Federal Investigation Club：独立联邦调查部
