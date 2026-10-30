@@ -1,0 +1,85 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+  
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Denji = 电次
+Pochita = 波奇塔
+Makima = 玛奇玛
+Hayakawa Aki = 早川 秋
+Power = 帕瓦
+Himeno = 姬野
+Kishibe = 岸边
+Higashiyama Kobeni = 东山 小红
+Arai Hirokazu = 荒井 博一
+Madoka = 圆
+Kurose Yutaro = 黑濑 勇太郎
+Tendo Michiko = 天童 美智子
+Sawatari Akane = 泽渡 茜
+Reze = 蕾塞
+Quanxi = 川西
+Yoshida Hirofumi = 吉田 宽文
+Mitaka Asa = 三鹰 朝
+Yoru = 夜
+Fami = 饥馑
+Nayuta = 那由多
+Beam = 毕姆
+Galgali = 加尔加利
+Cosmo = 科斯莫
+Long = 龙
+Pingtsi = 普琳西
+Tsugihagi = 拼凑怪
+Santa Claus = 圣诞老人
+Barem Bridge = 巴雷姆 布里奇
+Katana Man = 武士刀
+Miri Sugo = 须乡 未来
+Fumiko Mifune = 三船 文子
+Taiyo Hayakawa = 早川 大洋
+Angel Devil = 天使恶魔
+Fox Devil = 狐狸恶魔
+Future Devil = 未来恶魔
+Curse Devil = 诅咒恶魔
+Ghost Devil = 幽灵恶魔
+Blood Devil = 血之恶魔
+Bomb Devil = 炸弹恶魔
+Gun Devil = 枪之恶魔
+Chainsaw Devil = 电锯恶魔
+Control Devil = 支配恶魔
+War Devil = 战争恶魔
+Famine Devil = 饥饿恶魔
+Death Devil = 死亡恶魔
+Punishment Devil = 惩罚恶魔
+Darkness Devil = 黑暗恶魔
+Falling Devil = 坠落恶魔
+Eternity Devil = 永远恶魔
+Zombie Devil = 僵尸恶魔
+Leech Devil = 水蛭恶魔
+Spider Devil = 蜘蛛恶魔
+Doll Devil = 人偶恶魔
+Shark Devil = 鲨鱼恶魔
+Bat Devil = 蝙蝠恶魔
+Needle Devil = 针之恶魔
+Tomato Devil = 番茄恶魔
+Justice Devil = 正义恶魔
+Violence Devil = 暴力魔人
+Meowy = 喵呜
+  
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Chainsaw Man：电锯人
+Devil：恶魔
+Fiend：魔人
+Hybrid：混种
+Devil Hunter：恶魔猎人
+Public Safety：公安
+Special Division 4：对魔特异4课
+Contract：契约
+Fear：恐惧
+Hell：地狱
+Heart：心脏
+Chainsaw：电锯
+Primordial Fear：原初恐惧
+Four Horsemen：四骑士
+Weapon Human：武器人
+Shared Body：共用身体
