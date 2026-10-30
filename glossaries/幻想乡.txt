@@ -1,0 +1,187 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+  
+词条
+// 此区域区分大小写，用于翻译人名、地名、组织名等专有名词
+// 人名遵循 姓在前、名在后；英文与中文均用空格分隔姓与名
+Hakurei Reimu = 博丽 灵梦
+Kirisame Marisa = 雾雨 魔理沙
+Rumia = 露米娅
+Daiyousei = 大妖精
+Cirno = 琪露诺
+Hong Meiling = 红 美铃
+Koakuma = 小恶魔
+Patchouli Knowledge = 帕秋莉 诺蕾姬
+Izayoi Sakuya = 十六夜 咲夜
+Remilia Scarlet = 蕾米莉亚 斯卡蕾特
+Flandre Scarlet = 芙兰朵露 斯卡蕾特
+Letty Whiterock = 蕾蒂 霍瓦特洛克
+Chen = 橙
+Alice Margatroid = 爱丽丝 玛格特罗伊德
+Lily White = 莉莉白
+Lunasa Prismriver = 露娜萨 普莉兹姆利巴
+Merlin Prismriver = 梅露兰 普莉兹姆利巴
+Lyrica Prismriver = 莉莉卡 普莉兹姆利巴
+Konpaku Youmu = 魂魄 妖梦
+Saigyouji Yuyuko = 西行寺 幽幽子
+Yakumo Ran = 八云 蓝
+Yakumo Yukari = 八云 紫
+Ibuki Suika = 伊吹 萃香
+Wriggle Nightbug = 莉格露 奈特巴格
+Mystia Lorelei = 米斯蒂娅 萝蕾拉
+Kamishirasawa Keine = 上白泽 慧音
+Inaba Tewi = 因幡 帝
+Reisen Udongein Inaba = 铃仙 优昙华院 因幡
+Yagokoro Eirin = 八意 永琳
+Houraisan Kaguya = 蓬莱山 辉夜
+Fujiwarano Mokou = 藤原 妹红
+Syameimaru Aya = 射命丸 文
+Medicine Melancholy = 梅蒂欣 梅兰克莉
+Kazami Yuka = 风见 幽香
+Onozuka Komachi = 小野塚 小町
+Shikieiki Yamaxanadu = 四季映姬 亚玛萨那度
+Aki Shizuha = 秋 静叶
+Aki Minoriko = 秋 穰子
+Kagiyama Hina = 键山 雏
+Kawashiro Nitori = 河城 荷取
+Inubashiri Momiji = 犬走 椛
+Kochiya Sanae = 东风谷 早苗
+Yasaka Kanako = 八坂 神奈子
+Moriya Suwako = 泄矢 诹访子
+Nagae Iku = 永江 衣玖
+Hinanawi Tenshi = 比那名居 天子
+Kisume = 琪丝美
+Kurodani Yamame = 黑谷 山女
+Mizuhashi Parsee = 水桥 帕露茜
+Hoshiguma Yugi = 星熊 勇仪
+Komeiji Satori = 古明地 觉
+Kaenbyou Rin = 火焰猫 燐
+Reiuzi Utsuho = 灵乌路 空
+Komeiji Koishi = 古明地 恋
+Nazrin = 纳兹琳
+Tatara Kogasa = 多多良 小伞
+Kumoi Ichirin = 云居 一轮
+Unzan = 云山
+Murasa Minamitsu = 村纱 水蜜
+Toramaru Shou = 寅丸 星
+Hijiri Byakuren = 圣 白莲
+Houjuu Nue = 封兽 鵺
+Himekaidou Hatate = 姬海棠 果
+Kasodani Kyouko = 幽谷 响子
+Miyako Yoshika = 宫古 芳香
+Kaku Seiga = 霍 青娥
+Soga no Tojiko = 苏我 屠自古
+Mononobe no Futo = 物部 布都
+Toyosatomimi no Miko = 丰聪耳 神子
+Hutatsuiwa Mamizou = 二岩 猯藏
+Hatano Kokoro = 秦 心
+Sunny Milk = 桑妮 米尔克
+Luna Child = 露娜 切露德
+Star Sapphire = 斯塔 塞菲尔
+Komano Aunn = 高丽野 阿吽
+Yadokoro Narumi = 矢田寺 成美
+Usami Sumireko = 宇佐见 堇子
+Hakurei = 博丽
+Kirisame = 雾雨
+Scarlet = 斯卡蕾特
+Prismriver = 普莉兹姆利巴
+Yakumo = 八云
+Saigyouji = 西行寺
+Konpaku = 魂魄
+Kochiya = 东风谷
+Moriya = 守矢
+Gensokyo = 幻想乡
+Hakurei Shrine = 博丽神社
+Scarlet Devil Mansion = 红魔馆
+Myouren Temple = 命莲寺
+Eientei = 永远亭
+Hall of Dreams Great Mausoleum = 白玉楼
+Moriya Shrine = 守矢神社
+Forest of Magic = 魔法森林
+Misty Lake = 雾之湖
+Bamboo Forest of the Lost = 迷途竹林
+Human Village = 人间之里
+Youkai Mountain = 妖怪之山
+Underground = 地底
+Netherworld = 冥界
+Heaven = 天界
+Moon Capital = 月都
+Kourindou = 香霖堂
+Suzunaan = 铃奈庵
+  
+通用词条
+// 此区域不区分大小写，用于翻译通用概念、种族、职位、设定词
+youkai：妖怪
+human：人类
+fairy：妖精
+magician：魔法使
+witch：魔女
+vampire：吸血鬼
+shrine maiden：巫女
+maid：女仆
+onmyouji：阴阳师
+sage：贤者
+hermit：隐者
+god：神明
+kami：神
+celestial：天人
+ghost：亡灵
+spirit：精灵
+poltergeist：骚灵
+tengu：天狗
+kappa：河童
+kappa engineer：河童工程师
+bake-danuki：化狸
+tanuki：狸妖
+oni：鬼
+rabbit：兔
+moon rabbit：月兔
+hell raven：地狱鸦
+cat youkai：猫妖
+nue：鵺
+mamono：魔物
+half-youkai：半妖
+half-human half-youkai：半人半妖
+half-ghost：半灵
+phoenix：不死鸟
+immortal：不死人
+hourai immortal：蓬莱人
+lunarian：月之民
+border：境界
+barrier：结界
+great hakurei barrier：博丽大结界
+yukari border：虚幻与现实的境界
+netherworld border：幽明结界
+spell card：符卡
+spellcards：符卡
+last spell：后符
+non-spell：非符
+last word：绝技
+danmaku：弹幕
+incident：异变
+spring snow incident：春雪异变
+red mist incident：红雾异变
+eternal night incident：永夜异变
+mountain of faith incident：风神异变
+flower incident：花之异变
+master spark：极限火花
+scarlet devil：绯红恶魔
+dream seal：梦想封印
+cherry blossom：樱花
+saigyou ayakashi：西行妖
+bamboo of the lost：迷途竹
+gap：隙间
+gap youkai：隙间妖怪
+boundary youkai：境界妖怪
+ability：能力
+power：力量
+faith：信仰
+offerings：供品
+omamori：御守
+season：季
+first season： 《第一季》
+one hundred eighteenth season：第一百一十八季
+full moon：满月
+new moon：新月
+youkai lunar calendar：妖怪太阴历
