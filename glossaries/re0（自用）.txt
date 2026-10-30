@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你
 更新时间：2026-10-29
 
@@ -54,6 +54,13 @@ Emilia-tan:爱蜜莉雅碳
 Subaru-kyun:昴卿
 Od Laguna:欧德·拉格纳
 Od：欧德
+Minerva = 密涅瓦
+Typhon = 缇丰
+Daphne = 达芙妮
+Sekhmet = 赛赫麦特
+Carmilla = 卡蜜拉
+Pandora = 潘朵拉
+Hector = 赫克托
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
@@ -72,6 +79,9 @@ Witch of Pride:傲慢魔女
 Witch of Sloth:怠惰魔女
 Witch of Vanity:虚饰魔女
 Witch of Wrath:愤怒魔女
+"the Witch"：魔女（特指莎缇拉）
+"the first Witch"：最初的魔女（艾姬多娜）
+"the Witch who devoured the world"：吞噬世界的魔女（莎缇拉）
 Nee-sama:姐姐大人
 Sanctuary:圣域
 contractor:契约者
