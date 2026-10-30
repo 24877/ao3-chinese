@@ -1,0 +1,101 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Kamijou Touma = 上条 当麻
+Index Librorum Prohibitorum = 茵蒂克丝
+Index = 茵蒂克丝
+Misaka Mikoto = 御坂 美琴
+Accelerator = 一方 通行
+Shirai Kuroko = 白井 黑子
+Kanzaki Kaori = 神裂 火织
+Stiyl Magnus = 史提尔 马格努斯
+Tsuchimikado Motoharu = 土御门 元春
+Himegami Aisa = 姬神 秋沙
+Last Order = 最后 之作
+Misaka Worst = 御坂 恶
+Hamazura Shiage = 滨面 仕上
+Fremea Seivelun = 芙蕾梅亚 塞维伦
+Komaba Ritoku = 驹场 利德
+Uiharu Kazari = 初春 饰利
+Saten Ruiko = 佐天 泪子
+Fukiyose Seiri = 吹寄 制理
+Tsukuyomi Komoe = 月咏 小萌
+Yomikawa Aiho = 黄泉川 爱穗
+Amai Ao = 天井 亚雄
+Yoshikawa Kikyou = 芳川 桔梗
+Kazakiri Hyouka = 风斩 冰华
+Musujime Awaki = 结标 淡希
+Tatemiya Saiji = 建宫 斋字
+Itsuwa = 五 和
+Orsola Aquinas = 奥索拉 阿奎纳
+Agnese Sanctis = 雅妮丝 桑提斯
+Laura Stuart = 萝拉 斯图尔特
+Aleister Crowley = 亚雷斯塔 克劳利
+Shelly Cromwell = 雪莉 克伦威尔
+Oriana Thomson = 欧莉安娜 汤姆森
+Ridovia Lorenzatti = 丽多薇雅 罗伦婕蒂
+Misha Croitsef = 米夏 克洛伊洁芙
+Sasha Croitsef = 莎夏 克洛伊洁芙
+Knight Leader = 骑士 团长
+Leivinia Birdway = 蕾薇妮雅 柏德蔚
+Frontier Sargasso = 捣蛋鬼
+Othinus = 欧提努斯
+Fiamma of the Right = 右方 之火
+Aquila of the Left = 左方 之地
+Vento of the Front = 前方 之风
+Terra of the Left = 后方 之水
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Academy City：学园都市
+Necessarius：必要之恶教会
+Anglican Church：英国清教
+Roman Orthodox：罗马正教
+Russian Orthodox：俄罗斯成教
+Amakusa-Style Cross-Church：天草式十字凄教
+Golden Dawn：黄金黎明
+Dawn-Colored Sunlight：黎明晨光
+Skill-Out：武装无能力集团
+Anti-Skill：警备员
+Judgment：风纪委员
+GROUP：集团
+Item：道具
+Member：成员
+Block：区块
+School：学校
+Dark Side：暗部
+Level 0：无能力者
+Level 1：低能力者
+Level 2：异能力者
+Level 3：强能力者
+Level 4：大能力者
+Level 5：超能力者
+Level 6：绝对能力者
+Imagine Breaker：幻想杀手
+Railgun：超电磁炮
+Teleport：空间移动
+Telekinesis：念动力
+Personal Reality：只属于自己的现实
+AIM Diffusion Field：AIM扩散力场
+Original Gemstone：原石
+Spell Intercept：强制咏唱
+John's Pen：自动书记
+Mobile Church：移动教会
+Index Librorum Prohibitorum：禁书目录
+Grimoire：魔道书
+Runes：卢恩符文
+Cabbalah：卡巴拉
+Angel：天使
+Saint：圣人
+Archangel：大天使
+God's Right Seat：神之右席
+Tree Diagram：树形图设计者
+Misaka Network：御坂网络
+Clone：克隆体
+Emotional Detectors：感情制御装置
+Learning Device：学习装置
+Drive Armor：驱动铠
+HsAFH-11：六枚羽
