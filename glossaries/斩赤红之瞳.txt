@@ -1,0 +1,81 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Akame = 赤瞳
+Tatsumi = 塔兹米
+Mine = 玛茵
+Leone = 雷欧奈
+Bulat = 布兰德
+Sheele = 希尔
+Lubbock = 拉伯克
+Najenda = 娜洁希坦
+Susanoo = 须佐之男
+Esdeath = 艾斯德斯
+Kurome = 黑瞳
+Wave = 威尔
+Seryu Ubiquitous = 赛琉 尤比基塔斯
+Bols = 波鲁斯
+Dr Stylish = Dr 时尚
+Budo = 布德
+Honest = 奥内斯特
+Syura = 席拉
+Chelsea = 切尔茜
+Ieyasu = 伊耶亚斯
+Sayo = 莎悠
+Aria = 艾莉亚
+Zanku = 赞克
+Ouka = 欧卡
+Gozuki = 戈兹齐
+Liver = 利瓦
+Nyau = 妮乌
+Daidara = 达伊达拉
+Koro = 小比
+Yatsufusa = 八房
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Night Raid：夜袭
+Jaegers：狩人
+Wild Hunt：狂野猎犬
+Three Beasts：三兽士
+Rakshasa Demons：罗刹四鬼
+Teigu：帝具
+Shingu：臣具
+Danger Beast：危险种
+Super Danger Beast：超危险种
+Revolutionary Army：革命军
+Imperial Capital：帝都
+Empire：帝国
+One Cut Killer: Murasame：一斩必杀·村雨
+Demon Armor: Incursio：恶鬼缠身·入侵
+Animal King Form: Lionelle：百兽王化·狮子王
+Roman Artillery: Pumpkin：浪漫炮台·南瓜
+Infinite Uses: Cross Tail：千变万化·交叉之尾
+Cutter of Creation: Extase：万物两断·销魂
+The Speed of Lightning: Susanoo：电光石火·须佐之男
+Phantasmagoria: Gaea Foundation：变身自在·盖亚粉底
+Demon God Manifestation: Demon's Extract：魔神显现·恶魔之粹
+March of the Dead: Yatsufusa：死者行军·八房
+Carnage Incarnate: Grand Chariot：修罗化身·贵族战车
+Magical Beast Transformation: Hekatonkheires：魔兽变化·百臂巨人
+Glorious Hands of God: Perfector：神之御手·完美者
+Thousand-Mile Flight: Mastema：万里飞翔·莫斯提马
+Purgatory's Invitation: Rubicante：炼狱招致·路比冈德
+Water Dragon Possession: Black Marlin：水龙凭依·黑马林
+Military Music Dream:  《Scream》：军乐梦想·尖啸
+Double Bladed Axe: Belvaac：两柄大斧·贝尔瓦克
+Omnipotent Five Sights: Spectator：五视万能·观察者
+Absolute Limitation: Erastone：绝对限制·伊雷斯顿
+Imperial Guardian: Shikoutazer：护国机神·至高王座
+Thunder God's Rage: Adramelech：雷神愤怒·亚得米勒
+Dimensional Formation: Shambhalla：次元方阵·香格里拉
+Blood Collection: Absordex：血液收集·极速吸取
+Great Tremor: Heavy Pressure：大地鸣动·重压力
+Moonlight Sword Dance: Shamshir：月光丽舞·风刃剑
+Chaos Throw: Big Leaguer：快投乱麻·大投手
+The Complete Book Of The World: Rongo Rongo：世界全书·隆戈隆戈
+The Mysterious: Adayusu：奇奇怪怪·阿达由斯
+Power Surging: Balzac：力量涌动·巴尔扎克
