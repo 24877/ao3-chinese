@@ -1,0 +1,91 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Inuyasha = 犬夜叉
+Higurashi Kagome = 日暮 戈薇
+Sesshomaru = 杀生丸
+Miroku = 弥勒
+Sango = 珊瑚
+Shippo = 七宝
+Kirara = 云母
+Kohaku = 琥珀
+Kaede = 枫
+Kikyo = 桔梗
+Rin = 玲
+Jaken = 邪见
+Myoga = 冥加
+Totosai = 刀刀斋
+A Un = 阿吽
+Koga = 钢牙
+Ayame = 菖蒲
+Ginta = 银太
+Hakkaku = 白角
+Kai = 灰
+Naraku = 奈落
+Kagura = 神乐
+Kanna = 神无
+Goshinki = 悟心鬼
+Juromaru = 兽郎丸
+Kageromaru = 影郎丸
+Muso = 无双
+Akago = 赤子
+Hakudoshi = 白童子
+Byakuya = 梦幻白夜
+Moryomaru = 魍魉丸
+Bankotsu = 蛮骨
+Renkotsu = 炼骨
+Jakotsu = 蛇骨
+Suikotsu = 睡骨
+Kyokotsu = 凶骨
+Ginkotsu = 银骨
+Mukotsu = 雾骨
+Izayoi = 十六夜
+Toga = 斗牙王
+Soten = 椿
+Midoriko = 翠子
+Honekui no Ido = 食骨之井
+Goshinboku = 御神木
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Shikon no Tama：四魂之玉
+Jewel Shard：四魂之玉碎片
+Shikon Jewel：四魂之玉
+Tetsusaiga：铁碎牙
+Tenseiga：天生牙
+So'unga：丛云牙
+Kongosoha：金刚枪破
+Meidou Zangetsuha：冥道残月破
+Kaze no Kizu：风之伤
+Bakuryuha：爆流破
+Hijin Kesso：飞刃血爪
+Sankon Tesso：散魂铁爪
+Hiraikotsu：飞来骨
+Kazana：风穴
+Kotodama no Nenju：言灵念珠
+Beads of Subjugation：言灵念珠
+Hanyo：半妖
+Daiyokai：大妖怪
+Yokai：妖怪
+Miko：巫女
+Shikon：四魂
+Ara-mitama：荒魂
+Nigi-mitama：和魂
+Kushi-mitama：奇魂
+Saki-mitama：幸魂
+Naotama：直灵
+Magotama：曲灵
+Kitsune：狐妖
+Fox Fire：狐火
+Fire-Rat Robe：火鼠裘
+Bone Eater's Well：食骨之井
+Feudal Era：战国时代
+Sengoku Jidai：战国时代
+God Tree：御神木
+Miasma：瘴气
+Barrier：结界
+Sacred Arrow：破魔之箭
+Purifying Arrow：净化之箭
