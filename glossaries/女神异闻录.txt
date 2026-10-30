@@ -1,0 +1,108 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// === 女神异闻录5 ===
+Ren Amamiya = 雨宫 莲
+Ryuji Sakamoto = 坂本 龙司
+Ann Takamaki = 高卷 杏
+Morgana = 摩尔加纳
+Yusuke Kitagawa = 喜多川 祐介
+Makoto Niijima = 新岛 真
+Futaba Sakura = 佐仓 双叶
+Haru Okumura = 奥村 春
+Goro Akechi = 明智 吾郎
+Kasumi Yoshizawa = 芳泽 霞
+Sojiro Sakura = 佐仓 惣治郎
+Takemi Tae = 武见 妙
+
+// === 女神异闻录4 ===
+Yu Narukami = 鸣上 悠
+Yosuke Hanamura = 花村 阳介
+Chie Satonaka = 里中 千枝
+Yukiko Amagi = 天城 雪子
+Kanji Tatsumi = 巽 完二
+Rise Kujikawa = 久慈川 理世
+Teddie = 小熊
+Naoto Shirogane = 白钟 直斗
+Marie = 玛丽
+Ryotaro Dojima = 堂岛 辽太郎
+Nanako Dojima = 堂岛 菜菜子
+Tohru Adachi = 足立 透
+Labrys = 拉比莉斯
+
+// === 女神异闻录3 ===
+Makoto Yuki = 结城 理
+Yukari Takeba = 岳羽 由加莉
+Junpei Iori = 伊织 顺平
+Mitsuru Kirijo = 桐条 美鹤
+Akihiko Sanada = 真田 明彦
+Fuuka Yamagishi = 山岸 风花
+Aigis = 埃癸斯
+Koromaru = 虎狼丸
+Ken Amada = 天田 乾
+Shinjiro Aragaki = 荒垣 真次郎
+Metis = 墨提斯
+Pharos = 法洛斯
+Ryoji Mochizuki = 望月 绫时
+
+// === 女神异闻录2 罪 / 罚 ===
+Tatsuya Suou = 周防 达哉
+Maya Amano = 天野 舞耶
+Lisa Silverman = 丽莎 希尔弗曼
+Eikichi Mishina = 三科 荣吉
+Katsuya Suou = 周防 克哉
+Ulala Serizawa = 濑良 宇来
+Baofu = 包夫
+
+// === 女神异闻录1 ===
+Kei Nanjo = 南条 圭
+Masao Inaba = 稻叶 正男
+Maki Sonomura = 园村 真希
+Yukino Mayuzumi = 黛 雪野
+Eriko Kirishima = 桐岛 英理子
+Hidehiko Uesugi = 上杉 秀彦
+Reiji Kido = 城户 玲司
+
+// === 跨作品角色（天鹅绒房间） ===
+Igor = 伊格尔
+Caroline = 卡萝莉娜
+Justine = 芮丝汀娜
+Lavenza = 拉雯妲
+Margaret = 玛格丽特
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Persona：人格面具
+Shadow：阴影
+Palace：殿堂
+Mementos：印象空间
+Metaverse：认知世界
+Velvet Room：天鹅绒房间
+Phantom Thieves：怪盗团
+Wild Card：万能之弧
+Arcana：阿尔卡纳
+Confidant：协助者
+Social Link：社群
+Showtime：联合绝技
+One More：追加攻击
+Treasure Demon：宝魔
+Cognition：认知
+Desire：欲望
+Secret Treasure：秘宝
+Distortion：扭曲
+Awakening：觉醒
+Fusion：合体
+Execution：处刑
+Nav：异世界导航
+Full Moon Operation：满月作战
+Dark Hour：影时间
+Midnight Channel：深夜电视
+TV World：电视世界
+Investigation Team：特别搜查队
+SEES：特别课外活动部
+Evoker：召唤器
+All-Out Attack：总攻击
+Baton Pass：接力棒
+Technical：技术攻击
