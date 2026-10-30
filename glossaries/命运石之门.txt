@@ -1,0 +1,53 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名、称号等专有名词
+Okabe Rintaro = 冈部 伦太郎
+Hououin Kyoma = 凤凰院 凶真
+Makise Kurisu = 牧濑 红莉栖
+Shiina Mayuri = 椎名 真由理
+Hashida Itaru = 桥田 至
+Amane Suzuha = 阿万音 铃羽
+Urushibara Luka = 漆原 琉华
+Faris NyanNyan = 菲利斯 喵喵
+Akiha Rumiho = 秋叶 留未穗
+Kiryu Moeka = 桐生 萌郁
+Tennouji Yuugo = 天王寺 裕吾
+Tennouji Nae = 天王寺 绹
+Nakabachi = 中钵
+Hiyajo Maho = 比屋定 真帆
+Leskinen Alexis = 亚历克西斯 雷斯金南
+Shiina Kagari = 椎名 香香里
+Amane Yuki = 阿万音 由季
+Urushibara Eisuke = 漆原 荣辅
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Future Gadget Laboratory：未来道具研究所
+Lab Mem：未来道具研究所成员
+Reading Steiner：命运探知之魔眼
+World Line：世界线
+Attractor Field：世界线收束范围
+World Line Convergence：世界线收束
+Divergence Meter：世界线变动率计量器
+D-Mail：D邮件
+Phone Microwave：电话微波炉（暂定）
+Time Leap Machine：时间跳跃机
+Time Leap：时间跳跃
+SERN：SERN
+Rounder：圆滚者
+IBN 5100：IBN5100
+Viktor Chondria University：维克多 孔多利亚大学
+Amadeus：阿玛迪斯
+CRT Shop：显像管工房
+May Queen Nyan Nyan：五月女王 喵喵
+EL PSY KONGROO：一切都是 《命运石之门》的选择
+Steins;Gate：命运石之门
+Alpha Attractor Field：α世界线收束范围
+Beta Attractor Field：β世界线收束范围
+Steins Gate World Line：命运石之门世界线
+Tuturu：嘟嘟噜
+Stardust Handshake：星尘握手
+Dr Pepper：博士可乐
