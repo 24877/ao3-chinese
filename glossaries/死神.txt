@@ -1,311 +1,212 @@
-版本号：1.0.0
-维护者：你的名字
-更新时间：2026-10-23
+版本号:1.0.1
+维护者:你
+更新时间:2026-10-30
 
-// ===== 词条：区分大小写，人名/斩魄刀真名 =====
 词条
-// —— 主角团 / 现世组 ——
-Ichigo Kurosaki = 黑崎一护
-Isshin Kurosaki = 黑崎一心
-Masaki Kurosaki = 黑崎真咲
-Karin Kurosaki = 黑崎夏梨
-Yuzu Kurosaki = 黑崎游子
-Orihime Inoue = 井上织姬
-Uryu Ishida = 石田雨龙
-Chad = 茶渡泰虎
-Yasutora Sado = 茶渡泰虎
-Kisuke Urahara = 浦原喜助
-Yoruichi Shihoin = 四枫院夜一
-Tessai Tsukabishi = 握菱铁斋
-Ururu Tsumugiya = 紬屋雨
-Jinta Hanakari = 花刈甚太
-Karin = 夏梨
-
-// —— 护廷十三队（队长/副队长）——
-Genryusai Yamamoto = 山本元柳斋重国
-Chojiro Sasakibe = 雀部长次郎
-Soi Fon = 砕蜂
-Marechiyo Omaeda = 大前田希千代
-Gin Ichimaru = 市丸银
-Izuru Kira = 吉良伊鹤
-Retsu Unohana = 卯之花烈
-Isane Kotetsu = 虎彻勇音
-Sosuke Aizen = 蓝染惣右介
-Momo Hinamori = 雏森桃
-Byakuya Kuchiki = 朽木白哉
-Renji Abarai = 阿散井恋次
-Sajin Komamura = 狛村左阵
-Tetsuzaemon Iba = 射场铁左卫门
-Shunsui Kyoraku = 京乐春水
-Nanao Ise = 伊势七绪
-Kensei Muguruma = 拳西
-Mashiro Kuna = 久南白
-Toshiro Hitsugaya = 日番谷冬狮郎
-Rangiku Matsumoto = 松本乱菊
-Kenpachi Zaraki = 更木剑八
-Yachiru Kusajishi = 草鹿八千流
-Ikkaku Madarame = 斑目一角
-Yumichika Ayasegawa = 绫濑川弓亲
-Mayuri Kurotsuchi = 涅茧利
-Nemu Kurotsuchi = 涅音梦
-Hiyori Sarugaki = 猿柿日世里
-Lisa Yadomaru = 矢胴丸莉莎
-Hachigen Ushoda = 有昭田钵玄
-Love = 爱川罗武
-Rojuro Otoribashi = 凤桥楼十郎
-Shinji Hirako = 平子真子
-Kaname Tosen = 东仙要
-Sui-Feng = 砕蜂
-
-// —— 假面军势 ——
-Shinji Hirako = 平子真子
-Hiyori Sarugaki = 猿柿日世里
-Hachigen Ushoda = 有昭田钵玄
-Lisa Yadomaru = 矢胴丸莉莎
-Love Aikawa = 爱川罗武
-Rojuro Otoribashi = 凤桥楼十郎
-Kensei Muguruma = 拳西
-Mashiro Kuna = 久南白
-
-// —— 虚圈 / 破面 ——
-Sosuke Aizen = 蓝染惣右介
-Gin Ichimaru = 市丸银
-Kaname Tosen = 东仙要
-Ulquiorra Cifer = 乌尔奇奥拉·西法
-Grimmjow Jaegerjaques = 葛力姆乔·贾卡杰克
-Nnoitra Gilga = 诺伊特拉·吉尔加
-Nel Tu = 妮露·杜
-Nelliel Tu Odelschwanck = 妮莉艾露·杜·欧德修凡克
-Tier Harribel = 蒂雅·赫丽贝儿
-Coyote Starrk = 柯雅泰·史塔克
-Baraggan Louisenbarn = 拜勒岗·鲁伊森邦
-Yammy Llargo = 牙密·里亚尔戈
-Szayelaporro Granz = 萨尔阿波罗·格兰兹
-Zommari Rureaux = 佐马利·鲁鲁
-Luppi Antenor = 鲁比·安特诺尔
-Ggio Vega = 吉欧·维加
-Dordoni Alessandro Del Socacchio = 多尔多尼·亚历山德罗·德尔·索卡奇奥
-Cirucci Thunderwitch = 缇鲁蒂·桑达薇琪
-Wonderweiss Margela = 汪达怀斯·马尔杰拉
-White = 白一护
-
-// —— 千年血战篇 / 星十字骑士团 ——
-Yhwach = 友哈巴赫
-Jugram Haschwalth = 雨葛兰·哈斯沃德
-Uryu Ishida = 石田雨龙
-Bambietta Basterbine = 邦比爱塔·芭丝塔拜因
-Candice Catnipp = 嘉蒂丝·卡特尼普
-Giselle Gewelle = 吉赛尔·茱艾尔
-Liltotto Lamperd = 莉托托·兰帕德
-Meninas McAllon = 米妮娜·麦卡龙
-Askin Nakk Le Vaar = 亚斯金·纳克鲁瓦尔
-Gerard Valkyrie = 杰拉德·瓦尔基里
-Lille Barro = 利捷·巴罗
-Pernida Parnkgjas = 佩尼达·帕恩卡贾斯
-Nianzol Weizol = 尼安佐·维佐尔
-Quilge Opie = 基路杰·欧丕
-Bazz-B = 巴兹比
-Bazzard Black = 巴兹比
-Haschwalth = 哈斯沃德
-Ichigo Kurosaki = 黑崎一护
-Uryu = 雨龙
-
-// —— 斩魄刀真名（卍解/始解时用）——
+// 此区域区分大小写，用于翻译人名等专有名词
+Kurosaki Ichigo = 黑崎 一护
+Kurosaki Masaki = 黑崎 真咲
+Kurosaki Isshin = 黑崎 一心
+Kuchiki Rukia = 朽木 露琪亚
+Kuchiki Byakuya = 朽木 白哉
+Abarai Renji = 阿散井 恋次
+Ishida Uryu = 石田 雨龙
+Inoue Orihime = 井上 织姬
+Sado Yasutora = 茶渡 泰虎
+Yasutora Sado = 茶渡 泰虎
+Urahara Kisuke = 浦原 喜助
+Shihouin Yoruichi = 四枫院 夜一
+Hitsugaya Toushirou = 日番谷 冬狮郎
+Matsumoto Rangiku = 松本 乱菊
+Zaraki Kenpachi = 更木 剑八
+Kusajishi Yachiru = 草鹿 八千流
+Madarame Ikkaku = 斑目 一角
+Ayasegawa Yumichika = 绫濑川 弓亲
+Aizen Sousuke = 蓝染 惣右介
+Hinamori Momo = 雏森 桃
+Ichimaru Gin = 市丸 银
+Kira Izuru = 吉良 伊鹤
+Yamamoto Genryuusai Shigekuni = 山本 元柳斋 重国
+Soifon = 碎蜂
+Omaeda Kichio = 大前田 希千代
+Unohana Retsu = 卯之花 烈
+Kotetsu Isane = 虎彻 勇音
+Yamada Hanatarou = 山田 花太郎
+Komamura Souji = 狛村 左阵
+Iba Tetsuzaemon = 射场 铁左卫门
+Kyoraku Shunsui = 京乐 春水
+Ise Nanao = 伊势 七绪
+Tousen Kaname = 东仙 要
+Hisagi Shuuhei = 桧佐木 修兵
+Kurotsuchi Mayuri = 涅 茧利
+Kurotsuchi Nemu = 涅 音梦
+Ukitake Juushirou = 浮竹 十四郎
+Shiba Kaien = 志波 海燕
+Shiba Kuukaku = 志波 空鹤
+Shiba Ganju = 志波 岩鹫
+Arisawa Tatsuki = 有泽 龙贵
+Don Kanonji = 唐 观音寺
+Kon = 魂
+Yoruichi Shihouin = 四枫院 夜一
+Kukaku Shiba = 志波 空鹤
+Ganju Shiba = 志波 岩鹫
+Kaien Shiba = 志波 海燕
+Karin Kurosaki = 黑崎 夏梨
+Yuzu Kurosaki = 黑崎 游子
+Ichigo Kurosaki = 黑崎 一护
+Rukia Kuchiki = 朽木 露琪亚
+Byakuya Kuchiki = 朽木 白哉
+Renji Abarai = 阿散井 恋次
+Uryu Ishida = 石田 雨龙
+Orihime Inoue = 井上 织姬
+Kisuke Urahara = 浦原 喜助
+Toushirou Hitsugaya = 日番谷 冬狮郎
+Rangiku Matsumoto = 松本 乱菊
+Kenpachi Zaraki = 更木 剑八
+Sousuke Aizen = 蓝染 惣右介
+Gin Ichimaru = 市丸 银
+Shunsui Kyoraku = 京乐 春水
+Juushirou Ukitake = 浮竹 十四郎
+Mayuri Kurotsuchi = 涅 茧利
+Nemu Kurotsuchi = 涅 音梦
+Genryuusai Shigekuni Yamamoto = 山本 元柳斋 重国
 Zangetsu = 斩月
 Tensa Zangetsu = 天锁斩月
 Senbonzakura = 千本樱
 Senbonzakura Kageyoshi = 千本樱景严
-Hyorinmaru = 冰轮丸
-Daiguren Hyorinmaru = 大红莲冰轮丸
 Zabimaru = 蛇尾丸
-Hihio Zabimaru = 狒狒王蛇尾丸
-Ryumon Hozukimaru = 龙纹鬼灯丸
-Hozukimaru = 鬼灯丸
-Sogyo no Kotowari = 双鱼理
-Minazuki = 肉雫唼
-Katen Kyokotsu = 花天狂骨
-Kyouka Suigetsu = 镜花水月
-Suzumebachi = 雀蜂
+Ryuumon Zabimaru = 龙纹蛇尾丸
 Benihime = 红姬
-Sode no Shirayuki = 袖白雪
-Nejibana = 藤孔雀
-Ashisogi Jizo = 疋杀地藏
-Konjiki Ashisogi Jizo = 金色疋杀地藏
-Tenken = 天谴
-Kokujo Tengen Myo-o = 黑绳天谴明王
-Raika = 雷火
-Gonryomaru = 严灵丸
-Ruri iro Kujaku = 琉璃色孔雀
-Haineko = 灰猫
-Tobiume = 飞梅
-Suzumushi = 清虫
-Suzumushi Tsuishiki Enma Korogi = 清虫终式·阎魔蟋蟀
-Kazeshini = 风死
-Fushi Kujaku = 不死孔雀
-Itegumo = 冻云
-Tsunzakigarasu = 劈乌
-Kirinji = 麒麟寺
-
-// ===== 通用词条：不区分大小写，设定与概念 =====
-通用词条
-Soul Society = 尸魂界
-Seireitei = 瀞灵廷
-Rukongai = 流魂街
-Hueco Mundo = 虚圈
-Las Noches = 虚夜宫
-Human World = 现世
-Karakura Town = 空座町
-Shinigami = 死神
-Hollow = 虚
-Arrancar = 破面
-Vasto Lorde = 瓦史托德
-Menos Grande = 大虚
-Adjuchas = 亚丘卡斯
-Gillian = 基利安
-Quincy = 灭却师
-Fullbringer = 完现术者
-Sternritter = 星十字骑士团
-Wandenreich = 无形帝国
-Gotei 13 = 护廷十三队
-Squad 1 = 一番队
-Squad 2 = 二番队
-Squad 3 = 三番队
-Squad 4 = 四番队
-Squad 5 = 五番队
-Squad 6 = 六番队
-Squad 7 = 七番队
-Squad 8 = 八番队
-Squad 9 = 九番队
-Squad 10 = 十番队
-Squad 11 = 十一番队
-Squad 12 = 十二番队
-Squad 13 = 十三番队
-Captain = 队长
-Lieutenant = 副队长
-Seated Officer = 席官
-Third Seat = 三席
-Zanpakuto = 斩魄刀
-Shikai = 始解
-Bankai = 卍解
-Final Getsuga Tensho = 最后的月牙天冲
-Getsuga Tensho = 月牙天冲
-Cero = 虚闪
-Bala = 虚弹
-Sonido = 响转
-Hierro = 钢皮
-Pesquisa = 搜索灵压
-Reiatsu = 灵压
-Reiryoku = 灵力
-Kido = 鬼道
-Bakudo = 缚道
-Hado = 破道
-Kaido = 回道
-Kido Corps = 鬼道众
-Onmitsukido = 隐秘机动
-Stealth Force = 隐秘机动
-Kido Corps = 鬼道众
-Central 46 = 中央四十六室
-Royal Guard = 王族特务
-Zero Squad = 零番队
-Soul King = 灵王
-Hogyoku = 崩玉
-Gigai = 义骸
-Mod Soul = 改造魂魄
-Kon = 魂
-Jinta = 甚太
-Urahara Shop = 浦原商店
-Soul Reaper = 死神
-Shunpo = 瞬步
-Hoho = 瞬步
-Zanpakutou = 斩魄刀
-Bankai = 卍解
-Vizard = 假面
-Visored = 假面
-Arrancar = 破面
-Tres Bestias = 三兽神
-Fraccion = 从属官
-Espada = 十刃
-Primera Espada = 第一十刃
-Segunda Espada = 第二十刃
-Tercera Espada = 第三十刃
-Cuarta Espada = 第四十刃
-Quinta Espada = 第五十刃
-Sexta Espada = 第六十刃
-Septima Espada = 第七十刃
-Octava Espada = 第八十刃
-Novena Espada = 第九十刃
-Decima Espada = 第十十刃
-Cero Oscuras = 黑虚闪
-Gran Rey Cero = 王虚闪
-Lanza del Relampago = 雷霆之枪
-Kampf = 战斗
-Blut = 血装
-Blut Vene = 血装·静血装
-Blut Arterie = 血装·动血装
-Sklaverei = 圣隶
-Vollstandig = 完圣体
-Quincy Cross = 灭却师十字
-Sanrei Glove = 散灵手套
-Letzt Stil = 终形态
-Silver Arrow = 银箭
-Auswahlen = 圣别
-Aushwalen = 圣别
-Zanpakuto Spirit = 斩魄刀之魂
-Inner World = 内心世界
-Mugetsu = 无月
-Final Getsuga = 最终月牙天冲
-Dangai = 断界
-Kakyo = 界限
-Jigokucho = 地狱蝶
-Hell Butterfly = 地狱蝶
-Denreishinki = 传令神机
-Soden no Shirayuki = 袖白雪
 Shinsou = 神枪
 Kamishini no Yari = 神杀枪
-Hozukimaru = 鬼灯丸
+Houzukimaru = 鬼灯丸
+Fujikujaku = 藤孔雀
 Ruriiro Kujaku = 琉璃色孔雀
-Kokujo Tengen Myo-o = 黑绳天谴明王
+Tobiume = 飞梅
+Wabisuke = 侘助
+Ashisogi Jizou = 疋杀地藏
+Suzumushi = 清虫
+Suzumushi Tsuishiki Enma = 清虫终式阎魔蟋蟀
+Hyourinmaru = 冰轮丸
+Daiguren Hyourinmaru = 大红莲冰轮丸
+Nejibana = 捩花
+Ryuujin Jakka = 流刃若火
+Zanka no Tachi = 残火太刀
+Katen Kyokotsu = 花天狂骨
+Sogyo no Kotowari = 双鱼理
+Minazuki = 肉雫唼
+Itekumo = 冻云
+Gonryoumaru = 严灵丸
+Gegetsubiri = 五形头
+Susumebachi = 雀蜂
+Jakuhou Raikouben = 雀蜂雷公鞭
+Mirro Flower Water Moon = 镜花水月
+Kyoka Suigetsu = 镜花水月
 Tenken = 天谴
-Kazeshini = 风死
-Fushi Kujaku = 不死孔雀
-Itegumo = 冻云
-Tsunzakigarasu = 劈乌
-Kirinji = 麒麟寺
+Kokujo Tengen Myo'o = 黑绳天谴明王
+Tsunzaki Garasu = 劈乌
+Sougyo no Kotowari = 双鱼理
+Muramasa = 村正
+"Gotei 13": 护廷十三队
+"Gotei Thirteen": 护廷十三队
+"Soul Society": 尸魂界
+"Hueco Mundo": 虚圈
+"Visored": 假面军势
+"Espada": 十刃
+"Arrancar": 破面
+"Quincy": 灭却师
+"Royal Guard": 零番队
+"Zero Division": 零番队
+"Central 46": 中央四十六室
+"Seireitei": 瀞灵廷
+"Dangai": 断界
+"Karakura Town": 空座町
+"Karakura Battle": 空座决战
 
-// ===== 禁翻词条：作品名/缩写保持原样 =====
-禁翻词条
-BLEACH
-Bleach
-Bleach: Thousand-Year Blood War
-Bleach: Hell Verse
-Bleach: Memories of Nobody
-Bleach: The DiamondDust Rebellion
-Bleach: Fade to Black
-Bleach: The Sealed Sword Frenzy
-
-
-// ===== 正则：常见拼写变体兜底 =====
-正则表达式
-\bIchigo\b: 一护
-\bKurosaki\b: 黑崎
-\bAizen\b: 蓝染
-\bHitsugaya\b: 日番谷
-\bZaraki\b: 更木
-\bKenpachi\b: 剑八
-\bByakuya\b: 白哉
-\bKuchiki\b: 朽木
-\bUrahara\b: 浦原
-\bYoruichi\b: 夜一
-\bGrimmjow\b: 葛力姆乔
-\bUlquiorra\b: 乌尔奇奥拉
-\bOrihime\b: 织姬
-\bIshida\b: 石田
-\bUryu\b: 雨龙
-\bRenji\b: 恋次
-\bRukia\b: 露琪亚
-\bToshiro\b: 冬狮郎
-\bShunsui\b: 春水
-\bKyoraku\b: 京乐
-\bYamamoto\b: 山本
-\bYhwach\b: 友哈巴赫
-\bHaschwalth\b: 哈斯沃德
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Shinigami: 死神
+Zanpakutō: 斩魄刀
+Zanpakuto: 斩魄刀
+Shikai: 始解
+Bankai: 卍解
+Hollow: 虚
+Menos: 大虚
+Gillian: 基力安
+Adjuchas: 亚丘卡斯
+Vasto Lorde: 瓦史托德
+Arrancar: 破面
+Espada: 十刃
+Resurrección: 归刃
+Resurreccion: 归刃
+Los Números: 数字刃
+Los Numeros: 数字刃
+Quincy: 灭却师
+Sternritter: 星十字骑士团
+Vollständig: 完圣体
+Reiatsu: 灵压
+Reiryoku: 灵力
+Kido: 鬼道
+Hadou: 破道
+Bakudou: 缚道
+Hakuda: 白打
+Shunpo: 瞬步
+Sonído: 响转
+Hirenkyaku: 飞廉脚
+Konsou: 魂葬
+Hell Butterfly: 地狱蝶
+Gigai: 义骸
+Mod-Soul: 改造魂魄
+Mod Soul: 改造魂魄
+Pluses: 整灵
+Plus: 整灵
+Chain of Fate: 命运之链
+Sora no Kagami: 空座町
+Soul Burial: 魂葬
+Soul Candy: 灵魂糖果
+Artificial Soul: 改造魂魄
+White: 白一护
+Hollow Ichigo: 虚化一护
+Mugetsu: 无月
+Final Getsuga Tenshou: 最终月牙天冲
+Getsuga Tenshou: 月牙天冲
+Getsuga Jujishou: 月牙十字冲
+Engetsuzan: 圆月轮斩
+Black Zangetsu: 黑斩月
+Old Man Zangetsu: 斩月老人
+Lieutenants: 副队长
+Captain: 队长
+Captains: 队长
+Lieutenant: 副队长
+Fifth Division: 五番队
+Sixth Division: 六番队
+Thirteenth Division: 十三番队
+Onmitsukidou: 隐密机动
+Patrol Corps: 巡逻队
+Execution Brigade: 处刑队
+Kototsu: 拘突
+Precipice World: 断界
+Kokuto: 黑腔
+Caja Negacion: 黑棺
+Gran Rey Cello: 王虚的闪光
+Cero: 虚闪
+Bala: 魂弹
+Sonido: 响转
+Hierro: 钢皮
+Pesquisa: 探察
+Ransotengai: 乱装天傀
+Blut: 血装
+Blut Vene: 静血装
+Blut Arterie: 动血装
+Heilig Bogen: 神圣弓
+Heilig Pfeil: 神圣灭矢
+Quincy Bow: 灭却师之弓
+Seele Schneider: 魂斩刀
+Sklaverei: 圣隶
+Shadow: 影
+Stern Ritter: 星十字骑士团
+Wandenreich: 看不见的帝国
+Yhwach: 友哈巴赫
+Auswahlen: 圣别
+Sankt Altar: 圣坛
+Kirchenlied: 圣唱
