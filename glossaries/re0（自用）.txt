@@ -61,6 +61,9 @@ Sekhmet = 赛赫麦特
 Carmilla = 卡蜜拉
 Pandora = 潘朵拉
 Hector = 赫克托
+Heinkel = 亨克尔
+Theresia Van Astrea = 特雷西亚 范 阿斯特雷亚
+
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
@@ -90,6 +93,7 @@ contract:契约
 Sin Archbishop：大罪司教
 Sloth:怠惰
 sword demon:剑鬼
+Sword Saint：剑圣
 camp:阵营
 meteor:魔法器
 Great waterfall:大瀑布
