@@ -1,0 +1,159 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名、机体名、专属称号等专有名词
+Lelouch Lamperouge = 鲁鲁修 兰佩路基
+Lelouch vi Britannia = 鲁鲁修 维 布里塔尼亚
+Nunnally Lamperouge = 娜娜莉 兰佩路基
+Nunnally vi Britannia = 娜娜莉 维 布里塔尼亚
+Suzaku Kururugi = 枢木 朱雀
+C.C. = C.C.
+V.V. = V.V.
+Kallen Stadtfeld = 卡莲 休妲菲尔特
+Karen Kozuki = 红月 华莲
+Kallen Kozuki = 红月 卡莲
+Euphemia li Britannia = 尤菲米娅 丽 布里塔尼亚
+Cornelia li Britannia = 柯内莉亚 丽 布里塔尼亚
+Schneizel el Britannia = 修奈泽尔 艾尔 布里塔尼亚
+Clovis la Britannia = 克洛维斯 拉 布里塔尼亚
+Charles zi Britannia = 查尔斯 兹 布里塔尼亚
+Marianne vi Britannia = 玛丽安娜 维 布里塔尼亚
+Odysseus eu Britannia = 奥德修斯 欧 布里塔尼亚
+Guinevere do Britannia = 吉妮薇尔 朵 布里塔尼亚
+Milly Ashford = 米蕾 阿什弗德
+Shirley Fenette = 夏莉 菲内特
+Rivalz Cardemonde = 利瓦尔 卡路迪蒙特
+Nina Einstein = 妮娜 爱因斯坦
+Sayoko Shinozaki = 篠崎 咲世子
+Rolo Lamperouge = 洛洛 兰佩路基
+Mao = 毛
+Lloyd Asplund = 洛伊德 阿斯普林德
+Cecile Croomy = 塞希尔 柯尔米
+Jeremiah Gottwald = 杰雷米亚 哥德巴尔德
+Villetta Nu = 维蕾塔 努
+Gilbert G.P. Guilford = 吉尔伯特 G.P. 吉尔福德
+Anya Alstreim = 阿尼亚 阿尔斯特莱姆
+Kanon Maldini = 卡农 马尔迪尼
+Gino Weinberg = 吉诺 瓦茵拜鲁古
+Luciano Bradley = 卢西亚诺 布拉德利
+Nonette Enneagram = 诺内特 埃尼亚格拉姆
+Monica Krushevsky = 莫妮卡 克鲁舍夫斯基
+Kaname Ohgi = 扇 要
+Shinichiro Tamaki = 玉城 真一郎
+Kyoshiro Tohdoh = 藤堂 镜志朗
+Kaguya Sumeragi = 皇 神乐耶
+Rakshata Chawla = 拉克夏塔 恰拉
+Li Xingke = 黎 星刻
+Tianzi = 天子
+Dalque = 达露克
+Shin Hyuga = 黎 日向
+Cecaniah = 塞卡尼亚
+Mortimer = 莫蒂默
+Zero = ZERO
+The Black Prince = 黑色王子
+The White Knight = 白色骑士
+Lancelot = 兰斯洛特
+Lancelot Air Cavalry = 兰斯洛特 空战型
+Lancelot Conquista = 兰斯洛特 征服型
+Gawain = 高文
+Shinkiro = 蜃气楼
+Glasgow = 格拉斯哥
+Sutherland = 桑德兰
+Gloucester = 格洛斯特
+Burai = 无赖
+Gekka = 月下
+Guren Type-02 = 红莲贰式
+Guren Flight-Enabled Version = 红莲可翔式
+Guren Seiten = 红莲圣天八极式
+Benihozuki = 红虹
+Zangetsu = 斩月
+Shen Hu = 神虎
+Wang Hu = 王虎
+Avalon = 阿瓦隆
+Damocles = 达摩克利斯
+Yggdrasil Drive = 世界树驱动核
+Sakuradite = 樱石
+Float System = 悬浮飞行系统
+Slash Harken = 飞燕爪牙
+Blaze Luminous = 能量光盾
+MVS = 高周波振动剑
+VARIS = 可变弹药反发冲击炮
+Factsphere = 感应球
+Hadal Sphere = 探海球
+Radiation Wave = 辐射波动
+Druid System = 德鲁伊系统
+Hadron Cannon = 强子炮
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念、称谓、组织与世界观名词
+Code Geass：代码契约
+Geass：基亚斯
+Code：印记
+Knightmare Frame：骑士机甲
+KMF：骑士机甲
+Holy Britannian Empire：神圣布里塔尼亚帝国
+Britannia：不列颠尼亚
+Area Eleven：11区
+Eleven：数字人
+Honorary Britannian：名誉布里塔尼亚人
+Purebloods：纯血派
+Numbers：编号民
+Japanese：日本人
+Area：管辖区
+Settlement：集住区
+Ghetto：贫民区
+Concession：租界
+Special Zone：行政特区
+Black Knights：黑色骑士团
+Knights of the Round：圆桌骑士
+Knight of Rounds：圆桌骑士
+Personal Knight：直属骑士
+Ashford Academy：阿什弗德学园
+Ashford Foundation：阿什弗德财团
+Kyoto Six Houses：京都六家
+Kyoto：京都
+United Federation of Nations：合众国中华
+Chinese Federation：中华联邦
+EU：EU
+E.U.：EU
+Euro Universe：欧洲联合
+Knightmare Pilot：骑士机师
+Dev icer：骑士机师
+Elevens：数字人
+Refugee：难民
+Resistance：反抗军
+Terrorist：恐怖分子
+Rebellion：叛乱
+Emperor：皇帝
+Empress：女皇
+Prince：皇子
+Princess：皇女
+Governor：总督
+Viceroy：总督
+Prime Minister：首相
+Order：敕命
+Absolute Obedience：绝对服从
+World of C：C的世界
+Collective Unconscious：集体潜意识
+Immortality：不老不死
+Memory Manipulation：记忆操控
+Thought Elevator：思考升降机
+Ragnarok Connection：诸神黄昏连接
+Sakura Dite：樱石
+Sakuradite：樱石
+MVS：高周波振动剑
+Float System：悬浮系统
+Slash Harken：飞燕爪牙
+Blaze Luminous： 《光盾》
+Radiation Wave：辐射波动
+F.L.E.I.J.A.： 《爱之女神》
+Fleija：爱之女神
+Weapon of Mass Destruction：大规模杀伤性武器
+Zero Requiem：零之镇魂曲
+The Sword of Akasha：阿卡夏之剑
+Demon King：魔王
+Witch：魔女
+Pizza：披萨
+Cheese-kun：芝士君
