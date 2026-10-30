@@ -1,0 +1,52 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Komuro Takashi = 小室 孝
+Miyamoto Rei = 宫本 丽
+Busujima Saeko = 毒岛 冴子
+Takagi Saya = 高城 沙耶
+Hirano Kota = 平野 耕太
+Marikawa Shizuka = 鞠川 静香
+Igo Hisashi = 井豪 永
+Shido Kouichi = 紫藤 浩一
+Maresato Arisu = 希里 爱丽丝
+Zeke：零战
+Minami Rika = 南 里香
+Takagi Yuriko = 高城 百合子
+Takagi Souichirou = 高城 壮一郎
+Nakao Asami = 中冈 麻美
+Tajima：田岛
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Highschool of the Dead：学园默示录
+The dead：死体
+Dead ones：死体
+Zombies：死体
+Death bodies：死体
+Nura：死体
+Bedmaster City：床主市
+Fujimi Academy：藤美学园
+Fujimi High School：藤美学园
+Survivors：幸存者
+Outbreak：爆发
+Infection：感染
+Turned：死体化
+Bite：咬伤
+Headshot：爆头
+Katana：日本刀
+Bokken：木刀
+Bayonet：刺刀
+Rifle：步枪
+Shotgun：霰弹枪
+EMP：电磁脉冲
+Safe zone：安全区
+Evacuation：撤离
+Collapse of order：秩序崩坏
+Moral collapse：道德崩坏
+Kendo Club：剑道部
+Spear Arts Club：枪术部
+School Doctor：校医
