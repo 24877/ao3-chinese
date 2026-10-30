@@ -1,0 +1,136 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名、使徒名、机体名等专有名词
+Ikari Shinji = 碇 真嗣
+Ikari Gendou = 碇 源堂
+Ikari Yui = 碇 唯
+Ayanami Rei = 绫波 丽
+Sohryu Asuka Langley = 惣流 明日香 兰格雷
+Shikinami Asuka Langley = 式波 明日香 兰格雷
+Katsuragi Misato = 葛城 美里
+Nagisa Kaworu = 渚 薰
+Kaji Ryoji = 加持 良治
+Akagi Ritsuko = 赤木 律子
+Akagi Naoko = 赤木 直子
+Fuyutsuki Kouzou = 冬月 耕造
+Ibuki Maya = 伊吹 摩耶
+Aoba Shigeru = 青叶 茂
+Hyouga Makoto = 日向 诚
+Suzuhara Tohji = 铃原 冬二
+Aida Kensuke = 相田 剑介
+Horaki Hikari = 洞木 光
+Suzuhara Sakura = 铃原 樱
+Mari Makinami Illustrious = 真希波 玛丽 伊兰崔亚斯
+Kirie Lorentz = 基尔 洛仑兹
+Keel Lorentz = 基尔 洛仑兹
+Adam = 亚当
+Lilith = 莉莉丝
+Sachiel = 萨基尔
+Shamshel = 夏姆榭尔
+Ramiel = 雷米尔
+Gaghiel = 迦基尔
+Israfel = 伊斯拉斐尔
+Sandalphon = 桑达丰
+Matriel = 玛特里尔
+Sahaquiel = 萨哈奎尔
+Ireul = 伊洛尔
+Leliel = 列利尔
+Barakiel = 巴拉基尔
+Bardiel = 巴迪尔
+Zeruel = 塞鲁尔
+Arael = 亚拉尔
+Almisael = 阿尔米沙尔
+Armisael = 阿尔米沙尔
+Tabris = 塔布里斯
+Lilin = 李林
+Evangelion = 福音战士
+Unit 00 = 零号机
+Unit 01 = 初号机
+Unit 02 = 二号机
+Unit 03 = 三号机
+Unit 04 = 四号机
+Unit 05 = 五号机
+Unit 08 = 八号机
+Provisional Unit 05 = 暂设五号机
+Mark.06 = mark六号机
+Mark.09 = mark九号机
+Mark.10 = mark十号机
+Mark.11 = mark十一号机
+Mark.12 = mark十二号机
+Imaginary Number Unit = 虚数机
+Evangelion Unit 13 = 十三号机
+NERV = NERV
+SEELE = SEELE
+GEHIRN = 盖希伦
+WILLE = WILLE
+Marduk Institute = 马尔杜克机构
+Human Instrumentality Committee = 人类补完委员会
+Japanese Strategic Self Defense Forces = 日本战略自卫队
+Central Dogma = 中央教条
+Terminal Dogma = 终端教条
+GeoFront = 地下空洞
+Black Moon = 黑月
+White Moon = 白月
+Third New Tokyo City = 第三新东京市
+Tokyo 3 = 第三新东京市
+Spear of Longinus = 朗基努斯之枪
+Lance of Longinus = 朗基努斯之枪
+Cassius = 卡西乌斯之枪
+Key of Nebuchadnezzar = 尼布甲尼撒之钥
+Dead Sea Scrolls = 死海文书
+Tree of Life = 生命之树
+First Ancestral Race = 第一先祖种族
+Pen Pen = 企鹅企鹅
+Pen2 = 企鹅二号
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Evangelion：福音战士
+Angel：使徒
+Children：适格者
+First Child：第一适格者
+Second Child：第二适格者
+Third Child：第三适格者
+Fourth Child：第四适格者
+Fifth Child：第五适格者
+Pilot：驾驶员
+Sync Rate：同步率
+Synchronization Rate：同步率
+A.T. Field：绝对领域
+Absolute Terror Field：绝对恐怖领域
+LCL：LCL
+LCL Sea：LCL之海
+Entry Plug：插入栓
+Plug Suit：插入栓服
+Plug Suit：驾驶服
+Dummy Plug：模拟插入栓
+Dummy System：傀儡系统
+Progressive Knife：高振动粒子刀
+Prog Knife：高振动粒子刀
+S² Engine：S²机关
+Super Solenoid：超电磁线圈
+N² Bomb：N²炸弹
+N² Mine：N²水雷
+N² Weapon：N²武器
+Magi System：MAGI系统
+Magi：三贤人
+Core：核心
+Restraining Bolts：拘束器
+Berserk：暴走
+Awakening：觉醒
+Contact：接触
+Human Instrumentality Project：人类补完计划
+Instrumentality：补完
+First Impact：第一次冲击
+Second Impact：第二次冲击
+Third Impact：第三次冲击
+Fourth Impact：第四次冲击
+Near Third Impact：准第三次冲击
+Anti A.T. Field：反绝对领域
+Sea of LCL：LCL之海
+Lilin：李林
+AT Field：绝对领域
+Heart of Ice：冰之心
