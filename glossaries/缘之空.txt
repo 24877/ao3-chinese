@@ -1,0 +1,54 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名、地名等专有名词
+Kasugano Haruka = 春日野 悠
+Kasugano Sora = 春日野 穹
+Kasugano Misao = 春日野 美沙绪
+Yorihime Nao = 依媛 奈绪
+Migiwa Kazuha = 渚 一叶
+Amatsume Akira = 天女目 瑛
+Nogisaka Motoka = 乃木坂 初佳
+Ifukube Yahiro = 伊福部 八寻
+Nakazato Ryohei = 中里 亮平
+Kuranaga Kozue = 仓永 梢
+Migiwa = 渚家
+Amatsume = 天女目家
+Yorihime = 依媛家
+Kasugano = 春日野家
+Okukozome = 奥木染
+Okukozome Town = 奥木染町
+Hozumi Academy = 穗见学园
+Kasugano Clinic = 春日野医院
+Sayorihime Shrine = 叉依姬神社
+Lake Hakone = 箱根湖
+Lake of Origin = 起始之地
+Ifukube Shop = 伊福部杂货店
+Migiwa Residence = 渚宅
+Takano Supermarket = 高野超市
+Fresh Cream Society = 鲜奶油同好会
+Hozumi Swimming Club = 穗见学园游泳部
+Yosuga no Sora = 缘之空
+Haruka no Yosuga = 悠之空
+In Solitude, Where We Are Least Alone = 于最深的孤独中，我们并非独自一人
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念与称谓
+imouto：妹妹
+onii-chan：哥哥
+onii-san：哥哥
+Haru-chan：小悠
+Sora-chan：小穹
+Nao-nee：奈绪姐
+class representative：班长
+shrine maiden：巫女
+maid：女仆
+twins：双胞胎
+transfer student：转校生
+black rabbit doll：黑兔玩偶
+Pocky：百奇
+barley tea：麦茶
+kagura dance：神乐舞
+summer festival：夏祭
