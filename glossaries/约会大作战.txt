@@ -1,0 +1,122 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Itsuka Shidou = 五河 士道
+Itsuka Kotori = 五河 琴里
+Yatogami Tohka = 夜刀神 十香
+Yatogami Tenshi = 夜刀神 天香
+Tobiichi Origami = 鸢一 折纸
+Tokisaki Kurumi = 时崎 狂三
+Hinazakura Yoshino = 冰芽川 四糸乃
+Yoshino = 四糸乃
+Yamai Kaguya = 八舞 耶俱矢
+Yamai Yuzuru = 八舞 夕弦
+Yamai Kazamachi = 风待 八舞
+Izayoi Miku = 诱宵 美九
+Hoshimiya Mukuro = 星宫 六喰
+Kyouno Natsumi = 镜野 七罪
+Honjou Nia = 本条 二亚
+Honjou Souji = 本条 苍二
+Takamiya Mio = 崇宫 澪
+Takamiya Shinji = 崇宫 真士
+Takamiya Mana = 崇宫 真那
+Murasame Reine = 村雨 令音
+Kannazuki Kyouhei = 神无月 恭平
+Woodman Elliot Baldwin = 艾略特 鲍德温 伍德曼
+Mathers Karen Nora = 卡莲 诺拉 马瑟斯
+Westcott Isaac Ray Pelham = 艾萨克 雷 佩勒姆 维斯考特
+Ellen Mira Mathers = 艾伦 米拉 马瑟斯
+Sonogami Rinne = 园神 凛祢
+Sonogami Rio = 园神 凛绪
+Arusu Maria = 或守 鞠亚
+Arusu Marina = 或守 鞠奈
+Mayuri = 万由里
+Nibelcol = 妮贝可
+Tonomachi Hiroto = 殿町 宏人
+Okamine Tamae = 冈峰 珠惠
+Kusakabe Ryouko = 日下部 燎子
+Okamine Mikiho = 冈峰 美纪惠
+Yamabuki Ai = 山吹 亚衣
+Yosakura Mai = 叶樱 麻衣
+Fujibakama Miina = 藤袴 美衣
+Ashcroft Artemisia Bell = 阿尔提米西娅 贝尔 阿修克罗夫特
+
+// 精灵识别代号/天使/魔王（区分大小写，保留英文代号与神名）
+Princess：公主
+Angel：天使
+Devil：恶魔
+Nightmare：梦魇
+Efreet：炎魔
+Hermit：隐居者
+Berserk：狂战士
+Diva：歌姬
+Witch：女巫
+Sister：修女
+Zodiac：星宫
+Deus：神
+Phantom：幻影
+Sandalphon：鏖杀公
+Halvanhelev：最后之剑
+Ame no Habakiri：暴虐公
+Shinjyu no Ken：终焉之剑
+Methratton：绝灭天使
+Sakatsuku Maou：救世魔王
+Zafkiel：刻刻帝
+Kurukurudo：狂狂帝
+Camael：灼烂歼鬼
+Zadkiel：冰结傀儡
+Raphael：飓风骑士
+Gabriel：破军歌姬
+Zadkiel Puppet：冰结傀儡
+Michael：封解主
+Samael：懒惰恶魔
+Ratziel：嗫告篇帙
+Shinetsu Hend：神蚀篇帙
+Ain：无
+Ain Soph：无限
+Ain Soph Aur：无限光
+Banishing Stance：万象圣堂
+Rinne Meikyu：轮回乐园
+
+// 灵装名（Astral Dress）
+Adonai Melek：神威灵装 一番
+Elohim：神威灵装 四番
+Elohim Gibor：神威灵装 五番
+Elohim Tzabaoth：神威灵装 八番
+Shaddai El Chai：神威灵装 九番
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Date A Live： 《约会大作战》
+Spirit：精灵
+Reverse Spirit：反转精灵
+Spacequake：空间震
+Eurasian Air Disaster：欧亚大空灾
+Neighbourhood：邻界
+Realm of Devils：邻界
+Sephira Crystal：灵结晶
+Reverse Sephira Crystal：反灵结晶
+Astral Dress：灵装
+Angel：天使
+Demon King：魔王
+Reverse：反转
+CR-Unit：显现装置
+Combat Realizer Unit：战术显现装置
+Realizer：显现装置
+Free Field：随意领域
+Anti Spirit Team：对精灵部队
+AST：对精灵部队
+Ratatoskr：拉塔托斯克
+DEM Industries：DEM社
+Fraxinus：佛拉克西纳斯
+Fraxinus EX：佛拉克西纳斯EX
+Sephirot：卡巴拉生命树
+Sephira：质点
+Manifestation：现界
+Lost：消失
+Usually Manifestation：通常现界
+Silent Manifestation：静肃现界
+Spirit Power：灵力
