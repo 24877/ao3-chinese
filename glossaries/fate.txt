@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -29,28 +29,20 @@ Fujimura Taiga = 藤村 大河
 
 // —— 从者 / 英灵（FSN/FZ）——
 Artoria Pendragon = 阿尔托莉雅·潘德拉贡
-Saber = 阿尔托莉雅·潘德拉贡
+Saber = Saber
 Gilgamesh = 吉尔伽美什
 Emiya = 英灵卫宫
 Cu Chulainn = 库·丘林
-Lancer = 库·丘林
 Iskandar = 伊斯坎达尔
-Rider = 伊斯坎达尔
 Diarmuid Ua Duibhne = 迪尔姆德·奥迪那
 Medusa = 美杜莎
-Rider = 美杜莎
 Medea = 美狄亚
-Caster = 美狄亚
 Gilles de Rais = 吉尔·德·雷
-Caster = 吉尔·德·雷
 Hassan-i-Sabbah = 哈桑·萨巴赫
 Assassin = 哈桑·萨巴赫
 Heracles = 赫拉克勒斯
-Berserker = 赫拉克勒斯
 Lancelot = 兰斯洛特
-Berserker = 兰斯洛特
 Sasaki Kojiro = 佐佐木小次郎
-Assassin = 佐佐木小次郎
 
 // —— FGO 常见英灵补充 ——
 Mash Kyrielight = 玛修·基列莱特
@@ -164,6 +156,5 @@ Shinji = 慎二
 
 \bArtoria\b: 阿尔托莉雅
 \bAltria\b: 阿尔托莉雅
-\bIskandar\b: 伊斯坎达尔
 \bCu ?Chulainn\b: 库·丘林
 \bEmiya\b: 卫宫
