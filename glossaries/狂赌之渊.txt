@@ -1,0 +1,186 @@
+版本号:1.0.0
+维护者:你
+更新时间:2026-10-30
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+// 百喰一族 / 主要角色（姓在前，名在后）
+Jabami Yumeko = 蛇喰 梦子
+Momobami Kirari = 桃喰 绮罗莉
+Momobami Ririka = 桃喰 莉莉香
+Saotome Mary = 早乙女 芽亚里
+Suzui Ryota = 铃井 凉太
+Sumeragi Itsuki = 皇 伊月
+Ikishima Midari = 生志摩 妄
+Yomozuki Runa = 黄泉月 露娜
+Yumemite Yumemi = 梦见弖 优芽美
+Nishinotouin Yuriko = 西洞院 百合子
+Igarashi Sayaka = 五十岚 清华
+Manyuda Kaede = 豆生田 枫
+Kiwatari Jun = 木渡 润
+Warakubami Sumika = 和乐喰 淑光
+Inbami Miyo = 阴喰 三欲
+Yobami Miri = 阳喰 三理
+Totobami Terano = 等々喰 定乐乃
+Totobami Yumi = 等々喰 由美
+Obami Ibara = 尾喰 茨
+Obami Rin = 尾喰 凛
+Honebami Miroslava = 骨喰 米罗斯拉娃
+Mushibami Erimi = 虫喰 惠利美
+Komabami Nozomi = 狛喰 希
+Jabami Sayaka = 蛇喰 清罗（梦子姐姐，部分同人用名）
+Hanatemari Tsuzura = 花手毬 缀
+Juraku Sachiko = 聚乐 幸子
+Inui Chitose = 乾 千岁
+Murasame Amane = 丛 天音
+Murasame Tsukimi = 丛 月见
+
+// 称呼 / 昵称类（区分大小写，避免误伤普通单词）
+"Jabami-san":蛇喰同学
+"Yumeko-chan":梦子酱
+"Mary-san":芽亚里同学
+"Ryota-kun":凉太君
+"President Momobami":桃喰会长
+"Student Council President":学生会长
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念、地名、制度、赌局名
+Hyakkaou Private Academy:百花王学园
+"Private Hyakkaou Academy":私立百花王学园
+Student Council:学生会
+Housepet:家畜
+House Pet:家畜
+"Male Housepet":狗
+"Female Housepet":猫
+Dog:狗（家畜男）
+Cat:猫（家畜女）
+Pet:家畜
+Life Plan:人生计划表
+Life Plan Sheet:人生计划表
+Nomination Fee:上纳金
+Tribute Money:上纳金
+Election:选举
+Student Council Presidential Election:学生会会长选举
+Momobami Clan:百喰一族
+Jabami Family:蛇喰家
+Gamble:赌博
+Official Match:官方赌局
+Life-or-Death Match:生死赌局
+Cheating:出千
+Card Counting:记牌
+Rock-Paper-Scissors:猜拳
+Vote Rock Paper Scissors:投票猜拳
+Double Choice:双选
+Tarot Cards:塔罗牌
+Russian Roulette:俄罗斯轮盘
+Memory Game:记忆游戏
+Finger Cutting Game:断指游戏
+"Choice Poker":选择扑克
+"Human Auction":人类拍卖
+"Slave Auction":奴隶拍卖
+"Tarot President":塔罗会长战
+"Greater Good Game":公益赌局
+"Finger Guillotine":断指断头台
+"Nym Type Zero":零式尼姆
+"ESP Game":超能力游戏
+"Blood Sweaty Festival":血汗祭典
+"Death Spin Roulette":死亡旋转轮盘
+"Two Button Game":双按钮游戏
+"Stack and Draw":抽牌堆叠
+"Modified Indian Poker":改良印度扑克
+"Nonary Games":九人游戏
+Blind Betting:盲注
+All-in:全押
+Pot:底池
+Dealer:庄家
+Ante: ante（前注）
+High Roller:豪赌客
+Transfer Student:转校生
+Class Representative:班级委员
+Treasurer:会计
+Secretary:书记
+Public Morals Committee:风纪委员
+Beautification Committee:美化委员会
+Public Relations:宣传
+Traditional Culture Research Club:传统文化研究会
+Observer:观察者
+Referee:裁判
+Debt:债务
+Loan Shark:放债人
+Wager:赌注
+Stake:筹码
+Chip:筹码
+Marker:欠条
+IOU:借条
+Favor:人情债
+Rank:排名
+Ranking:排行榜
+Upper Class:上流阶级
+Lower Class:下层阶级
+Elite:精英
+Losers:败者
+Winner:胜者
+Draw:平局
+Tie:平局
+Fold:弃牌
+Call:跟注
+Raise:加注
+Bluff:诈唬
+Bluffing:虚张声势
+Tell:破绽
+Poker Face:扑克脸
+Nerve:胆量
+Gambling Addiction:赌瘾
+Thrill:刺激感
+Risk:风险
+Odds:赔率
+Probability:概率
+Psychology:心理战
+Mind Game:心理博弈
+Read:读心
+Observation:观察力
+Memory:记忆力
+Instinct:直觉
+Luck:运气
+Skill:技术
+Strategy:策略
+Manipulation:操控
+Bet:下注
+Double Down:加倍下注
+Side Bet:边池
+Jackpot:头奖
+House Edge:庄家优势
+Even Money:一赔一
+"Double or Nothing":加倍或归零
+"Winner Takes All":胜者全拿
+"Last Man Standing":最后幸存者
+Masochist:受虐狂
+Sadist:施虐狂
+Obsession:执念
+Rival:对手
+Ally:盟友
+Friend:朋友
+Enemy:敌人
+School Uniform:校服
+Blazer:西装外套
+Ribbon:发带
+Eye Patch:眼罩
+Mask:面具
+"Momobami Mask":百喰面具
+"Ririka's Mask":莉莉香的面具
+"Yumeko's Smile":梦子的微笑
+"Kirari's Braid":绮罗莉的麻花辫
+"Midari's Eye Patch":妄的眼罩
+"Runa's Panda Hood":露娜的熊猫帽
+"Mary's Ribbon":芽亚里的发带
+"Sayaka's Glasses":清华的眼镜
+"Itsuki's Headband":伊月的头带
+"Yumemi's Idol Outfit":优芽美的偶像装
+"Yuriko's Kimono":百合子的和服
+"Kirari's Tarot":绮罗莉的塔罗牌
+"Yumeko's Coin":梦子的硬币
+"Inbami's Poison":阴喰的毒
+"Warakubami's Acting":淑光的演技
+"Obami's Lies":尾喰的谎言
+"Jabami Blood":蛇喰之血
+"Momobami Blood":百喰之血
