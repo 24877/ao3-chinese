@@ -1,0 +1,172 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-31
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Sawada Tsunayoshi = 沢田 纲吉
+Gokudera Hayato = 狱寺 隼人
+Yamamoto Takeshi = 山本 武
+Sasagawa Ryohei = 笹川 了平
+Lambo = 蓝波
+Chrome Dokuro = 库洛姆 髑髅
+Hibari Kyoya = 云雀 恭弥
+Mukuro Rokudo = 六道 骸
+Belphegor = 贝尔菲戈尔
+Superbi Squalo = 斯库瓦罗
+Xanxus = Xanxus
+Lussuria = 路斯利亚
+Leviathan = 列维坦
+Mammon = 玛蒙
+Gola Mosca = 哥拉·莫斯卡
+Reborn = 里包恩
+Colonnello = 可乐尼洛
+Viper = 威尔帝
+Fon = 风
+Skull = 史克尔
+Dino = 迪诺
+Romario = 罗马里奥
+Enma Kozato = 古里炎真
+Adelheid Suzuki = 铃木 爱迪尔海德
+Julie Katou = 加藤 朱里
+Gamma = 伽马
+Zakuro = 石榴
+Daemon Spade = 戴蒙·斯佩德
+Primo = 普利莫
+Giotto = 吉奥特
+Alaude = 阿劳迪
+Knuckle = 纳克尔
+Asari Ugetsu = 朝利 雨月
+Simon = 西蒙
+Talbot = 塔尔博特
+Luche = 路切
+Irie Shoichi = 入江 正一
+Spanner = 斯帕纳
+Kikyo = 桔梗
+Byakuran = 白兰
+Takeshi Yamamoto = 山本 武
+Bianchi = 碧洋琪
+Fuuta = 风太
+Ken Joshima = 城岛 犬
+Chikusa Kakimoto = 柿本 千种
+M.M. = M.M.
+Basil = 巴吉尔
+Oregano = 欧蕾加诺
+Lal Mirch = 拉尔·米尔奇
+Aria = 艾莉亚
+Uni = 尤尼
+Luigi = 路易吉
+Giannini = 强尼二
+Nezumi = 老鼠
+Hana Kurokawa = 黑川 花
+Kyoko Sasagawa = 笹川 京子
+Haru Miura = 三浦 春
+Nana Sawada = 沢田 奈奈
+Iemitsu Sawada = 沢田 家光
+Timoteo = 蒂莫泰奥
+Coyote Nougat = 科约特·努加
+Frederick = 弗雷德里克
+Jager = 耶格
+Oswald = 奥斯瓦尔德
+Lancia = 兰恰
+Ganauche III = 加诺切三世
+Zac = 扎克
+Sheryl = 雪莉尔
+Elena = 艾琳娜
+Lucia = 露西亚
+Ricardo = 里卡多
+Gigi = 吉吉
+Nero = 尼禄
+Alpha = 阿尔法
+Beta = 贝塔
+Delta = 德尔塔
+Epsilon = 厄普西隆
+Zeta = 泽塔
+Eta = 伊塔
+Theta = 西塔
+Iota = 约塔
+Kappa = 卡帕
+Lambda = 兰布达
+Mu = 缪
+Nu = 纽
+Xi = 克西
+Omicron = 欧米克隆
+Pi = 派
+Rho = 罗
+Sigma = 西格玛
+Tau = 陶
+Upsilon = 宇普西隆
+Phi = 斐
+Chi = 凯
+Psi = 普赛
+Omega = 欧米伽
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Vongola：彭格列
+Vongola Primo：彭格列一世
+Vongola Nono：彭格列九世
+Vongola Decimo：彭格列十世
+Vongola Family：彭格列家族
+Vongola Ring：彭格列指环
+Vongola Gear：彭格列齿轮
+Vongola Box Weapon：彭格列匣兵器
+Arcobaleno：彩虹之子
+Mafia：黑手党
+Flame：火焰
+Dying Will Flame：死气之炎
+Sky Flame：天空之炎
+Storm Flame：暴风雨之炎
+Rain Flame：雨之炎
+Sun Flame：太阳之炎
+Lightning Flame：雷之炎
+Cloud Flame：云之炎
+Mist Flame：雾之炎
+Earth Flame：大地之炎
+Night Flame：夜之炎
+Dying Will Mode：死气模式
+Hyper Dying Will Mode：超死气模式
+Zero Point Breakthrough：零地点突破
+Zero Point Breakthrough Revised：零地点突破·改
+X Burner：X发射器
+Box Weapon：匣兵器
+Animal Box Weapon：动物匣兵器
+Ring：指环
+Half Ring：半指环
+Complete Ring：完整指环
+Tri-ni-sette：三叉戟喷气背包
+Mare Ring：玛雷指环
+Vindice：复仇者
+Vindice Prison：复仇者监狱
+Carcassa：卡卡萨
+Simon Family：西蒙家族
+Simon Ring：西蒙指环
+Shimon Ring：西蒙指环
+Hell Ring：地狱指环
+Demon's Ring：恶魔指环
+Oath：誓约
+Curse of the Arcobaleno：彩虹之子的诅咒
+Trident：三叉戟
+Pacifier：奶嘴
+True Pacifier：真正的奶嘴
+Vongola Headquarters：彭格列总部
+Namimori Middle School：并盛中学
+Namimori Town：并盛町
+Millefiore Family：密鲁菲奥雷家族
+Black Spell：黑色咒语
+White Spell：白色咒语
+Gesso Family：杰索家族
+Real Funeral Company：真·六吊花
+Six Funeral Wreaths：六吊花
+Shimon Family：西蒙家族
+Simon Family Rings：西蒙家族戒指
+Earth Flame：大地之炎
+Vongola Inheritance Ceremony：彭格列继承仪式
+Choice Game：选择游戏
+Merone Base：梅罗尼基地
+Future Arc：未来篇
+Daily Life Arc：日常篇
+Varia Arc：瓦利亚篇
+Simulation Arc：模拟战篇
+Inheritance Ceremony Arc：继承式篇
+Curse of the Rainbow Arc：彩虹的诅咒篇
