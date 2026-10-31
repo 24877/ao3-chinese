@@ -1,0 +1,591 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-10-31
+  
+词条
+// 此区域区分大小写，用于翻译人名、称号、专属名词
+// 正义联盟核心
+Clark Kent = 克拉克 肯特
+Kal-El = 卡尔 艾尔
+Superman = 超人
+Bruce Wayne = 布鲁斯 韦恩
+Batman = 蝙蝠侠
+Diana Prince = 戴安娜 普林斯
+Wonder Woman = 神奇女侠
+Barry Allen = 巴里 艾伦
+The Flash = 闪电侠
+Hal Jordan = 哈尔 乔丹
+Green Lantern = 绿灯侠
+Arthur Curry = 亚瑟 库瑞
+Aquaman = 海王
+Victor Stone = 维克多 斯通
+Cyborg = 钢骨
+J'onn J'onzz = 荣恩 荣兹
+Martian Manhunter = 火星猎人
+John Stewart = 约翰 斯图尔特
+Kyle Rayner = 凯尔 雷纳
+Guy Gardner = 盖伊 加德纳
+Jessica Cruz = 杰西卡 克鲁兹
+Simon Baz = 西蒙 巴兹
+Alan Scott = 艾伦 斯科特
+// 超人家族
+Kara Zor-El = 卡拉 佐 艾尔
+Supergirl = 超级少女
+Kon-El = 康 艾尔
+Conner Kent = 康纳 肯特
+Superboy = 超级小子
+Jonathan Samuel Kent = 乔纳森 塞缪尔 肯特
+Jonathan Kent = 乔纳森 肯特
+Lois Lane = 露易丝 莱恩
+Jimmy Olsen = 吉米 奥尔森
+Lex Luthor = 莱克斯 卢瑟
+Lena Luthor = 莉娜 卢瑟
+General Zod = 佐德 将军
+Faora = 法奥拉
+// 蝙蝠家族
+Dick Grayson = 迪克 格雷森
+Nightwing = 夜翼
+Jason Todd = 杰森 托德
+Red Hood = 红头罩
+Tim Drake = 提姆 德雷克
+Red Robin = 红罗宾
+Damian Wayne = 达米安 韦恩
+Robin = 罗宾
+Stephanie Brown = 斯蒂芬妮 布朗
+Spoiler = 搅局者
+Barbara Gordon = 芭芭拉 戈登
+Batgirl = 蝙蝠女
+Oracle = 神谕
+Cassandra Cain = 卡珊德拉 凯恩
+Black Bat = 黑蝙蝠
+Orphan = 遗孤
+Alfred Pennyworth = 阿尔弗雷德 彭尼沃斯
+Lucius Fox = 卢修斯 福克斯
+Selina Kyle = 塞琳娜 凯尔
+Catwoman = 猫女
+Kate Kane = 凯特 凯恩
+Batwoman = 蝙蝠女侠
+Helena Bertinelli = 海伦娜 贝蒂内利
+Huntress = 女猎手
+Harvey Dent = 哈维 丹特
+Two-Face = 双面人
+Harleen Quinzel = 哈琳 奎泽
+Harley Quinn = 哈莉 奎茵
+Oswald Cobblepot = 奥斯瓦尔德 科布尔波特
+Penguin = 企鹅人
+Edward Nygma = 爱德华 尼格玛
+Riddler = 谜语人
+Jonathan Crane = 乔纳森 克莱恩
+Scarecrow = 稻草人
+Pamela Isley = 帕梅拉 艾斯利
+Poison Ivy = 毒藤女
+Victor Zsasz = 维克多 扎斯
+Mr. Freeze = 急冻先生
+Freeze = 急冻先生
+Bane = 贝恩
+Ra's al Ghul = 拉尔斯 古尔
+Talia al Ghul = 塔利亚 古尔
+Slade Wilson = 斯莱德 威尔逊
+Deathstroke = 丧钟
+Court of Owls = 猫头鹰法庭
+// 神奇女侠相关
+Hippolyta = 希波吕忒
+Themyscira = 天堂岛
+Steve Trevor = 史蒂夫 特雷弗
+Cheetah = 豹女
+Ares = 阿瑞斯
+  
+// 闪电家族
+Wally West = 沃利 韦斯特
+Kid Flash = 闪电小子
+Bart Allen = 巴特 艾伦
+Impulse = 脉冲
+Jay Garrick = 杰 加里克
+Iris West = 艾丽斯 韦斯特
+// 少年泰坦 / 泰坦
+Koriand'r = 科里安妲
+Starfire = 星火
+Rachel Roth = 蕾切尔 罗斯
+Raven = 渡鸦
+Garfield Logan = 加菲尔德 罗根
+Beast Boy = 野兽小子
+Changeling = 变形者
+Donna Troy = 唐娜 特洛伊
+Wonder Girl = 神奇少女
+Joseph Wilson = 约瑟夫 威尔逊
+Jericho = 杰里科
+Rose Wilson = 罗斯 威尔逊
+Ravager = 劫掠者
+Tara Markov = 塔拉 马尔可夫
+Terra = 土石女
+Roy Harper = 罗伊 哈珀
+Arsenal = 军火库
+Speedy = 快手
+Garth = 加斯
+Aqualad = 水少侠
+Kole Weathers = 科尔 韦瑟斯
+Karen Beecher = 凯伦 比彻
+Bumblebee = 大黄蜂
+// 魔法系 / 黑暗正义联盟
+John Constantine = 约翰 康斯坦丁
+Zatanna Zatara = 扎坦娜 扎塔拉
+Zatanna = 扎坦娜
+Alec Holland = 亚历克 荷兰
+Swamp Thing = 沼泽怪物
+Deadman = 死人
+Etrigan = 埃特里根
+Jason Blood = 杰森 布拉德
+Doctor Fate = 命运博士
+Kent Nelson = 肯特 尼尔森
+Madame Xanadu = 玄幻夫人
+Phantom Stranger = 魅影陌客
+The Spectre = 幽灵
+Dream = 梦
+Morpheus = 摩耳甫斯
+Death = 死神
+Desire = 欲望
+Despair = 绝望
+Delirium = 错乱
+Destiny = 命运
+Destruction = 毁灭
+  
+// 绿灯军团 / 七灯
+Sinestro = 塞尼斯托
+Thaal Sinestro = 塔尔 塞尼斯托
+Kilowog = 基洛沃格
+Abin Sur = 阿宾 苏尔
+Saint Walker = 圣徒 沃克
+Atrocitus = 阿特罗西图斯
+Larfleeze = 拉弗里兹
+Carol Ferris = 卡罗尔 费里斯
+Star Sapphire = 星蓝石
+Indigo-1 = 靛蓝一
+Nekron = 内克朗
+White Lantern = 白灯
+Black Lantern = 黑灯
+// 反派与反英雄
+The Joker = 小丑
+Joker = 小丑
+Black Manta = 黑蝠鲼
+Ocean Master = 海洋领主
+Orm Marius = 奥姆 马吕斯
+Brainiac = 布莱尼亚克
+Darkseid = 达克赛德
+Uxas = 乌克萨斯
+DeSaad = 狄萨德
+Granny Goodness = 慈祥奶奶
+Steppenwolf = 荒原狼
+Big Barda = 大芭达
+Mister Miracle = 奇迹先生
+Scott Free = 斯科特 弗里
+Orion = 奥利安
+Kalibak = 卡利巴克
+Grail = 圣杯
+Black Adam = 黑亚当
+Billy Batson = 比利 巴特森
+Shazam = 沙赞
+Mary Bromfield = 玛丽 布罗姆菲尔德
+Freddy Freeman = 弗雷迪 弗里曼
+Captain Marvel = 惊奇队长
+Captain Marvel Jr. = 惊奇队长二世
+Darla Dudley = 达拉 达德利
+Eugene Choi = 尤金 崔
+Pedro Peña = 佩德罗 佩尼亚
+Amanda Waller = 阿曼达 沃勒
+Rick Flag = 瑞克 弗拉格
+Deadshot = 死亡射手
+Floyd Lawton = 弗洛伊德 劳顿
+Captain Boomerang = 回旋镖队长
+George Harkness = 乔治 哈克尼斯
+Killer Croc = 杀手鳄
+Waylon Jones = 韦伦 琼斯
+King Shark = 鲨鱼王
+Nanaue = 纳纳维
+Peacemaker = 和平使者
+Christopher Smith = 克里斯托弗 史密斯
+Bronze Tiger = 铜虎
+Ben Turner = 本 特纳
+Lady Shiva = 西瓦女士
+Sandra Wu-San = 桑德拉 无山
+Mirror Master = 镜子大师
+Sam Scudder = 萨姆 斯卡德
+Weather Wizard = 天气巫师
+Mark Mardon = 马克 马东
+Captain Cold = 寒冷队长
+Leonard Snart = 伦纳德 斯纳特
+Heat Wave = 热浪
+Mick Rory = 米克 罗里
+Golden Glider = 金色滑翔者
+Lisa Snart = 丽莎 斯纳特
+Trickster = 戏法师
+James Jesse = 詹姆斯 杰西
+Pied Piper = 花衣魔笛手
+Hartley Rathaway = 哈特利 拉瑟韦
+Toyman = 玩具人
+Winslow Schott = 温斯洛 肖特
+Jack Nimball = 杰克 尼姆博尔
+Hugo Strange = 雨果 斯特兰奇
+Mad Hatter = 疯帽匠
+Jervis Tetch = 杰维斯 泰奇
+Clayface = 泥脸
+Matt Hagen = 马特 哈根
+Basil Karlo = 巴兹尔 卡洛
+Professor Pyg = 猪面教授
+Lazlo Valentin = 拉斯洛 瓦伦丁
+Killer Frost = 冰霜杀手
+Caitlin Snow = 凯特琳 斯诺
+Livewire = 电波女
+Leslie Willis = 莱斯利 威利斯
+Vandal Savage = 汪达尔 萨维奇
+Cheshire = 紫衫
+Jade Nguyen = 杰德 阮
+Riddler = 谜语人
+Calendar Man = 日历人
+Firefly = 萤火虫
+Garfield Lynns = 加菲尔德 林斯
+Polka-Dot Man = 圆点人
+Kite Man = 风筝人
+Charles Brown = 查尔斯 布朗
+Condiment King = 调味品王
+Crazy Quilt = 疯狂拼布
+Clock King = 钟王
+William Tockman = 威廉 托克曼
+Doctor Psycho = 心理博士
+Doctor Sivana = 希瓦纳博士
+Mr. Mind = 心智先生
+Eclipso = 蚀影
+Solomon Grundy = 所罗门 格兰迪
+Gorilla Grodd = 大猩猩格鲁德
+Giganta = 巨化女
+Doris Zuel = 多丽丝 祖埃尔
+Circe = 喀耳刻
+Felix Faust = 菲利克斯 浮士德
+Tala = 塔拉
+Enchantress = 魔女
+June Moone = 琼 穆恩
+Klarion = 克拉里昂
+Trigon = 特里贡
+Black Hand = 黑手
+William Hand = 威廉 手
+Mongul = 蒙戈
+Doomsday = 毁灭日
+Bizarro = 比扎罗
+Reverse-Flash = 逆闪电
+Eobard Thawne = 艾伯德 索恩
+Zoom = 极速
+Hunter Zolomon = 亨特 佐洛蒙
+Inertia = 惰性
+Thaddeus Thawne = 撒迪厄斯 索恩
+Crisis = 危机
+Anti-Monitor = 反监视者
+Monitor = 监视者
+Perpetua = 珀佩图阿
+Barbatos = 巴巴托斯
+Batman Who Laughs = 狂笑之蝠
+  
+// 其他英雄
+Oliver Queen = 奥利弗 奎因
+Green Arrow = 绿箭侠
+Dinah Lance = 黛娜 兰斯
+Black Canary = 黑金丝雀
+Ralph Dibny = 拉尔夫 迪布尼
+Elongated Man = 伸缩人
+Ray Palmer = 雷 帕尔默
+The Atom = 原子侠
+Ryan Choi = 瑞安 蔡
+Hawkman = 鹰侠
+Carter Hall = 卡特 霍尔
+Hawkgirl = 鹰女
+Kendra Saunders = 肯德拉 桑德斯
+Shayera Hol = 莎耶拉 霍尔
+Vixen = 雌狐
+Mari McCabe = 玛丽 麦凯布
+Booster Gold = 金色先锋
+Michael Carter = 迈克尔 卡特
+Blue Beetle = 蓝甲虫
+Jaime Reyes = 海梅 雷耶斯
+Ted Kord = 泰德 科德
+Dan Garrett = 丹 加勒特
+Animal Man = 动物侠
+Buddy Baker = 巴迪 贝克
+Adam Strange = 亚当 斯特兰奇
+Metamorpho = 变形侠
+Rex Mason = 雷克斯 梅森
+Plastic Man = 塑料人
+Patrick O'Brian = 帕特里克 奥布莱恩
+Starman = 星侠
+Jack Knight = 杰克 奈特
+Stargirl = 逐星女
+Courtney Whitmore = 考特尼 惠特莫尔
+Hourman = 小时侠
+Rex Tyler = 雷克斯 泰勒
+Spectre = 幽灵
+Jim Corrigan = 吉姆 科里根
+Mister Terrific = 卓越先生
+Michael Holt = 迈克尔 霍尔特
+Question = 问者
+Renee Montoya = 蕾妮 蒙托亚
+Doctor Light = 光博士
+Kimiyo Hoshi = 星光 星
+Firestorm = 火风暴
+Ronnie Raymond = 罗尼 雷蒙德
+Martin Stein = 马丁 斯坦因
+Jason Rusch = 贾森 拉什
+Steel = 钢铁
+John Henry Irons = 约翰 亨利 艾恩斯
+Power Girl = 神力女孩
+Kara Zor-L = 卡拉 佐 艾尔
+Miss Martian = 火星少女
+M'gann M'orzz = 梅甘 莫兹
+Bumblebee = 大黄蜂
+Karen Beecher = 凯伦 比彻
+Bluebird = 蓝鸟
+Harper Row = 哈珀 罗
+Static = 静电
+Virgil Hawkins = 维吉尔 霍金斯
+Aquagirl = 水女侠
+Lorena Marquez = 洛雷娜 马尔克斯
+Tula = 图拉
+Red Tornado = 红色龙卷风
+Ulthoon = 乌尔松
+John Smith = 约翰 史密斯
+Hawk and Dove = 战鹰与白鸽
+Hank Hall = 汉克 霍尔
+Don Hall = 唐 霍尔
+Dawn Granger = 道恩 格兰杰
+Holly Granger = 霍莉 格兰杰
+Vigilante = 义务警员
+Adrian Chase = 阿德里安 蔡斯
+Ragman = 碎布人
+Rory Regan = 罗里 里根
+Man-Bat = 蝠人
+Kirk Langstrom = 柯克 朗斯特罗姆
+Krypto = 氪比
+Ace = 王牌
+Bat-Hound = 蝙蝠犬
+  
+// 组织与团队称呼
+Justice League = 正义联盟
+Justice Society = 正义会社
+Justice League Dark = 黑暗正义联盟
+Teen Titans = 少年泰坦
+Young Justice = 少年正义联盟
+Birds of Prey = 猛禽小队
+Suicide Squad = 自杀小队
+Task Force X =  《X特遣队》
+The Outsiders = 局外人
+Doom Patrol = 末日巡逻队
+Legion of Doom = 厄运军团
+Secret Six = 秘密六人组
+Injustice League = 不义联盟
+Seven Soldiers of Victory = 胜利七勇士
+Titans = 泰坦
+Shadowpact = 暗影契约
+The Rogues = 无赖帮
+League of Assassins = 刺客联盟
+League of Shadows = 影武者联盟
+Black Lantern Corps = 黑灯军团
+Sinestro Corps = 塞尼斯托军团
+Star Sapphires = 星蓝石军团
+Blue Lantern Corps = 蓝灯军团
+Indigo Tribe = 靛蓝部落
+Red Lantern Corps = 红灯军团
+Orange Lantern = 橙灯
+White Lantern Corps = 白灯军团
+Guardians of the Universe = 宇宙守护者
+Guardians of Oa = 欧阿守护者
+New Gods = 新神族
+Forever People = 永恒族
+Female Furies = 复仇女神战队
+// 地点与世界
+Gotham City = 哥谭市
+Metropolis = 大都会
+Central City = 中心城
+Keystone City = 基斯通城
+Coast City = 海岸城
+Star City = 星城
+Blüdhaven = 布鲁德黑文
+Arkham Asylum = 阿卡姆疯人院
+Blackgate Prison = 黑门监狱
+Wayne Manor = 韦恩庄园
+Batcave = 蝙蝠洞
+Daily Planet = 星球日报
+LexCorp = 莱克斯集团
+Wayne Enterprises = 韦恩集团
+Krypton = 氪星
+Apokolips = 天启星
+New Genesis = 新创世
+Themyscira = 天堂岛
+Atlantis = 亚特兰蒂斯
+Oa = 欧阿星
+Earth-Two = 地球二
+Earth-Three = 地球三
+Multiverse = 多元宇宙
+Dark Multiverse = 黑暗多元宇宙
+Source Wall = 起源之墙
+Speed Force = 极速力
+Phantom Zone = 幻影地带
+  
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Kryptonian:氪星人
+Amazon:亚马逊人
+Meta-human:超能力者
+Metahuman:超能力者
+Vigilante:义警
+Sidekick:助手
+Hero:英雄
+Villain:反派
+Anti-hero:反英雄
+Rogues:无赖帮
+Cape:披风侠
+Alien:外星人
+Demon:恶魔
+Angel:天使
+God:神
+Goddess:女神
+Mortal:凡人
+Immortal:不朽者
+Magic:魔法
+Sorcery:巫术
+Witch:女巫
+Warlock:男巫
+Curse:诅咒
+Spell:咒语
+Hex:恶咒
+Prophecy:预言
+Soul:灵魂
+Mind control:精神控制
+Telepathy:心灵感应
+Telekinesis:念力
+Shapeshifter:变形者
+Mutant:变异者
+Clone:克隆体
+Android:机器人
+Cyborg:半机械人
+Artificial intelligence:人工智能
+AI:人工智能
+Lasso of Truth:真言套索
+Batarang:蝙蝠镖
+Kryptonite:氪石
+Green Kryptonite:绿氪石
+Red Kryptonite:红氪石
+Gold Kryptonite:金氪石
+Power ring:灯戒
+Lantern:灯侠
+Willpower:意志力
+Fear:恐惧
+Rage:愤怒
+Love:爱
+Hope:希望
+Compassion:怜悯
+Avarice:贪婪
+Death:死亡
+Life:生命
+Crime:犯罪
+Justice:正义
+Secret identity:秘密身份
+Codenames:代号
+Alias:化名
+Civilian:平民身份
+Costume:战服
+Mask:面具
+Cowl:头罩
+Utility belt:多功能腰带
+Gadget:小工具
+Gear:装备
+Arsenal:军火库
+Fortress of Solitude:孤独堡垒
+Watchtower:瞭望塔
+Hall of Justice:正义大厅
+Safe house:安全屋
+Hideout:藏身处
+GCPD:哥谭市警局
+Commissioner:警监
+Detective:侦探
+Partner:搭档
+Protégé:门生
+Mentor:导师
+Apprentice:学徒
+Team:团队
+Mission:任务
+Patrol:巡逻
+Fugitive:逃犯
+Prisoner:囚犯
+Asylum:疯人院
+Inmate:病患囚犯
+Victim:受害者
+Hostage:人质
+Witness:证人
+Informant:线人
+Snitch:告密者
+Undercover:卧底
+Double agent:双面间谍
+Betrayal:背叛
+Redemption:救赎
+Revenge:复仇
+Trauma:创伤
+Trigger:触发点
+Flashback:闪回
+Nightmare:噩梦
+Vision:幻象
+Hallucination:幻觉
+Possession:附身
+Dimension:维度
+Timeline:时间线
+Parallel universe:平行宇宙
+Crisis:危机
+Invasion:入侵
+Apocalypse:末日
+Resurrection:复活
+Rebirth:重生
+Origin story:起源故事
+Retcon:设定改写
+Canon:正史
+AU:平行世界设定
+Fix-it:补天向
+Whump:虐身
+Hurt/comfort:伤痛抚慰
+Slow burn:慢热
+Enemies to lovers:宿敌变恋人
+Friends to lovers:朋友变恋人
+Angst:虐心
+Fluff:甜文
+Smut:肉文
+Pining:暗恋
+Established relationship:稳定恋爱关系
+Getting together:走向恋爱
+First kiss:初吻
+Domestic:日常向
+Found family:捡来的家人
+Caretaking:照顾情节
+Rescue mission:营救任务
+Torture:酷刑
+Aftermath:余波
+Recovery:康复
+Healing:疗愈
+Amnesia:失忆
+Identity porn:身份梗
+Secret relationship:地下恋情
+Fake dating:假交往
+Soulmate:灵魂伴侣
+Soulmate AU:灵魂伴侣设定
+Mpreg:男孕
+Omegaverse:ABO设定
+Hurt:受伤
+Comfort:安慰
+Blood:血
+Gunshot wound:枪伤
+Knife wound:刀伤
+Poison:中毒
+Venom:毒液
+Healing factor:自愈能力
+Regeneration:再生
+Flight:飞行
+Super strength:超级力量
+Heat vision:热视线
+X-ray vision:透视眼
+Freeze breath:冰冻吐息
+Superspeed:神速
+Invulnerability:刀枪不入
+Weakness:弱点
