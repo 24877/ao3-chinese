@@ -1,4 +1,4 @@
-版本号：1.0.10
+版本号：1.1.0
 维护者：你
 更新时间：2026-10-28
 
@@ -76,7 +76,7 @@ Harukawa Maki = 春川 魔姬
 Hoshi Ryoma = 星 龙马
 Momota Kaito = 百田 解斗
 Yumeno Himiko = 梦野 秘密子
-Angie Yonaga = 安洁 夜长
+Yonaga Angie = 夜长 安洁
 
 // 绝望篇/未来篇 角色
 Kizakura Koichi = 黄樱 公一
