@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -6,6 +6,7 @@
 词条
 Yukihira Souma = 幸平 创真
 Yukihira Soma = 幸平 创真
+Yukihira Sōma = 幸平 创真
 Yukihira Jouichirou = 幸平 城一郎
 Saiba Jouichirou：幸平 城一郎
 Nakiri Senzaemon = 薙切 仙左卫门
@@ -58,9 +59,6 @@ Satou Shouji = 佐藤 昭二
 Roland Chapelle = 罗兰 沙佩尔
 Sena Hiromi = 濑奈 广美
 
-
-
-
 通用词条
 // 不区分大小写，机构与概念
 Totsuki = 远月
@@ -77,10 +75,3 @@ Autumn Election = 秋季选拔
 Stagiaire = 实习
 Molecular Gastronomy = 分子料理
 Chef's Table = 主厨餐桌
-Nakiri Erina = 薙切 绘里奈
-
-
-正则表达式
-// 处理英文名常见大小写变体
-\bSōma\b: 创真
-
