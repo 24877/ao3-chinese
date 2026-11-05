@@ -1,11 +1,11 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-30
 
 词条
 // 此区域区分大小写，用于翻译人名、机体名、专属称号等专有名词
-Lelouch Lamperouge = 鲁鲁修 兰佩路基
-Lelouch vi Britannia = 鲁鲁修 维 布里塔尼亚
+Lelouch Lamperouge = 鲁路修 兰佩路基
+Lelouch vi Britannia = 鲁路修 维 布里塔尼亚
 Nunnally Lamperouge = 娜娜莉 兰佩路基
 Nunnally vi Britannia = 娜娜莉 维 布里塔尼亚
 Suzaku Kururugi = 枢木 朱雀
