@@ -1,4 +1,4 @@
-版本号：1.1.0
+版本号：1.1.1
 维护者：你
 更新时间：2026-10-28
 
@@ -29,6 +29,7 @@ Mitarai Ryota = 御手洗 亮太
 Kuzuryu Natsumi = 九头龙 夏美
 Sato：佐藤
 Monomi：兔美
+Usami：兔美
 Chou Koukou Kyuu no Sagishi = 超高校级的欺诈师
 "Chou Koukou Kyuu no Sagishi | Ultimate Imposter" = 超高校级的欺诈师 | 终极冒名者
 
@@ -60,6 +61,7 @@ Monokuma：黑白熊
 // V3 角色
 Akamatsu Kaede = 赤松 枫
 Amami Rantarou = 天海 兰太郎
+Amami Rantaro = 天海 兰太郎
 Iruma Miu = 入间 美兔
 Ouma Kokichi = 王马 小吉
 Oma Kokichi = 王马 小吉
@@ -72,6 +74,7 @@ Shirogane Tsumugi = 白银 紬
 Shinguji Korekiyo = 真宫寺 是清
 Chabashira Tenko = 茶柱 转子
 Toujou Kirumi = 东条 斩美
+Tojo Kirumi = 东条 斩美
 Harukawa Maki = 春川 魔姬
 Hoshi Ryoma = 星 龙马
 Momota Kaito = 百田 解斗
