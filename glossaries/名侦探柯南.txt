@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -17,6 +17,7 @@ Haibara Ai = 灰原 哀
 Miyano Shiho = 宫野 志保
 Miyano Akemi = 宫野 明美
 Miyano Atsushi = 宫野 厚司
+Miyano Elena = 宫野 艾莲娜
 Miyano = 宫野
 
 // —— 少年侦探团 ——
@@ -62,10 +63,10 @@ Date Wataru = 伊达 航
 // —— FBI ——
 Akai Shuichi = 赤井 秀一
 Moroboshi Daisuke = 诸星 大
-Sera Mary = 赤井 玛丽
+Sera Mary = 世良 玛丽
 Sera Masumi = 世良 真纯
 Haneda Shuukichi = 羽田 秀吉
-Starling Jodie = 茱蒂·斯泰琳
+Jodie Starling = 茱蒂 斯泰琳
 Camel Andre = 安德雷·卡迈尔
 Black James = 詹姆斯·布莱克
 
@@ -83,8 +84,8 @@ Scotch = 苏格兰
 Gin = 琴酒
 Vodka = 伏特加
 Vermouth = 贝尔摩德
-Vineyard Sharon = 莎朗·温亚德
-Vineyard Chris = 克丽丝·温亚德
+Sharon Vineyard = 莎朗 温亚德
+Chris Vineyard = 克丽丝 温亚德
 Sherry = 雪莉
 Chianti = 基安蒂
 Korn = 科恩
@@ -100,6 +101,8 @@ Karasuma Renya = 乌丸 莲耶
 
 // —— 怪盗基德 ——
 Kuroba Kaito = 黑羽 快斗
+Kuroba Chikage = 黑羽 千影
+Kuroba Touichi = 黑羽 盗一
 Kaitou Kid = 怪盗 基德
 Jii Konosuke = 寺井 黄之助
 Nakamori Ginzo = 中森 银三
@@ -151,12 +154,4 @@ Turbo Engine Skateboard = 涡轮滑板
 
 
 
-// ===== 正则：常见拼写变体兜底 =====
-正则表达式
-\bKudo\b: 工藤
-\bEdogawa\b: 江户川
-\bHaibara\b: 灰原
-\bHattori\b: 服部
-\bAmuro\b: 安室
-\bFuruya\b: 降谷
 
