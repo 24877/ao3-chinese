@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-31
   
@@ -6,7 +6,7 @@
 // 此区域区分大小写，用于翻译人名、称号、专属名词
 // 正义联盟核心
 Clark Kent = 克拉克 肯特
-Kal-El = 卡尔 艾尔
+Kal-El = 卡尔-艾尔
 Superman = 超人
 Bruce Wayne = 布鲁斯 韦恩
 Batman = 蝙蝠侠
@@ -29,7 +29,7 @@ Jessica Cruz = 杰西卡 克鲁兹
 Simon Baz = 西蒙 巴兹
 Alan Scott = 艾伦 斯科特
 // 超人家族
-Kara Zor-El = 卡拉 佐 艾尔
+Kara Zor-El = 卡拉 佐-艾尔
 Supergirl = 超级少女
 Kon-El = 康 艾尔
 Conner Kent = 康纳 肯特
@@ -83,8 +83,8 @@ Victor Zsasz = 维克多 扎斯
 Mr. Freeze = 急冻先生
 Freeze = 急冻先生
 Bane = 贝恩
-Ra's al Ghul = 拉尔斯 古尔
-Talia al Ghul = 塔利亚 古尔
+Ra's al Ghul = 拉尔斯 艾尔 古尔
+Talia al Ghul = 塔利亚 艾尔 古尔
 Slade Wilson = 斯莱德 威尔逊
 Deathstroke = 丧钟
 Court of Owls = 猫头鹰法庭
