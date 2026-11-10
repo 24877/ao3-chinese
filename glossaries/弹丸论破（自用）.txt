@@ -1,4 +1,4 @@
-版本号：1.1.1
+版本号：1.1.2
 维护者：你
 更新时间：2026-10-28
 
@@ -49,6 +49,7 @@ Ogami Sakura = 大神 樱
 Ishimaru Kiyotaka = 石丸 清多夏
 Owada Mondo = 大和田 纹土
 Fujisaki Chihiro = 不二咲 千寻
+Alter Ego：Alter Ego
 Yamada Hifumi = 山田 一二三
 Hagakure Yasuhiro = 叶隐 康比吕
 Celestia Ludenberg = 塞蕾丝缇雅 罗登贝克
@@ -129,6 +130,10 @@ Main Course：本科
 Despair Disease：绝望病
 Monokuma File：黑白熊档案
 Body Discovery Announcement：尸体发现广播
+Blackened：凶手
+Monocoin：黑白币
+Hope Fragment：希望碎片
+Debate Scrum：分组辩论
 Execution：处刑
 Memory Light：记忆灯
 Flashback Light：回忆灯
@@ -140,7 +145,7 @@ The Biggest, Most Awful, Most Tragic Event in Human History：人类史上最大
 Truth Bullet：言弹
 Nonstop Debate：无休止议论
 Hangman's Gambit：文字接龙
-Bullet Time Battle：机关枪论战
+Bullet Time Battle：子弹时间对决
 Electronic Student Handbook：电子学生手册
 Warriors of Hope：希望战士
 Towa City：塔和市
