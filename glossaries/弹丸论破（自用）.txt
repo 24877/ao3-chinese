@@ -1,11 +1,9 @@
-版本号：1.1.2
+版本号：1.1.3
 维护者：你
 更新时间：2026-10-28
 
-// ==========================================
-// 通用词条区：不区分大小写，自动处理复数与连字符
-// ==========================================
 通用词条
+// 不区分大小写，自动处理复数与连字符
 
 // 2代 角色
 Hinata Hajime = 日向 创
@@ -149,6 +147,11 @@ Bullet Time Battle：子弹时间对决
 Electronic Student Handbook：电子学生手册
 Warriors of Hope：希望战士
 Towa City：塔和市
+kiyo：是清
+hiro：叶隐
+hina：葵
+taka：石丸
+clairvoyant：占卜师
 
 // 超高校级的才能
 Ultimate Lucky Student：超高校级的幸运
