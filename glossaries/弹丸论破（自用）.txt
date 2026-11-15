@@ -1,4 +1,4 @@
-版本号：1.1.4
+版本号：1.1.5
 维护者：你
 更新时间：2026-11-15
 
@@ -118,6 +118,7 @@ Remnants of Despair：绝望残党
 Future Foundation：未来机关
 Motivation Video：动机影片
 Class Trial：学级审判
+the trial room：审判室
 Murder Game：自相残杀
 Kill Game：杀戮游戏
 Jabberwock Island：贾巴沃克岛
