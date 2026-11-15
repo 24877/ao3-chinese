@@ -1,6 +1,6 @@
-版本号：1.1.3
+版本号：1.1.4
 维护者：你
-更新时间：2026-10-28
+更新时间：2026-11-15
 
 通用词条
 // 不区分大小写，自动处理复数与连字符
@@ -128,10 +128,12 @@ Main Course：本科
 Despair Disease：绝望病
 Monokuma File：黑白熊档案
 Body Discovery Announcement：尸体发现广播
+blacked：被处刑
 Blackened：凶手
 Monocoin：黑白币
 Hope Fragment：希望碎片
 Debate Scrum：分组辩论
+Scrum Debate：分组辩论
 Execution：处刑
 Memory Light：记忆灯
 Flashback Light：回忆灯
@@ -147,11 +149,21 @@ Bullet Time Battle：子弹时间对决
 Electronic Student Handbook：电子学生手册
 Warriors of Hope：希望战士
 Towa City：塔和市
+Big Mac：苗木
+Cheerio：千寻 
+Junkuro：盾子（战刃骸饰）
+Monopad：黑白熊平板
+atua：阿图亚
+leader：领袖
 kiyo：是清
 hiro：叶隐
 hina：葵
 taka：石丸
+Imposter：欺诈师
+Affluent Progeny：贵公子
+Fashionista：时尚达人
 clairvoyant：占卜师
+Swordswoman：剑道家
 
 // 超高校级的才能
 Ultimate Lucky Student：超高校级的幸运
@@ -196,6 +208,7 @@ Ultimate Supreme Leader：超高校级的总统
 Ultimate Robot：超高校级的机器人
 Ultimate Entomologist：超高校级的昆虫博士
 Ultimate Cosplayer：超高校级的角色扮演
+Ultimate Tennis Pro：超高校级的网球选手
 Ultimate Anthropologist：超高校级的民俗学者
 Ultimate Aikido Master：超高校级的合气道家
 Ultimate Maid：超高校级的女仆
