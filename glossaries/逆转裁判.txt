@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -6,6 +6,7 @@
 // —— 本传主角组 ——
 Wright Phoenix = 成步堂 龙一
 Naruhodo Ryuuichi = 成步堂 龙一
+Nick：成步堂
 Fey Maya = 绫里 真宵
 Fey Mia = 绫里 千寻
 Fey Pearl = 绫里 春美
