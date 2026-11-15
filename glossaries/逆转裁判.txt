@@ -1,71 +1,113 @@
-版本号：1.0.2
-维护者：你的名字
-更新时间：2026-10-28
+版本号：1.0.3
+维护者：你
+更新时间：2026-11-15
 
 词条
-// —— 本传主角组 ——
-Wright Phoenix = 成步堂 龙一
+// 此区域区分大小写，用于翻译人名等专有名词
+Naruhodou Ryuuichi = 成步堂 龙一
 Naruhodo Ryuuichi = 成步堂 龙一
+Wright Phoenix = 成步堂 龙一
 Nick：成步堂
+Ayasato Mayoi = 绫里 真宵
 Fey Maya = 绫里 真宵
-Fey Mia = 绫里 千寻
-Fey Pearl = 绫里 春美
-Fey Morgan = 绫里 贵美子
-Fey Misty = 绫里 舞子
-Butz Larry = 矢张 政志
-Wright Trucy = 成步堂 美贯
-Justice Apollo = 王泥喜 法介
-Cykes Athena = 希月 心音
-Blackquill Simon = 夕神 迅
-Fulbright Bobby = 番 轰三
-
-// —— 检察官组 ——
-Edgeworth Miles = 御剑 怜侍
-Edgeworth Gregory = 御剑 信
-von Karma Manfred = 狩魔 豪
-von Karma Franziska = 狩魔 冥
-Gavin Klavier = 牙琉 响也
-Gavin Kristoph = 牙琉 雾人
-Godot = 戈多 / 吾童
-Payne Winston = 亚内 武文
-Tennyson Ben = 亚内 彬彬
-
-// —— 警察 / 法院 ——
-Gumshoe Dick = 糸锯 圭介
-Hart Lotta = 大泽木 夏实
-Judge = 裁判长
+Houzuki Akane = 宝月 茜
 Skye Ema = 宝月 茜
+Karuma Mei = 狩魔 冥
+von Karma Franziska = 狩魔 冥
+Miyanagi Chinami = 美柳 千奈美
+Hawthorne Dahlia = 美柳 千奈美
+Odoroki Housuke = 王泥喜 法介
+Justice Apollo = 王泥喜 法介
+Garyuu Kyouya = 牙琉 响也
+Gavin Klavier = 牙琉 响也
+Kidzuki Kokone = 希月 心音
+Cykes Athena = 希月 心音
+Nahyuta Sahdmadhi = 那由他·萨德马迪
+Naruhodou Ayame = 成步堂 美贯
+Wright Trucy = 成步堂 美贯
+Mitsurugi Reiji = 御剑 怜侍
+Edgeworth Miles = 御剑 怜侍
+Ayasato Chihiro = 绫里 千寻
+Fey Mia = 绫里 千寻
+Itinokogiri Keisuke = 糸锯 圭介
+Gumshoe Dick = 糸锯 圭介
+Yahari Masashi = 矢张 政志
+Butz Larry = 矢张 政志
+Karuma Gou = 狩魔 豪
+von Karma Manfred = 狩魔 豪
+Garyuu Kirito = 牙琉 雾人
+Gavin Kristoph = 牙琉 雾人
+Ayasato Harumi = 绫里 春美
+Fey Pearl = 绫里 春美
+Saiga Minoru = 戈多
+Godot = 戈多
+Houzuki Tomoe = 宝月 巴
+Skye Lana = 宝月 巴
+Ichiyanagi Yuugure = 一条 美云
 Faraday Kay = 一条 美云
-Yogi Yanni = 灰根 高太郎
-
-// —— 大逆转裁判 ——
-Naruhodo Ryunosuke = 成步堂 龙之介
-Mikotoba Susato = 御琴羽 寿沙都
-Asogi Kazuma = 亚双义 一真
-van Zieks Barok = 巴洛克·班卓克斯
-Wilson Iris = 艾瑞丝·威尔森
-
-// —— 逆转检事关联 ——
-Ichiyanagi Bansai = 一条 九郎
-Ichiyanagi Yumihiko = 一条 美云
-
-
-
-
-// 系统与设定
-Bracelet：手镯
-Mood Matrix：心理分析
-Luminol：鲁米诺试剂
-Science Investigation：科学搜查
-Spirit Medium：灵媒
+Odagiri Tahajime = 番 轰三
+Fulbright Bobby = 番 轰三
+Auchi Takefumi = 亚内 武文
+Payne Winston = 亚内 武文
+Ganto = 严徒 海慈
+Gant Damon = 严徒 海慈
+Shingengi Kanenari = 水镜 秤
+Blackquill Simon = 水镜 秤
+Kamiyama Hayate = 夕神 疾风
+Keyes Simon = 夕神 疾风
+Kamiyama Yukari = 夕神 辉夜
+Blackquill Aura = 夕神 辉夜
 Kurain Village：仓院之里
-Kurain Channeling：仓院流灵媒道
+Courtroom：法庭
+Defense Bench：辩护席
+Prosecution Bench：检察席
+Witness Stand：证人席
+Attorney Badge：律师徽章
+Magatama：勾玉
+Spirit Medium：灵媒
+Channeling：降灵
 
-
-
-
-正则表达式
-// 处理 Naruhodo 不同写法
-\bNaruhodo\b: 成步堂
-\bRyunosuke Naruhodo\b: 成步堂龙之介
-\bRyuuichi Naruhodo\b: 成步堂龙一
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Objection：异议
+Hold it：等等
+Take that：反驳
+Gotcha：得逞了
+Perceive：看穿
+Press：追问
+Present：出示
+Testimony：证词
+Cross-Examination：交叉询问
+Penalty：惩罚
+Health Bar：血条
+Evidence：证据
+Profile：人物档案
+Attorney：律师
+Defense Attorney：辩护律师
+Prosecutor：检察官
+Detective：刑警
+Judge：裁判长
+Witness：证人
+Defendant：被告
+Plaintiff：原告
+Verdict：判决
+Not Guilty：无罪
+Guilty：有罪
+Murder：谋杀
+Trial：庭审
+Court：法庭
+Pursuit：追击
+Logic and Trick：逻辑与把戏
+Bloody Cosmos：血色宇宙
+Troupe Gramarye：魔术马戏团
+The Wright Anything Agency：成步堂法律事务所
+The Fey Clan：绫里家
+The Von Karma Family：狩魔家
+The Sahdmadhi Family：萨德马迪家
+The Khura'in Kingdom：库拉哈伊王国
+Revisualization：再现象
+Analyses：心理分析
+Mood Matrix：情绪矩阵
+Apollo's Bracelet：王泥喜的手环
+Athena's MonHear：希月的听心器
+Perceptual Lens：洞察之眼
