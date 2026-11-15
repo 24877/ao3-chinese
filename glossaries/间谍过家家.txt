@@ -1,65 +1,71 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你的名字
 更新时间：2026-10-28
 
 词条
-// 福杰家（区分大小写，专名精准映射）
-Loid Forger：劳埃德·福杰
-Forger Loid：劳埃德·福杰
+// 此区域区分大小写，用于翻译人名等专有名词
+Loid Forger = 劳埃德·福杰
 Twilight：黄昏
-Yor Forger：约尔·福杰
-Yor Briar：约尔·布莱尔
-"Briar"：布莱尔
+Yor Forger = 约尔·福杰
+Yor Briar = 约尔·布莱尔
+Briar：布莱尔
 Thorn Princess：荆棘公主
 Sleeping Beauty：睡美人
-Anya Forger：阿尼亚·福杰
+Anya Forger = 阿尼亚·福杰
 Subject 007：实验体007
-Bond Forger：邦德·福杰
+Bond Forger = 邦德·福杰
 Apple No.8：苹果计划实验体8号
-
-// WISE
-Sylvia Sherwood：西尔维亚·舍伍德
-Fiona Frost：菲奥娜·弗洛斯特
+Sylvia Sherwood = 西尔维亚·舍伍德
+Fiona Frost = 菲奥娜·弗洛斯特
 Nightfall：夜帷
-Franky Franklin：弗兰克·富兰克林
-
-// 东国侧
-Yuri Briar：尤里·布莱尔
-Damian Desmond：达米安·德斯蒙
-Donovan Desmond：多诺万·德斯蒙
-Melinda Desmond：梅琳达·德斯蒙
-Demetrius Desmond：德米特里厄斯·德斯蒙
-Becky Blackbell：贝姬·布莱克贝尔
-Henry Henderson：亨利·亨德森
-
-// 花园（暗杀组织）
+Franky Franklin = 弗兰克·富兰克林
+Yuri Briar = 尤里·布莱尔
+Damian Desmond = 达米安·德斯蒙
+Donovan Desmond = 多诺万·德斯蒙
+Melinda Desmond = 梅琳达·德斯蒙
+Demetrius Desmond = 德米特里厄斯·德斯蒙
+Becky Blackbell = 贝姬·布莱克贝尔
+Henry Henderson = 亨利·亨德森
 Shopkeeper：店长
-Matthew McMahon：马修·麦克马洪
+Matthew McMahon = 马修·麦克马洪
 Garden：花园
-
-// 其他常驻
-Martha Marriott：玛莎·马里奥特
-Olga Gretcher：欧尔嘉·葛雷切
+Martha Marriott = 玛莎·马里奥特
+Olga Gretcher = 欧尔嘉·葛雷切
 Gretcher：葛雷切
+Daybreak：晓
+Bill Watkins = 比尔·沃特金斯
+Ewen Egeburg = 尤恩·埃奇伯格
+Emile Elman = 埃米尔·埃尔曼
+George Glooman = 乔治·格鲁曼
+Murdoch Swan = 默多克·斯旺
+Keith Kepler = 基思·开普勒
+Toby = 托比
+Sharon = 莎伦
+Millie = 米莉
+Billy Squire = 比利·斯夸尔
+"Poppa" = 波帕
+"Momma" = 莫玛
+McMahon = 麦克马洪
+Magenta = 品红
+Chimera = 奇美拉
+Red Circus：红色马戏团
+SSS：国家保安局
+WISE：西国情报局对东课
 
 通用词条
-// 国家与机构
+// 此区域不区分大小写，用于翻译通用概念
 Westalis：西国
 Ostania：东国
 Berlint：伯林特
 Berlint City：伯林特市
 National Unity Party：国家统一党
 State Security Service：国家保安局
-SSS：国家保安局
-WISE：西国情报局对东课
 Intelligence Bureau East：西国情报局对东课
 City Hall：市政厅
 Eden Academy：伊甸学园
 Imperial Scholar：帝国学徒
 Star Crest：星章
 Thunder Crest：雷章
-
-// 行动与设定
 Operation Strix：枭作战
 Strix：枭
 Fake Family：虚假家庭
@@ -72,24 +78,36 @@ Assassination：暗杀
 Client：目标
 Cover Identity：伪装身份
 Handler：联络官
-
-
-
-
-正则表达式
-// 处理 Forger 不同写法
-\bForger\b: 福杰
-\bLoid Forger\b: 劳埃德·福杰
-\bYor Forger\b: 约尔·福杰
-\bAnya Forger\b: 阿尼亚·福杰
-\bBond Forger\b: 邦德·福杰
-
-// 处理 Desmond 家族
-\bDesmond\b: 德斯蒙
-\bDamian Desmond\b: 达米安·德斯蒙
-\bDonovan Desmond\b: 多诺万·德斯蒙
-
-// 处理 Briar 旧姓
-\bBriar\b: 布莱尔
-\bYor Briar\b: 约尔·布莱尔
-\bYuri Briar\b: 尤里·布莱尔
+Mission：任务
+Target：目标对象
+Safe House：安全屋
+Dead Drop：秘密交接点
+Tail：跟踪者
+Cipher：密码本
+Code Name：代号
+Field Agent：外勤特工
+Double Agent：双重间谍
+Informant：线人
+Extraction：撤离行动
+Surveillance：监视
+Interrogation：审讯
+Neuralyzer：记忆消除器
+Peanuts：花生
+Adoption：领养
+School Interview：入学面试
+Parent-Teacher Conference：家长会
+Field Trip：校外教学
+Dog Show：犬展
+Dodgeball：躲避球
+Castle Adventure：城堡冒险
+Cruise Ship：游轮
+Winter Vacation：寒假
+Summer Festival：夏日祭
+Fireworks：烟花
+Secret Mission：秘密任务
+Marriage of Convenience：假结婚
+Family Photo：全家福
+Letter from Mother：母亲的信
+Backstory：过去经历
+Memory Loss：失忆
+Identity Crisis：身份危机
