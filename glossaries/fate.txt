@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -14,14 +14,15 @@ Matou Sakura = 间桐 樱
 Matou Shinji = 间桐 慎二
 Matou Kariya = 间桐 雁夜
 Matou Zouken = 间桐 脏砚
-von Einzbern Illyasviel = 伊莉雅斯菲尔·冯·爱因兹贝伦
-von Einzbern Irisviel = 爱丽丝菲尔·冯·爱因兹贝伦
+Illyasviel von Einzbern = 伊莉雅斯菲尔·冯·爱因兹贝伦
+Irisviel von Einzbern = 爱丽丝菲尔·冯·爱因兹贝伦
+Chloe von Einzbern = 克洛伊·冯·爱因兹贝伦
 Hisau Maiya = 久宇 舞弥
 Kotomine Kirei = 言峰 绮礼
 Kotomine Risei = 言峰 璃正
-Velvet Waver = 韦伯·维尔维特
-El-Melloi Archibald Kayneth = 肯尼斯·埃尔梅罗·阿奇博尔德
-Nuada-Re Sophia-Ri Sola-Ui = 索拉·娜泽莱·索非亚莉
+Waver Velvet = 韦伯·维尔维特
+Kayneth El-Melloi Archibald = 肯尼斯·埃尔梅罗·阿奇博尔德
+Sola-Ui Nuada-Re Sophia-Ri = 索拉·娜泽莱·索非亚莉
 Uryuu Ryuunosuke = 雨生 龙之介
 Kuzuki Sohichirou = 葛木 宗一郎
 Fujimura Taiga = 藤村 大河
@@ -29,9 +30,8 @@ Fujimura Taiga = 藤村 大河
 
 // —— 从者 / 英灵（FSN/FZ）——
 Artoria Pendragon = 阿尔托莉雅·潘德拉贡
-Saber = Saber
+Altria: 阿尔托莉雅
 Gilgamesh = 吉尔伽美什
-Emiya = 英灵卫宫
 Cu Chulainn = 库·丘林
 Iskandar = 伊斯坎达尔
 Diarmuid Ua Duibhne = 迪尔姆德·奥迪那
@@ -39,7 +39,6 @@ Medusa = 美杜莎
 Medea = 美狄亚
 Gilles de Rais = 吉尔·德·雷
 Hassan-i-Sabbah = 哈桑·萨巴赫
-Assassin = 哈桑·萨巴赫
 Heracles = 赫拉克勒斯
 Lancelot = 兰斯洛特
 Sasaki Kojiro = 佐佐木小次郎
@@ -55,6 +54,7 @@ Tamamo no Mae = 玉藻前
 Minamoto no Raikou = 源赖光
 Scathach = 斯卡哈
 Skadi = 斯卡哈
+Ishtar = 伊什塔尔
 Mordred = 莫德雷德
 Gawain = 高文
 Bedivere = 贝德维尔
@@ -84,13 +84,13 @@ Hassan of the Silent = 静谧之哈桑
 Grand Assassin = 山之翁
 
 // —— 职阶名（作为称呼时直译）——
-"Saber": 剑士
-"Archer": 弓兵
-"Lancer": 枪兵
-"Rider": 骑兵
-"Caster": 魔术师
-"Assassin": 暗杀者
-"Berserker": 狂战士
+Saber: Saber
+Archer: Archer
+Lancer: Lancer
+Rider: Rider
+Caster: Caster
+Assassin: Assassin
+Berserker: Berserker
 "Ruler": 裁定者
 "Avenger": 复仇者
 "Shielder": 盾兵
@@ -148,13 +148,3 @@ Pruned Event = 剪定事件
 Olympus = 奥林匹斯
 Shadow Border = 影之国边境
 Shinji = 慎二
-
-
-
-// ===== 正则：长音变体兜底 =====
-正则表达式
-
-\bArtoria\b: 阿尔托莉雅
-\bAltria\b: 阿尔托莉雅
-\bCu ?Chulainn\b: 库·丘林
-\bEmiya\b: 卫宫
