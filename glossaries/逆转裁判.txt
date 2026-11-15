@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-11-15
 
@@ -85,7 +85,6 @@ Profile：人物档案
 Attorney：律师
 Defense Attorney：辩护律师
 Prosecutor：检察官
-Detective：刑警
 Judge：裁判长
 Witness：证人
 Defendant：被告
@@ -94,7 +93,6 @@ Verdict：判决
 Not Guilty：无罪
 Guilty：有罪
 Murder：谋杀
-Trial：庭审
 Court：法庭
 Pursuit：追击
 Logic and Trick：逻辑与把戏
@@ -106,7 +104,6 @@ The Von Karma Family：狩魔家
 The Sahdmadhi Family：萨德马迪家
 The Khura'in Kingdom：库拉哈伊王国
 Revisualization：再现象
-Analyses：心理分析
 Mood Matrix：情绪矩阵
 Apollo's Bracelet：王泥喜的手环
 Athena's MonHear：希月的听心器
