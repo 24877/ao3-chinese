@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -61,11 +61,19 @@ Sena Hiromi = 濑奈 广美
 
 通用词条
 // 不区分大小写，机构与概念
-Totsuki = 远月
-Tōtsuki = 远月
+Totsuki：远月
+Tōtsuki：远月
+Director：学园长
 Polar Star Dormitory = 极星寮
-Elite Ten = 十杰
-Shokugeki = 食戟
+Totsuki Ten Masters：远月十杰
+Council of Ten Masters：十杰评议会
+Totsuki Culinary Academy：远月茶寮料理学园
+Tōtsuki Culinary Academy：远月茶寮料理学园
+Shokugeki：食戟
+Elite Ten：十杰
+Elite Ten Council：远月十杰评议会
+Ten Masters：十杰
+Seventh Seat：第七席
 God's Tongue = 神之舌
 God Tongue = 神之舌
 Regimental Shokugeki = 阵营食戟
