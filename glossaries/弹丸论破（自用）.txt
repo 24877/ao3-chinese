@@ -1,4 +1,4 @@
-版本号：1.1.7
+版本号：1.1.8
 维护者：你
 更新时间：2026-11-15
 
@@ -11,6 +11,7 @@ Kamukura Izuru = 神座 出流
 Komaeda Nagito = 狛枝 凪斗
 Nanami Chiaki = 七海 千秋
 Kuzuryu Fuyuhiko = 九头龙 冬彦
+Kuzuryuu Fuyuhiko = 九头龙 冬彦
 Pekoyama Peko = 边古山 佩子
 Koizumi Mahiru = 小泉 真昼
 Saionji Hiyoko = 西园寺 日寄子
@@ -52,6 +53,7 @@ Alter Ego：Alter Ego
 Yamada Hifumi = 山田 一二三
 Hagakure Yasuhiro = 叶隐 康比吕
 Celestia Ludenberg = 塞蕾丝缇雅·罗登贝克
+Celeste Ludenberg：塞蕾丝缇雅·罗登贝克
 Celeste = 塞蕾丝
 Yasuhiro Taeko = 安广 多惠子
 Enoshima Junko = 江之岛 盾子
@@ -83,22 +85,33 @@ Yonaga Angie = 夜长 安洁
 
 // 绝望篇/未来篇 角色
 Kizakura Koichi = 黄樱 公一
+Kizakura Kohichi = 黄樱 公一
 Kirigiri Jin = 雾切 仁
 Yukizome Chisa = 雪染 千纱
 Sakakura Juzo = 逆藏 十三
 Tengan Kazuo = 天愿 和夫
 Ando Ruruka = 安藤 流流歌
+Andoh Ruruka = 安藤 流流歌
 Kimura Seiko = 忌村 静子
 Gekkogahara Miaya = 月光原 美彩
 Izayoi Sonosuke = 十六夜 惣之助
+Izayoi Sohnosuke = 十六夜 惣之助
 Munakata Kyosuke = 宗方 京助
+Bandai Daisaku = 万代 大作
+Great Gozu = 格雷特 戈兹
 
 // 外传 绝对绝望少女
 Towa Monaca = 塔和 最中
+Towa Haiji = 塔和 灰慈
 Daimon Masaru = 大门 胜
 Kemuri Jataro = 烟 蛇太郎
 Utsugi Kotoko = 空木 言子
 Shingetsu Nagisa = 新月 渚
+Yamada Fujiko = 山田 富士子
+Hagakure Hiroko = 叶隐 浩子
+Asahina Yuta = 朝日奈 悠太
+Fujisaki Taichi = 不二咲 太市
+Nakajima Kanon = 仲岛 花音
 Shirokuma：白熊
 Kurokuma：黑熊
   
@@ -111,6 +124,7 @@ Shikiba Santa = 色叶 田田田
 Togami Shinobu = 十神 忍
 Otonashi Ryoko = 音无 凉子
 Otonashi Ryouko = 音无 凉子
+Madarai Isshiki = 斑井 一式
 
 // 专有名词与设定
 Ultimate：超高校级
@@ -236,6 +250,8 @@ Ultimate Pharmacist：超高校级的药剂师
 Ultimate Therapist：超高校级的治疗师 
 Ultimate Confectioner：超高校级的点心师
 Ultimate Blacksmith：超高校级的铁匠
+Ultimate Farmer：超高校级的农民
+Ultimate Wrestler：超高校级的摔跤手
 
 Ultimate Neurologist：超高校级的神经学者
 Ultimate Spy：超高校级的谍报员
