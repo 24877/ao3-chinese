@@ -1,4 +1,4 @@
-版本号：1.1.5
+版本号：1.1.6
 维护者：你
 更新时间：2026-11-15
 
@@ -44,13 +44,14 @@ Genocider Syo = 灭族者 翔
 Genocide Jack：灭族者翔
 Asahina Aoi = 朝日奈 葵
 Ogami Sakura = 大神 樱
+Oogami Sakura = 大神 樱
 Ishimaru Kiyotaka = 石丸 清多夏
 Owada Mondo = 大和田 纹土
 Fujisaki Chihiro = 不二咲 千寻
 Alter Ego：Alter Ego
 Yamada Hifumi = 山田 一二三
 Hagakure Yasuhiro = 叶隐 康比吕
-Celestia Ludenberg = 塞蕾丝缇雅 罗登贝克
+Celestia Ludenberg = 塞蕾丝缇雅·罗登贝克
 Celeste = 塞蕾丝
 Yasuhiro Taeko = 安广 多惠子
 Enoshima Junko = 江之岛 盾子
@@ -131,6 +132,8 @@ Monokuma File：黑白熊档案
 Body Discovery Announcement：尸体发现广播
 blacked：被处刑
 Blackened：凶手
+spotless：清白的
+innocent：无辜的
 Monocoin：黑白币
 Hope Fragment：希望碎片
 Debate Scrum：分组辩论
@@ -165,6 +168,8 @@ Affluent Progeny：贵公子
 Fashionista：时尚达人
 clairvoyant：占卜师
 Swordswoman：剑道家
+Martial Artist：格斗家
+Maid：女仆
 
 // 超高校级的才能
 Ultimate Lucky Student：超高校级的幸运
