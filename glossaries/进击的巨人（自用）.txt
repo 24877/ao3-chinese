@@ -1,0 +1,171 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-11-16
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Eren Yeager = 艾伦·耶格尔
+Mikasa Ackerman = 三笠·阿克曼
+Armin Arlert = 阿尔敏·阿诺德
+Jean Kirstein = 让·基尔休斯坦
+Connie Springer = 柯尼·史普林格
+Sasha Blouse = 萨莎·布劳斯
+Marco Bott = 马可·波特
+Thomas Wagner = 托马斯·瓦格纳
+Mina Carolina = 米娜·卡罗莱纳
+Samuel Linke-Jackson = 塞缪尔·林克-杰克逊
+Hannah Diamant = 汉娜·迪亚曼特
+Franz Kefka = 弗朗茨·凯夫卡
+Nack Tierce = 纳克·提亚斯
+Mylius Zeramuski = 米利乌斯·泽尔姆斯基
+Daz = 达兹
+Floch Forster = 弗洛克·福斯特
+Levi Ackerman = 利威尔·阿克曼
+Erwin Smith = 埃尔文·史密斯
+Hange Zoe = 韩吉·佐耶
+Moblit Berner = 莫布里特·巴纳
+Nile Dawk = 奈尔·德克
+Mike Zakarius = 米克·萨卡利亚斯
+Auruo Bossard = 奥路欧·博查特
+Petra Rall = 佩特拉·拉鲁
+Erd Jin = 艾鲁多·琴
+Gunter Shulz = 君达·修兹
+Dita Ness = 迪塔·尼斯
+Kenny Ackerman = 肯尼·阿克曼
+Hitch Dreyse = 希琪·德利斯
+Marlowe Freudenberg = 马尔洛·弗登堡
+Keith Sadies = 基斯·夏迪斯
+Dot Pixis = 达特·皮克西斯
+Kitz Weilman = 奇兹·威尔曼
+Mitabi Yarunahha = 米塔比·雅尔纳赫
+Reiner Braun = 莱纳·布朗
+Bertholdt Hoover = 贝尔托特·胡佛
+Annie Leonhart = 阿尼·利昂纳德
+Zeke Yeager = 吉克·耶格尔
+Pieck Finger = 皮克·芬格尔
+Porco Galliard = 波尔克·加里亚德
+Falco Grice = 法尔克·格莱斯
+Gabi Braun = 贾碧·布朗
+Calvi = 卡尔维
+Theo Magath = 迪奥·马加特
+Koslow = 科斯洛
+Colt Grice = 柯尔特·格莱斯
+Marcel Galliard = 马赛·加里亚德
+Zofia Reitsch = 索菲亚·莱契
+Udo Bock = 乌德·博克
+Tom Xaver = 汤姆·库沙瓦
+Rod Reiss = 罗德·雷伊斯
+Frieda Reiss = 弗丽达·雷伊斯
+Historia Reiss = 希斯特莉亚·雷伊斯
+Uri Reiss = 乌利·雷斯
+Willy Tybur = 威利·戴巴
+Lara Tybur = 拉拉·戴巴
+Ymir = 尤弥尔
+Grisha Yeager = 格里沙·耶格尔
+Carla Yeager = 卡尔拉·耶格尔
+Dina Fritz = 戴娜·弗里茨
+Kiyomi Azumabito = 清美·阿兹马比特
+Dallis Zacklay = 达里斯·扎卡里
+Dimo Rebbs Edward = 迪墨·利布斯·爱德华
+Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
+Paradis Island = 帕拉迪岛
+Marley = 马莱
+Eldia = 艾尔迪亚
+Survey Corps = 调查兵团
+Military Police Brigade = 宪兵团
+Warrior Unit = 战士队
+Anti-Personnel Control Squad = 对人压制部队
+Yeagerists = 耶格尔派
+Wall Maria = 玛利亚之墙
+Maria Wall = 玛利亚之墙
+Wall Rose = 罗塞之墙
+Rose Wall = 罗塞之墙
+Wall Sina = 希娜之墙
+Sina Wall = 希娜之墙
+Shiganshina District = 希甘希纳区
+Trost District = 托洛斯特区
+Stohess District = 斯托贝斯区
+Utgard Castle = 乌特迦德城堡
+Ragako Village = 拉加哥村
+Orvud District = 奥尔福德区
+Liberio Internment Zone = 雷贝利欧收容区
+Fort Slava = 斯拉巴要塞
+Forest of Giant Trees = 巨木之森
+Founding Titan = 始祖巨人
+Attack Titan = 进击的巨人
+Armored Titan = 铠之巨人
+Colossus Titan = 超大型巨人
+Female Titan = 女巨人
+Beast Titan = 兽之巨人
+Cart Titan = 车力巨人
+Jaw Titan = 颚之巨人
+War Hammer Titan = 战锤巨人
+Pure Titan = 无垢巨人
+Abnormal Titan = 奇行种
+Titan Shifter = 智慧巨人
+Wall Titan = 城墙巨人
+Coordinate Power = 座标之力
+Founding Titan‘s Power = 始祖巨人之力
+Titan Serum = 巨人脊髓液
+Thunder Spear = 雷枪
+Vertical Maneuvering Equipment = 立体机动装置
+Anti-Personnel Vertical Maneuvering Gear = 对人立体机动装置
+Subjects of Ymir = 尤弥尔的子民
+“Potato Girl” = 白薯女
+“Sweet Potato Girl” = 芋头女
+“On the other side of the wall, there is freedom.” = “墙壁的另一边，是自由。”
+“Shinzou wo sasageyo!” = “献出心脏！”
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Titan：巨人
+Intelligent Titan：智慧巨人
+Coordinate：座标
+Paths：道路
+Paths Realm：道路空间
+Rumbling：地鸣
+Spinal Fluid：脊髓液
+Hardening：硬化
+Crystal：结晶
+Orientals：东洋人
+Eldian：艾尔迪亚人
+Marleyan：马莱人
+Devil of All Earth：大地恶魔
+Captain：兵长
+Commander：团长
+Section Commander：分队长
+Squad Leader：班长
+Cadet：训练兵
+Recruit：新兵
+Soldier：士兵
+Warrior：战士
+Braun：布朗
+Vertical Maneuvering Gear：立体机动装置
+Gear：装置
+Anchor：锚钩
+Canister：气罐
+Blade Replacement：替换刀片
+Half Blade：半刃刀片
+Signal Flare：信号弹
+Black Signal：黑色信号弹
+Red Signal：红色信号弹
+Green Signal：绿色信号弹
+Smoke Signal：烟雾信号
+Rations：军粮
+Nape：后颈
+Spinal Cord：脊髓
+Regeneration：再生
+Steam：蒸汽
+Extermination：驱逐
+Reconnaissance：侦察
+Expedition：远征
+Breach：突破
+Sealing：封锁
+Suppression：镇压
+Inheritance：继承
+Transfer：转移
+Devour：吞噬
+Inherited Memory：继承的记忆
+Propaganda：宣传
+Oppression：压迫
+Hatred：仇恨
