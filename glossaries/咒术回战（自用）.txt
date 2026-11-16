@@ -1,20 +1,23 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-11-16
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
 Itadori Yuji = 虎杖 悠仁
+Itadori Yuuji = 虎杖 悠仁
 Fushiguro Megumi = 伏黑 惠
 Kugisaki Nobara = 钉崎 野蔷薇
 Zenin Maki = 禅院 真希
 Inumaki Toge = 狗卷 棘
 Panda：熊猫
 Okkotsu Yuta = 乙骨 忧太
+Okkotsu Yuuta = 乙骨 忧太
 Gojo Satoru = 五条 悟
 Geto Suguru = 夏油 杰
 Getou Suguru = 夏油 杰
 Ieiri Shoko = 家入 硝子
+Iori Utahime = 庵 歌姬
 Yaga Masamichi = 夜蛾 正道
 Nanami Kento = 七海 建人
 Ijichi Kiyotaka = 伊地知 洁高
@@ -30,6 +33,7 @@ Zenin Naobito = 禅院 直毘人
 Zenin Ogi = 禅院 扇
 Zenin Jinichi = 禅院 甚一
 Zenin Chojuro = 禅院 长寿郎
+Zenin Naoya = 禅院 直哉
 Fushiguro Toji = 伏黑 甚尔
 Fushiguro Tsumiki = 伏黑 津美纪
 Kamo Clan：加茂家
@@ -48,6 +52,20 @@ Kashimo Hajime = 鹿紫云 一
 Higuruma Hiromi = 日车 宽见
 Takaba Fumihiko = 高羽 史彦
 Hana Kurusu = 来栖 华
+Amanai Riko = 天内 理子
+Hakari Kinji = 秤 金次
+Hoshi Kirara = 星 绮罗罗
+Kuroi Misato = 黑井 美里
+Yorozu = 万
+Itadori Kaori = 虎杖 香织
+Itadori Wasuke = 虎杖 倭助
+Itadori Jin = 虎杖 仁
+Hasaba Mimiko = 枷场 美美子
+Hasaba Nanako = 枷场 菜菜子
+Miguel = 米格尔
+Kamo Noritoshi = 加茂 宪伦
+Yoshino Junpei = 吉野 顺平
+Yoshino Nagi = 吉野 凪
 Angel：天使
 Charles Bernard = 查尔斯·伯纳德
 Reggie Star = 雷吉·斯塔
