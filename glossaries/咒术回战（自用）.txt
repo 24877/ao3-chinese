@@ -22,6 +22,7 @@ Yaga Masamichi = 夜蛾 正道
 Nanami Kento = 七海 建人
 Ijichi Kiyotaka = 伊地知 洁高
 Todo Aoi = 东堂 葵
+Toudou Aoi = 东堂 葵
 Kamo Noritoshi = 加茂 宪纪
 Kamo Choso = 加茂 胀相
 Nishimiya Momo = 西宫 桃
