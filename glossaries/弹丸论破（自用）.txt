@@ -193,6 +193,7 @@ clairvoyant：占卜师
 Swordswoman：剑道家
 Martial Artist：格斗家
 Maid：女仆
+Mechanic：机械师
 young master：少爷
 Hope：希望
 chef：主厨
