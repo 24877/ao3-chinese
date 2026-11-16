@@ -128,7 +128,7 @@ Otonashi Ryoko = 音无 凉子
 Otonashi Ryouko = 音无 凉子
 Madarai Isshiki = 斑井 一式
 Hijirihara Takumi = 圣原 拓实
-Killer Killer = 杀人鬼杀手
+Killer Killer：杀人鬼杀手
 
 // 专有名词与设定
 Ultimate：超高校级
