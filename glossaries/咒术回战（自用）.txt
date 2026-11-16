@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你
 更新时间：2026-11-16
 
@@ -46,7 +46,7 @@ Kenjaku：羂索
 Uraume：里梅
 Tengen：天元
 Gakuganji Yoshinobu = 乐岩寺 嘉伸
-Yuki Tsukumo = 九十九 由基
+Tsukumo Yuki = 九十九 由基
 Kusakabe Atsuya = 日下部 笃也
 Mei Mei：冥冥
 Meimei：冥冥
