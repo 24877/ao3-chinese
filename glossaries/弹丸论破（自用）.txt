@@ -134,6 +134,7 @@ Killer Killer = 杀人鬼杀手
 Ultimate：超高校级
 Hope's Peak Academy = 希望之峰学园
 Hope's Peak = 希望之峰
+hope peak：希望之峰
 Remnants of Despair：绝望残党
 Future Foundation：未来机关
 Motivation Video：动机影片
