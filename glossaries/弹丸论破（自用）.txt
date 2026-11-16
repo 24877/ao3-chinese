@@ -258,6 +258,7 @@ Ultimate Confectioner：超高校级的点心师
 Ultimate Blacksmith：超高校级的铁匠
 Ultimate Farmer：超高校级的农民
 Ultimate Wrestler：超高校级的摔跤手
+Ultimate Talent Scout = 超高校级的人才侦查员
 
 Ultimate Neurologist：超高校级的神经学者
 Ultimate Spy：超高校级的谍报员
