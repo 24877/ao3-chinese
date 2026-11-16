@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-11-16
 
@@ -23,6 +23,7 @@ Nanami Kento = 七海 建人
 Ijichi Kiyotaka = 伊地知 洁高
 Todo Aoi = 东堂 葵
 Kamo Noritoshi = 加茂 宪纪
+Kamo Choso = 加茂 胀相
 Nishimiya Momo = 西宫 桃
 Miwa Kasumi = 三轮 霞
 Muta Kokichi = 与 幸吉
@@ -34,6 +35,7 @@ Zenin Ogi = 禅院 扇
 Zenin Jinichi = 禅院 甚一
 Zenin Chojuro = 禅院 长寿郎
 Zenin Naoya = 禅院 直哉
+Zenin Toji = 禅院 甚尔
 Fushiguro Toji = 伏黑 甚尔
 Fushiguro Tsumiki = 伏黑 津美纪
 Kamo Clan：加茂家
@@ -46,11 +48,14 @@ Gakuganji Yoshinobu = 乐岩寺 嘉伸
 Yuki Tsukumo = 九十九 由基
 Kusakabe Atsuya = 日下部 笃也
 Mei Mei：冥冥
+Meimei：冥冥
 Ui Ui：忧忧
+Uiui：忧忧
 Haibara Yu = 灰原 雄
 Kashimo Hajime = 鹿紫云 一
 Higuruma Hiromi = 日车 宽见
 Takaba Fumihiko = 高羽 史彦
+Suda Manami = 菅田 真奈美
 Hana Kurusu = 来栖 华
 Amanai Riko = 天内 理子
 Hakari Kinji = 秤 金次
@@ -188,6 +193,7 @@ Ramune：弹珠汽水
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
 Jujutsu Kaisen：咒术回战
+Jujutsu：咒术
 grade 4 sorcerer：四级咒术师
 grade 3 sorcerer：三级咒术师
 grade 2 sorcerer：二级咒术师
@@ -218,6 +224,10 @@ cursed womb：咒胎
 finger：手指
 vessel：容器
 star plasma vessel：星浆体
+Hidden Inventory Arc：怀玉篇
+Premature Death Arc：玉折篇
+Gojo Past Arc：五条过去篇
+Tomb of the Star Corridor：星走廊之墓
 curse：诅咒
 soul：灵魂
 domain expansion：领域展开
