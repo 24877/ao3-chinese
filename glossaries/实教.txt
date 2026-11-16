@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.1.0
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -10,6 +10,7 @@ Ayanokouji：绫小路
 Kiyotaka：清隆
 Ayanokoji Kiyotaka = 绫小路 清隆
 Ayanokouji Atsuomi = 绫小路 笃臣
+Ayanokoji Atsuomi = 绫小路 笃臣
 Horikita Suzune = 堀北 铃音
 Horikita Manabu = 堀北 学
 Kushida Kikyou = 栉田 桔梗
@@ -21,6 +22,7 @@ Maezono = 前园
 Yamauchi Haruki = 山内 春树
 Yukimura Teruhiko = 幸村 辉彦
 Kouenji Rokusuke = 高圆寺 六助
+Koenji Rokusuke = 高圆寺 六助
 Sudou Ken = 须藤 健
 Sudo Ken = 须藤 健
 Sudō Ken = 须藤 健
@@ -49,6 +51,7 @@ Yagami Takuya = 八神 拓也
 // —— 龙园班（1-C / 2-C）——
 Ryūen Kakeru = 龙园 翔
 Ryuen Kakeru = 龙园 翔
+Ryuuen Kakeru = 龙园 翔
 Yamada Albert = 山田 阿尔伯特
 Housen Kazuomi = 宝泉 和臣
 Hosen Kazuomi = 宝泉 和臣
@@ -89,6 +92,8 @@ Himeno Yuki = 姬野 雪
 Asahina Nazuna = 朝比奈 荠
 Nanase Tsubasa = 七濑 翼
 Kiryūin Fuka = 鬼龙院 枫花
+Kiryuin Fuka = 鬼龙院 枫花
+Kiryuuin Fuuka = 鬼龙院 枫花
 Tsubaki Sakurako = 椿 樱子
 Sanada Kousei = 真田 康生
 Hashimoto Masayoshi = 桥本 正义
@@ -103,7 +108,6 @@ Shiranami Chihiro = 白波 千寻
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
 Ayanokouji Kiyotaka = 绫小路 清隆
-Sakayanagi Arisu = 坂柳 有栖
 Sakayanagi Chairman = 坂柳 理事长
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
