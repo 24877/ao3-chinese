@@ -1,0 +1,228 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-11-16
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Itadori Yuji = 虎杖 悠仁
+Fushiguro Megumi = 伏黑 惠
+Kugisaki Nobara = 钉崎 野蔷薇
+Zenin Maki = 禅院 真希
+Inumaki Toge = 狗卷 棘
+Panda：熊猫
+Okkotsu Yuta = 乙骨 忧太
+Gojo Satoru = 五条 悟
+Geto Suguru = 夏油 杰
+Getou Suguru = 夏油 杰
+Ieiri Shoko = 家入 硝子
+Yaga Masamichi = 夜蛾 正道
+Nanami Kento = 七海 建人
+Ijichi Kiyotaka = 伊地知 洁高
+Todo Aoi = 东堂 葵
+Kamo Noritoshi = 加茂 宪纪
+Nishimiya Momo = 西宫 桃
+Miwa Kasumi = 三轮 霞
+Muta Kokichi = 与 幸吉
+Zenin Mai = 禅院 真依
+Gojo Clan：五条家
+Zenin Clan：禅院家
+Zenin Naobito = 禅院 直毘人
+Zenin Ogi = 禅院 扇
+Zenin Jinichi = 禅院 甚一
+Zenin Chojuro = 禅院 长寿郎
+Fushiguro Toji = 伏黑 甚尔
+Fushiguro Tsumiki = 伏黑 津美纪
+Kamo Clan：加茂家
+Ryomen Sukuna = 两面 宿傩
+Sukuna | Ryoumen Sukuna：两面宿傩
+Kenjaku：羂索
+Uraume：里梅
+Tengen：天元
+Gakuganji Yoshinobu = 乐岩寺 嘉伸
+Yuki Tsukumo = 九十九 由基
+Kusakabe Atsuya = 日下部 笃也
+Mei Mei：冥冥
+Ui Ui：忧忧
+Haibara Yu = 灰原 雄
+Kashimo Hajime = 鹿紫云 一
+Higuruma Hiromi = 日车 宽见
+Takaba Fumihiko = 高羽 史彦
+Hana Kurusu = 来栖 华
+Angel：天使
+Charles Bernard = 查尔斯·伯纳德
+Reggie Star = 雷吉·斯塔
+Dhruv Lakdawalla = 德鲁夫·拉克达瓦拉
+Uro：乌鹭
+Ryu Ishigori = 石流 龙
+Kogane：小金虫
+Jogo：漏瑚
+Hanami：花御
+Dagon：陀艮
+Mahito：真人
+Choso：胀相
+Eso：坏相
+Kechizu：血涂
+Okkotsu Rika = 祈本 里香
+Smallpox Deity：疱疮神
+Kurourushi：黑沐死
+Ganesha：伽尼萨
+"Kuchisake-onna"：裂口女
+"Fly Head"：蝇头
+Tokyo Metropolitan Curse Technical College：东京都立咒术高等专门学校
+Tokyo Jujutsu High：东京咒术高专
+Kyoto Jujutsu High：京都咒术高专
+Shibuya：涩谷
+Sendai：仙台
+Sugisawa Third High School：杉泽第三高中
+Yagiyama Bridge：八木山桥
+"Hapina Nakakecho Shopping Street"：ハピナ名掛丁商店街
+"Kiku Sui An"：喜久水庵
+"Morioka Station"：盛冈站
+Tokyo District Court：东京地方裁判所
+Takenotsuka：竹之冢
+Asakusa：浅草
+Ueno：上野
+Shinjuku：新宿
+Jujutsu High：咒术高专
+"Tomb of the Star Corridor"：星走廊之墓
+Limitless：无下限咒术
+"Cursed Technique Lapse: Blue"：术式顺转「苍」
+"Cursed Technique Reversal: Red"：术式反转「赫」
+"Hollow Technique: Purple"：虚式「茈」
+"Ten Shadows Technique"：十种影法术
+"Divine Dogs"：玉犬
+Nue：鵺
+"Great Serpent"：大蛇
+Toad：蛤蟆
+"Max Elephant"：满象
+"Rabbit Escape"：脱兔
+"Piercing Ox"：贯牛
+"Round Deer"：圆鹿
+"Tiger Funeral"：虎葬
+"Eight-Handled Sword Divergent Sila Divine General Mahoraga"：八握剑异戒神将魔虚罗
+"Cursed Spirit Manipulation"：咒灵操术
+"Cursed Speech"：咒言
+"Idle Transfiguration"：无为转变
+"Boogie Woogie"：不义游戏
+"Divergent Fist"：径庭拳
+"Black Flash"：黑闪
+Resonance：共鸣
+Hairpin：簪
+"Ratio Technique"：十划咒法
+Collapse：崩解
+"Straw Doll Technique"：刍灵咒法
+"Black Bird Manipulation"：黑鸟操术
+"Projection Sorcery"：投射咒法
+Construction：构筑术式
+"Puppet Manipulation"：傀儡操术
+Miracle：奇迹
+"Simple Domain"：简易领域
+"Falling Blossom Emotion"：落花之情
+"Domain Amplification"：领域展延
+"Hollow Wicker Basket"：空虚木篮子
+"Unlimited Void"：无量空处
+"Chimera Shadow Garden"：嵌合暗翳庭
+"Malevolent Shrine"：伏魔御厨子
+"Self-Embodiment of Perfection"：自闭圆顿裹
+"Coffin of the Iron Mountain"：盖棺铁围山
+"Horizon of the Captivating Skandha"：荡蕴平线
+"Womb Profusion"：胞藏遍野
+"Time Cell Moon Palace"：时胞月宫殿
+"Deadly Sentencing"：诛伏赐死
+"Idle Death Gamble"：坐杀博徒
+"Inverted Spear of Heaven"：天逆鉾
+"Playful Cloud"：游云
+"Black Rope"：黑绳
+"Sword of Extermination"：湮灭之剑
+Kamutoke：神武解
+"Split Soul Katana"：释魂刀
+"Slaughter Demon"：屠魔
+"Dragon Bone"：龙骨
+"Nanami's Cleaver"：七海的砍刀
+"Jet-Black Blade"：漆黑之刃
+Naginata：薙刀
+"Cursed Speech Megaphone"：咒言扩音器
+"Nyoi Staff"：如意棒
+Hammer：锤子
+Nails：钉子
+"Straw Doll"：稻草人
+"Rubber Hammer"：橡胶锤
+Gavel：法槌
+"Kashimo's Lightning Rod"：鹿紫云的避雷针
+Kikufuku：喜久福
+"Sea Urchin"：海胆
+Sushi：寿司
+Ramen：拉面
+Soba：荞麦面
+"Cold Soba"：冷荞麦面
+Katsudon：炸猪排盖饭
+"Miso Soup"：味增汤
+Onigiri：饭团
+Oden：关东煮
+Yakitori：烤鸡肉串
+Senbei：仙贝
+Yokan：羊羹
+Dango：团子
+Matcha：抹茶
+Sencha：煎茶
+Ramune：弹珠汽水
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Jujutsu Kaisen：咒术回战
+grade 4 sorcerer：四级咒术师
+grade 3 sorcerer：三级咒术师
+grade 2 sorcerer：二级咒术师
+grade 1 sorcerer：一级咒术师
+special grade sorcerer：特级咒术师
+grade 4 cursed spirit：四级咒灵
+grade 3 cursed spirit：三级咒灵
+grade 2 cursed spirit：二级咒灵
+grade 1 cursed spirit：一级咒灵
+special grade cursed spirit：特级咒灵
+cursed energy：咒力
+cursed technique：术式
+innate domain：生得领域
+barrier technique：结界术
+reverse cursed technique：反转术式
+cursed object：咒物
+cursed tool：咒具
+binding vow：束缚
+heavenly restriction：天与咒缚
+black flash：黑闪
+jujutsu headquarters：咒术总监部
+jujutsu high：咒术高专
+shibuya incident：涩谷事变
+culling game：死灭回游
+sister school exchange event：姐妹校交流会
+night parade of a hundred demons：百鬼夜行
+cursed womb：咒胎
+finger：手指
+vessel：容器
+star plasma vessel：星浆体
+curse：诅咒
+soul：灵魂
+domain expansion：领域展开
+shikigami：式神
+six eyes：六眼
+jujutsu sorcerer：咒术师
+cursed spirit：咒灵
+sorcerer killer：术师杀手
+plasma vessel：星浆体
+window：窗
+grade：等级
+mission：任务
+death painting：咒胎九相图
+veil：帐
+new shadow style：新阴流
+bath：浴
+reincarnation：受肉
+incarnation：受肉体
+transfigured human：改造人
+suspended animation：假死
+disaster curse：灾祸咒灵
+old era sorcerer：古术师
+rule：规则
+point：点数
+colony：泳池
+game master：游戏管理员
