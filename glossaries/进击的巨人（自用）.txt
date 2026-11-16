@@ -10,6 +10,7 @@ Armin Arlert = 阿尔敏·阿诺德
 Jean Kirstein = 让·基尔休斯坦
 104th Trainees Corps：第104期训练兵 
 Graduates of the 104th：第104期毕业生
+104th：第104期 
 Connie Springer = 柯尼·史普林格
 Sasha Blouse = 萨莎·布劳斯
 Marco Bott = 马可·波特
