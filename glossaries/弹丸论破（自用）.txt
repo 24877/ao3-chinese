@@ -188,6 +188,7 @@ Martial Artist：格斗家
 Maid：女仆
 
 // 超高校级的才能
+Ultimate Talent：超高校级的才能
 Ultimate Lucky Student：超高校级的幸运
 Ultimate Hope：超高校级的希望
 Ultimate Despair：超高校级的绝望
