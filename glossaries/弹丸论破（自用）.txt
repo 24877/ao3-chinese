@@ -149,7 +149,6 @@ Main Course：本科
 Despair Disease：绝望病
 Monokuma File：黑白熊档案
 Body Discovery Announcement：尸体发现广播
-blacked：被处刑
 Blackened：凶手
 spotless：清白的
 innocent：无辜的
@@ -157,6 +156,7 @@ Monocoin：黑白币
 Hope Fragment：希望碎片
 Debate Scrum：分组辩论
 Scrum Debate：分组辩论
+Scrum Debates：分组辩论
 Execution：处刑
 Memory Light：记忆灯
 Flashback Light：回忆灯
