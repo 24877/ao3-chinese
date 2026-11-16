@@ -195,6 +195,7 @@ Martial Artist：格斗家
 Maid：女仆
 young master：少爷
 Hope：希望
+chef：主厨
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
