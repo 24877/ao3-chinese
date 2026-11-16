@@ -120,6 +120,7 @@ Murasame Soushun = 村雨 早春
 Murasame Soshun = 村雨 早春
 Matsuda Yasuke = 松田 夜助
 Kamishiro Yuto = 神代 优兔
+Kamishiro Yuuto = 神代 优兔
 Shikiba Santa = 色叶 田田田
 Togami Shinobu = 十神 忍
 Otonashi Ryoko = 音无 凉子
