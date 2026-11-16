@@ -198,6 +198,7 @@ young master：少爷
 Hope：希望
 chef：主厨
 the heir：继承人
+the progeny：继承人
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
