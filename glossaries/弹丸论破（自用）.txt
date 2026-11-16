@@ -1,4 +1,4 @@
-版本号：1.1.9
+版本号：1.1.10
 维护者：你
 更新时间：2026-11-15
 
@@ -98,7 +98,7 @@ Izayoi Sonosuke = 十六夜 惣之助
 Izayoi Sohnosuke = 十六夜 惣之助
 Munakata Kyosuke = 宗方 京助
 Bandai Daisaku = 万代 大作
-Great Gozu = 格雷特 戈兹
+Great Gozu：格雷特 戈兹
 
 // 外传 绝对绝望少女
 Towa Monaca = 塔和 最中
