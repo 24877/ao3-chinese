@@ -1,4 +1,4 @@
-版本号：1.1.6
+版本号：1.1.7
 维护者：你
 更新时间：2026-11-15
 
@@ -122,6 +122,8 @@ Class Trial：学级审判
 the trial room：审判室
 Murder Game：自相残杀
 Kill Game：杀戮游戏
+Killing Game：杀戮游戏
+Mastermind：黑幕
 Jabberwock Island：贾巴沃克岛
 Jabberwock：贾巴沃克
 New World Program：新世界程序
