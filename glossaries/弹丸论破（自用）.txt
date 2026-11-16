@@ -43,6 +43,7 @@ Fukawa Toko = 腐川 冬子
 Fukawa Touko = 腐川 冬子
 Genocider Syo = 灭族者 翔
 Genocide Jack：灭族者翔
+Genocide Jill：灭族者翔
 Asahina Aoi = 朝日奈 葵
 Ogami Sakura = 大神 樱
 Oogami Sakura = 大神 樱
@@ -135,11 +136,14 @@ Hope's Peak：希望之峰
 Remnants of Despair：绝望残党
 Future Foundation：未来机关
 Motivation Video：动机影片
-Class Trial：学级审判
+Class Trial：学级裁判
 the trial room：审判室
 Murder Game：自相残杀
 Kill Game：杀戮游戏
 Killing Game：杀戮游戏
+get away with it：逃脱惩罚
+first blood perk：首杀特权
+motive video：动机影片
 Mastermind：黑幕
 Jabberwock Island：贾巴沃克岛
 Jabberwock：贾巴沃克
@@ -161,7 +165,7 @@ Execution：处刑
 Memory Light：记忆灯
 Flashback Light：回忆灯
 Virtual World：虚拟世界
-Gofer Project：界外者计划
+Gofer Project：方舟计划
 Hope Cultivation Plan = 希望育成计划
 Kamukura Project = 神座计划
 The Biggest, Most Awful, Most Tragic Event in Human History：人类史上最大最恶的绝望事件
