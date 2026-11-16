@@ -189,6 +189,8 @@ clairvoyant：占卜师
 Swordswoman：剑道家
 Martial Artist：格斗家
 Maid：女仆
+young master：少爷
+Hope：希望
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
