@@ -1,14 +1,14 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你
 更新时间：2026-10-29
 
 词条
--kun：君
--san：桑
--chan：酱
--sama：大人
--sensei：老师
--onii：哥哥
--onee：姐姐
--dono：殿下
--senpai：前辈
+"-kun"：君
+"-san"：桑
+"-chan": 酱
+"-sama"：大人
+"-sensei"：老师
+"-onii"：哥哥
+"-onee"：姐姐
+"-dono"：殿下
+"-senpai"：前辈
