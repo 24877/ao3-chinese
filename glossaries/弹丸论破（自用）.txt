@@ -9,7 +9,6 @@ you Ultimates：你们这些超高校级
 
 通用词条
 // 不区分大小写，自动处理复数与连字符
-
 // 2代 角色
 Hinata Hajime = 日向 创
 Kamukura Izuru = 神座 出流
