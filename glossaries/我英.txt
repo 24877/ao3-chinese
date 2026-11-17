@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你
 更新时间：2026-10-28
 
@@ -126,11 +126,9 @@ Magne = 磁魅
 Stain = 英雄杀手斯坦因
 Overhaul = 重构
 Re-Destro = 再毁灭
-Doctor = 医生
 Gigantomachia = 巨战
 Muscular = 肌壳
 Moonfish = 月鱼
-Quirk = 个性
 Quirkless = 无个性
 One For All = 一人为万
 Vestige = 残识
@@ -140,9 +138,7 @@ Blackwhip = 黑鞭
 Fa Jin = 发劲
 Gearshift = 变速
 Smash = 粉碎
-Hero = 英雄
 Pro Hero = 职业英雄
-Villain = 敌人
 League of Villains = 敌联盟
 Paranormal Liberation Front = 异能解放战线
 Meta Liberation Army = 异能解放军
@@ -162,8 +158,7 @@ Work Study = 职场实习
 
 通用词条
 quirk = 个性
-hero = 英雄
-villain = 反派
+villain = 敌人
 pro hero = 职业英雄
 hero name = 英雄名
 training = 训练
