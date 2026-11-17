@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -24,12 +24,11 @@ Shirogane Gin = 白银 父亲（同人可用）
 Yotsuba Nene = 四宫家相关（按需）
 
 // —— 四宫家 ——
-Shinomiya Gan'an = 四宫 雁庵
+"Shinomiya Gan'an" = 四宫 雁庵
 Shinomiya Kouou = 四宫 黄光
 Shinomiya Seiryuu = 四宫 青龙
 Shinomiya Uncho = 四宫 云鹰
 Shinomiya Oko = 四宫 黄光（繁体译名冲突时用手动覆盖）
-
 
 
 通用词条
@@ -70,7 +69,3 @@ Shinomiya Group：四宫集团
 Four Major Conglomerates：四大财团
 Kaguya-hime：辉夜姬
 Taketori Monogatari：竹取物语
-
-
-
-
