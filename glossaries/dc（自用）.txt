@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-10-31
   
@@ -20,7 +20,7 @@ Arthur Curry = 亚瑟 库瑞
 Aquaman = 海王
 Victor Stone = 维克多 斯通
 Cyborg = 钢骨
-J'onn J'onzz = 荣恩 荣兹
+"J'onn J'onzz" = 荣恩 荣兹
 Martian Manhunter = 火星猎人
 John Stewart = 约翰 斯图尔特
 Kyle Rayner = 凯尔 雷纳
@@ -83,7 +83,7 @@ Victor Zsasz = 维克多 扎斯
 Mr. Freeze = 急冻先生
 Freeze = 急冻先生
 Bane = 贝恩
-Ra's al Ghul = 拉尔斯 艾尔 古尔
+"Ra's al Ghul" = 拉尔斯 艾尔 古尔
 Talia al Ghul = 塔利亚 艾尔 古尔
 Slade Wilson = 斯莱德 威尔逊
 Deathstroke = 丧钟
@@ -103,7 +103,7 @@ Impulse = 脉冲
 Jay Garrick = 杰 加里克
 Iris West = 艾丽斯 韦斯特
 // 少年泰坦 / 泰坦
-Koriand'r = 科里安妲
+"Koriand'r" = 科里安妲
 Starfire = 星火
 Rachel Roth = 蕾切尔 罗斯
 Raven = 渡鸦
@@ -312,7 +312,7 @@ Adam Strange = 亚当 斯特兰奇
 Metamorpho = 变形侠
 Rex Mason = 雷克斯 梅森
 Plastic Man = 塑料人
-Patrick O'Brian = 帕特里克 奥布莱恩
+"Patrick O'Brian" = 帕特里克 奥布莱恩
 Starman = 星侠
 Jack Knight = 杰克 奈特
 Stargirl = 逐星女
@@ -336,7 +336,7 @@ John Henry Irons = 约翰 亨利 艾恩斯
 Power Girl = 神力女孩
 Kara Zor-L = 卡拉 佐 艾尔
 Miss Martian = 火星少女
-M'gann M'orzz = 梅甘 莫兹
+"M'gann M'orzz" = 梅甘 莫兹
 Bumblebee = 大黄蜂
 Karen Beecher = 凯伦 比彻
 Bluebird = 蓝鸟
