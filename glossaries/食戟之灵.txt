@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -74,7 +74,7 @@ Elite Ten：十杰
 Elite Ten Council：远月十杰评议会
 Ten Masters：十杰
 Seventh Seat：第七席
-God's Tongue = 神之舌
+"God's Tongue" = 神之舌
 God Tongue = 神之舌
 Regimental Shokugeki = 阵营食戟
 Central = 中枢美食机关
@@ -82,4 +82,4 @@ BLUE = BLUE料理大赛
 Autumn Election = 秋季选拔
 Stagiaire = 实习
 Molecular Gastronomy = 分子料理
-Chef's Table = 主厨餐桌
+"Chef's Table" = 主厨餐桌
