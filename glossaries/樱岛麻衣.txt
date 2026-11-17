@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-28
 
@@ -29,5 +29,5 @@ Bunny Girl：兔女郎
 Science Club：科学社
 Possible World：可能世界
 Time Loop：时间循环
-Schrödinger's Cat：薛定谔的猫
-Laplace's Demon：拉普拉斯妖
+"Schrödinger's Cat"：薛定谔的猫
+"Laplace's Demon"：拉普拉斯妖
