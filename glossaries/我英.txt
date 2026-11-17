@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你
 更新时间：2026-10-28
 
@@ -163,6 +163,7 @@ Work Study = 职场实习
 quirk = 个性
 Quirkless = 无个性
 villain = 敌人
+hero = 英雄
 pro hero = 职业英雄
 hero name = 英雄名
 training = 训练
