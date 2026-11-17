@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-10-30
 
@@ -49,10 +49,10 @@ Super Danger Beast：超危险种
 Revolutionary Army：革命军
 Imperial Capital：帝都
 Empire：帝国
-One Cut Killer: Murasame = 一斩必杀·村雨
-Demon Armor: Incursio = 恶鬼缠身·入侵
-Animal King Form: Lionelle = 百兽王化·狮子王
-Roman Artillery: Pumpkin = 浪漫炮台·南瓜
+"One Cut Killer: Murasame" = 一斩必杀·村雨
+"Demon Armor: Incursio" = 恶鬼缠身·入侵
+"Animal King Form: Lionelle" = 百兽王化·狮子王
+"Roman Artillery: Pumpkin" = 浪漫炮台·南瓜
 Infinite Uses: Cross Tail = 千变万化·交叉之尾
 Cutter of Creation: Extase = 万物两断·销魂
 The Speed of Lightning: Susanoo = 电光石火·须佐之男
