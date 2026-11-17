@@ -1,4 +1,4 @@
-版本号:1.0.1
+版本号:1.0.2
 维护者:你
 更新时间:2026-10-30
 
@@ -88,7 +88,7 @@ Jakuhou Raikouben = 雀蜂雷公鞭
 Mirro Flower Water Moon = 镜花水月
 Kyoka Suigetsu = 镜花水月
 Tenken = 天谴
-Kokujo Tengen Myo'o = 黑绳天谴明王
+"Kokujo Tengen Myo'o"：黑绳天谴明王
 Tsunzaki Garasu = 劈乌
 Sougyo no Kotowari = 双鱼理
 Muramasa = 村正
