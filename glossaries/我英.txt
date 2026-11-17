@@ -25,6 +25,7 @@ Koda Koji = 口田 甲司
 Sero Hanta = 濑吕 范太
 Yagi Toshinori = 八木 俊典
 Aizawa Shota = 相泽 消太
+Aizawa Shouta = 相泽 消太
 Yamada Hizashi = 山田 响
 Kayama Nemuri = 香山 睡
 Shuzenji Chiyo = 修善寺 千代
