@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你
 更新时间：2026-11-15
 
@@ -6,7 +6,7 @@
 // 此区域区分大小写，用于翻译人名等专有名词
 Naruhodou Ryuuichi = 成步堂 龙一
 Naruhodo Ryuuichi = 成步堂 龙一
-Wright Phoenix = 成步堂 龙一
+Phoenix Wright = 成步堂 龙一
 Nick：成步堂
 Ayasato Mayoi = 绫里 真宵
 Fey Maya = 绫里 真宵
@@ -15,12 +15,14 @@ Skye Ema = 宝月 茜
 Karuma Mei = 狩魔 冥
 von Karma Franziska = 狩魔 冥
 Von Karma Franziska = 狩魔 冥
+Von Karma = 狩魔 
+Franziska = 冥
 Miyanagi Chinami = 美柳 千奈美
 Hawthorne Dahlia = 美柳 千奈美
 Odoroki Housuke = 王泥喜 法介
 Justice Apollo = 王泥喜 法介
 Garyuu Kyouya = 牙琉 响也
-Gavin Klavier = 牙琉 响也
+Klavier Gavin = 牙琉 响也
 Kidzuki Kokone = 希月 心音
 Cykes Athena = 希月 心音
 Nahyuta Sahdmadhi = 那由他·萨德马迪
