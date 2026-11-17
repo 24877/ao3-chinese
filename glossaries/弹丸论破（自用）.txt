@@ -1,4 +1,4 @@
-版本号：1.1.15
+版本号：1.1.16
 维护者：你
 更新时间：2026-11-15
 
@@ -133,6 +133,9 @@ Killer Killer：杀人鬼杀手
 // 专有名词与设定
 Ultimate：超高校级
 Hope's Peak：希望之峰
+“Hope's Peak”：希望之峰
+"Hope’s Peak"：希望之峰
+"Hope's Peak Academy"：希望之峰学园
 Remnants of Despair：绝望残党
 Future Foundation：未来机关
 Motivation Video：动机影片
@@ -141,6 +144,7 @@ the trial room：审判室
 Murder Game：自相残杀
 Kill Game：杀戮游戏
 Killing Game：杀戮游戏
+Fan Killing Game：粉丝自制杀戮游戏
 get away with it：逃脱惩罚
 first blood perk：首杀特权
 motive video：动机影片
