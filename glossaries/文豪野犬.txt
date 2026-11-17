@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-30
 
@@ -59,7 +59,7 @@ Special Division for Unusual Powers = 异能特务科
 The Guild = 组合
 The Rats in the House of the Dead = 死屋之鼠
 The Knights of the Clock Tower = 钟塔侍从
-Fyodor's Organization = 死屋之鼠
+"Fyodor's Organization" = 死屋之鼠
 Tenkai Gohai = 天人五衰
 The Sheep = 羊
 Black Lizard = 黑蜥蜴
@@ -87,7 +87,7 @@ Brain Dance = 脑髓地狱
 Flawless = 天衣无缝
 Illuminations =  《彩画集》
 The Great Fitzgerald = 华丽的菲茨杰拉德
-Anne's Room = 深渊的红发安妮
+"Anne's Room" = 深渊的红发安妮
 The Grapes of Wrath =  《愤怒的葡萄》
 Old Ones = 旧日支配者
 Gone with the Wind =  《飘》
@@ -97,8 +97,8 @@ Tom Sawyer and Huck Finn = 汤姆索亚和哈克费恩
 Murders in the Rue Morgue and The Black Cat = 莫格街的黑猫
 Little Women =  《小妇人》
 Decadence =  《堕落论》
-Yesterday's Shadow = 昨日之影
-Another = 另一个
+"Yesterday's Shadow" = 昨日之影
+Another = Another
 Thunderbolt at the Bowl = 雷钵落霰
 Crime and Punishment =  《罪与罚》
 A Feast in Time of Plague = 瘟疫流行的宴会
