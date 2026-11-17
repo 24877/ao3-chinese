@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你
 更新时间：2026-10-30
 
@@ -53,13 +53,13 @@ Empire：帝国
 "Demon Armor: Incursio" = 恶鬼缠身·入侵
 "Animal King Form: Lionelle" = 百兽王化·狮子王
 "Roman Artillery: Pumpkin" = 浪漫炮台·南瓜
-Infinite Uses: Cross Tail = 千变万化·交叉之尾
-Cutter of Creation: Extase = 万物两断·销魂
-The Speed of Lightning: Susanoo = 电光石火·须佐之男
-Phantasmagoria: Gaea Foundation = 变身自在·盖亚粉底
-Demon God Manifestation: Demon's Extract = 魔神显现·恶魔之粹
-March of the Dead: Yatsufusa = 死者行军·八房
-Carnage Incarnate: Grand Chariot = 修罗化身·贵族战车
+"Infinite Uses: Cross Tail" = 千变万化·交叉之尾
+"Cutter of Creation: Extase" = 万物两断·销魂
+"The Speed of Lightning: Susanoo" = 电光石火·须佐之男
+"Phantasmagoria: Gaea Foundation" = 变身自在·盖亚粉底
+"Demon God Manifestation: Demon's Extract" = 魔神显现·恶魔之粹
+"March of the Dead: Yatsufusa" = 死者行军·八房
+"Carnage Incarnate: Grand Chariot" = 修罗化身·贵族战车
 Magical Beast Transformation: Hekatonkheires = 魔兽变化·百臂巨人
 Glorious Hands of God: Perfector = 神之御手·完美者
 Thousand-Mile Flight: Mastema = 万里飞翔·莫斯提马
