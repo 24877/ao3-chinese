@@ -1,4 +1,4 @@
-版本号：1.1.16
+版本号：1.1.17
 维护者：你
 更新时间：2026-11-15
 
@@ -151,7 +151,9 @@ motive video：动机影片
 Mastermind：黑幕
 Jabberwock Island：贾巴沃克岛
 Jabberwock：贾巴沃克
+Monokuma Rock：黑白熊岩
 New World Program：新世界程序
+Neo World Program：新世界程序
 Reserve Course：预备学科
 Main Course：本科
 Despair Disease：绝望病
@@ -170,6 +172,8 @@ Memory Light：记忆灯
 Flashback Light：回忆灯
 Virtual World：虚拟世界
 Gofer Project：方舟计划
+Hope Restoration Plan：希望更生计划
+Hope Restoration Program：希望更生程序
 Hope Cultivation Plan = 希望育成计划
 Kamukura Project = 神座计划
 The Biggest, Most Awful, Most Tragic Event in Human History：人类史上最大最恶的绝望事件
