@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -7,7 +7,7 @@
 Saitama：埼玉
 Genos：杰诺斯
 "Caped Baldy"：秃头披风侠
-Speed-o'-Sound Sonic：音速索尼克
+"Speed-o'-Sound Sonic"：音速索尼克
 Garou：饿狼
 King：KING
 Tatsumaki：龙卷
