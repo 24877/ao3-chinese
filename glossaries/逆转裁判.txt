@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你
 更新时间：2026-11-15
 
@@ -69,6 +69,9 @@ Channeling：降灵
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
+Gyakuten Saiban：逆转裁判
+Ace Attorney：逆转裁判
+逆転裁判 | Gyakuten Saiban | Ace Attorney：逆转裁判
 Objection：异议
 Hold it：等等
 Take that：反驳
