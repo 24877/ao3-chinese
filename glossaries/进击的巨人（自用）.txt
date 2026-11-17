@@ -119,7 +119,7 @@ Abnormal Titan = 奇行种
 Titan Shifter = 智慧巨人
 Wall Titan = 城墙巨人
 Coordinate Power = 座标之力
-Founding Titan‘s Power = 始祖巨人之力
+"Founding Titan‘s Power"：始祖巨人之力
 Titan Serum = 巨人脊髓液
 Thunder Spear = 雷枪
 Vertical Maneuvering Equipment = 立体机动装置
