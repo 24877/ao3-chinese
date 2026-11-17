@@ -1,4 +1,4 @@
-版本号：1.1.19
+版本号：1.1.20
 维护者：你
 更新时间：2026-11-15
 
@@ -176,7 +176,8 @@ Hope Restoration Program：希望更生程序
 Hope Cultivation Plan = 希望育成计划
 Kamukura Project = 神座计划
 The Biggest, Most Awful, Most Tragic Event in Human History：人类史上最大最恶的绝望事件
-Truth Bullet：言弹
+truth bullet：言弹
+truth bullets：言弹
 Nonstop Debate：无休止议论
 “Hangman's Gambit”：文字接龙
 Bullet Time Battle：子弹时间对决
@@ -208,6 +209,8 @@ chef：主厨
 the heir：继承人
 the progeny：继承人
 Talent：才能
+luck：运气
+lucky：幸运
 Neurologist：神经学者
 
 // 超高校级的才能
