@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-30
 
@@ -82,7 +82,7 @@ Personal Reality：只属于自己的现实
 AIM Diffusion Field：AIM扩散力场
 Original Gemstone：原石
 Spell Intercept：强制咏唱
-John's Pen：自动书记
+"John's Pen"：自动书记
 Mobile Church：移动教会
 Index Librorum Prohibitorum：禁书目录
 Grimoire：魔道书
@@ -91,7 +91,7 @@ Cabbalah：卡巴拉
 Angel：天使
 Saint：圣人
 Archangel：大天使
-God's Right Seat：神之右席
+"God's Right Seat"：神之右席
 Tree Diagram：树形图设计者
 Misaka Network：御坂网络
 Clone：克隆体
