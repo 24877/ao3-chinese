@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -6,7 +6,7 @@
 词条
 // —— 核心角色 ——
 Yagami Light = 夜神 月
-Lawliet L = L·Lawliet
+L Lawliet = L·Lawliet
 L = L
 Ryuk = 琉克
 Rem = 雷姆
@@ -69,8 +69,8 @@ Kira Task Force = 基拉搜查本部
 Japanese Task Force = 日本搜查本部
 SPK = SPK
 Secret Police Kai = 秘密警察K
-Wammy's House = 沃米之家
-L's Successor = L的继承人
+"Wammy's House"：沃米之家
+"L's Successor" = L的继承人
 New World = 新世界
 Justice = 正义
 Rule = 规则
@@ -84,7 +84,3 @@ Shinigami Realm = 死神界
 Human World = 人类世界
 Suspect = 嫌疑人
 Criminal = 罪犯
-
-
-
-
