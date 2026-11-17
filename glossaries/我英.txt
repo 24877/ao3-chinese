@@ -149,6 +149,7 @@ Meta Liberation Army = 异能解放军
 U.A. High = 雄英高中
 U.A. = 雄英
 Support Course = 支援科
+Support Department = 支援科
 General Studies = 普通科
 Management Course = 经营科
 Hero Name = 英雄名
