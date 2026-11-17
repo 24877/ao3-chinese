@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-30
 
@@ -56,7 +56,7 @@ Jewel Shard：四魂之玉碎片
 Shikon Jewel：四魂之玉
 Tetsusaiga：铁碎牙
 Tenseiga：天生牙
-So'unga：丛云牙
+"So'unga"：丛云牙
 Kongosoha：金刚枪破
 Meidou Zangetsuha：冥道残月破
 Kaze no Kizu：风之伤
@@ -81,7 +81,7 @@ Magotama：曲灵
 Kitsune：狐妖
 Fox Fire：狐火
 Fire-Rat Robe：火鼠裘
-Bone Eater's Well：食骨之井
+"Bone Eater's Well"：食骨之井
 Feudal Era：战国时代
 Sengoku Jidai：战国时代
 God Tree：御神木
