@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你
 更新时间：2026-11-15
 
@@ -24,7 +24,7 @@ Apollo Justice = 王泥喜 法介
 Garyuu Kyouya = 牙琉 响也
 Klavier Gavin = 牙琉 响也
 Kidzuki Kokone = 希月 心音
-Cykes Athena = 希月 心音
+Athena Cykes = 希月 心音
 Nahyuta Sahdmadhi = 那由他·萨德马迪
 Naruhodou Ayame = 成步堂 美贯
 Wright Trucy = 成步堂 美贯
@@ -109,9 +109,9 @@ The Wright Anything Agency：成步堂法律事务所
 The Fey Clan：绫里家
 The Von Karma Family：狩魔家
 The Sahdmadhi Family：萨德马迪家
-The Khura'in Kingdom：库拉哈伊王国
+“The Khura'in Kingdom”：库拉哈伊王国
 Revisualization：再现象
 Mood Matrix：情绪矩阵
-Apollo's Bracelet：王泥喜的手环
-Athena's MonHear：希月的听心器
+“Apollo's Bracelet”：王泥喜的手环
+“Athena's MonHear”：希月的听心器
 Perceptual Lens：洞察之眼
