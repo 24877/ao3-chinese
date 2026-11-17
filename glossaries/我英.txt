@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你
 更新时间：2026-10-28
 
@@ -129,7 +129,6 @@ Re-Destro = 再毁灭
 Gigantomachia = 巨战
 Muscular = 肌壳
 Moonfish = 月鱼
-Quirkless = 无个性
 One For All = 一人为万
 Vestige = 残识
 Vestige World = 残识空间
@@ -144,10 +143,6 @@ Paranormal Liberation Front = 异能解放战线
 Meta Liberation Army = 异能解放军
 U.A. High = 雄英高中
 U.A. = 雄英
-Support Course = 支援科
-Support Department = 支援科
-General Studies = 普通科
-Management Course = 经营科
 Hero Name = 英雄名
 Costume = 战斗服
 Hero License = 英雄执照
@@ -158,6 +153,7 @@ Work Study = 职场实习
 
 通用词条
 quirk = 个性
+Quirkless = 无个性
 villain = 敌人
 pro hero = 职业英雄
 hero name = 英雄名
@@ -166,3 +162,7 @@ mission = 任务
 agency = 英雄事务所
 My Hero Academia：我的英雄学院
 Boku no Hero Academia：我的英雄学院
+Support Course = 支援科
+Support Department = 支援科
+General Studies = 普通科
+Management Course = 经营科
