@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-10-28
 
@@ -53,6 +53,7 @@ Usagiyama Rumi = 宇岬 留美
 Toyomitsu Taishiro = 丰光 太志郎
 Torino Sorahiko = 鸟野 空彦
 Shimura Nana = 志村 菜奈
+Shimura Tenko = 志村 转弧
 Sasaki Mirai = 佐佐木 未来
 Shigaraki Tomura = 死柄木 弔
 Shigaraki Yoichi = 死柄木 与一
@@ -85,6 +86,7 @@ Anima = 驯兽师
 Cellophane = 胶带侠
 All Might = 欧尔麦特
 Eraser Head = 抹消英雄
+EraserHead = 抹消英雄
 Present Mic = 播音麦
 Midnight = 午夜
 Recovery Girl = 恢复女郎
