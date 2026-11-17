@@ -96,5 +96,3 @@ MHCP：心理状态管理程序
 Admin Authority：管理员权限
 System Console：系统控制台
 Brain Burst：脑爆
-  
-
