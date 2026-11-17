@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-10-31
 
@@ -143,7 +143,7 @@ Simon Family：西蒙家族
 Simon Ring：西蒙指环
 Shimon Ring：西蒙指环
 Hell Ring：地狱指环
-Demon's Ring：恶魔指环
+"Demon's Ring"：恶魔指环
 Oath：誓约
 Curse of the Arcobaleno：彩虹之子的诅咒
 Trident：三叉戟
