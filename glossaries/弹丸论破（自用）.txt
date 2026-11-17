@@ -1,4 +1,4 @@
-版本号：1.1.20
+版本号：1.1.21
 维护者：你
 更新时间：2026-11-15
 
@@ -209,7 +209,6 @@ chef：主厨
 the heir：继承人
 the progeny：继承人
 Talent：才能
-luck：运气
 lucky：幸运
 Neurologist：神经学者
 
