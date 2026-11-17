@@ -1,4 +1,4 @@
-版本号:1.0.0
+版本号:1.0.1
 维护者:你
 更新时间:2026-11-10
 
@@ -14,7 +14,7 @@ Aura Bella Fiora = 亚乌菈 贝拉 菲欧拉
 Mare Bello Fiore = 马雷 贝罗 菲欧雷
 Demiurge = 迪米乌哥斯
 Sebas Tian = 塞巴斯 蒂安
-Pandora's Actor = 潘朵拉 亚克特
+"Pandora's Actor" = 潘朵拉 亚克特
 Gargantua = 高康大
 Victim = 威克提姆
 Yuri Alpha = 由莉 阿尔法
