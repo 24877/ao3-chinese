@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-10-28
 
@@ -86,7 +86,7 @@ Anima = 驯兽师
 Cellophane = 胶带侠
 All Might = 欧尔麦特
 Eraser Head = 抹消英雄
-EraserHead = 抹消英雄
+Eraserhead = 抹消英雄
 Present Mic = 播音麦
 Midnight = 午夜
 Recovery Girl = 恢复女郎
@@ -169,3 +169,4 @@ training = 训练
 mission = 任务
 agency = 英雄事务所
 My Hero Academia：我的英雄学院
+Boku no Hero Academia：我的英雄学院
