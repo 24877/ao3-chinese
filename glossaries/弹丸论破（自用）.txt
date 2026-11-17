@@ -1,4 +1,4 @@
-版本号：1.1.13
+版本号：1.1.15
 维护者：你
 更新时间：2026-11-15
 
@@ -132,9 +132,7 @@ Killer Killer：杀人鬼杀手
 
 // 专有名词与设定
 Ultimate：超高校级
-Hope's Peak Academy = 希望之峰学园
-Hope's Peak = 希望之峰
-hope peak：希望之峰
+Hope's Peak：希望之峰
 Remnants of Despair：绝望残党
 Future Foundation：未来机关
 Motivation Video：动机影片
@@ -182,6 +180,7 @@ Big Mac：苗木
 Cheerio：千寻 
 Junkuro：盾子（战刃骸饰）
 Monopad：黑白熊平板
+Monophone：黑白熊手机
 atua：阿图亚
 leader：领袖
 kiyo：是清
@@ -202,6 +201,7 @@ chef：主厨
 the heir：继承人
 the progeny：继承人
 Talent：才能
+Neurologist：神经学者
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
