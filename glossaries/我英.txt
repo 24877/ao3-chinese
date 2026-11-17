@@ -26,6 +26,8 @@ Sero Hanta = 濑吕 范太
 Yagi Toshinori = 八木 俊典
 Aizawa Shota = 相泽 消太
 Aizawa Shouta = 相泽 消太
+Nezu = 根津
+Principal Nezu：根津校长
 Yamada Hizashi = 山田 响
 Kayama Nemuri = 香山 睡
 Shuzenji Chiyo = 修善寺 千代
@@ -163,7 +165,9 @@ mission = 任务
 agency = 英雄事务所
 My Hero Academia：我的英雄学院
 Boku no Hero Academia：我的英雄学院
+Hero Course = 英雄科
 Support Course = 支援科
 Support Department = 支援科
 General Studies = 普通科
 Management Course = 经营科
+Business Course = 经营科
