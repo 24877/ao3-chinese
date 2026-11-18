@@ -1,0 +1,547 @@
+版本号：1.0.0
+维护者：你
+更新时间：2026-11-18
+
+词条
+//含常用词的名称，区分大小写
+Monkey D. Luffy=蒙奇·D·路飞
+LUFFY：路飞
+Portgas D. Ace=波特卡斯·D·艾斯
+Gol D. Ace=哥尔·D·艾斯
+ACE：艾斯
+SABO：萨博
+Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
+Trafalgar D. Law=特拉法尔加·D·罗
+Trafalgar Law=特拉法尔加·罗
+LAW：罗
+Monkey D. Garp=蒙奇·D·卡普
+Monkey D. Dragon=蒙奇·D·龙
+Crocodile：克洛克达尔
+Carrot：加洛特
+Judge：伽治
+Killer：基拉
+Rocks D. Xebec=洛克斯·D·吉贝克
+Merry：梅利号
+Dawn：黎明岛
+Outlook：奥特卢克
+Smoker：斯摩格
+Marshall D. Teach=马歇尔·D·蒂奇
+TEACH：蒂奇
+Sanjuan Wolf=圣胡安·恶狼
+Caesar Clown：凯撒·库朗
+Caesar：凯撒
+Lucky Roux=拉基·鲁
+Woop Slap=乌普·史拉布
+
+//BIG MOM海贼团
+Charlotte Linlin=夏洛特·玲玲
+Charlotte Perospero=夏洛特·佩罗斯佩罗
+Charlotte Katakuri=夏洛特·卡塔库栗
+Charlotte Daifuku=夏洛特·大福
+Charlotte Amande=夏洛特·阿曼德
+Charlotte Brulee=夏洛特·布蕾
+Charlotte Smoothie=夏洛特·斯慕吉
+Charlotte Chiffon=夏洛特·戚风
+Charlotte Lola=夏洛特·罗拉
+Charlotte Pudding=夏洛特·布琳
+Charlotte Flampe=夏洛特·芙兰佩
+Charlotte Oven=夏洛特·欧文
+Charlotte Cracker=夏洛特·克力架
+
+通用词条
+
+//草帽海贼团
+Mugiwara Kaizokudan：草帽海贼团
+Straw Hat Pirates：草帽海贼团
+Strawhat Pirates：草帽海贼团
+Mugiwara：草帽
+Straw Hat：草帽
+Strawhat：草帽
+Straw Hat Luffy：草帽路飞
+Strawhat Luffy：草帽路飞
+Lu：路
+Strawhat brat：草帽小子
+Straw Hat brat：草帽小子
+Roronoa Zoro=罗罗诺亚·索隆
+Pirate Hunter：海贼猎人
+Marimo：绿藻头
+Mosshead：绿藻头
+Nami：娜美
+Cat Burglar：小贼猫
+Nami-san：娜美桑
+Vinsmoke Sanji=文斯莫克·山治
+Black Leg：黑足
+love cook：色厨子
+Usopp=乌索普
+Going Merry：前进梅利号
+Tony Tony Chopper=托尼·托尼·乔巴
+raccoon：狸猫
+Nico Robin=妮可·罗宾
+Devil Child：恶魔之子
+Robin-chan：罗宾酱
+Franky：弗兰奇
+Thousand Sunny：千里阳光号
+Brook：布鲁克
+Soul King：灵魂之王
+Jinbei：甚平
+
+//心脏海贼团
+Heart Pirates：心脏海贼团
+Polar Tang：极地潜水号
+Traffy：特拉男
+Torao：特拉男
+Kikoku：鬼哭
+Shambles：交换
+Corazon：柯拉松
+Cora-san：柯拉桑
+Bepo：贝波
+Shachi：夏其
+Penguin：佩金
+Ikkaku：一角
+Hakugan：白雁
+Jean Bart：江波尔
+Uni：海胆
+
+//基德海贼团
+Eustass Kidd=尤斯塔斯·基德
+
+//白胡子海贼团
+Whitebeard Pirates：白胡子海贼团
+Moby Dick：莫比迪克
+Moby：莫比
+Edward Newgate=爱德华·纽盖特
+Whitebeard：白胡子
+Shirohige：白胡子
+Pops：老爹
+Oyaji：老爹
+Marco：马尔科
+Fushichou：不死鸟
+Phoenix：不死鸟
+FireFist Ace：火拳艾斯
+Fire Fist Ace：火拳艾斯
+Hiken no Ace：火拳艾斯
+Spade Pirates：黑桃海贼团
+Spade：黑桃
+Spadille：黑桃号
+Deuce：丢斯
+Masked Deuce：蒙面丢斯
+Banshee：班西
+Kotatsu：柯达兹
+Jozu：乔兹
+Thatch：萨奇
+Vista：比斯塔
+Blamenco：布拉曼克
+Rakuyo：拉克约
+Namur：那谬尔
+Blenheim：布伦海姆
+Curiel：库利艾尔
+Kingdew：金古多
+Haruta：哈尔塔
+Atmos：阿特摩斯
+Jiru：基尔
+Fossa：佛萨
+Izou：以藏
+Izo：以藏
+Stephan：斯特凡
+Whitey Bay：怀迪贝
+Little Oars：小奥兹
+Squard：斯库亚德
+
+//红发海贼团
+Red Force：雷德弗斯
+Akagami no Shanks：红发香克斯
+Akagami Shanks=红发 香克斯
+“Red-Haired Shanks”：红发香克斯
+Shanks：香克斯
+Red Hair：红发
+Gryphon：格雷芬
+Benn Beckman=本·贝克曼
+Yasopp：耶稣布
+Hongo：本乡
+Rockstar：洛克斯达
+
+//百兽海贼团
+Beast Pirates：百兽海贼团
+Kaido：凯多
+Kaidou：凯多
+
+//黑胡子海贼团
+Blackbeard Pirates：黑胡子海贼团
+Kurohige：黑胡子
+Jesus Burgess=吉扎斯·巴杰斯
+Shiryu：希留
+Shiliew：希留
+Van Auger=范·奥卡
+Abaro Pisaro=阿瓦罗·匹萨罗
+Rafitto：拉斐特
+Laffitte：拉斐特
+Catarina Devon=卡特琳·蝶美
+Vasco：巴斯克
+Doc Q：毒医Q
+
+//罗杰海贼团
+Oro Jackson=奥罗·杰克逊号
+Roger Pirates：罗杰海贼团
+Gol D. Roger=哥尔·D·罗杰
+Gold Roger：黄金罗杰
+Portgas D. Rouge=波特卡斯·D·露玖
+Silvers Rayleigh=西尔巴兹·雷利
+Dark King：冥王
+Scopper Gaban=司克帕·贾巴
+Crocus：克罗卡斯
+Sunbell：桑贝尔
+
+//革命军
+Revolutionary Army：革命军
+Revolutionary：革命军
+Revolutionaries：革命军
+Emporio Ivankov=安普里奥·伊万科夫
+Iva：伊娃
+Sabo：萨博
+bo：博
+Koala：克尔拉
+Hack：哈库
+Inazuma：闪电
+Belo Betty=贝洛·贝蒂
+Morley：莫里
+Lindbergh：林德伯格
+Karasu：乌鸦
+
+//世界政府
+World Government：世界政府
+Imu：伊姆
+Five Elders：五老星
+StEthanbaron Nusjuro=伊赞巴隆·纳斯寿郎圣
+StShepherd Ju Peter=谢泼德·十·庇特圣
+StTopman Warcury=托普曼·沃丘利圣
+StMarcus Mars=玛卡斯·玛兹圣
+Jaygarcia Saturn=杰伊戈路西亚·萨坦圣
+Figarland Garling=费加兰度·格林古圣
+God Knights：神之骑士
+Figarland Shamrock=费加兰度·夏姆洛克
+Marine：海军
+Sengoku：战国
+Senny：小战
+Sengoku The Buddha：佛之战国
+Admiral：海军大将
+Sakazuki：萨卡斯基
+Akainu：赤犬
+Borsalino：波鲁萨利诺
+Kizaru：黄猿
+Kuzan：库赞
+Aokiji：青雉
+Issho：一笑
+Isshou：一笑
+Aramaki：荒牧
+“Vice-Admiral”：海军中将
+Vice Admiral：海军中将
+Tsuru：鹤
+Onigumo：鬼蜘蛛
+Momonga：鼯鼠
+Donquixote Rosinante=唐吉诃德·罗西南迪
+Donquixote Rocinante=唐吉诃德·罗西南迪
+Roci：罗西
+Tashigi：达斯琪
+Coby：克比
+Koby：克比
+Helmeppo：贝鲁梅伯
+Cipher Pol：CP
+Rob Lucci=罗布·路奇
+Hattori：哈多利
+Kaku：卡库
+Kalifa：卡莉法
+Blueno：布鲁诺
+Spandam：斯潘达姆
+Isuka：伊斯卡
+Drake：德雷克
+Sentoumaru：战桃丸
+
+//七武海
+Oka Shichibukai=王下 七武海
+Warlord：七武海
+Warlords：七武海
+Sir Crocodile：沙·克洛克达尔
+Buggy：巴基
+Donquixote Doflamingo=唐吉诃德·多弗朗明哥
+Boa Hancock=波雅·汉库克
+Dracule Mihawk=乔拉可尔·米霍克
+Bartholomew Kuma=巴索罗米·熊
+Weevil：威布尔
+Gecko Moria=月光·莫利亚
+
+//德雷斯罗萨
+Punk Hazard：庞克哈萨德
+Dressrosa：德雷斯罗萨
+Doffy：多弗
+Mingo：明哥
+Young Master：少主
+Viola：维奥莱特
+Pica：琵卡
+Jora：乔拉
+Gimlet：吉姆雷特
+Senor：塞尼奥尔
+Russian：露西安
+Trebol：托雷波尔
+Vergo：维尔戈
+Diamante：迪亚曼蒂
+Lao G：拉奥G
+Gladius：古拉迪乌斯
+Buffalo：巴法罗
+Dellinger：德林杰
+Machvise：马哈拜斯
+Bellamy：贝拉米
+Lucy：路西
+Luffyland：路飞兰度
+Kyros：居鲁士
+Riku：力库
+Rebecca：蕾贝卡
+Scarlett：斯卡莱特
+Cavendish：卡文迪许
+Bartolomeo：巴托洛米奥
+Tontatta Tribe：小人族
+Leo：雷欧
+
+//和之国
+Wano：和之国
+Kozuki Oden=光月 御田
+Kozuki Toki=光月 时
+Kozuki Momonosuke=光月 桃之助
+Kozuki Hiyori=光月 日和
+Nine Red Scabbards：赤鞘九侠
+Kinemon：锦卫门
+“Kin'emon”：锦卫门
+Denjiro：传次郎
+Kyoshiro：狂死郎
+Kikunojo：菊之丞
+Kanjuro：勘十郎
+Raizo=雷藏
+Ashura Doji：阿修罗童子
+Kawamatsu：河松
+Inuarashi：犬岚
+Dogstorm：犬岚
+Nekomamushi：猫蝮蛇
+Cat Viper：猫蝮蛇
+Yamato：大和
+Tama：小玉
+Kurozumi Orochi=黑炭 大蛇
+Lunarian：露娜利亚族
+Kuri area：九里
+Flower Capital：花都
+Black Maria：黑色玛利亚
+
+//蛋头岛
+Vegapunk：贝加庞克
+Dr.Vegapunk：贝加庞克博士
+Doctor Vegapunk：贝加庞克博士
+Lilith：莉莉丝
+Shaka：释迦
+Pythagoras：毕达哥拉斯
+Edison：爱迪生
+York：约克
+Atlas：阿特拉斯
+Paramecia：
+“S-Bear”：S-熊
+“S-Shark”：S-鲨
+“S-Snake”：S-蛇
+“S-Eagle”：S-鹰
+Frontier Dome：边界穹顶
+
+//霸气
+Haoushoku Haki=霸王色 霸气
+“Conqueror's Haki”：霸王色霸气
+Conqueror：霸王色
+Kenbunshoku Haki=见闻色 霸气
+Busoshoku Haki=武装色 霸气
+Armament：武装色
+
+//恶魔果实
+Devil Fruit：恶魔果实
+Devil Fruits：恶魔果实
+Logia：自然系
+Paramecia：超人系
+Zoan：动物系
+Gomo Gomo no Mi：橡胶果实
+Mera Mera no Mi：烧烧果实
+Hana Hna no Mi：花花果实
+Bara Bara no Mi：四分五裂果实
+Ope Ope no Mi：手术果实
+Hobi Hobi no Mi：童趣果实
+
+//其他人名
+Curly Dadan=卡利·达旦
+Dogra：多古拉
+Magra：马古拉
+Ann：安
+Makino：玛琪诺
+Kaya：可雅
+Shakky：夏琪
+Perona：佩罗娜
+Nefertari D. Cobra=奈菲鲁塔丽·D·寇布拉
+Nefertari D. Vivi=奈菲鲁塔丽·D·薇薇
+Shirahoshi：白星
+Fukaboshi：鲨星
+Ryuboshi：皇星
+Manboshi：翻车星
+Neptune：尼普顿
+Otohime：乙姬
+Fisher：费舍尔
+Mjsogard：穆斯加尔德圣
+Arlong：阿龙
+Hody Jones=霍迪·琼斯
+Uta：乌塔
+Kureha：库蕾哈
+“Dr.Kureha”：库蕾哈医生
+Dr. Kureha：库蕾哈医生
+Doctor Kureha：库蕾哈医生
+Dalton：多尔顿
+Bluejam：布鲁杰姆
+Porchemy：波尔杰米
+Shiki：史基
+Paulie：巴利
+Iceburg：冰山
+Joy Boy：乔伊波伊
+Hachi：小八
+Camie：凯米
+Gloriosa：火焰花
+Bon Clay=冯·克雷
+Sora：索拉
+Reiju：蕾玖
+Ichiji：伊治
+Niji：尼治
+Yonji：勇治
+Capone Bege=卡彭·贝基
+Mohiji：摩奇
+Richie：利基
+Galdino：贾尔迪诺
+Alvida：亚尔丽塔
+Jewellery Bonney=乔艾莉·波妮
+Ginny：金妮
+Shyarly：夏莉
+Apoo：阿普
+Buckingham Stussy=芭金戈姆·斯图西
+Du Feld=杜·费尔德
+Zeff：哲夫
+Aka Ashi no Zeff：红脚哲夫
+“Red-Leg Zeff”：红脚哲夫
+Laboon：拉布
+Monblanc Noland=蒙布兰·诺兰多
+Olvia：奥尔维娅
+Bacchina：班奇娜
+“Bell-mere”：贝尔梅尔
+Nojiko：诺琪高
+Genzo：阿健
+Kuina：古伊娜
+Enel：艾尼路
+Jaguar D. Saul=哈古瓦尔·D·萨乌罗
+Hiluluk：希鲁鲁克
+Stelly：斯特利
+
+//其他
+Pirate：海贼
+Pirate King：海贼王
+Pirates King：海贼王
+King of the Pirates：海贼王
+Yonko：四皇
+Four Emperors：四皇
+first mates：大副
+Commanders：队长们
+Commander：队长
+navigator：航海士
+Kuja Pirates：九蛇海贼团
+buster call：屠魔令
+Den Den Mushi：电话虫
+Den Den Mushis：电话虫
+“Den-Den”：电话虫
+Den Den：电话虫
+baby den den mushi：婴儿电话虫
+Fishman：鱼人
+mermaid：人鱼
+Hibiscus：扶桑花
+Seastone：海楼石
+sea stone：海楼石
+Eternal Pose：永恒指针
+Log Pose：记录指针
+jolly roger：海贼旗
+jolly rogers：海贼旗
+Amber Lead：珀铅病
+Captain：船长
+crew：船员
+crews：船员
+World Noble：世界贵族
+ship：船
+-san：桑
+-chan：酱
+-sama：大人
+-ya：当家的
+vivre card：生命卡
+Celestial Dragons：天龙人
+Celestial Dragon：天龙人
+Flame Emperor：炎帝
+Dai Enkai：大炎戒
+Entei：炎帝
+Hiken：火拳
+Cross fire：十字火
+Nika：尼卡
+Germa：杰尔玛
+“Buggy's Delivery”：巴基速递
+Reverie：世界会议
+Striker：前锋号
+Sky Walk：月步
+Empty Throne：虚空王座
+Chief of Staff：参谋总长
+“Chief-of-Staff”：参谋总长
+pipe：水管
+Rocks Pirates：洛克斯海贼团
+mink：毛皮族
+clima tact：天候棒
+Paramount War：顶上战争
+Pluton：冥王
+Baroque：巴洛克
+Okama：人妖
+Baratie：巴拉蒂
+
+//地名
+East Blue：东海
+West Blue：西海
+South Blue：南海
+North Blue：北海
+Alabasta：阿拉巴斯坦
+Flevance：弗雷凡斯
+Baterilla：巴苔里拉
+Goa Kingdom=哥亚 王国
+Grand Line：伟大航路
+Grandline：伟大航路
+Red Line：红土大陆
+Redline：红土大陆
+Reverse Mountain：颠倒山
+Paradise：乐园
+New World：新世界
+Laugh Tale：拉夫德鲁
+Laughtale：拉夫德鲁
+Raftel：拉夫德鲁
+Saboady：香波地群岛
+Water 7：七水之都
+Water Seven：七水之都
+Enies Lobby：司法岛
+Jaya：加雅岛
+Impel down：因佩尔顿
+Marineford：马林梵多
+Sky Piea：空岛
+SkyPiea：空岛
+Amazon Lily：亚马逊百合
+Ohara：奥哈拉
+Sphinx：斯芬克斯
+Lost Chamber：花之间
+Elbaph：艾尔巴夫
+Zou：佐乌
+Grey Terminal：灰色终点站
+Gray Terminal：灰色终点站
+Terminal：终点站
+Fushia：风车
+Mt.Corvo：科尔波山
+Banaro：巴纳罗岛
+God Valley：神之谷
+Florian Triangle：魔鬼三角地带
+Totto Land：万国
+Twin Capes：双子峡
+Baltigo：巴尔迪哥
