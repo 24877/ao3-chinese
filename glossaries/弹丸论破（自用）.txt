@@ -145,7 +145,7 @@ Ultimate：超高校级
 Remnants of Despair：绝望残党
 Future Foundation：未来机关
 Motivation Video：动机影片
-Class Trial：学级裁判
+class trial：学级裁判
 the trial room：审判室
 Murder Game：自相残杀
 Kill Game：杀戮游戏
