@@ -1,4 +1,4 @@
-版本号：1.0.12
+版本号：1.1.0
 维护者：你
 更新时间：2026-11-15
 
@@ -92,7 +92,6 @@ Testimony：证词
 Cross-Examination：交叉询问
 Penalty：惩罚
 Health Bar：血条
-Evidence：证据
 Profile：人物档案
 Attorney：律师
 Defense Attorney：辩护律师
