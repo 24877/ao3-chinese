@@ -23,6 +23,7 @@ Yamauchi Haruki = 山内 春树
 Yukimura Teruhiko = 幸村 辉彦
 Kouenji Rokusuke = 高圆寺 六助
 Koenji Rokusuke = 高圆寺 六助
+Kōenji Rokusuke = 高圆寺 六助
 Sudou Ken = 须藤 健
 Sudo Ken = 须藤 健
 Sudō Ken = 须藤 健
