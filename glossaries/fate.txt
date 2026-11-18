@@ -1,5 +1,5 @@
-版本号：1.0.6
-维护者：你的名字
+版本号：1.0.7
+维护者：你
 更新时间：2026-10-23
 
 // ===== 词条：区分大小写，人名/英灵真名 =====
@@ -30,6 +30,7 @@ Lord El-Melloi II = 埃尔梅罗二世
 Caren Hortensia = 卡莲·奥尔黛西亚
 Reines El-Melloi Archisorte = 莱妮丝·埃尔梅罗·阿奇佐尔缇
 Luviagelita Edelfelt = 露维亚格丽塔·艾德费尔特
+Luvia = 露维亚
 Flat Escardos = 弗拉特·埃斯卡尔德斯
 Kischur Zelretch Schweinorg = 基修亚·泽尔里奇·施威因古
 
@@ -40,9 +41,11 @@ Gilgamesh = 吉尔伽美什
 Cu Chulainn = 库·丘林
 Iskandar = 伊斯坎达尔
 Diarmuid Ua Duibhne = 迪尔姆德·奥迪那
+Diarmuid = 迪尔姆德
 Medusa = 美杜莎
 Medea = 美狄亚
 Gilles de Rais = 吉尔·德·雷
+Gilles = 吉尔
 Hassan-i-Sabbah = 哈桑·萨巴赫
 Heracles = 赫拉克勒斯
 Lancelot = 兰斯洛特
@@ -91,6 +94,7 @@ Thomas Edison = 托马斯·爱迪生
 Wu Zetian = 武则天
 Jing Ke = 荆轲
 Jack the Ripper = 开膛手杰克
+Hassan = 哈桑
 Hassan of the Cursed Arm = 咒腕之哈桑
 Hassan of the Hundred Faces = 百貌之哈桑
 Hassan of the Silent = 静谧之哈桑
