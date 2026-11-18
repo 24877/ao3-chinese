@@ -1,6 +1,6 @@
-版本号：1.1.0
-维护者：你的名字
-更新时间：2026-10-23
+版本号：1.1.1
+维护者：你
+更新时间：2026-11-18
 
 // ===== 词条：区分大小写，人名/真名 =====
 词条
@@ -38,7 +38,7 @@ Kitou Hayato = 鬼头 隼
 Sotomura Hideo = 外村 秀雄
 Komiya Kyougo = 小宫 叶吾
 Takemoto Shigeru = 竹本 茂
-Ishigami Kyou = 石上 京
+
 
 // —— 学生会 / 教职员 ——
 Chabashira Sae = 茶柱 佐枝
@@ -105,11 +105,10 @@ Ibuki Mio：伊吹澪
 Shiranami Chihiro = 白波 千寻
 
 
-
-
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
 Ayanokouji Kiyotaka = 绫小路 清隆
+Ayanokoji Kiyotaka = 绫小路 清隆
 Sakayanagi Chairman = 坂柳 理事长
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
@@ -139,8 +138,3 @@ Physical Ability = 身体能力
 Cooperativeness = 协作性
 Social Contribution = 社会贡献
 Leadership = 领导能力
-
-
-
-
-
