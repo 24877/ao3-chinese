@@ -30,6 +30,7 @@ Matsushita Chiaki = 松下 千秋
 Hasebe Haruka = 长谷部 波瑠加
 Shinohara Satsuki = 筱原 皋月
 Satou Maya = 佐藤 麻耶
+Satō Maya = 佐藤 麻耶
 Shiina Hiyori = 椎名 日和
 Ishizaki Daichi = 石崎 大地
 Kitou Hayato = 鬼头 隼
