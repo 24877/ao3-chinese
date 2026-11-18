@@ -1,4 +1,4 @@
-版本号：1.1.22
+版本号：1.2.0
 维护者：你
 更新时间：2026-11-15
 
@@ -59,7 +59,9 @@ Hagakure Yasuhiro = 叶隐 康比吕
 Celestia Ludenberg = 塞蕾丝缇雅·罗登贝克
 Celeste Ludenberg：塞蕾丝缇雅·罗登贝克
 Celeste = 塞蕾丝
-Yasuhiro Taeko = 安广 多惠子
+Yasuhiro Taeko：安广多惠子
+Taeko Yasuhiro：安广多惠子
+Taeko：多惠子
 Enoshima Junko = 江之岛 盾子
 Ikusaba Mukuro = 战刃 骸
 Monokuma：黑白熊
@@ -76,6 +78,7 @@ Kiibo：机望
 K1-B0：机望
 Keebo：机望
 Saihara Shuichi = 最原 终一
+Shuchi：终一
 Shirogane Tsumugi = 白银 紬
 Shinguji Korekiyo = 真宫寺 是清
 Chabashira Tenko = 茶柱 转子
@@ -118,6 +121,7 @@ Fujisaki Taichi = 不二咲 太市
 Nakajima Kanon = 仲岛 花音
 Shirokuma：白熊
 Kurokuma：黑熊
+kuma：熊
   
 
 Murasame Soushun = 村雨 早春
