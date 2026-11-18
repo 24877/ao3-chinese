@@ -1,9 +1,9 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-11-18
 
 词条
-Demon Slayer: Kimetsu no Yaiba：鬼灭之刃
+"Demon Slayer: Kimetsu no Yaiba" = 鬼灭之刃
 // ==================== 灶门家 ====================
 Kamado Tanjiro = 灶门 炭治郎
 Kamado Nezuko = 灶门 祢豆子
@@ -138,7 +138,7 @@ Aizetsu：哀绝
 Urogi：空喜
 Zohakuten：憎珀天
 Urami：恨
-Hantengu's clones：半天狗分身
+"Hantengu's clones" = 半天狗分身
 
 // ==================== 珠世一方 / 其他有名鬼 ====================
 Tamayo：珠世
@@ -411,11 +411,11 @@ Compass Needle：罗针
 Air Type：空式
 Disorder：乱式
 Annihilation Type：灭式
-Leg Type: Crown Splitter：脚式·冠先割
-Leg Type: Explosive Flurry：脚式·流闪群光
+"Leg Type: Crown Splitter" = 脚式·冠先割
+"Leg Type: Explosive Flurry" = 脚式·流闪群光
 Eight-Layered Demon Core：鬼芯八重芯
-Crushing Type: Ten Thousand Leaves Flashing Willow：碎式·万叶闪柳
-Final Form: Blue Silver Chaotic Afterglow：终式·青银乱残光
+"Crushing Type: Ten Thousand Leaves Flashing Willow" = 碎式·万叶闪柳
+"Final Form: Blue Silver Chaotic Afterglow" = 终式·青银乱残光
 
 // 堕姬 / 妓夫太郎
 Obi Sash Manipulation：缎带操纵
