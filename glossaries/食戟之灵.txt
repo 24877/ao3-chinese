@@ -46,6 +46,7 @@ Akanegakubo Momo = 茜久保 桃
 Megishima Tousuke = 女木岛 冬辅
 Saitou Soumei = 斋藤 综明
 Doujima Gin = 堂岛 银
+Dōjima Gin = 堂岛 银
 Shinomiya Kojirou = 四宫 小次郎
 Mizuhara Fuyumi = 水原 冬美
 Inui Hinako = 乾 日向子
