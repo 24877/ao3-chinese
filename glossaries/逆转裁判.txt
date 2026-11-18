@@ -68,6 +68,7 @@ Blackquill Aura = 夕神 辉夜
 Gyakuten Saiban：逆转裁判
 Ace Attorney：逆转裁判
 逆転裁判 | Gyakuten Saiban | Ace Attorney：逆转裁判
+Kurain：仓院
 Kurain Village：仓院之里
 Kurain no Sato：仓院之里
 "Khura'in" = 苍苑
