@@ -214,6 +214,7 @@ chef：主厨
 the heir：继承人
 the progeny：继承人
 Talent：才能
+luckster：幸运儿
 Neurologist：神经学者
 
 // 超高校级的才能
