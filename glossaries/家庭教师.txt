@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：你
 更新时间：2026-10-31
 
@@ -9,9 +9,9 @@ Gokudera Hayato = 狱寺 隼人
 Yamamoto Takeshi = 山本 武
 Sasagawa Ryohei = 笹川 了平
 Lambo = 蓝波
-Chrome Dokuro = 库洛姆 髑髅
+Dokuro Chrome = 库洛姆 髑髅
 Hibari Kyoya = 云雀 恭弥
-Mukuro Rokudo = 六道 骸
+Rokudo Mukuro = 六道 骸
 Belphegor = 贝尔菲戈尔
 Superbi Squalo = 斯库瓦罗
 Xanxus = Xanxus
@@ -26,9 +26,9 @@ Fon = 风
 Skull = 史克尔
 Dino = 迪诺
 Romario = 罗马里奥
-Enma Kozato = 古里炎真
-Adelheid Suzuki = 铃木 爱迪尔海德
-Julie Katou = 加藤 朱里
+Kozato Enma = 古里 炎真
+Suzuki Adelheid = 铃木 爱迪尔海德
+Katou Julie = 加藤 朱里
 Gamma = 伽马
 Zakuro = 石榴
 Daemon Spade = 戴蒙·斯佩德
@@ -44,11 +44,10 @@ Irie Shoichi = 入江 正一
 Spanner = 斯帕纳
 Kikyo = 桔梗
 Byakuran = 白兰
-Takeshi Yamamoto = 山本 武
 Bianchi = 碧洋琪
 Fuuta = 风太
-Ken Joshima = 城岛 犬
-Chikusa Kakimoto = 柿本 千种
+Joshima Ken = 城岛 犬
+Kakimoto Chikusa = 柿本 千种
 M.M. = M.M.
 Basil = 巴吉尔
 Oregano = 欧蕾加诺
@@ -58,11 +57,11 @@ Uni = 尤尼
 Luigi = 路易吉
 Giannini = 强尼二
 Nezumi = 老鼠
-Hana Kurokawa = 黑川 花
-Kyoko Sasagawa = 笹川 京子
-Haru Miura = 三浦 春
-Nana Sawada = 沢田 奈奈
-Iemitsu Sawada = 沢田 家光
+Kurokawa Hana = 黑川 花
+Sasagawa Kyoko = 笹川 京子
+Miura Haru = 三浦 春
+Sawada Nana = 沢田 奈奈
+Sawada Iemitsu = 沢田 家光
 Timoteo = 蒂莫泰奥
 Coyote Nougat = 科约特·努加
 Frederick = 弗雷德里克
