@@ -1,4 +1,4 @@
-版本号：1.0.11
+版本号：1.0.12
 维护者：你
 更新时间：2026-11-15
 
@@ -103,7 +103,6 @@ Defendant：被告
 Plaintiff：原告
 Verdict：判决
 Not Guilty：无罪
-Guilty：有罪
 Murder：谋杀
 Court：法庭
 Pursuit：追击
@@ -114,7 +113,7 @@ The Wright Anything Agency：成步堂法律事务所
 The Fey Clan：绫里家
 The Von Karma Family：狩魔家
 The Sahdmadhi Family：萨德马迪家
-“The Khura'in Kingdom”：库拉哈伊王国
+“The Khura'in Kingdom”：苍苑王国
 Revisualization：再现象
 Mood Matrix：情绪矩阵
 “Apollo's Bracelet”：王泥喜的手环
