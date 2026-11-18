@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你的名字
 更新时间：2026-10-28
 
@@ -17,23 +17,24 @@ Kashiwagi Nagisa = 柏木 渚
 Osaragi Kobachi = 大佛 小钵
 Tanuma Tsubasa = 田沼 翼
 Shijo Maki = 四条 真妃
-Yan Fan = 子安 燕
-Iijima Unyo = 伊井野（父系相关，按需）
-Hayasaka Koyuki = 早坂（变装态，保留语境）
-Shirogane Gin = 白银 父亲（同人可用）
-Yotsuba Nene = 四宫家相关（按需）
+Koyasu Tsubame = 子安 燕
+Shiranui Frill = 不知火 衣
+Fujiwara Toyomi = 藤原 丰实
+Fujiwara Moeha = 藤原 萌叶
+Shiranui Koromo = 不知火 衣
+Ryuju Momo = 龙珠 桃
 
 // —— 四宫家 ——
 "Shinomiya Gan'an" = 四宫 雁庵
 Shinomiya Kouou = 四宫 黄光
 Shinomiya Seiryuu = 四宫 青龙
 Shinomiya Uncho = 四宫 云鹰
-Shinomiya Oko = 四宫 黄光（繁体译名冲突时用手动覆盖）
-
+Shinomiya Oko = 四宫 黄光
 
 通用词条
 // 学校与职务
 Shuchiin Academy：秀知院学园
+Shuchiin：秀知院
 Student Council：学生会
 President：会长
 Vice President：副会长
@@ -45,10 +46,15 @@ Volunteer Club：志愿者部
 Archery Club：弓道部
 Pure-in：纯院生
 Mixed-in：混院生
-
+Fairy of First Year：一年的妖精
+Swan of Year Three：三年级的白天鹅
+Princess of Year Two：二年级的公主
 
 // 设定与心理活动
-Love Is War：恋爱是战争
+Love is War = 恋爱即战争
+Kaguya-sama: Love is War = 辉夜大小姐想让我告白
+The Geniuses’ Love Brain Battle = 天才们的恋爱头脑战
+Kaguya-sama：辉夜大小姐
 Mental Court：脑内法庭
 Brain Meeting：脑内会议
 Ice Kaguya：冰之辉夜
