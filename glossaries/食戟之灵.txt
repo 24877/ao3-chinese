@@ -1,4 +1,4 @@
-版本号：1.0.11
+版本号：1.1.0
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -24,6 +24,7 @@ Sakaki Ryoko = 榊 凉子
 Sakaki Ryōko = 榊 凉子
 Yoshino Yuuki = 吉野 悠姬
 Yoshino Yuki = 吉野 悠姬
+Yoshino Yūki = 吉野 悠姬
 Marui Zenji = 丸井 善二
 Ibusaki Shun = 伊武崎 峻
 Aoki Daigo = 青木 大吾
