@@ -1,4 +1,4 @@
-版本号：1.1.1
+版本号：1.1.2
 维护者：你
 更新时间：2026-11-15
 
@@ -11,6 +11,7 @@ Nick：成步堂
 Feenie：菲尼
 Ayasato Mayoi = 绫里 真宵
 Fey Maya = 绫里 真宵
+Fey Ami = 绫里 亚美
 Houzuki Akane = 宝月 茜
 Skye Ema = 宝月 茜
 Karuma Mei = 狩魔 冥
@@ -70,10 +71,13 @@ Blackquill Aura = 夕神 辉夜
 Gyakuten Saiban：逆转裁判
 Ace Attorney：逆转裁判
 逆転裁判 | Gyakuten Saiban | Ace Attorney：逆转裁判
+turnabout：逆转
 Kurain：仓院
 Kurain Village：仓院之里
 Kurain no Sato：仓院之里
+Kurain Channeling：仓院流灵媒
 "Khura'in" = 苍苑
+Hazakurain：叶樱院
 Courtroom：法庭
 Defense Bench：辩护席
 Prosecution Bench：检察席
@@ -82,6 +86,7 @@ Attorney Badge：律师徽章
 Magatama：勾玉
 Spirit Medium：灵媒
 Channeling：降灵
+Channeling Chamber：降灵室
 Objection：异议
 Hold it：等等
 Take that：反驳
@@ -110,9 +115,10 @@ Logic and Trick：逻辑与把戏
 Bloody Cosmos：血色宇宙
 Troupe Gramarye：魔术马戏团
 The Wright Anything Agency：成步堂法律事务所
-The Fey Clan：绫里家
-The Von Karma Family：狩魔家
-The Sahdmadhi Family：萨德马迪家
+Fey Clan：绫里家
+Fey Manor：绫里宅
+Von Karma Family：狩魔家
+Sahdmadhi Family：萨德马迪家
 “The Khura'in Kingdom”：苍苑王国
 Revisualization：再现象
 Mood Matrix：情绪矩阵
