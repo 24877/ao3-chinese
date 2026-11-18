@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：你
 更新时间：2026-11-15
 
@@ -61,7 +61,16 @@ Kamiyama Hayate = 夕神 疾风
 Keyes Simon = 夕神 疾风
 Kamiyama Yukari = 夕神 辉夜
 Blackquill Aura = 夕神 辉夜
+
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Gyakuten Saiban：逆转裁判
+Ace Attorney：逆转裁判
+逆転裁判 | Gyakuten Saiban | Ace Attorney：逆转裁判
 Kurain Village：仓院之里
+Kurain no Sato：仓院之里
+"Khura'in" = 苍苑
 Courtroom：法庭
 Defense Bench：辩护席
 Prosecution Bench：检察席
@@ -70,12 +79,6 @@ Attorney Badge：律师徽章
 Magatama：勾玉
 Spirit Medium：灵媒
 Channeling：降灵
-
-通用词条
-// 此区域不区分大小写，用于翻译通用概念
-Gyakuten Saiban：逆转裁判
-Ace Attorney：逆转裁判
-逆転裁判 | Gyakuten Saiban | Ace Attorney：逆转裁判
 Objection：异议
 Hold it：等等
 Take that：反驳
