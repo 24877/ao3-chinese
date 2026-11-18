@@ -1,5 +1,5 @@
-版本号：1.0.3
-维护者：你的名字
+版本号：1.0.4
+维护者：你
 更新时间：2026-10-23
 
 // ===== 词条：区分大小写，人名/真名/代号真名 =====
@@ -46,6 +46,7 @@ Otaki Gorou = 大泷 悟郎
 Megure Juuzou = 目暮 十三
 Takagi Wataru = 高木 涉
 Satou Miwako = 佐藤 美和子
+Sato Miwako = 佐藤 美和子
 Shiratori Ninzaburou = 白鸟 任三郎
 Chiba Kazunobu = 千叶 和伸
 Miyamoto Yumi = 宫本 由美
@@ -63,12 +64,14 @@ Date Wataru = 伊达 航
 // —— FBI ——
 Akai Shuichi = 赤井 秀一
 Moroboshi Daisuke = 诸星 大
+Okiya Subaru = 冲矢 昴
+Rye：黑麦
 Sera Mary = 世良 玛丽
 Sera Masumi = 世良 真纯
 Haneda Shuukichi = 羽田 秀吉
 Jodie Starling = 茱蒂 斯泰琳
-Camel Andre = 安德雷·卡迈尔
-Black James = 詹姆斯·布莱克
+Andre Camel= 安德雷·卡迈尔
+James Black = 詹姆斯·布莱克
 
 // —— CIA / 公安 ——
 Hondou Hidemi = 本堂 瑛海
@@ -95,6 +98,10 @@ Wakita Kanenori = 胁田 兼则
 Kuroda Hyoue = 黑田 兵卫
 Tequila = 龙舌兰
 Pisco = 皮斯克
+Irish：爱尔兰
+Stout：司陶特
+Pinga：宾加
+Aquavit：阿夸维特
 Riesling = 雷司令
 Curaçao = 库拉索
 Karasuma Renya = 乌丸 莲耶
@@ -151,7 +158,3 @@ Voice-Changing Bowtie = 蝴蝶结变声器
 Tracking Glasses = 追踪眼镜
 Detective Badge = 侦探团徽章
 Turbo Engine Skateboard = 涡轮滑板
-
-
-
-
