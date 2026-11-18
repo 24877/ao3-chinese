@@ -1,4 +1,4 @@
-版本号：1.1.0
+版本号：1.1.1
 维护者：你
 更新时间：2026-11-15
 
@@ -40,6 +40,7 @@ Butz Larry = 矢张 政志
 Karuma Gou = 狩魔 豪
 von Karma Manfred = 狩魔 豪
 Von Karma Manfred = 狩魔 豪
+Manfred = 豪
 Garyuu Kirito = 牙琉 雾人
 Gavin Kristoph = 牙琉 雾人
 Ayasato Harumi = 绫里 春美
