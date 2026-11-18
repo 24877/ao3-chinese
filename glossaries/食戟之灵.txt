@@ -1,4 +1,4 @@
-版本号：1.0.10
+版本号：1.0.11
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -64,12 +64,14 @@ Sena Hiromi = 濑奈 广美
 // 不区分大小写，机构与概念
 Totsuki：远月
 Tōtsuki：远月
-Director：学园长
+Director：总帅
 Polar Star Dormitory = 极星寮
+Polar Star Dorm = 极星寮
 Totsuki Ten Masters：远月十杰
 Council of Ten Masters：十杰评议会
 Totsuki Culinary Academy：远月茶寮料理学园
 Tōtsuki Culinary Academy：远月茶寮料理学园
+Food War：食戟
 Shokugeki：食戟
 Elite Ten：十杰
 Elite Ten Council：远月十杰评议会
