@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你
 更新时间：2026-11-16
 
@@ -8,12 +8,10 @@ Eren Yeager = 艾伦·耶格尔
 Mikasa Ackerman = 三笠·阿克曼
 Armin Arlert = 阿尔敏·阿诺德
 Jean Kirstein = 让·基尔休斯坦
-104th Trainees Corps：第104期训练兵 
-Graduates of the 104th：第104期毕业生
-the 104th：第104期 
 Connie Springer = 柯尼·史普林格
 Sasha Blouse = 萨莎·布劳斯
 Marco Bott = 马可·波特
+
 Thomas Wagner = 托马斯·瓦格纳
 Mina Carolina = 米娜·卡罗莱纳
 Samuel Linke-Jackson = 塞缪尔·林克-杰克逊
@@ -24,6 +22,7 @@ Mylius Zeramuski = 米利乌斯·泽尔姆斯基
 Eren Kruger = 艾伦·克鲁格
 Daz = 达兹
 Floch Forster = 弗洛克·福斯特
+
 Levi Ackerman = 利威尔·阿克曼
 Erwin Smith = 埃尔文·史密斯
 Hange Zoe = 韩吉·佐耶
@@ -38,14 +37,18 @@ Petra Ral = 佩特拉·拉鲁
 Erd Jin = 艾鲁多·琴
 Gunter Shulz = 君达·修兹
 Dita Ness = 迪塔·尼斯
+
 Kenny Ackerman = 肯尼·阿克曼
 Hitch Dreyse = 希琪·德利斯
 Marlowe Freudenberg = 马尔洛·弗登堡
+
 Keith Sadies = 基斯·夏迪斯
 Keith Shadis = 基斯·夏迪斯
+Hannes：汉尼斯
 Dot Pixis = 达特·皮克西斯
 Kitz Weilman = 奇兹·威尔曼
 Mitabi Yarunahha = 米塔比·雅尔纳赫
+
 Reiner Braun = 莱纳·布朗
 Bertholdt Hoover = 贝尔托特·胡佛
 Bertolt Hoover = 贝尔托特·胡佛
@@ -63,35 +66,44 @@ Marcel Galliard = 马赛·加里亚德
 Zofia Reitsch = 索菲亚·莱契
 Udo Bock = 乌德·博克
 Tom Xaver = 汤姆·库沙瓦
+
 Rod Reiss = 罗德·雷伊斯
 Frieda Reiss = 弗丽达·雷伊斯
 Historia Reiss = 希斯特莉亚·雷伊斯
 Krista Lenz = 赫里斯塔·兰斯
 Uri Reiss = 乌利·雷斯
+
 Willy Tybur = 威利·戴巴
 Lara Tybur = 拉拉·戴巴
-Hannes：汉尼斯
-Onyankopon：欧良果彭
+Tybur = 戴巴
+Tybur Family：戴巴家族
+
 Ymir = 尤弥尔
-Shingeki no Kyojin：进击的巨人
-Attack on Titan：进击的巨人
-Shingeki no Kyojin | Attack on Titan：进击的巨人
 Ymir Fritz = 尤弥尔·弗里茨
 Grisha Yeager = 格里沙·耶格尔
 Carla Yeager = 卡尔拉·耶格尔
 Dina Fritz = 戴娜·弗里茨
 Kiyomi Azumabito = 清美·阿兹马比特
+Onyankopon：欧良果彭
 Dallis Zacklay = 达里斯·扎卡里
 Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
+
 Paradis Island = 帕拉迪岛
+Paradis = 帕拉迪岛
 Marley = 马莱
 Eldia = 艾尔迪亚
 Survey Corps = 调查兵团
+Garrison：驻屯兵团
+Training Corps：训练兵团
+Warrior Candidate：战士候补生
+Public Security：治安局
+Eldian Restorationists：艾尔迪亚复权派
 Military Police Brigade = 宪兵团
 Warrior Unit = 战士队
 Anti-Personnel Control Squad = 对人压制部队
 Yeagerists = 耶格尔派
+
 Wall Maria = 玛利亚之墙
 Maria Wall = 玛利亚之墙
 Wall Rose = 罗塞之墙
@@ -107,6 +119,12 @@ Orvud District = 奥尔福德区
 Liberio Internment Zone = 雷贝利欧收容区
 Fort Slava = 斯拉巴要塞
 Forest of Giant Trees = 巨木之森
+Liberio：雷贝利欧
+Mid-East Allied Forces = 中东联合
+Underground Chapel：地下礼拜堂
+Declaration of War：宣战公告
+Liberio Festival：雷贝利欧典礼
+
 Founding Titan = 始祖巨人
 Attack Titan = 进击的巨人
 Armored Titan = 铠之巨人
@@ -116,34 +134,28 @@ Beast Titan = 兽之巨人
 Cart Titan = 车力巨人
 Jaw Titan = 颚之巨人
 War Hammer Titan = 战锤巨人
+
 Pure Titan = 无垢巨人
 Abnormal Titan = 奇行种
 Titan Shifter = 智慧巨人
+Intelligent Titan：智慧巨人
 Wall Titan = 城墙巨人
 Coordinate Power = 座标之力
 "Founding Titan‘s Power"：始祖巨人之力
+Vow Renouncing War = 不战之誓
+Paths：道路
+Paths Realm：道路空间
+Rumbling：地鸣
+Spinal Fluid：脊髓液
 Titan Serum = 巨人脊髓液
 Thunder Spear = 雷枪
-Garrison：驻屯兵团
-Training Corps：训练兵团
-Warrior Candidate：战士候补生
-Public Security：治安局
-Eldian Restorationists：艾尔迪亚复权派
-Vertical Maneuvering Equipment = 立体机动装置
-Omni-Directional Mobility Gear = 立体机动装置
-Anti-Personnel Vertical Maneuvering Gear = 对人立体机动装置
-Liberio：雷贝利欧
-Mid-East Allied Forces = 中东联合
-Underground Chapel：地下礼拜堂
-Vow Renouncing War = 不战之誓
+
 Gas Canister：气体罐
 Trigger Grip：扳机式刀柄
 3D Gear: 立体机动装置
 Gas：瓦斯
-Tybur = 戴巴
-Tybur Family：戴巴家族
-Declaration of War：宣战公告
-Liberio Festival：雷贝利欧典礼
+Blade：刀片
+
 Subjects of Ymir = 尤弥尔的子民
 “Potato Girl” = 白薯女
 “Sweet Potato Girl” = 芋头女
@@ -152,13 +164,14 @@ Subjects of Ymir = 尤弥尔的子民
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
+Shingeki no Kyojin：进击的巨人
+Attack on Titan：进击的巨人
+Shingeki no Kyojin | Attack on Titan：进击的巨人
+104th Trainees Corps：第104期训练兵 
+Graduates of the 104th：第104期毕业生
+the 104th：第104期 
 Titan：巨人
-Intelligent Titan：智慧巨人
 Coordinate：座标
-Paths：道路
-Paths Realm：道路空间
-Rumbling：地鸣
-Spinal Fluid：脊髓液
 Hardening：硬化
 Crystal：结晶
 Orientals：东洋人
@@ -175,6 +188,9 @@ Soldier：士兵
 Warrior：战士
 Braun：布朗
 Vertical Maneuvering Gear：立体机动装置
+Vertical Maneuvering Equipment = 立体机动装置
+Omni-Directional Mobility Gear = 立体机动装置
+Anti-Personnel Vertical Maneuvering Gear = 对人立体机动装置
 Gear：装置
 Anchor：固定锚
 Canister：气罐
@@ -188,16 +204,11 @@ Smoke Signal：烟雾信号
 Rations：军粮
 Nape：后颈
 Spinal Cord：脊髓
+Nervous System：神经系统
 Regeneration：再生
 Steam：蒸汽
 Extermination：驱逐
 Reconnaissance：侦察
-Nervous System：神经系统
-Corps：兵团
-Brigade：旅团
-Squad：班
-Unit：部队
-Team：小队
 Expedition：远征
 Breach：突破
 Sealing：封锁
@@ -205,6 +216,11 @@ Suppression：镇压
 Inheritance：继承
 Transfer：转移
 Devour：吞噬
+Corps：兵团
+Brigade：旅团
+Squad：班
+Unit：部队
+Team：小队
 Inherited Memory：继承的记忆
 Propaganda：宣传
 Oppression：压迫
