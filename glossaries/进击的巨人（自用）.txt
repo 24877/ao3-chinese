@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-11-16
 
@@ -70,6 +70,8 @@ Krista Lenz = 赫里斯塔·兰斯
 Uri Reiss = 乌利·雷斯
 Willy Tybur = 威利·戴巴
 Lara Tybur = 拉拉·戴巴
+Hannes：汉尼斯
+Onyankopon：欧良果彭
 Ymir = 尤弥尔
 Shingeki no Kyojin：进击的巨人
 Attack on Titan：进击的巨人
@@ -122,8 +124,26 @@ Coordinate Power = 座标之力
 "Founding Titan‘s Power"：始祖巨人之力
 Titan Serum = 巨人脊髓液
 Thunder Spear = 雷枪
+Garrison：驻屯兵团
+Training Corps：训练兵团
+Warrior Candidate：战士候补生
+Public Security：治安局
+Eldian Restorationists：艾尔迪亚复权派
 Vertical Maneuvering Equipment = 立体机动装置
+Omni-Directional Mobility Gear = 立体机动装置
 Anti-Personnel Vertical Maneuvering Gear = 对人立体机动装置
+Liberio：雷贝利欧
+Mid-East Allied Forces = 中东联合
+Underground Chapel：地下礼拜堂
+Vow Renouncing War = 不战之誓
+Gas Canister：气体罐
+Trigger Grip：扳机式刀柄
+3D Gear: 立体机动装置
+Gas：瓦斯
+Tybur = 戴巴
+Tybur Family：戴巴家族
+Declaration of War：宣战公告
+Liberio Festival：雷贝利欧典礼
 Subjects of Ymir = 尤弥尔的子民
 “Potato Girl” = 白薯女
 “Sweet Potato Girl” = 芋头女
@@ -156,7 +176,7 @@ Warrior：战士
 Braun：布朗
 Vertical Maneuvering Gear：立体机动装置
 Gear：装置
-Anchor：锚钩
+Anchor：固定锚
 Canister：气罐
 Blade Replacement：替换刀片
 Half Blade：半刃刀片
@@ -172,6 +192,12 @@ Regeneration：再生
 Steam：蒸汽
 Extermination：驱逐
 Reconnaissance：侦察
+Nervous System：神经系统
+Corps：兵团
+Brigade：旅团
+Squad：班
+Unit：部队
+Team：小队
 Expedition：远征
 Breach：突破
 Sealing：封锁
