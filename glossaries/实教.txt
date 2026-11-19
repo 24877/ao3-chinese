@@ -1,4 +1,4 @@
-版本号：1.1.3
+版本号：1.1.4
 维护者：你
 更新时间：2026-11-18
 
@@ -41,6 +41,8 @@ Komiya Kyougo = 小宫 叶吾
 Takemoto Shigeru = 竹本 茂
 Onishima：鬼岛
 Naoe：直江
+Suzukake：铃悬
+Beppu：别府 
 
 
 // —— 学生会 / 教职员 ——
@@ -96,6 +98,9 @@ Sakayanagi Arisu = 坂柳 有栖
 Sakayanagi：坂柳
 Kamuro Masumi = 神室 真澄
 Katsuragi Kouhei = 葛城 康平
+Nishikawa Ryoko：西川 亮子
+Nishikawa：西川
+Machida Koji = 町田 浩二
 Himeno Yuki = 姬野 雪
 Asahina Nazuna = 朝比奈 荠
 Nanase Tsubasa = 七濑 翼
