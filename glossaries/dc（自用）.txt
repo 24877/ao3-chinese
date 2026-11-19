@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-10-31
   
@@ -138,13 +138,13 @@ Bumblebee = 大黄蜂
 John Constantine = 约翰·康斯坦丁
 Zatanna Zatara = 扎坦娜·扎塔拉
 Zatanna = 扎坦娜
-Alec Holland = 亚历克 荷兰
+Alec Holland = 亚历克·荷兰
 Swamp Thing = 沼泽怪物
 Deadman = 死人
 Etrigan = 埃特里根
-Jason Blood = 杰森 布拉德
+Jason Blood = 杰森·布拉德
 Doctor Fate = 命运博士
-Kent Nelson = 肯特 尼尔森
+Kent Nelson = 肯特·尼尔森
 Madame Xanadu = 玄幻夫人
 Phantom Stranger = 魅影陌客
 The Spectre = 幽灵
@@ -161,7 +161,7 @@ Destruction = 毁灭
 Sinestro = 塞尼斯托
 Thaal Sinestro = 塔尔·塞尼斯托
 Kilowog = 基洛沃格
-Abin Sur = 阿宾 苏尔
+Abin Sur = 阿宾·苏尔
 Saint Walker = 圣徒 沃克
 Atrocitus = 阿特罗西图斯
 Larfleeze = 拉弗里兹
@@ -186,7 +186,7 @@ Granny Goodness = 慈祥奶奶
 Steppenwolf = 荒原狼
 Big Barda = 大芭达
 Mister Miracle = 奇迹先生
-Scott Free = 斯科特 弗里
+Scott Free = 斯科特·弗里
 Orion = 奥利安
 Kalibak = 卡利巴克
 Grail = 圣杯
@@ -194,7 +194,7 @@ Black Adam = 黑亚当
 Billy Batson = 比利 巴特森
 Shazam = 沙赞
 Mary Bromfield = 玛丽 布罗姆菲尔德
-Freddy Freeman = 弗雷迪 弗里曼
+Freddy Freeman = 弗雷迪·弗里曼
 Captain Marvel = 惊奇队长
 Captain Marvel Jr. = 惊奇队长二世
 Darla Dudley = 达拉 达德利
@@ -207,7 +207,7 @@ Floyd Lawton = 弗洛伊德 劳顿
 Captain Boomerang = 回旋镖队长
 George Harkness = 乔治 哈克尼斯
 Killer Croc = 杀手鳄
-Waylon Jones = 韦伦 琼斯
+Waylon Jones = 韦伦·琼斯
 King Shark = 鲨鱼王
 Nanaue = 纳纳维
 Peacemaker = 和平使者
@@ -244,7 +244,7 @@ Lazlo Valentin = 拉斯洛·瓦伦丁
 Killer Frost = 冰霜杀手
 Caitlin Snow = 凯特琳 斯诺
 Livewire = 电波女
-Leslie Willis = 莱斯利 威利斯
+Leslie Willis = 莱斯利·威利斯
 Vandal Savage = 汪达尔·萨维奇
 Cheshire = 紫衫
 Jade Nguyen = 杰德 阮
