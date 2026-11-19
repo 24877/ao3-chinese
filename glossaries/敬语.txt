@@ -11,5 +11,5 @@
 "-sensei"：老师
 "-onii"：哥哥
 "-onee"：姐姐
-"-dono"：殿下
+"-dono"：殿
 "-senpai"：前辈
