@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你
 更新时间：2026-10-31
   
@@ -16,92 +16,97 @@ Barry Allen = 巴里·艾伦
 The Flash = 闪电侠
 Hal Jordan = 哈尔·乔丹
 Green Lantern = 绿灯侠
-Arthur Curry = 亚瑟 库瑞
+Arthur Curry = 亚瑟·库瑞
 Aquaman = 海王
-Victor Stone = 维克多 斯通
+Victor Stone = 维克多·斯通
 Cyborg = 钢骨
-"J'onn J'onzz" = 荣恩 荣兹
+"J'onn J'onzz" = 荣恩·荣兹
 Martian Manhunter = 火星猎人
-John Stewart = 约翰 斯图尔特
-Kyle Rayner = 凯尔 雷纳
-Guy Gardner = 盖伊 加德纳
-Jessica Cruz = 杰西卡 克鲁兹
-Simon Baz = 西蒙 巴兹
-Alan Scott = 艾伦 斯科特
+John Stewart = 约翰·斯图尔特
+Kyle Rayner = 凯尔·雷纳
+Guy Gardner = 盖伊·加德纳
+Jessica Cruz = 杰西卡·克鲁兹
+Simon Baz = 西蒙·巴兹
+Alan Scott = 艾伦·斯科特
 // 超人家族
-Kara Zor-El = 卡拉 佐-艾尔
-Supergirl = 超级少女
-Kon-El = 康 艾尔
-Conner Kent = 康纳 肯特
+Kara Zor-El = 卡拉·佐-艾尔
+Kara Zor-L = 卡拉·佐-艾尔
+Supergirl = 超女
+Kon-El = 康-艾尔
+Conner Kent = 康纳·肯特
 Superboy = 超级小子
-Jonathan Samuel Kent = 乔纳森 塞缪尔 肯特
-Jonathan Kent = 乔纳森 肯特
-Lois Lane = 露易丝 莱恩
+Jonathan Samuel Kent = 乔纳森·塞缪尔·肯特
+Jonathan Kent = 乔纳森·肯特
+Lois Lane = 露易丝·莱恩
 Jimmy Olsen = 吉米 奥尔森
-Lex Luthor = 莱克斯 卢瑟
-Lena Luthor = 莉娜 卢瑟
-General Zod = 佐德 将军
+Lex Luthor = 莱克斯·卢瑟
+Lena Luthor = 莉娜·卢瑟
+General Zod = 佐德将军
 Faora = 法奥拉
+Jor-El = 乔-艾尔
+
 // 蝙蝠家族
-Dick Grayson = 迪克 格雷森
+Dick Grayson = 迪克·格雷森
 Nightwing = 夜翼
-Jason Todd = 杰森 托德
+Jason Todd = 杰森·托德
 Red Hood = 红头罩
-Tim Drake = 提姆 德雷克
+Tim Drake = 提姆·德雷克
 Red Robin = 红罗宾
-Damian Wayne = 达米安 韦恩
+Damian Wayne = 达米安·韦恩
 Robin = 罗宾
-Stephanie Brown = 斯蒂芬妮 布朗
+Stephanie Brown = 斯蒂芬妮·布朗
 Spoiler = 搅局者
-Barbara Gordon = 芭芭拉 戈登
+Barbara Gordon = 芭芭拉·戈登
 Batgirl = 蝙蝠女
 Oracle = 神谕
-Cassandra Cain = 卡珊德拉 凯恩
+Cassandra Cain = 卡珊德拉·凯恩
 Black Bat = 黑蝙蝠
 Orphan = 遗孤
-Alfred Pennyworth = 阿尔弗雷德 彭尼沃斯
-Lucius Fox = 卢修斯 福克斯
-Selina Kyle = 塞琳娜 凯尔
+Alfred Pennyworth = 阿尔弗雷德·彭尼沃斯
+Lucius Fox = 卢修斯·福克斯
+Selina Kyle = 塞琳娜·凯尔
 Catwoman = 猫女
-Kate Kane = 凯特 凯恩
+Kate Kane = 凯特·凯恩
 Batwoman = 蝙蝠女侠
-Helena Bertinelli = 海伦娜 贝蒂内利
+Helena Bertinelli = 海伦娜贝·蒂内利
 Huntress = 女猎手
-Harvey Dent = 哈维 丹特
+Harvey Dent = 哈维·丹特
 Two-Face = 双面人
-Harleen Quinzel = 哈莉 奎茵
-Harley Quinn = 哈莉 奎茵
-Oswald Cobblepot = 奥斯瓦尔德 科布尔波特
+Harleen Quinzel = 哈莉·奎茵
+Harley Quinn = 哈莉·奎茵
+Oswald Cobblepot = 奥斯瓦尔德·科布尔波特
 Penguin = 企鹅人
-Edward Nygma = 爱德华 尼格玛
+Edward Nygma = 爱德华·尼格玛
 Riddler = 谜语人
-Jonathan Crane = 乔纳森 克莱恩
+Jonathan Crane = 乔纳森·克莱恩
 Scarecrow = 稻草人
-Pamela Isley = 帕梅拉 艾斯利
+Pamela Isley = 帕梅拉·艾斯利
 Poison Ivy = 毒藤女
-Victor Zsasz = 维克多 扎斯
+Victor Zsasz = 维克多·扎斯
 Mr. Freeze = 急冻先生
 Freeze = 急冻先生
 Bane = 贝恩
-"Ra's al Ghul" = 拉尔斯 艾尔 古尔
-Talia al Ghul = 塔利亚 艾尔 古尔
-Slade Wilson = 斯莱德 威尔逊
+"Ra's al Ghul" = 拉尔斯·艾尔·古尔
+Talia al Ghul = 塔利亚·艾尔·古尔
+Slade Wilson = 斯莱德·威尔逊
 Deathstroke = 丧钟
 Court of Owls = 猫头鹰法庭
+
 // 神奇女侠相关
 Hippolyta = 希波吕忒
 Themyscira = 天堂岛
-Steve Trevor = 史蒂夫 特雷弗
+Steve Trevor = 史蒂夫·特雷弗
 Cheetah = 豹女
 Ares = 阿瑞斯
   
 // 闪电家族
-Wally West = 沃利 韦斯特
+Wally West = 沃利·韦斯特
 Kid Flash = 闪电小子
-Bart Allen = 巴特 艾伦
+Bart Allen = 巴特·艾伦
 Impulse = 脉冲
 Jay Garrick = 杰 加里克
 Iris West = 艾丽斯 韦斯特
+
 // 少年泰坦 / 泰坦
 "Koriand'r" = 科里安妲
 Starfire = 星火
@@ -126,9 +131,10 @@ Aqualad = 水少侠
 Kole Weathers = 科尔 韦瑟斯
 Karen Beecher = 凯伦 比彻
 Bumblebee = 大黄蜂
+
 // 魔法系 / 黑暗正义联盟
-John Constantine = 约翰 康斯坦丁
-Zatanna Zatara = 扎坦娜 扎塔拉
+John Constantine = 约翰·康斯坦丁
+Zatanna Zatara = 扎坦娜·扎塔拉
 Zatanna = 扎坦娜
 Alec Holland = 亚历克 荷兰
 Swamp Thing = 沼泽怪物
@@ -151,24 +157,25 @@ Destruction = 毁灭
   
 // 绿灯军团 / 七灯
 Sinestro = 塞尼斯托
-Thaal Sinestro = 塔尔 塞尼斯托
+Thaal Sinestro = 塔尔·塞尼斯托
 Kilowog = 基洛沃格
 Abin Sur = 阿宾 苏尔
 Saint Walker = 圣徒 沃克
 Atrocitus = 阿特罗西图斯
 Larfleeze = 拉弗里兹
-Carol Ferris = 卡罗尔 费里斯
+Carol Ferris = 卡罗尔·费里斯
 Star Sapphire = 星蓝石
 Indigo-1 = 靛蓝一
 Nekron = 内克朗
 White Lantern = 白灯
 Black Lantern = 黑灯
+
 // 反派与反英雄
 The Joker = 小丑
 Joker = 小丑
 Black Manta = 黑蝠鲼
 Ocean Master = 海洋领主
-Orm Marius = 奥姆 马吕斯
+Orm Marius = 奥姆·马吕斯
 Brainiac = 布莱尼亚克
 Darkseid = 达克赛德
 Uxas = 乌克萨斯
@@ -191,7 +198,7 @@ Captain Marvel Jr. = 惊奇队长二世
 Darla Dudley = 达拉 达德利
 Eugene Choi = 尤金 崔
 Pedro Peña = 佩德罗 佩尼亚
-Amanda Waller = 阿曼达 沃勒
+Amanda Waller = 阿曼达·沃勒
 Rick Flag = 瑞克 弗拉格
 Deadshot = 死亡射手
 Floyd Lawton = 弗洛伊德 劳顿
@@ -224,19 +231,19 @@ Hartley Rathaway = 哈特利 拉瑟韦
 Toyman = 玩具人
 Winslow Schott = 温斯洛 肖特
 Jack Nimball = 杰克 尼姆博尔
-Hugo Strange = 雨果 斯特兰奇
+Hugo Strange = 雨果·斯特兰奇
 Mad Hatter = 疯帽匠
 Jervis Tetch = 杰维斯 泰奇
 Clayface = 泥脸
 Matt Hagen = 马特 哈根
 Basil Karlo = 巴兹尔 卡洛
 Professor Pyg = 猪面教授
-Lazlo Valentin = 拉斯洛 瓦伦丁
+Lazlo Valentin = 拉斯洛·瓦伦丁
 Killer Frost = 冰霜杀手
 Caitlin Snow = 凯特琳 斯诺
 Livewire = 电波女
 Leslie Willis = 莱斯利 威利斯
-Vandal Savage = 汪达尔 萨维奇
+Vandal Savage = 汪达尔·萨维奇
 Cheshire = 紫衫
 Jade Nguyen = 杰德 阮
 Riddler = 谜语人
@@ -284,9 +291,9 @@ Barbatos = 巴巴托斯
 Batman Who Laughs = 狂笑之蝠
   
 // 其他英雄
-Oliver Queen = 奥利弗 奎因
+Oliver Queen = 奥利弗·奎因
 Green Arrow = 绿箭侠
-Dinah Lance = 黛娜 兰斯
+Dinah Lance = 黛娜·兰斯
 Black Canary = 黑金丝雀
 Ralph Dibny = 拉尔夫 迪布尼
 Elongated Man = 伸缩人
@@ -334,7 +341,6 @@ Jason Rusch = 贾森 拉什
 Steel = 钢铁
 John Henry Irons = 约翰 亨利 艾恩斯
 Power Girl = 神力女孩
-Kara Zor-L = 卡拉 佐 艾尔
 Miss Martian = 火星少女
 "M'gann M'orzz" = 梅甘 莫兹
 Bumblebee = 大黄蜂
@@ -544,37 +550,6 @@ Retcon:设定改写
 Canon:正史
 AU:平行世界设定
 Fix-it:补天向
-Whump:虐身
-Hurt/comfort:伤痛抚慰
-Slow burn:慢热
-Enemies to lovers:宿敌变恋人
-Friends to lovers:朋友变恋人
-Angst:虐心
-Fluff:甜文
-Smut:肉文
-Pining:暗恋
-Established relationship:稳定恋爱关系
-Getting together:走向恋爱
-First kiss:初吻
-Domestic:日常向
-Found family:捡来的家人
-Caretaking:照顾情节
-Rescue mission:营救任务
-Torture:酷刑
-Aftermath:余波
-Recovery:康复
-Healing:疗愈
-Amnesia:失忆
-Identity porn:身份梗
-Secret relationship:地下恋情
-Fake dating:假交往
-Soulmate:灵魂伴侣
-Soulmate AU:灵魂伴侣设定
-Mpreg:男孕
-Omegaverse:ABO设定
-Hurt:受伤
-Comfort:安慰
-Blood:血
 Gunshot wound:枪伤
 Knife wound:刀伤
 Poison:中毒
