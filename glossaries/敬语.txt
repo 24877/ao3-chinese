@@ -1,15 +1,15 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你
 更新时间：2026-10-29
 
 正则表达式
-(?<=[A-Za-z])-sensei\b：老师
-(?<=[A-Za-z])-Sensei\b：老师
-(?<=[A-Za-z])-senpai\b：前辈
-(?<=[A-Za-z])-sama\b：大人
-(?<=[A-Za-z])-chan\b：酱
-(?<=[A-Za-z])-kun\b：君
-(?<=[A-Za-z])-san\b：桑
-(?<=[A-Za-z])-onii\b：哥哥
-(?<=[A-Za-z])-onee\b：姐姐
-(?<=[A-Za-z])-dono\b：殿
+\b([A-Za-z]+)-kun\b: $1君
+\b([A-Za-z]+)-san\b: $1桑
+\b([A-Za-z]+)-chan\b: $1酱
+\b([A-Za-z]+)-sama\b: $1大人
+\b([A-Za-z]+)-sensei\b: $1老师
+\b([A-Za-z]+)-Sensei\b: $1老师
+\b([A-Za-z]+)-onii\b: $1哥哥
+\b([A-Za-z]+)-onee\b: $1姐姐
+\b([A-Za-z]+)-dono\b: $1殿
+\b([A-Za-z]+)-senpai\b: $1前辈
