@@ -1,15 +1,15 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-10-29
 
-词条
-"-kun"：君
-"-san"：桑
-"-chan": 酱
-"-sama"：大人
-"-Sensei"：老师
-"-sensei"：老师
-"-onii"：哥哥
-"-onee"：姐姐
-"-dono"：殿
-"-senpai"：前辈
+正则表达式
+(?<=[A-Za-z])-sensei\b：老师
+(?<=[A-Za-z])-Sensei\b：老师
+(?<=[A-Za-z])-senpai\b：前辈
+(?<=[A-Za-z])-sama\b：大人
+(?<=[A-Za-z])-chan\b：酱
+(?<=[A-Za-z])-kun\b：君
+(?<=[A-Za-z])-san\b：桑
+(?<=[A-Za-z])-onii\b：哥哥
+(?<=[A-Za-z])-onee\b：姐姐
+(?<=[A-Za-z])-dono\b：殿
