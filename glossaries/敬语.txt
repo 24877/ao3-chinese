@@ -7,6 +7,7 @@
 "-san"：桑
 "-chan": 酱
 "-sama"：大人
+"-Sensei"：老师
 "-sensei"：老师
 "-onii"：哥哥
 "-onee"：姐姐
