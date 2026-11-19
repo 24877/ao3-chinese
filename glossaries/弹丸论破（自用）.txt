@@ -1,4 +1,4 @@
-版本号：1.2.2
+版本号：1.2.3
 维护者：你
 更新时间：2026-11-15
 
@@ -125,7 +125,6 @@ Shirokuma：白熊
 Kurokuma：黑熊
 kuma：熊
   
-
 Murasame Soushun = 村雨 早春
 Murasame Soshun = 村雨 早春
 Matsuda Yasuke = 松田 夜助
@@ -160,6 +159,7 @@ motive video：动机影片
 Mastermind：黑幕
 Jabberwock Island：贾巴沃克岛
 Jabberwock：贾巴沃克
+Jabberwok：贾巴沃克
 Monokuma Rock：黑白熊岩
 New World Program：新世界程序
 Neo World Program：新世界程序
@@ -212,7 +212,6 @@ Martial Artist：格斗家
 Maid：女仆
 Mechanic：机械师
 young master：少爷
-Hope：希望
 chef：厨师
 cook：厨师
 the heir：继承人
@@ -220,7 +219,10 @@ the progeny：继承人
 Talent：才能
 luckster：幸运儿
 Tennis Pro：网球选手
+Moral Compass：风纪委员
 Neurologist：神经学者
+Supreme Leader：总统
+Aikido Master：合气道家
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
