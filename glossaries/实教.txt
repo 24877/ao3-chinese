@@ -1,4 +1,4 @@
-版本号：1.1.1
+版本号：1.1.2
 维护者：你
 更新时间：2026-11-18
 
@@ -14,6 +14,7 @@ Ayanokoji Atsuomi = 绫小路 笃臣
 Horikita Suzune = 堀北 铃音
 Horikita Manabu = 堀北 学
 Kushida Kikyou = 栉田 桔梗
+Kushida Kikyo = 栉田 桔梗
 Karuizawa Kei = 轻井泽 惠
 Sakura Airi = 佐仓 爱里
 Hirata Yosuke = 平田 洋介
@@ -38,6 +39,8 @@ Kitou Hayato = 鬼头 隼
 Sotomura Hideo = 外村 秀雄
 Komiya Kyougo = 小宫 叶吾
 Takemoto Shigeru = 竹本 茂
+Onishima：鬼岛
+Naoe：直江
 
 
 // —— 学生会 / 教职员 ——
@@ -45,6 +48,7 @@ Chabashira Sae = 茶柱 佐枝
 Hoshinomiya Chie = 星之宫 知惠
 Tsukishiro = 月城 常成
 Sakayanagi Narumori = 坂柳 成守
+Tachibana: 橘
 Tachibana Akane: 橘茜
 Nagumo Miyabi = 南云 雅
 Utomiya Riku = 宇都宫 陆
@@ -85,9 +89,11 @@ Onodera Kayano = 小野寺 萱乃
 Shiraishi Asuka = 白石 飞鸟
 Yamamura Miki = 山村 美纪
 Wang Meiyu = 王 美雨
+Ando Sayo = 安藤 纱代
 
 // —— 坂柳班（1-A / 2-A）——
 Sakayanagi Arisu = 坂柳 有栖
+Sakayanagi：坂柳
 Kamuro Masumi = 神室 真澄
 Katsuragi Kouhei = 葛城 康平
 Himeno Yuki = 姬野 雪
@@ -101,7 +107,7 @@ Sanada Kousei = 真田 康生
 Hashimoto Masayoshi = 桥本 正义
 Sagami Kazuma = 坂上 数马
 Amasawa Ichika = 天泽 一夏
-Ibuki Mio：伊吹澪
+Ibuki Mio = 伊吹 澪
 Shiranami Chihiro = 白波 千寻
 
 
