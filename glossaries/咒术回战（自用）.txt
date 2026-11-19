@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-11-16
 
@@ -13,6 +13,7 @@ Inumaki Toge = 狗卷 棘
 Panda：熊猫
 Okkotsu Yuta = 乙骨 忧太
 Okkotsu Yuuta = 乙骨 忧太
+
 Gojo Satoru = 五条 悟
 Geto Suguru = 夏油 杰
 Getou Suguru = 夏油 杰
@@ -21,14 +22,15 @@ Iori Utahime = 庵 歌姬
 Yaga Masamichi = 夜蛾 正道
 Nanami Kento = 七海 建人
 Ijichi Kiyotaka = 伊地知 洁高
+
 Todo Aoi = 东堂 葵
 Toudou Aoi = 东堂 葵
 Kamo Noritoshi = 加茂 宪纪
-Kamo Choso = 加茂 胀相
 Nishimiya Momo = 西宫 桃
 Miwa Kasumi = 三轮 霞
 Muta Kokichi = 与 幸吉
 Zenin Mai = 禅院 真依
+
 Gojo Clan：五条家
 Zenin Clan：禅院家
 Zenin Naobito = 禅院 直毘人
@@ -40,6 +42,7 @@ Zenin Toji = 禅院 甚尔
 Fushiguro Toji = 伏黑 甚尔
 Fushiguro Tsumiki = 伏黑 津美纪
 Kamo Clan：加茂家
+
 Ryomen Sukuna = 两面 宿傩
 Sukuna | Ryoumen Sukuna：两面宿傩
 Kenjaku：羂索
@@ -76,14 +79,16 @@ Angel：天使
 Charles Bernard = 查尔斯·伯纳德
 Reggie Star = 雷吉·斯塔
 Dhruv Lakdawalla = 德鲁夫·拉克达瓦拉
-Uro：乌鹭
+Uro Takato = 乌鹭 亨子
 Ryu Ishigori = 石流 龙
 Kogane：小金虫
+
 Jogo：漏瑚
 Hanami：花御
 Dagon：陀艮
 Mahito：真人
 Choso：胀相
+Kamo Choso = 加茂 胀相
 Eso：坏相
 Kechizu：血涂
 Orimoto Rika = 祈本 里香
@@ -92,9 +97,12 @@ Kurourushi：黑沐死
 Ganesha：伽尼萨
 "Kuchisake-onna"：裂口女
 "Fly Head"：蝇头
+
 Tokyo Metropolitan Curse Technical College：东京都立咒术高等专门学校
 Tokyo Jujutsu High：东京咒术高专
 Kyoto Jujutsu High：京都咒术高专
+University of Tokyo：东京大学
+Todai：东大
 Shibuya：涩谷
 Sendai：仙台
 Sugisawa Third High School：杉泽第三高中
@@ -109,6 +117,7 @@ Ueno：上野
 Shinjuku：新宿
 Jujutsu High：咒术高专
 "Tomb of the Star Corridor"：星走廊之墓
+
 Limitless：无下限咒术
 "Cursed Technique Lapse: Blue"：术式顺转「苍」
 "Cursed Technique Reversal: Red"：术式反转「赫」
@@ -144,6 +153,7 @@ Miracle：奇迹
 "Falling Blossom Emotion"：落花之情
 "Domain Amplification"：领域展延
 "Hollow Wicker Basket"：空虚木篮子
+
 "Unlimited Void"：无量空处
 "Chimera Shadow Garden"：嵌合暗翳庭
 "Malevolent Shrine"：伏魔御厨子
@@ -154,6 +164,7 @@ Miracle：奇迹
 "Time Cell Moon Palace"：时胞月宫殿
 "Deadly Sentencing"：诛伏赐死
 "Idle Death Gamble"：坐杀博徒
+
 "Inverted Spear of Heaven"：天逆鉾
 "Playful Cloud"：游云
 "Black Rope"：黑绳
@@ -173,6 +184,7 @@ Nails：钉子
 "Rubber Hammer"：橡胶锤
 Gavel：法槌
 "Kashimo's Lightning Rod"：鹿紫云的避雷针
+
 Kikufuku：喜久福
 "Sea Urchin"：海胆
 Sushi：寿司
@@ -205,6 +217,7 @@ grade 3 cursed spirit：三级咒灵
 grade 2 cursed spirit：二级咒灵
 grade 1 cursed spirit：一级咒灵
 special grade cursed spirit：特级咒灵
+
 cursed energy：咒力
 cursed technique：术式
 innate domain：生得领域
@@ -215,22 +228,25 @@ cursed tool：咒具
 binding vow：束缚
 heavenly restriction：天与咒缚
 black flash：黑闪
+
 jujutsu headquarters：咒术总监部
 jujutsu high：咒术高专
 shibuya incident：涩谷事变
 culling game：死灭回游
 sister school exchange event：姐妹校交流会
 night parade of a hundred demons：百鬼夜行
+
 cursed womb：咒胎
 finger：手指
 vessel：容器
+curse：诅咒
+soul：灵魂
 star plasma vessel：星浆体
 Hidden Inventory Arc：怀玉篇
 Premature Death Arc：玉折篇
 Gojo Past Arc：五条过去篇
-Tomb of the Star Corridor：星走廊之墓
-curse：诅咒
-soul：灵魂
+
+
 domain expansion：领域展开
 shikigami：式神
 six eyes：六眼
