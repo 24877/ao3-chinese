@@ -1,4 +1,4 @@
-版本号：1.1.0
+版本号：1.1.1
 维护者：你的名字
 更新时间：2026-10-23
 
@@ -8,7 +8,7 @@ Yukihira Souma = 幸平 创真
 Yukihira Soma = 幸平 创真
 Yukihira Sōma = 幸平 创真
 Yukihira Jouichirou = 幸平 城一郎
-Saiba Jouichirou：幸平 城一郎
+Saiba Jouichirou = 才波 城一郎
 Nakiri Senzaemon = 薙切 仙左卫门
 Nakiri Erina = 薙切 绘里奈
 Nakiri Alice = 薙切 爱丽丝
@@ -29,6 +29,7 @@ Marui Zenji = 丸井 善二
 Ibusaki Shun = 伊武崎 峻
 Aoki Daigo = 青木 大吾
 Mito Ikumi = 水户 郁魅
+Nikumi：肉美
 Aldini Takumi = 阿尔迪尼 巧
 Aldini Isami = 阿尔迪尼 勇
 Kurokiba Ryou = 黑木场 凉
@@ -67,6 +68,11 @@ Sena Hiromi = 濑奈 广美
 
 通用词条
 // 不区分大小写，机构与概念
+食戟のソーマ：食戟之灵
+Food Wars! Shokugeki no Soma：食戟之灵
+Shokugeki no Soma：食戟之灵
+"Food Wars!"：食戟之灵
+食戟のソーマ | Food Wars! Shokugeki no Soma：食戟之灵
 Totsuki：远月
 Tōtsuki：远月
 Director：总帅
@@ -74,6 +80,7 @@ Polar Star Dormitory = 极星寮
 Polar Star Dorm = 极星寮
 Totsuki Ten Masters：远月十杰
 Council of Ten Masters：十杰评议会
+Council of Ten ：十杰评议会
 Totsuki Culinary Academy：远月茶寮料理学园
 Tōtsuki Culinary Academy：远月茶寮料理学园
 Food War：食戟
@@ -81,7 +88,9 @@ Shokugeki：食戟
 Elite Ten：十杰
 Elite Ten Council：远月十杰评议会
 Ten Masters：十杰
+Council Seat：十杰席位
 Seventh Seat：第七席
+Tenth Seat：第十席
 "God's Tongue" = 神之舌
 God Tongue = 神之舌
 Regimental Shokugeki = 阵营食戟
