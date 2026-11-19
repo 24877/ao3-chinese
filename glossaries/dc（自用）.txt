@@ -5,16 +5,16 @@
 词条
 // 此区域区分大小写，用于翻译人名、称号、专属名词
 // 正义联盟核心
-Clark Kent = 克拉克 肯特
+Clark Kent = 克拉克·肯特
 Kal-El = 卡尔-艾尔
 Superman = 超人
-Bruce Wayne = 布鲁斯 韦恩
+Bruce Wayne = 布鲁斯·韦恩
 Batman = 蝙蝠侠
-Diana Prince = 戴安娜 普林斯
+Diana Prince = 戴安娜·普林斯
 Wonder Woman = 神奇女侠
-Barry Allen = 巴里 艾伦
+Barry Allen = 巴里·艾伦
 The Flash = 闪电侠
-Hal Jordan = 哈尔 乔丹
+Hal Jordan = 哈尔·乔丹
 Green Lantern = 绿灯侠
 Arthur Curry = 亚瑟 库瑞
 Aquaman = 海王
