@@ -1,4 +1,4 @@
-版本号：1.1.2
+版本号：1.1.3
 维护者：你
 更新时间：2026-11-18
 
@@ -118,6 +118,14 @@ Ayanokoji Kiyotaka = 绫小路 清隆
 Sakayanagi Chairman = 坂柳 理事长
 Advanced Nurturing High School = 高度育成高中
 Tokyo Metropolitan Advanced Nurturing High School = 东京都高度育成高中
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e = 欢迎来到实力至上主义的教室
+Classroom of the Elite = 欢迎来到实力至上主义的教室
+ようこそ実力至上主義の教室へ | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e | Classroom of the Elite (Anime) = 欢迎来到实力至上主义的教室
+ようこそ実力至上主義の教室へ = 欢迎来到实力至上主义的教室
+ようこそ実力至上主義の教室へ - 衣笠彰梧 | Classroom of the Elite - Kinugasa Shougo = 欢迎来到实力至上主义的教室 - 衣笠彰梧
+ようこそ実力至上主義の教室へ - 衣笠彰梧 = 欢迎来到实力至上主义的教室 - 衣笠彰梧
+Classroom of the Elite - Kinugasa Shougo = 欢迎来到实力至上主义的教室 - 衣笠彰梧
+Kinugasa Shougo = 衣笠 彰梧
 Special Exam = 特别考试
 Paper Shuffle = 纸牌洗牌考试
 Island Exam = 无人岛考试
