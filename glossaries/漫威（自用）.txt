@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：你
 更新时间：2026-11-19
 
@@ -463,6 +463,9 @@ Jennifer Walters = 詹妮弗·沃尔特斯
 She-Hulk = 女浩克
 Clarice Ferguson = 克拉丽丝·弗格森
 Polaris = 北极星
+Laura Kinney = 劳拉·金尼
+Talon = 利爪
+Wolverine = 金刚狼
 
 Spider-Man：蜘蛛侠
 Peter Parker = 彼得·帕克
