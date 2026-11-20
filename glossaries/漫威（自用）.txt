@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：你
 更新时间：2026-11-19
 
@@ -156,13 +156,14 @@ Iron Man：钢铁侠
 Steve Rogers = 斯蒂夫·罗杰斯
 Captain America：美国队长
 Thor Odinson = 托尔·奥丁森
-Odinson Loki = 洛基·奥丁森
+Loki Odinson = 洛基·奥丁森
 Hela = 海拉
 Queen of Hel = 冥界女王
 Goddess of Death：死亡女神
 Bruce Banner = 布鲁斯·班纳
 Hulk：浩克
 Natasha Romanoff = 娜塔莎·罗曼诺夫
+Natasha Romanov = 娜塔莎·罗曼诺夫
 Black Widow：黑寡妇
 Clint Barton = 克林特·巴顿
 Hawkeye：鹰眼
@@ -188,7 +189,7 @@ Freyja Frigga = 弗蕾雅·弗丽嘉
 Heimdall：海姆达尔
 Ultron：奥创
 Eir：埃尔
-Peggy Carter = 佩吉·卡特
+Peggy Carter = 佩姬·卡特
 Phil Coulson = 菲尔·科尔逊
 Skye：斯凯
 Quake：震波女
@@ -366,6 +367,36 @@ Spider-Hulk：蜘蛛浩克
 Spider-Lizard：蜘蛛蜥蜴
 Spider-Morphosis：蜘蛛变形
 Venom：毒液
+Master of the Mystic Arts = 至尊法师
+Sorcerer Supreme = 至尊法师
+Agamotto = 阿戈摩托
+Einherjar = 英灵战士
+Valhalla = 英灵殿
+Nine Realms = 九界
+Strange Stephen = 斯特兰奇·史蒂芬
+Ancient One = 古一
+Wong = 王
+Kaecilius = 卡西利亚斯
+Mordo Karl = 莫度·卡尔
+Palmer Christine = 帕尔默·克里斯汀
+West Nicodemus = 韦斯特·尼科迪默斯
+Yao = 姚
+Kaluu = 卡鲁
+Oshtur = 奥姝图
+Hoggoth = 霍格斯
+Dormammu = 多玛姆
+Vishanti = 维山帝
+Cyttorak = 赛托拉克
+Shuma-Gorath = 舒马·哥拉斯
+Eternity = 永恒
+Kamar-Taj = 卡玛泰姬
+Kathmandu = 加德满都
+Himalayas = 喜马拉雅
+New York Sanctum = 纽约圣所
+London Sanctum = 伦敦圣所
+Hong Kong Sanctum = 香港圣所
+Sanctum：圣所
+Sanctum Sanctorum = 至圣所
 
 // ----- 物品 -----
 Suits：战衣
