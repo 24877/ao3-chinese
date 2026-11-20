@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：你
 更新时间：2026-11-16
 
@@ -61,6 +61,7 @@ Bertholdt Hoover = 贝尔托特·胡佛
 Bertholt Hoover = 贝尔托特·胡佛
 Bertolt Hoover = 贝尔托特·胡佛
 Annie Leonhart = 阿尼·利昂纳德
+Annie Leonheart = 阿尼·利昂纳德
 Zeke Yeager = 吉克·耶格尔
 Pieck Finger = 皮克·芬格尔
 Porco Galliard = 波尔克·加里亚德
