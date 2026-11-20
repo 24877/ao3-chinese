@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你
 更新时间：2026-11-19
 
@@ -217,7 +217,7 @@ Aleksei Sytsevich = 阿列克谢·西采维奇
 Sergei Kravinoff = 谢尔盖·克拉维诺夫
 Kraven the Hunter：猎人克莱文
 Michael Morbius = 迈克尔·莫比亚斯
-Felicia Hardy = 菲莉西亚·哈迪
+Felicia Hardy = 菲莉西亚·哈代
 Silver Sablinova = 西尔弗·萨布利诺娃
 Aaron Davis = 艾伦·戴维斯
 Phineas Mason = 菲尼亚斯·梅森
@@ -386,6 +386,67 @@ Spider-Morphosis：蜘蛛变形
 Venom：毒液
 
 通用词条
+Tony Stark = 托尼·斯塔克
+Iron Man：钢铁侠
+Steve Rogers = 史蒂夫·罗杰斯
+Captain America：美国队长
+Thor Odinson = 托尔·奥丁森
+Loki Odinson = 洛基·奥丁森
+Hela = 海拉
+Queen of Hel = 冥界女王
+Goddess of Death：死亡女神
+Bruce Banner = 布鲁斯·班纳
+Hulk：浩克
+Natasha Romanoff = 娜塔莎·罗曼诺夫
+Natasha Romanov = 娜塔莎·罗曼诺夫
+Black Widow：黑寡妇
+Clint Barton = 克林特·巴顿
+Hawkeye：鹰眼
+James Rhodes = 詹姆斯·罗德斯
+War Machine：战争机器
+Vision：幻视
+J.A.R.V.I.S.：贾维斯
+JARVIS：贾维斯
+Wanda Maximoff = 旺达·马克西莫夫
+Scarlet Witch：猩红女巫
+Pietro Maximoff = 皮特罗·马克西莫夫
+Quicksilver：快银
+Sam Wilson = 萨姆·威尔逊
+Falcon：猎鹰
+Scott Lang = 斯科特·朗
+Ant-Man：蚁人
+Maria Hill = 玛丽亚·希尔
+Nick Fury = 尼克·弗瑞
+Pepper Potts = 佩珀·波茨
+Helen Cho = 海伦·赵
+Odin Borson = 奥丁·博尔森 
+Freyja Frigga = 弗蕾雅·弗丽嘉
+Heimdall：海姆达尔
+Ultron：奥创
+Eir：埃尔
+Peggy Carter = 佩姬·卡特
+Phil Coulson = 菲尔·科尔逊
+Skye：斯凯
+Quake：震波女
+Strange Stephen = 斯特兰奇·史蒂芬
+Doctor Strange = 奇异博士
+Ancient One = 古一
+Thanos：灭霸
+
+Spider-Man：蜘蛛侠
+Peter Parker = 彼得·帕克
+Miles Morales = 迈尔斯·莫拉莱斯
+Gwen Stacy = 格温·斯泰西
+Mary Jane Watson = 玛丽·简·沃森
+May Parker = 梅·帕克
+Ben Parker = 本·帕克
+Harry Osborn = 哈利·奥斯本
+Norman Osborn = 诺曼·奥斯本
+Deadpool：死侍
+Wade Winston Wilson = 韦德·温斯顿·威尔逊
+Felicia Hardy = 菲莉西亚·哈代
+Black Cat：黑猫
+
 // ----- 物品 -----
 Kamar-Taj = 卡玛泰姬
 Kathmandu = 加德满都
@@ -427,7 +488,6 @@ Dark Elf Harrow：黑暗精灵飞船
 Aether：以太
 Yggdrasil：世界树
 Bifrost Bridge：彩虹桥
-"Widow's bite"：寡妇之咬
 "Widow's Bite"：寡妇之咬
 Mjølnir：雷神之锤
 Mjolnir：雷神之锤
