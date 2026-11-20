@@ -1,4 +1,4 @@
-版本号：1.0.10
+版本号：1.0.11
 维护者：你
 更新时间：2026-11-16
 
@@ -31,7 +31,6 @@ Erwin Smith = 埃尔文·史密斯
 Hange Zoe = 韩吉·佐耶
 Hange Zoë = 韩吉·佐耶
 Moblit Berner = 莫布里特·巴纳
-Nile Dawk = 奈尔·德克
 Mike Zacharias = 米克·萨卡利亚斯
 Mike Zakarius = 米克·萨卡利亚斯
 Auruo Bossard = 奥路欧·博查特
@@ -43,9 +42,11 @@ Dita Ness = 迪塔·尼斯
 Dirk：迪尔克
 
 // 宪兵团
+Nile Dawk = 奈尔·德克
 Kenny Ackerman = 肯尼·阿克曼
 Marlowe Freudenberg = 马洛·弗登堡
 Hitch Dreyse = 希琪·德利斯
+MP：宪兵团
 
 // 驻屯兵团
 Keith Sadies = 基斯·夏迪斯
@@ -95,7 +96,7 @@ Ymir Fritz = 尤弥尔·弗里茨
 Grisha Yeager = 格里沙·耶格尔
 Carla Yeager = 卡尔拉·耶格尔
 Dina Fritz = 戴娜·弗里茨
-Kiyomi Azumabito = 清美·阿兹马比特
+Azumabito Kiyomi = 东人 清美
 Onyankopon：欧良果彭
 Dallis Zacklay = 达里斯·扎卡里
 Dimo Rebbs Edward = 迪墨·利布斯·爱德华
@@ -161,6 +162,19 @@ Commander Erwin：埃尔文团长
 Hange's squad：韩吉班
 Survey Corps commander：调查兵团团长
 The Church of the Walls：城墙教
+military junta：军事执政团
+junta：执政团
+Mitras：米特拉斯
+Military Police：宪兵团
+Commander Pixis：皮克西斯司令
+Military Police Commander：宪兵团团长
+Lord Wald：沃尔德勋爵
+lord：勋爵
+Wald：沃尔德
+Garrison Regiment：驻屯兵团
+Garrison Commander：驻屯兵团司令
+Training Corps Instructor：训练兵团教官
+Instructor Shadis：夏迪斯教官
 
 // === 国家、组织与部队 ===
 Paradis Island = 帕拉迪岛
@@ -238,7 +252,6 @@ Blade：刀片
 Trigger Grip：扳机式刀柄
 Equipment: 装备
 
-Gas：瓦斯
 Blade：刀片
 Hardening：硬化
 Crystal：结晶
