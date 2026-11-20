@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你
 更新时间：2026-11-16
 
@@ -107,6 +107,12 @@ the Warhammer：战锤巨人
 The Warhammer：战锤巨人
 the Cart：车力巨人
 the Beast：兽之巨人
+the Armoured Titan：铠之巨人
+the Warhammer Titan：战锤巨人
+The Warhammer Titan：战锤巨人
+the Cart Titan：车力巨人
+the Beast Titan：兽之巨人
+
 
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
