@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：你
 更新时间：2026-11-19
 
@@ -47,7 +47,7 @@ Kaine Parker = 凯恩·帕克
 Cindy Moon = 辛迪·穆恩
 Jessica Drew = 杰西卡·德鲁
 Peter Porker = 彼得·波克
-Miguel O'Hara：米格尔·奥哈拉
+"Miguel O'Hara"：米格尔·奥哈拉
 Peni Parker = 佩妮·帕克
 Cassandra Webb = 卡桑德拉·韦伯
 Julia Carpenter = 朱莉娅·卡彭特
@@ -75,7 +75,7 @@ Grizzly：灰熊
 Hippo：河马人
 Human Fly：苍蝇人
 Hypno-Hustler：催眠浪子
-Jack O'Lantern：杰克南瓜灯
+"Jack O'Lantern"：杰克南瓜灯
 Jigsaw：拼图人
 Kangaroo：袋鼠人
 Lady Octopus：八爪夫人
@@ -297,7 +297,7 @@ Jason Wilkes = 杰森·威尔克斯
 Calvin Chadwick = 卡尔文·查德维克
 Whitney Frost = 惠特妮·弗罗斯特
 Violet：维奥莱特
-Cassandra "Cassie" Lang：卡珊德拉（凯茜）·朗
+"Cassandra "Cassie" Lang" = 卡珊德拉（凯茜）·朗
 Maggie Lang = 玛姬·朗
 Jim Paxton = 吉姆·帕克斯顿
 Darren Cross = 达伦·克罗斯
@@ -311,7 +311,7 @@ Bucky Barnes = 巴基·巴恩斯
 Winter Soldier：冬日战士
 Sharon Carter = 莎伦·卡特
 Agent 13：13号探员
-T'Challa：特查拉
+"T'Challa"：特查拉
 Black Panther：黑豹
 Lincoln Campbell = 林肯·坎贝尔
 
@@ -394,13 +394,13 @@ Dark Elf Harrow：黑暗精灵飞船
 Aether：以太
 Yggdrasil：世界树
 Bifrost Bridge：彩虹桥
-Widow's bite：寡妇之咬
-Widow's Bite：寡妇之咬
+"Widow's bite"：寡妇之咬
+"Widow's Bite"：寡妇之咬
 Mjølnir：雷神之锤
 Mjolnir：雷神之锤
 Soul Forge：灵魂熔炉
-Sif's Sword and Shield：希芙的剑与盾
-Captain America's Shield：美国队长之盾
+"Sif's Sword and Shield"：希芙的剑与盾
+"Captain America's Shield"：美国队长之盾
 Scepter：权杖
 Berserker Staff：狂战士之棍
 HYDRA Tanks：九头蛇坦克
@@ -410,10 +410,10 @@ Terrigenesis：泰瑞根水晶
 Containment Module：隔离舱
 Suspension Gel：冻结凝胶
 Zephyr One：和风一号
-Phil Coulson's Prosthetic Hand：菲尔·科尔逊的仿生假手
+"Phil Coulson's Prosthetic Hand"：菲尔·科尔逊的仿生假手
 Lola：萝拉
 Toolbox：工具箱
-Star-Lord's Helmet：星爵的头盔
+"Star-Lord's Helmet"：星爵的头盔
 Dark Aster：暗星号
 Infinity Gauntlet：无限手套
 Particle Accelerator：粒子加速器
@@ -436,7 +436,7 @@ United States Armed Forces：美国武装部队
 World Security Council：世界安全理事会
 Oracle Corporation：甲骨文公司
 Hammer Industries：汉默工业
-Coulson's Team：科尔逊小组
+"Coulson's Team"：科尔逊小组
 Advanced Threat Containment Unit：高级威胁控制小组
 ATCU：高级威胁控制小组
 Strategic Scientific Reserve：战略科学团
@@ -458,9 +458,9 @@ Future Foundation：未来基金会
 Midtown High School：中城高中
 New Avengers：新复仇者
 Parker Industries：派克工业
-Kingpin's Criminal Empire：金并犯罪帝国
+"Kingpin's Criminal Empire"：金并犯罪帝国
 Fisk Industries：菲斯克工业
-Wilson Fisk's Organization：威尔逊·菲斯克组织
+"Wilson Fisk's Organization"：威尔逊·菲斯克组织
 The Maggia：马吉亚
 Tracksuit Mafia：运动服黑手党
 Union Allied：联合联盟
@@ -486,30 +486,30 @@ Russian Mafia：俄罗斯黑手党
 Yashida Clan：矢志田家族
 La Cosa Nostra：科萨·诺斯特拉
 East Coast Non-Maggia Criminal Organizations：东海岸非马吉亚犯罪组织
-Fisk's Political Machine：菲斯克政治机器
-Fisk's Legal Front：菲斯克合法门面
-Fisk's Shadow Cabinet：菲斯克影子内阁
-Fisk's Bribery Network：菲斯克贿赂网络
-Fisk's Money Laundering Ring：菲斯克洗钱集团
-Fisk's Real Estate Holdings：菲斯克房地产控股
-Fisk's Dockworker Union：菲斯克码头工人工会
-Fisk's Trucking Cartel：菲斯克货运卡特尔
-Fisk's Waste Management Front：菲斯克废物管理门面
-Fisk's Construction Consortium：菲斯克建筑联合体
-Fisk's Import-Export Syndicate：菲斯克进出口辛迪加
-Fisk's Pharmaceutical Smuggling Ring：菲斯克药品走私集团
-Fisk's Weapons Trafficking Network：菲斯克军火贩运网络
-Fisk's Human Trafficking Pipeline：菲斯克人口贩卖渠道
-Fisk's Cybercrime Division：菲斯克网络犯罪部门
-Fisk's Counterfeit Goods Operation：菲斯克假冒商品运营
-Fisk's Gambling Empire：菲斯克赌博帝国
-Fisk's Loan Sharking Operation：菲斯克高利贷运营
-Fisk's Protection Racket：菲斯克保护费勒索
-Fisk's Insider Trading Ring：菲斯克内幕交易集团
-Fisk's Judicial Corruption Network：菲斯克司法腐败网络
-Fisk's Police Payoff System：菲斯克警方贿赂系统
-Fisk's Prison Gangs Alliance：菲斯克监狱帮派联盟
-Fisk's International Crime Syndicate：菲斯克国际犯罪辛迪加
+"Fisk's Political Machine"：菲斯克政治机器
+"Fisk's Legal Front"：菲斯克合法门面
+"Fisk's Shadow Cabinet"：菲斯克影子内阁
+"Fisk's Bribery Network"：菲斯克贿赂网络
+"Fisk's Money Laundering Ring"：菲斯克洗钱集团
+"Fisk's Real Estate Holdings"：菲斯克房地产控股
+"Fisk's Dockworker Union"：菲斯克码头工人工会
+"Fisk's Trucking Cartel"：菲斯克货运卡特尔
+"Fisk's Waste Management Front"：菲斯克废物管理门面
+"Fisk's Construction Consortium"：菲斯克建筑联合体
+"Fisk's Import-Export Syndicate"：菲斯克进出口辛迪加
+"Fisk's Pharmaceutical Smuggling Ring"：菲斯克药品走私集团
+"Fisk's Weapons Trafficking Network"：菲斯克军火贩运网络
+"Fisk's Human Trafficking Pipeline"：菲斯克人口贩卖渠道
+"Fisk's Cybercrime Division"：菲斯克网络犯罪部门
+"Fisk's Counterfeit Goods Operation"：菲斯克假冒商品运营
+"Fisk's Gambling Empire"：菲斯克赌博帝国
+"Fisk's Loan Sharking Operation"：菲斯克高利贷运营
+"Fisk's Protection Racket"：菲斯克保护费勒索
+"Fisk's Insider Trading Ring"：菲斯克内幕交易集团
+"Fisk's Judicial Corruption Network"：菲斯克司法腐败网络
+"Fisk's Police Payoff System"：菲斯克警方贿赂系统
+"Fisk's Prison Gangs Alliance"：菲斯克监狱帮派联盟
+"Fisk's International Crime Syndicate"：菲斯克国际犯罪辛迪加
 Howling Commandos：嚎叫突击队
 Ravagers：掠夺者
 Marauders：劫掠者
@@ -545,7 +545,7 @@ Niflheim：尼福尔海姆
 Muspelheim：穆斯贝尔海姆
 Asgard Dungeons：阿斯加德地牢
 Water of Sights：视觉之水
-Odin's Vault：奥丁的藏宝室
+"Odin's Vault"：奥丁的藏宝室
 Tahiti：塔希提
 Death Valley：死亡谷
 The Slingshot：弹弓基地
@@ -558,7 +558,7 @@ Puente Antiguo：古桥
 Avengers Tower：复仇者大厦
 Stark Tower：斯塔克大厦
 Knowhere：虚无知地
-Tony Stark's Mansion：托尼·斯塔克的大宅
+"Tony Stark's Mansion"：托尼·斯塔克的大宅
 Playground：游乐场
 Afterlife：来世
 Roxxon Oil Corporation：罗克森石油公司
@@ -566,7 +566,7 @@ Roxxon Refinery：罗克森精炼厂
 Manhattan：曼哈顿
 New York City：纽约市
 Earth：地球
-Collector's Museum：收藏家的博物馆
+"Collector's Museum"：收藏家的博物馆
 Xandar：山达尔
 Morag：莫拉格
 Kyln：克林
