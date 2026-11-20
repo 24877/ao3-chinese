@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你
 更新时间：2026-10-29
 
@@ -9,6 +9,7 @@ Natsuki Kenichi = 菜月 贤一
 Natsuki Naoko = 菜月 菜穗子
 Roswaal L Mathers = 罗兹瓦尔·L·梅札斯
 Rosewall = 罗兹瓦尔
+Roswall = 罗兹瓦尔
 Al：阿尔
 Otto Suwen = 奥托·苏文
 Petra Leyte = 佩特拉·雷蒂
@@ -25,14 +26,17 @@ Julius Juukulius = 尤里乌斯·尤克历乌斯
 Juli：尤里
 Anastasia Hoshin = 安娜塔西娅·合辛
 Priscilla Barielle = 普莉希拉·跋利耶尔
+Prisca Benedict = 普莉丝卡·本尼迪克特
 Aldebaran = 阿尔德巴兰
 Elsa Granhiert = 艾尔莎·葛兰西尔特
 Meili Portroute = 梅丽·波尔图特
+Meilie Portroute = 梅丽·波尔图特
 Echidna = 艾姬多娜
 Satella = 莎缇拉
 Fortuna = 福尔图娜
-Petelgeuse RomaneeConti = 培提尔其乌斯·罗曼尼康蒂
-Betelgeuse RomaneeConti = 培提尔其乌斯·罗曼尼康蒂
+Petelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
+Betelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
+Geuse = 裘斯
 Lye Batenkaitos = 莱伊·巴登凯托斯
 Regulus Corneas = 雷古勒斯·柯尼亚斯
 Sirius RomanneeConti = 西里乌斯 罗曼尼康蒂
@@ -70,9 +74,47 @@ Camberley：汉巴利
 Garf：加菲
 Ferris：菲利克斯
 Gaston:加斯顿
+Sylphy Elmart = 希尔菲·埃尔玛特
+Syphy Elmart = 希尔菲·埃尔玛特
+Medium O'Connell = 米蒂安·奥康奈尔
+Serena Dracroy = 塞丽娜·德拉克罗伊
+Master-sama：主人大人
+Ryuzu Omega = 琉兹 欧米茄
+Ryuzu Shima = 琉兹 席玛
+Ryuzu Meyer = 琉兹 梅埃尔
+Ryuzu Alma = 琉兹 阿尔玛
+Ryuzu Delma = 琉兹 德尔玛 
+Tanza = 坦萨
+Katya Aurelie = 卡蒂娅·奥蕾莉
+Zarestia = 扎雷斯提亚
+Most Beautiful Reaper = 最美的死神
+Random Attacker = 过路魔
+Four Great Spirits = 四大精灵
+Light Sphere = 光珠
+Lamia Godwin = 拉米亚·戈德温 
+Poison Princess = 毒姬
+Halibel = 哈利贝尔
+Hornette = 霍内特
+Cecilus Segmunt = 塞西鲁斯·赛格蒙德 
+Vincent Vollachia = 文森特·佛拉基亚
+Yang Sword Vollachia = 阳剑·佛拉基亚
+Adelheid Astrea = 阿黛尔海特·阿斯特雷亚 
+Schwartz = 修瓦鲁兹
+
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
+El Shamak = 埃尔·纱幕
+El Goa = 埃尔·唤火
+Blood Bride = 血色新娘
+Sun Princess = 太阳姬
+Divine Dragon = 神龙
+Volcanica = 波尔卡尼卡
+Dragon Lord = 龙王
+Holy Dragon = 圣龙
+Nine Divine Generals = 九神将
+Blue Lightning = 青色雷光
+Star Gazer = 观星者
 Natsuki Subaru = 菜月 昴
 Emilia = 爱蜜莉雅
 Puck = 帕克
@@ -97,9 +139,9 @@ Witch of Pride：傲慢魔女
 Witch of Sloth：怠惰魔女
 Witch of Vanity：虚饰魔女
 Witch of Wrath：愤怒魔女
-"the Witch"：魔女（特指莎缇拉）
-"the first Witch"：最初的魔女（艾姬多娜）
-"the Witch who devoured the world"：吞噬世界的魔女（莎缇拉）
+"the Witch"：魔女
+"the first Witch"：最初的魔女
+"the Witch who devoured the world"：吞噬世界的魔女
 Nee-sama：姐姐大人
 Sanctuary：圣域
 contractor：契约者
@@ -114,8 +156,16 @@ meteor：魔法器
 Great waterfall：大瀑布
 Lugunica：露格尼卡
 Kararagi：卡拉拉基
-Gusteko：古斯提科圣王国
-Vollachia：佛拉基亚帝国
+Gusteko：古斯提克
+Gustecko：古斯提克
+Holy Kingdom of Gusteko = 古斯提克圣王国
+Vollachia = 佛拉基亚
+Vollachia Empire = 佛拉基亚帝国
+Sacred Vollachia Empire = 神圣佛拉基亚帝国
+Crau-Crown = 库劳库隆
+Crau-Crown Grasslands = 库劳库隆草原
+Kraukraun = 库劳库隆
+Kraukraun Grasslands = 库劳库隆草原
 merchant princess：商人公主
 capital：王都
 captain：大将
