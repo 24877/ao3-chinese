@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-11-19
 
@@ -155,7 +155,11 @@ Tony Stark = 托尼·斯塔克
 “Iron Man”：钢铁侠
 Steve Rogers = 斯蒂夫·罗杰斯
 “Captain America”：美国队长
-“Thor”：托尔
+Thor Odinson = 托尔·奥丁森
+Odinson Loki = 洛基·奥丁森
+Hela = 海拉
+Queen of Hel = 冥界女王
+Goddess of Death：死亡女神
 Bruce Banner = 布鲁斯·班纳
 “Hulk”：浩克
 Natasha Romanoff = 娜塔莎·罗曼诺夫
@@ -179,10 +183,9 @@ Maria Hill = 玛丽亚·希尔
 Nick Fury = 尼克·弗瑞
 Pepper Potts = 佩珀·波茨
 Helen Cho = 海伦·赵
-“Odin”：奥丁
-“Frigga”：弗丽嘉
-“Heimdall”：海姆达尔
-“Loki”：洛基
+Odin Borson = 奥丁·博尔森 
+Freyja Frigga = 弗蕾雅·弗丽嘉
+Heimdall：海姆达尔
 “Ultron”：奥创
 “Eir”：埃尔
 Peggy Carter = 佩吉·卡特
@@ -366,7 +369,18 @@ Ben Reilly = 本·莱利
 
 // ----- 物品 -----
 “Suits”：战衣
+Ragnarok = 诸神黄昏
+Red Skull = 红骷髅
+Tesseract = 宇宙魔方
+All-Father = 众神之父
+King of Asgard = 阿斯加德之王
 “Infinity Stones”：无限宝石
+Mind Stone = 心灵宝石
+Space Stone = 空间宝石
+Reality Stone = 现实宝石
+Power Stone = 力量宝石
+Time Stone = 时间宝石
+Soul Stone = 灵魂宝石
 “Tesseract”：宇宙立方
 “Orb”：宇宙灵球
 “Casket of Ancient Winters”：上古严冬宝匣
@@ -378,7 +392,7 @@ Ben Reilly = 本·莱利
 “Dark Elf Flagship”：黑暗精灵旗舰
 “Dark Elf Harrow”：黑暗精灵飞船
 “Aether”：以太
-“Yggdrasil”：世界之树
+“Yggdrasil”：世界树
 “Bifrost Bridge”：彩虹桥
 “Widow's bite”：寡妇之咬
 “Widow's Bite”：寡妇之咬
