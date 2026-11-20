@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你
 更新时间：2026-11-19
 
@@ -434,6 +434,35 @@ Strange Stephen = 斯特兰奇·史蒂芬
 Doctor Strange = 奇异博士
 Ancient One = 古一
 Thanos：灭霸
+Illyana Rasputin = 伊丽亚娜·拉斯普廷
+Illyana Rasputina = 伊丽亚娜·拉斯普廷
+Magik = 秘客
+Emma Frost = 艾玛·弗罗斯特
+Emma Grace Frost = 艾玛·格瑞丝·弗罗斯特
+White Queen = 白皇后
+Carol Danvers = 卡罗尔·丹弗斯
+Carol Susan Jane Danvers = 卡罗尔·苏珊·简妮·丹弗斯
+Captain Marvel = 惊奇队长
+Ms. Marvel = 惊奇女士
+Yelena Belova = 叶莲娜·贝洛娃
+White Widow = 白寡妇
+Ororo Munroe = 奥罗洛·蒙罗
+Storm = 暴风女
+Jean Grey = 琴·葛蕾
+Phoenix = 凤凰女
+Jean Elaine Grey-Summers = 琴·伊莱恩·葛蕾-萨默斯
+Marvel Girl = 惊奇女孩
+Phoenix Force = 凤凰之力
+Dark Phoenix = 黑凤凰
+White Phoenix of the Crown = 白凤凰之王
+Susan Sue Storm = 苏珊·苏·斯通
+Invisible Woman = 隐形女
+Raven Darkholme = 瑞文·达克霍姆
+Mystique = 魔形女
+Jennifer Walters = 詹妮弗·沃尔特斯
+She-Hulk = 女浩克
+Clarice Ferguson = 克拉丽丝·弗格森
+Polaris = 北极星
 
 Spider-Man：蜘蛛侠
 Peter Parker = 彼得·帕克
