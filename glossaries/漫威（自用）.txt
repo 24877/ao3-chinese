@@ -385,6 +385,7 @@ Spider-Lizard：蜘蛛蜥蜴
 Spider-Morphosis：蜘蛛变形
 Venom：毒液
 
+通用词条
 // ----- 物品 -----
 Kamar-Taj = 卡玛泰姬
 Kathmandu = 加德满都
@@ -635,8 +636,6 @@ Battle at the Triskelion：三飞饰之战
 First Dark Elf Conflict：第一次黑暗精灵冲突
 Second Dark Elf Conflict：第二次黑暗精灵冲突
 
-
-通用词条
 // ----- 亲戚关系 -----
 cousin：堂亲
 cousin brother：堂兄
