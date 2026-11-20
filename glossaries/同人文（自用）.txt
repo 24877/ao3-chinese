@@ -1,24 +1,29 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-11-19
 
-词条
+通用词条
 Luigi = 路易吉
 Mario = 马里奥
 Peter Griffin = 彼得·格里芬
 Brian Griffin = 布莱恩·格里芬
-Hatsune Miku = 初音·未来
+Hatsune Miku = 初音未来
+Hatsune = 初音
+Miku = 初音
 PaRappa Rappa = 帕拉帕·拉帕
 Fluttershy = 柔柔
 Ashley = 阿什莉
+Ash = 阿什
 Ayano Aishi = 绫乃·爱石
 Eugene Krabs = 蟹老板
+Eugene = 尤金
+penguin = 企鹅
 King Dedede = 帝帝帝大王
 Kasane Teto = 重音 Teto
 Sans = Sans
+Stuart 2D Pot = 斯图尔特·2D·波特
 Yandere：病娇
 Yandere-chan：病娇酱
+Yan-chan：病酱
 The Conductor：指挥家
-
-通用词条
 dedede：帝帝帝
