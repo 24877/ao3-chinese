@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你
 更新时间：2026-11-16
 
@@ -40,6 +40,7 @@ Petra Ral = 佩特拉·拉鲁
 Erd Jin = 艾鲁多·琴
 Gunter Shulz = 君达·修兹
 Dita Ness = 迪塔·尼斯
+Dirk：迪尔克
 
 // 宪兵团
 Kenny Ackerman = 肯尼·阿克曼
@@ -57,6 +58,7 @@ Mitabi Yarunahha = 米塔比·雅尔纳赫
 // 马莱方角色
 Reiner Braun = 莱纳·布朗
 Bertholdt Hoover = 贝尔托特·胡佛
+Bertholt Hoover = 贝尔托特·胡佛
 Bertolt Hoover = 贝尔托特·胡佛
 Annie Leonhart = 阿尼·利昂纳德
 Zeke Yeager = 吉克·耶格尔
@@ -97,6 +99,31 @@ Onyankopon：欧良果彭
 Dallis Zacklay = 达里斯·扎卡里
 Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
+Darius Zackly = 达里斯·扎卡里
+
+
+the Armoured：铠之巨人
+the Warhammer：战锤巨人
+The Warhammer：战锤巨人
+the Cart：车力巨人
+the Beast：兽之巨人
+
+Hizuru = 希兹尔
+Hizuarian：希兹尔人
+BANG：砰
+CRACK：咔嚓
+BOOOM：轰——
+BOOM：轰——
+CRAAAASH：砰——
+WOOSH：嗖——
+WHOOSH：嗖——
+ZAAP：滋——
+ROAAAAAAR：吼——————
+Thump：咚
+THUNK：咚
+FWOOSH：呼——
+THRWACK：啪
+CRUNCH：咯吱
 
 通用词条
 Shingeki no Kyojin：进击的巨人
@@ -116,6 +143,17 @@ Omni-Directional Mobility Gear = 立体机动装置
 3D Gear: 立体机动装置
 Vertical Maneuvering Gear：立体机动装置
 Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置 
+Supreme Commander：最高统帅
+Cardinal：枢机
+Scouts：调查兵团
+Scout Regiment：调查兵团
+Church：教会
+ODM gear：立体机动装置
+Anti-Personnel ODM gear：对人立体机动装置
+Commander Erwin：埃尔文团长
+Hange's squad：韩吉班
+Survey Corps commander：调查兵团团长
+The Church of the Walls：城墙教
 
 // === 国家、组织与部队 ===
 Paradis Island = 帕拉迪岛
@@ -151,22 +189,29 @@ Fort Slava = 斯拉巴要塞
 Mid-East Allied Forces = 中东联合
 Underground Chapel：地下礼拜堂
 Forest of Giant Trees = 巨木之森
+Shiganshina：希干希纳
+Trost = 托洛斯特
 
 // === 九大巨人 ===
-Founding Titan = 始祖巨人
-Attack Titan = 进击的巨人
-Armored Titan = 铠之巨人
-Colossus Titan = 超大型巨人
-Female Titan = 女巨人
-Beast Titan = 兽之巨人
-Cart Titan = 车力巨人
-Jaw Titan = 颚之巨人
-War Hammer Titan = 战锤巨人
+Founding Titan：始祖巨人
+Attack Titan：进击的巨人
+Armored Titan：铠之巨人
+Colossus Titan：超大型巨人
+Female Titan：女巨人
+Beast Titan：兽之巨人
+Cart Titan：车力巨人
+Jaw Titan：颚之巨人
+War Hammer Titan：战锤巨人
+
+Colossal Titan：超大型巨人
+Armoured Titan：铠之巨人
+Warhammer Titan：战锤巨人
 
 // === 特殊名词与概念 ===
 Pure Titan = 无垢巨人
 Abnormal Titan = 奇行种
-Titan Shifter = 智慧巨人
+Titan Shifter = 巨人变身者
+Titan-shifter：巨人变身者
 Intelligent Titan = 智慧巨人
 Wall Titan = 城墙巨人
 Coordinate Power = 座标之力
@@ -220,7 +265,6 @@ Red Signal：红色信号弹
 Green Signal：绿色信号弹
 Smoke Signal：烟雾信号
 Rations：军粮
-Horse：马匹
 // === 生物与生理 ===
 Nape：后颈
 Spinal Cord：脊髓
