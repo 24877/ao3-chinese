@@ -10,6 +10,7 @@ Kal-El = 卡尔-艾尔
 Superman = 超人
 Bruce Wayne = 布鲁斯·韦恩
 Batman = 蝙蝠侠
+Dark Knight：黑暗骑士
 Diana Prince = 戴安娜·普林斯
 Wonder Woman = 神奇女侠
 Barry Allen = 巴里·艾伦
