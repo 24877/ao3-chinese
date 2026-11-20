@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你
 更新时间：2026-10-29
 
@@ -18,11 +18,8 @@ Frederica Baumann = 弗蕾德里卡·鲍曼
 Fredrica Baumann = 弗蕾德里卡·鲍曼
 Garfiel Tinsel = 加菲尔·汀泽尔
 Felt = 菲鲁特
-Reinhard Van Astrea = 莱因哈鲁特·范·阿斯特雷亚
-Wilhelm Van Astrea = 威尔海姆·范·阿斯特雷亚
 Crusch Karsten = 库珥修·卡尔斯腾
 Felix Argyle = 菲利克斯·阿盖尔
-Julius Juukulius = 尤里乌斯·尤克历乌斯
 Juli：尤里
 Anastasia Hoshin = 安娜塔西娅·合辛
 Priscilla Barielle = 普莉希拉·跋利耶尔
@@ -31,8 +28,6 @@ Aldebaran = 阿尔德巴兰
 Elsa Granhiert = 艾尔莎·葛兰西尔特
 Meili Portroute = 梅丽·波尔图特
 Meilie Portroute = 梅丽·波尔图特
-Echidna = 艾姬多娜
-Satella = 莎缇拉
 Fortuna = 福尔图娜
 Petelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
 Betelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
@@ -41,14 +36,11 @@ Lye Batenkaitos = 莱伊·巴登凯托斯
 Regulus Corneas = 雷古勒斯·柯尼亚斯
 Sirius RomanneeConti = 西里乌斯 罗曼尼康蒂
 Capella Emerada Lugunica = 卡佩拉·埃梅拉达·露格尼卡
-Betty：贝蒂
-Beako：碧翠子
-Great Spirit：大精灵
+Capella Emerada Lugnica = 卡佩拉·埃梅拉达·露格尼卡
 Old Man Rom：罗姆爷
 Rom：罗姆爷
 Richardo Welkin = 里卡多·威尔金
-Richardo = 里卡多
-Ricardo = 里卡多
+Ricardo Welkin = 里卡多·威尔金
 Big Bro：小哥
 Subaru-dono:昴殿下 
 Emilia-tan：爱蜜莉雅碳 
@@ -56,20 +48,11 @@ EMT：爱蜜莉雅碳
 Subaru-kyun：昴卿
 Od Laguna：欧德·拉格纳
 Od：欧德
-Minerva = 密涅瓦
-Typhon = 缇丰
-Daphne = 达芙妮
-Sekhmet = 赛赫麦特
-Carmilla = 卡蜜拉
-Pandora = 潘朵拉
 Hector = 赫克托
 Heinkel = 亨克尔
-Theresia Van Astrea = 特雷西亚·范·阿斯特雷亚
 Jules：尤里乌斯
-Tivey：缇比
 Cruschie：库珥修大人
 Rachins：拉珍斯
-Mimi：蜜蜜
 Camberley：汉巴利
 Garf：加菲
 Ferris：菲利克斯
@@ -100,10 +83,26 @@ Vincent Vollachia = 文森特·佛拉基亚
 Yang Sword Vollachia = 阳剑·佛拉基亚
 Adelheid Astrea = 阿黛尔海特·阿斯特雷亚 
 Schwartz = 修瓦鲁兹
+Tivey Pearlbaton = 缇碧·帕尔巴顿
+Mimi Pearlbaton = 蜜蜜·帕尔巴顿
+Julius Juukulius = 尤里乌斯·尤克历乌斯
+Julius Euclius = 尤里乌斯·尤克历乌斯
+Re:ゼロから始める異世界生活 = Re:从零开始的异世界生活
+Re:Zero Starting Life in Another World (Anime) = Re:从零开始的异世界生活
+Re:Zero = Re:Zero
+Re:ゼロから始める異世界生活 | Re:Zero Starting Life in Another World (Anime) = Re:从零开始的异世界生活
 
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
+Echidna = 艾姬多娜
+Satella = 莎缇拉
+Minerva = 密涅瓦
+Typhon = 缇丰
+Daphne = 达芙妮
+Sekhmet = 赛赫麦特
+Carmilla = 卡蜜拉
+Pandora = 潘朵拉
 El Shamak = 埃尔·纱幕
 El Goa = 埃尔·唤火
 Blood Bride = 血色新娘
@@ -121,6 +120,14 @@ Puck = 帕克
 Rem = 蕾姆
 Ram = 拉姆
 Beatrice = 碧翠丝
+Betty：贝蒂
+Beako：碧翠子
+Beoko = 碧翠子
+Priscilla Barielle = 普莉希拉·跋利耶尔
+Shaula = 夏乌拉
+Reinhard Van Astrea = 莱因哈鲁特·范·阿斯特雷亚
+Wilhelm Van Astrea = 威尔海姆·范·阿斯特雷亚
+Theresia Van Astrea = 特雷西亚·范·阿斯特雷亚
 spirit：精灵
 great spirit：大精灵
 forbidden Library：禁书库
