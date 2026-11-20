@@ -1,4 +1,4 @@
-版本号：1.2.3
+版本号：1.2.4
 维护者：你
 更新时间：2026-11-15
 
@@ -34,7 +34,7 @@ Sato：佐藤
 Monomi：兔美
 Usami：兔美
 Chou Koukou Kyuu no Sagishi = 超高校级的欺诈师
-"Chou Koukou Kyuu no Sagishi | Ultimate Imposter" = 超高校级的欺诈师
+Chou Koukou Kyuu no Sagishi | Ultimate Imposter = 超高校级的欺诈师
 
 // 1代 角色
 Naegi Makoto = 苗木 诚
