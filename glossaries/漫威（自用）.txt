@@ -7,7 +7,7 @@
 Marvel Cinematic Universe：漫威电影宇宙
 Tony Stark = 托尼·斯塔克
 Iron Man：钢铁侠
-Steve Rogers = 斯蒂夫·罗杰斯
+Rogers Steve = 罗杰斯·斯蒂夫
 Captain America：美国队长
 Thor Odinson = 托尔·奥丁森
 Loki Odinson = 洛基·奥丁森
