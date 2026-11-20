@@ -17,6 +17,7 @@ Ash = 阿什
 Ayano Aishi = 绫乃·爱石
 Eugene Krabs = 蟹老板
 Eugene = 尤金
+Krabs = 螃蟹
 penguin = 企鹅
 King Dedede = 帝帝帝大王
 Kasane Teto = 重音 Teto
