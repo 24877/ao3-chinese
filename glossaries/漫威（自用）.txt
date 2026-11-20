@@ -1,9 +1,193 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：你
 更新时间：2026-11-19
 
 词条
-// ----- 人名 -----
+// ----- 漫威电影宇宙补充 -----
+Marvel Cinematic Universe：漫威电影宇宙
+Tony Stark = 托尼·斯塔克
+Iron Man：钢铁侠
+Steve Rogers = 斯蒂夫·罗杰斯
+Captain America：美国队长
+Thor Odinson = 托尔·奥丁森
+Loki Odinson = 洛基·奥丁森
+Hela = 海拉
+Queen of Hel = 冥界女王
+Goddess of Death：死亡女神
+Bruce Banner = 布鲁斯·班纳
+Hulk：浩克
+Natasha Romanoff = 娜塔莎·罗曼诺夫
+Natasha Romanov = 娜塔莎·罗曼诺夫
+Black Widow：黑寡妇
+Clint Barton = 克林特·巴顿
+Hawkeye：鹰眼
+James Rhodes = 詹姆斯·罗德斯
+War Machine：战争机器
+Vision：幻视
+J.A.R.V.I.S.：贾维斯
+JARVIS：贾维斯
+Wanda Maximoff = 旺达·马克西莫夫
+Scarlet Witch：猩红女巫
+Pietro Maximoff = 皮特罗·马克西莫夫
+Quicksilver：快银
+Sam Wilson = 萨姆·威尔逊
+Falcon：猎鹰
+Scott Lang = 斯科特·朗
+Ant-Man：蚁人
+Maria Hill = 玛丽亚·希尔
+Nick Fury = 尼克·弗瑞
+Pepper Potts = 佩珀·波茨
+Helen Cho = 海伦·赵
+Odin Borson = 奥丁·博尔森 
+Freyja Frigga = 弗蕾雅·弗丽嘉
+Heimdall：海姆达尔
+Ultron：奥创
+Eir：埃尔
+Peggy Carter = 佩姬·卡特
+Phil Coulson = 菲尔·科尔逊
+Skye：斯凯
+Quake：震波女
+Strange Stephen = 斯特兰奇·史蒂芬
+Doctor Strange = 奇异博士
+Ancient One = 古一
+Wong = 王
+Kaecilius = 卡西利亚斯
+Mordo Karl = 莫度·卡尔
+Palmer Christine = 帕尔默·克里斯汀
+West Nicodemus = 韦斯特·尼科迪默斯
+Yao = 姚
+Kaluu = 卡鲁
+Oshtur = 奥姝图
+Hoggoth = 霍格斯
+Dormammu = 多玛姆
+Vishanti = 维山帝
+Cyttorak = 赛托拉克
+Shuma-Gorath = 舒马·哥拉斯
+Eternity = 永恒
+Daisy Johnson = 黛西·约翰逊
+Leo Fitz = 里奥·菲茨
+Melinda May = 梅琳达·梅
+Jemma Simmons = 杰玛·西蒙斯
+Grant Ward = 格兰特·沃德
+Mike Peterson = 麦克·彼得森
+Antoine Triplett = 安东万·崔普勒
+Camilla Reyes = 卡梅拉·雷耶斯
+Dr. Franklin Hall：富兰克林·霍尔博士
+Ian Quinn = 伊恩·奎因
+Akela Amador = 阿基拉·阿玛多
+Miles Lydon = 迈尔斯·莱登
+Chan Ho Yin：陈浩然
+Scorch：燎原火
+John Garrett = 约翰·盖瑞特
+The Clairvoyant：千里眼
+Victoria Hand = 维多利亚·汉德
+Eric Koenig = 艾瑞克·凯尼格
+Jane Foster = 简·福斯特
+Bor：波尔
+Malekith：马勒基斯
+Algrim：阿尔戈林
+Lorelei：罗蕾莱
+Whiplash：爆裂鼓手
+Fandral：范达尔
+Volstagg：沃斯塔格
+Hogun：霍根
+Sif：希芙
+Laufey：劳菲
+Hailstrum：海尔斯特朗姆
+Raze：雷兹
+Grundroth：格朗德罗斯
+Destroyer：毁灭者
+Korg：科尔格
+Wolfgang von Strucker = 沃尔夫冈·冯·斯特拉克
+Arnim Zola = 阿尼姆·佐拉
+Peter Quill = 彼得·奎尔
+Gamora：盖莫拉
+Rocket Raccoon：火箭浣熊
+Drax the Destroyer：毁灭者德拉克斯
+Groot：格鲁特
+Ronan the Accuser：指控者罗南
+Korath the Pursuer：追捕者科拉斯
+Yondu Udonta = 勇度·乌铎塔
+Nebula：星云
+Taneleer Tivan = 坦利亚·蒂万
+Collector：收藏家
+Howard the Duck：霍华德鸭
+Howard Stark = 霍华德·斯塔克
+Maria Stark = 玛丽亚·斯塔克
+Happy Hogan：开心霍根
+F.R.I.D.A.Y.：星期五
+FRIDAY：星期五
+Christine Everhart = 克里斯汀·埃弗哈特
+Ho Yinsen：何贤山
+Jasper Sitwell = 贾斯珀·西特维尔
+Maya Hansen = 玛雅·汉森
+Erik Selvig = 艾瑞克·塞尔维格
+Darcy Lewis = 达西·刘易斯
+Ian Boothby = 伊恩·布思比
+Matthew Ellis = 马修·埃利斯
+Obadiah Stane = 俄巴底亚·史丹
+Ivan Vanko = 伊凡·凡科
+Anton Vanko = 安东·凡科
+Justin Hammer = 贾斯汀·汉默
+Eric Savin = 艾瑞科·萨文
+Trevor Slattery = 特雷弗·斯拉特瑞
+List：李斯特
+Ulysses Klaue = 尤利西斯·克劳
+Mandarin：满大人
+Senator Stern：斯特恩议员
+Natalie Rushman = 娜塔莉·罗世曼
+Thaddeus Ross = 撒迪厄斯·罗斯
+Johann Schmidt = 约罕·施密特
+Jiaying：佳颖
+Matthew Murdock = 马特·默多克
+Daredevil：夜魔侠
+Andrew Garner = 安德鲁·加纳
+Werner von Strucker = 沃纳·冯·斯特拉克
+Kebo：克博
+Rosalind Price = 罗莎琳·普莱斯
+Gideon Malick = 吉迪恩·马利克
+Robert Gonzales = 罗伯特·冈萨雷斯
+Raina：蕾娜
+Gordon：戈登
+Koenig：凯尼格
+Kara Palamas = 卡拉·帕拉马斯
+Agent 33：33号特工
+Daniel Whitehall = 丹尼尔·怀特豪尔
+Werner Reinhardt = 维尔纳·莱因哈特
+Sunil Bakshi = 苏尼尔·巴克希
+Giyera：吉耶拉
+Elliot Randolph = 埃利奥特·兰道夫
+Thanos：灭霸
+The Other：异者
+Carina：卡丽娜
+Irani Rael = 伊拉尼·雷尔
+Dottie Underwood = 多蒂·安德伍德
+Angie Martinelli = 安吉·马蒂内利
+Ivchenko：伊夫琴科
+Nikola：尼古拉
+Jason Wilkes = 杰森·威尔克斯
+Calvin Chadwick = 卡尔文·查德维克
+Whitney Frost = 惠特妮·弗罗斯特
+Violet：维奥莱特
+"Cassandra "Cassie" Lang" = 卡珊德拉（凯茜）·朗
+Maggie Lang = 玛姬·朗
+Jim Paxton = 吉姆·帕克斯顿
+Darren Cross = 达伦·克罗斯
+Yellowjacket：黄衫
+Death：死亡
+Entropy：混乱
+Infinity：无限
+Eternity：永恒
+Beth：贝丝
+Bucky Barnes = 巴基·巴恩斯
+Winter Soldier：冬日战士
+Sharon Carter = 莎伦·卡特
+Agent 13：13号探员
+"T'Challa"：特查拉
+Black Panther：黑豹
+Lincoln Campbell = 林肯·坎贝尔
+
+// ----- 蜘蛛侠人名 -----
 Spider-Man：蜘蛛侠
 Peter Parker = 彼得·帕克
 Miles Morales = 迈尔斯·莫拉莱斯
@@ -149,173 +333,6 @@ Copycat：模仿猫
 Blind Al：盲婆艾尔
 Negasonic Teenage Warhead：黑蜘
 
-// ----- 漫威电影宇宙补充 -----
-Marvel Cinematic Universe：漫威电影宇宙
-Tony Stark = 托尼·斯塔克
-Iron Man：钢铁侠
-Steve Rogers = 斯蒂夫·罗杰斯
-Captain America：美国队长
-Thor Odinson = 托尔·奥丁森
-Loki Odinson = 洛基·奥丁森
-Hela = 海拉
-Queen of Hel = 冥界女王
-Goddess of Death：死亡女神
-Bruce Banner = 布鲁斯·班纳
-Hulk：浩克
-Natasha Romanoff = 娜塔莎·罗曼诺夫
-Natasha Romanov = 娜塔莎·罗曼诺夫
-Black Widow：黑寡妇
-Clint Barton = 克林特·巴顿
-Hawkeye：鹰眼
-James Rhodes = 詹姆斯·罗德斯
-War Machine：战争机器
-Vision：幻视
-J.A.R.V.I.S.：贾维斯
-JARVIS：贾维斯
-Wanda Maximoff = 旺达·马克西莫夫
-Scarlet Witch：猩红女巫
-Pietro Maximoff = 皮特罗·马克西莫夫
-Quicksilver：快银
-Sam Wilson = 萨姆·威尔逊
-Falcon：猎鹰
-Scott Lang = 斯科特·朗
-Ant-Man：蚁人
-Maria Hill = 玛丽亚·希尔
-Nick Fury = 尼克·弗瑞
-Pepper Potts = 佩珀·波茨
-Helen Cho = 海伦·赵
-Odin Borson = 奥丁·博尔森 
-Freyja Frigga = 弗蕾雅·弗丽嘉
-Heimdall：海姆达尔
-Ultron：奥创
-Eir：埃尔
-Peggy Carter = 佩姬·卡特
-Phil Coulson = 菲尔·科尔逊
-Skye：斯凯
-Quake：震波女
-Daisy Johnson = 黛西·约翰逊
-Leo Fitz = 里奥·菲茨
-Melinda May = 梅琳达·梅
-Jemma Simmons = 杰玛·西蒙斯
-Grant Ward = 格兰特·沃德
-Mike Peterson = 麦克·彼得森
-Antoine Triplett = 安东万·崔普勒
-Camilla Reyes = 卡梅拉·雷耶斯
-Dr. Franklin Hall：富兰克林·霍尔博士
-Ian Quinn = 伊恩·奎因
-Akela Amador = 阿基拉·阿玛多
-Miles Lydon = 迈尔斯·莱登
-Chan Ho Yin：陈浩然
-Scorch：燎原火
-John Garrett = 约翰·盖瑞特
-The Clairvoyant：千里眼
-Victoria Hand = 维多利亚·汉德
-Eric Koenig = 艾瑞克·凯尼格
-Jane Foster = 简·福斯特
-Bor：波尔
-Malekith：马勒基斯
-Algrim：阿尔戈林
-Lorelei：罗蕾莱
-Whiplash：爆裂鼓手
-Fandral：范达尔
-Volstagg：沃斯塔格
-Hogun：霍根
-Sif：希芙
-Laufey：劳菲
-Hailstrum：海尔斯特朗姆
-Raze：雷兹
-Grundroth：格朗德罗斯
-Destroyer：毁灭者
-Korg：科尔格
-Wolfgang von Strucker = 沃尔夫冈·冯·斯特拉克
-Arnim Zola = 阿尼姆·佐拉
-Peter Quill = 彼得·奎尔
-Gamora：盖莫拉
-Rocket Raccoon：火箭浣熊
-Drax the Destroyer：毁灭者德拉克斯
-Groot：格鲁特
-Ronan the Accuser：指控者罗南
-Korath the Pursuer：追捕者科拉斯
-Yondu Udonta = 勇度·乌铎塔
-Nebula：星云
-Taneleer Tivan = 坦利亚·蒂万
-Collector：收藏家
-Howard the Duck：霍华德鸭
-Howard Stark = 霍华德·斯塔克
-Maria Stark = 玛丽亚·斯塔克
-Happy Hogan：开心霍根
-F.R.I.D.A.Y.：星期五
-FRIDAY：星期五
-Christine Everhart = 克里斯汀·埃弗哈特
-Ho Yinsen：何贤山
-Jasper Sitwell = 贾斯珀·西特维尔
-Maya Hansen = 玛雅·汉森
-Erik Selvig = 艾瑞克·塞尔维格
-Darcy Lewis = 达西·刘易斯
-Ian Boothby = 伊恩·布思比
-Matthew Ellis = 马修·埃利斯
-Obadiah Stane = 俄巴底亚·史丹
-Ivan Vanko = 伊凡·凡科
-Anton Vanko = 安东·凡科
-Justin Hammer = 贾斯汀·汉默
-Eric Savin = 艾瑞科·萨文
-Trevor Slattery = 特雷弗·斯拉特瑞
-List：李斯特
-Ulysses Klaue = 尤利西斯·克劳
-Mandarin：满大人
-Senator Stern：斯特恩议员
-Natalie Rushman = 娜塔莉·罗世曼
-Thaddeus Ross = 撒迪厄斯·罗斯
-Johann Schmidt = 约罕·施密特
-Jiaying：佳颖
-Matthew Murdock = 马特·默多克
-Daredevil：夜魔侠
-Andrew Garner = 安德鲁·加纳
-Werner von Strucker = 沃纳·冯·斯特拉克
-Kebo：克博
-Rosalind Price = 罗莎琳·普莱斯
-Gideon Malick = 吉迪恩·马利克
-Robert Gonzales = 罗伯特·冈萨雷斯
-Raina：蕾娜
-Gordon：戈登
-Koenig：凯尼格
-Kara Palamas = 卡拉·帕拉马斯
-Agent 33：33号特工
-Daniel Whitehall = 丹尼尔·怀特豪尔
-Werner Reinhardt = 维尔纳·莱因哈特
-Sunil Bakshi = 苏尼尔·巴克希
-Giyera：吉耶拉
-Elliot Randolph = 埃利奥特·兰道夫
-Thanos：灭霸
-The Other：异者
-Carina：卡丽娜
-Irani Rael = 伊拉尼·雷尔
-Dottie Underwood = 多蒂·安德伍德
-Angie Martinelli = 安吉·马蒂内利
-Ivchenko：伊夫琴科
-Nikola：尼古拉
-Jason Wilkes = 杰森·威尔克斯
-Calvin Chadwick = 卡尔文·查德维克
-Whitney Frost = 惠特妮·弗罗斯特
-Violet：维奥莱特
-"Cassandra "Cassie" Lang" = 卡珊德拉（凯茜）·朗
-Maggie Lang = 玛姬·朗
-Jim Paxton = 吉姆·帕克斯顿
-Darren Cross = 达伦·克罗斯
-Yellowjacket：黄衫
-Death：死亡
-Entropy：混乱
-Infinity：无限
-Eternity：永恒
-Beth：贝丝
-Bucky Barnes = 巴基·巴恩斯
-Winter Soldier：冬日战士
-Sharon Carter = 莎伦·卡特
-Agent 13：13号探员
-"T'Challa"：特查拉
-Black Panther：黑豹
-Lincoln Campbell = 林肯·坎贝尔
-
 // ----- 人物外号 -----
 Friendly Neighborhood Spider-Man：友好邻居蜘蛛侠
 Spidey：小蜘蛛
@@ -367,28 +384,8 @@ Spider-Hulk：蜘蛛浩克
 Spider-Lizard：蜘蛛蜥蜴
 Spider-Morphosis：蜘蛛变形
 Venom：毒液
-Master of the Mystic Arts = 至尊法师
-Sorcerer Supreme = 至尊法师
-Agamotto = 阿戈摩托
-Einherjar = 英灵战士
-Valhalla = 英灵殿
-Nine Realms = 九界
-Strange Stephen = 斯特兰奇·史蒂芬
-Ancient One = 古一
-Wong = 王
-Kaecilius = 卡西利亚斯
-Mordo Karl = 莫度·卡尔
-Palmer Christine = 帕尔默·克里斯汀
-West Nicodemus = 韦斯特·尼科迪默斯
-Yao = 姚
-Kaluu = 卡鲁
-Oshtur = 奥姝图
-Hoggoth = 霍格斯
-Dormammu = 多玛姆
-Vishanti = 维山帝
-Cyttorak = 赛托拉克
-Shuma-Gorath = 舒马·哥拉斯
-Eternity = 永恒
+
+// ----- 物品 -----
 Kamar-Taj = 卡玛泰姬
 Kathmandu = 加德满都
 Himalayas = 喜马拉雅
@@ -397,8 +394,12 @@ London Sanctum = 伦敦圣所
 Hong Kong Sanctum = 香港圣所
 Sanctum：圣所
 Sanctum Sanctorum = 至圣所
-
-// ----- 物品 -----
+Master of the Mystic Arts = 至尊法师
+Sorcerer Supreme = 至尊法师
+Agamotto = 阿戈摩托
+Einherjar = 英灵战士
+Valhalla = 英灵殿
+Nine Realms = 九界
 Suits：战衣
 Ragnarok = 诸神黄昏
 Red Skull = 红骷髅
