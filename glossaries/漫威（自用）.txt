@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你
 更新时间：2026-11-19
 
@@ -386,6 +386,8 @@ Spider-Morphosis：蜘蛛变形
 Venom：毒液
 
 通用词条
+Marvel：漫威
+Marvel Rivals：漫威争锋
 Tony Stark = 托尼·斯塔克
 Iron Man：钢铁侠
 Steve Rogers = 史蒂夫·罗杰斯
@@ -630,7 +632,7 @@ Nine Realms：九大国度
 Asgard：阿斯加德
 Vanaheim：华纳海姆
 Alfheim：艾尔夫海姆
-Midgard：米德加德
+Midgard：中庭
 Jotenheim：尤腾海姆
 Svartalfheim：斯瓦泰夫海姆
 Nidavellir：尼达维勒
