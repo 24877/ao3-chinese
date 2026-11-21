@@ -1,4 +1,4 @@
-版本号：1.0.13
+版本号：1.0.14
 维护者：你
 更新时间：2026-11-16
 
@@ -113,7 +113,8 @@ Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
 Darius Zackly = 达里斯·扎卡里
 
-
+the Founder：始祖巨人
+the Founding：始祖巨人
 the Armoured：铠之巨人
 the Warhammer：战锤巨人
 The Warhammer：战锤巨人
