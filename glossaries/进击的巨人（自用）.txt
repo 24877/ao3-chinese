@@ -1,4 +1,4 @@
-版本号：1.1.3
+版本号：1.1.4
 维护者：你
 更新时间：2026-11-16
 
@@ -6,8 +6,10 @@
 // === 核心角色 ===
 // 主角团 - 第104期训练兵团
 Eren Yeager = 艾伦·耶格尔 
+Eran Yeagar = 艾伦·耶格尔 
 Mikasa Ackerman = 三笠·阿克曼 
 Armin Arlert = 阿尔敏·阿诺德 
+Armin Artlert = 阿尔敏·阿诺德 
 Jean Kirstein = 让·基尔休斯坦
 Connie Springer = 柯尼·史普林格
 Sasha Blouse = 萨莎·布劳斯 
@@ -203,7 +205,6 @@ Survey Corps commander：调查兵团团长
 The Church of the Walls：城墙教
 military junta：军事执政团
 junta：执政团
-Mitras：米特拉斯
 Military Police：宪兵团
 Commander Pixis：皮克西斯司令
 Military Police Commander：宪兵团团长
@@ -214,7 +215,6 @@ Garrison Regiment：驻屯兵团
 Garrison Commander：驻屯兵团司令
 Training Corps Instructor：训练兵团教官
 Instructor Shadis：夏迪斯教官
-Ehrmich：埃尔米赫
 Warchief：战士长
 Rakugo Village：拉加科村
 Ragako Village：拉加科村
@@ -245,6 +245,9 @@ Wall Rose = 罗塞之墙
 Wall Sina = 希娜之墙
 Rose Wall = 罗塞之墙
 Sina Wall = 希娜之墙
+Maria：玛利亚
+Rose：罗塞
+Sina：希娜
 Shiganshina District = 希甘希纳区
 Trost District = 托洛斯特区
 Stohess District = 斯托贝斯区
@@ -259,6 +262,8 @@ Underground Chapel：地下礼拜堂
 Forest of Giant Trees = 巨木之森
 Shiganshina：希干希纳
 Trost = 托洛斯特
+Mitras：米特拉斯
+Ehrmich：埃尔米赫
 
 // === 九大巨人 ===
 Founding Titan：始祖巨人
