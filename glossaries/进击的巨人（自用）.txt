@@ -106,7 +106,7 @@ Lara Tybur = 拉拉·戴巴
 Ymir：尤弥尔
 Ymir Fritz = 尤弥尔·弗里茨
 Grisha Yeager = 格里沙·耶格尔
-Carla Yeager = 卡尔拉·耶格尔
+Carla Yeager = 卡尔菈·耶格尔
 Dina Fritz = 戴娜·弗里茨
 Azumabito Kiyomi = 东人 清美
 Onyankopon：欧良果彭
@@ -142,6 +142,9 @@ The Armoured：铠之巨人
 The Colossus：超大型巨人
 The Colossal：超大型巨人
 
+Maria：玛利亚
+Rose：罗塞
+Sina：希娜
 the Wall：城墙
 Walls：城墙
 Hizuru = 希兹尔
@@ -162,6 +165,7 @@ FWOOSH：呼——
 THRWACK：啪
 CRUNCH：咯吱
 POP：啵
+Pop：啪
 HISSSS：嘶
 PANG：砰
 SHINK：锵
@@ -207,8 +211,6 @@ junta：执政团
 Military Police：宪兵团
 Commander Pixis：皮克西斯司令
 Military Police Commander：宪兵团团长
-Lord Wald：沃尔德勋爵
-lord：勋爵
 Wald：沃尔德
 Garrison Regiment：驻屯兵团
 Garrison Commander：驻屯兵团司令
@@ -217,8 +219,12 @@ Instructor Shadis：夏迪斯教官
 Warchief：战士长
 Premier Zackly：扎卡里总统
 Ymir：尤弥尔
-Ripper：开膛手
 inner walls：内墙
+Captain Levi：利威尔兵长
+Captain Ackerman：阿克曼兵长
+Levi Squad：利威尔班
+Levi's squad：利威尔班
+Kenny's Squad：肯尼小队
 
 // === 国家、组织与部队 ===
 Paradis Island = 帕拉迪岛
@@ -242,16 +248,14 @@ Wall Rose = 罗塞之墙
 Wall Sina = 希娜之墙
 Rose Wall = 罗塞之墙
 Sina Wall = 希娜之墙
-Maria：玛利亚
-Rose：罗塞
-Sina：希娜
 Shiganshina District = 希干希纳区
 Trost District = 托洛斯特区
-Stohess District = 斯托贝斯 区
+Stohess District = 斯托贝斯区
+Orvud District = 奥尔福德区
+District：区
 Utgard Castle = 乌特迦德城堡
 Rakugo Village：拉加科村
 Ragako Village：拉加科村
-Orvud District = 奥尔福德区
 Liberio：雷贝利欧
 Liberio Internment Zone = 雷贝利欧收容区
 Liberio Festival：雷贝利欧典礼
