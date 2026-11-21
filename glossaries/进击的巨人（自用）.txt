@@ -15,19 +15,6 @@ Connie Springer = 柯尼·史普林格
 Sasha Blouse = 萨莎·布劳斯 
 Marco Bott = 马可·波特
 
-// 其他提及的成员
-Thomas Wagner = 托马斯·瓦格纳
-Mina Carolina = 米娜·卡罗莱纳
-Samuel Linke-Jackson = 塞缪尔·林克-杰克逊
-Hannah Diamant = 汉娜·迪亚曼特
-Franz Kefka = 弗朗茨·凯夫卡
-Nack Tierce = 纳克·提亚斯
-Mylius Zeramuski = 米利乌斯·泽尔姆斯基
-Daz = 达兹
-Floch Forster = 弗洛克·福斯特
-Eren Kruger = 艾伦·克鲁格
-Harvey Arlert = 哈维·阿诺德
-
 // 调查兵团
 Levi Ackerman = 利威尔·阿克曼 
 Erwin Smith = 埃尔文·史密斯 
@@ -116,6 +103,19 @@ Tybur Family：戴巴家族
 Willy Tybur = 威利·戴巴
 Lara Tybur = 拉拉·戴巴
 Tybur：戴巴
+
+// 其他提及的成员
+Thomas Wagner = 托马斯·瓦格纳
+Mina Carolina = 米娜·卡罗莱纳
+Samuel Linke-Jackson = 塞缪尔·林克-杰克逊
+Hannah Diamant = 汉娜·迪亚曼特
+Franz Kefka = 弗朗茨·凯夫卡
+Nack Tierce = 纳克·提亚斯
+Mylius Zeramuski = 米利乌斯·泽尔姆斯基
+Daz = 达兹
+Floch Forster = 弗洛克·福斯特
+Eren Kruger = 艾伦·克鲁格
+Harvey Arlert = 哈维·阿诺德
 
 // 其他关键角色
 Ymir：尤弥尔
