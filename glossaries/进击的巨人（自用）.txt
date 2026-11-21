@@ -1,4 +1,4 @@
-版本号：1.1.9
+版本号：1.1.10
 维护者：你
 更新时间：2026-11-16
 
@@ -178,10 +178,11 @@ Attack on Titan：进击的巨人
 Shingeki no Kyojin | Attack on Titan：进击的巨人
 104th Trainees Corps：第104期训练兵 
 Graduates of the 104th：第104期毕业生
+the 104th Cadet Corps：第104期训练兵团
 the 104th：第104期 
 104th：第104期 
-Potato Girl = 白薯女 
-Sweet Potato Girl = 芋头女
+Potato Girl：白薯女 
+Sweet Potato Girl：芋头女
 Declaration of War：宣战公告
 Coordinate：座标
 Titan：巨人
@@ -234,6 +235,7 @@ Survey Corps：调查兵团
 Garrison：驻屯兵团
 Military Police Brigade：宪兵团
 Training Corps：训练兵团
+Cadet Corps：训练兵团
 Warrior Unit = 战士队
 Warrior Candidate：战士候补生
 Public Security：治安局
@@ -307,9 +309,9 @@ the Colossus Titan：超大型巨人
 the Colossal Titan：超大型巨人
 
 // === 特殊名词与概念 ===
-Pure Titan = 无垢巨人
-Abnormal Titan = 奇行种
-Titan Shifter = 巨人变身者
+Pure Titan：无垢巨人
+Abnormal Titan：奇行种
+Titan Shifter：巨人变身者
 Titan-shifter：巨人变身者
 Intelligent Titan：智慧巨人
 Intelligent Titans：智慧巨人
@@ -320,7 +322,7 @@ Paths Realm = 道路空间
 Vow Renouncing War = 不战之誓
 Vow of Renouncing War：不战之誓
 Rumbling = 地鸣
-Titan Serum = 巨人脊髓液
+Titan Serum：巨人脊髓液
 Spinal Fluid：脊髓液
 Thunder Spear：雷枪
 
@@ -334,7 +336,7 @@ Equipment: 装备
 Hardening：硬化
 Crystal：结晶
 Orientals：东洋人
-Subjects of Ymir = 尤弥尔的子民
+Subjects of Ymir：尤弥尔的子民
 Eldian：艾尔迪亚人
 Marleyan：马莱人
 Devil of All Earth = 大地恶魔
@@ -347,7 +349,7 @@ Commander：团长
 Section Commander：分队长
 Squad Leader：班长
 Cadet：训练兵
-Recruit：新兵
+Recruit：学员
 Soldier：士兵
 Warrior：战士
 // === 武器装备与物资 ===
