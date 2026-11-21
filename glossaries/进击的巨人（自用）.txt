@@ -1,4 +1,4 @@
-版本号：1.1.5
+版本号：1.1.6
 维护者：你
 更新时间：2026-11-16
 
@@ -49,7 +49,6 @@ Nanaba：纳拿巴
 Gelgar：格鲁噶
 Lynne：琳恩
 Henning：贺宁格
-
 
 // 宪兵团
 Nile Dawk = 奈尔·德克
@@ -117,33 +116,6 @@ Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
 Darius Zackly = 达里斯·扎卡里
 
-the Founder：始祖巨人
-the Founding：始祖巨人
-the Armored：铠之巨人
-the Armoured：铠之巨人
-the Warhammer：战锤巨人
-The Warhammer：战锤巨人
-the Jaw：颚之巨人
-the Cart：车力巨人
-the Beast：兽之巨人
-the Colossus：超大型巨人
-the Colossal：超大型巨人
-the Founding Titan：始祖巨人
-the Armored Titan：铠之巨人
-the Armoured Titan：铠之巨人
-the Warhammer Titan：战锤巨人
-The Warhammer Titan：战锤巨人
-the Jaw Titan：颚之巨人
-the Cart Titan：车力巨人
-the Beast Titan：兽之巨人
-the Colossus Titan：超大型巨人
-the Colossal Titan：超大型巨人
-
-The Armored：铠之巨人
-The Armoured：铠之巨人
-The Colossus：超大型巨人
-The Colossal：超大型巨人
-
 Maria：玛利亚
 Rose：罗塞
 Sina：希娜
@@ -177,7 +149,6 @@ THUD：咚
 HISSSSSS：嘶嘶嘶嘶
 Gah：呃
 Click：咔哒
-
 
 通用词条
 // 不区分大小写
@@ -286,6 +257,26 @@ Colossal Titan：超大型巨人
 Armoured Titan：铠之巨人
 Warhammer Titan：战锤巨人
 
+the Founder：始祖巨人
+the Founding：始祖巨人
+the Armored：铠之巨人
+the Armoured：铠之巨人
+the Warhammer：战锤巨人
+the Jaw：颚之巨人
+the Cart：车力巨人
+the Beast：兽之巨人
+the Colossus：超大型巨人
+the Colossal：超大型巨人
+the Founding Titan：始祖巨人
+the Armored Titan：铠之巨人
+the Armoured Titan：铠之巨人
+the Warhammer Titan：战锤巨人
+the Jaw Titan：颚之巨人
+the Cart Titan：车力巨人
+the Beast Titan：兽之巨人
+the Colossus Titan：超大型巨人
+the Colossal Titan：超大型巨人
+
 // === 特殊名词与概念 ===
 Pure Titan = 无垢巨人
 Abnormal Titan = 奇行种
@@ -304,7 +295,6 @@ Spinal Fluid：脊髓液
 Thunder Spear：雷枪
 
 // 主要部件与装备 
-Anchor：固定锚
 Gas Canister：气体罐 
 Gas Canisters：气体罐 
 Blade：刀片
