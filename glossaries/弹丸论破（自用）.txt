@@ -1,4 +1,4 @@
-版本号：1.2.4
+版本号：1.2.5
 维护者：你
 更新时间：2026-11-15
 
@@ -15,6 +15,7 @@ Kamukura Izuru = 神座 出流
 Kamakura Izuru = 神座 出流
 Komaeda Nagito = 狛枝 凪斗
 Nanami Chiaki = 七海 千秋
+Nanami Chaiki = 七海 千秋
 Kuzuryu Fuyuhiko = 九头龙 冬彦
 Kuzuryuu Fuyuhiko = 九头龙 冬彦
 Pekoyama Peko = 边古山 佩子
@@ -130,7 +131,8 @@ Murasame Soshun = 村雨 早春
 Matsuda Yasuke = 松田 夜助
 Kamishiro Yuto = 神代 优兔
 Kamishiro Yuuto = 神代 优兔
-Shikiba Santa = 色叶 田田田
+Shikiba Santa：色叶田田田
+Shikiba：色叶
 Togami Shinobu = 十神 忍
 Otonashi Ryoko = 音无 凉子
 Otonashi Ryouko = 音无 凉子
@@ -302,12 +304,13 @@ Ultimate Secretary：超高校级的书记
 Ultimate Analyst：超高校级的分析师
 Ultimate Bodyguard：超高校级的保镖
 
+Dangan Ronpa：弹丸论破
 "Dangan Ronpa: Trigger Happy Havoc" = 弹丸论破 希望的学园与绝望的高中生
 Super Dangan Ronpa 2 = 超级弹丸论破2
 "New Dangan Ronpa V3: Everyone's New Semester of Killing" = 新弹丸论破V3 大家的自相残杀新学期
 "Dangan Ronpa Another Episode: Ultra Despair Girls" = 弹丸论破外传 绝对绝望少女
-Dangan Ronpa Series = 弹丸论破系列
-Super Dangan Ronpa 2.5 = 超级弹丸论破2.5
+Dangan Ronpa Series：弹丸论破系列
+Super Dangan Ronpa 2.5：超级弹丸论破2.5
 Future Arc：未来篇
 Despair Arc：绝望篇
 Hope Arc：希望篇
