@@ -146,6 +146,7 @@ the Wall：城墙
 Walls：城墙
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
+Kay：好
 BANG：砰
 CRACK：咔嚓
 BOOOM：轰——
