@@ -68,9 +68,11 @@ Mitabi Yarunahha = 米塔比·雅尔纳赫
 
 // 马莱方角色
 Reiner Braun = 莱纳·布朗
+Reiner Bruan = 莱纳·布朗
 Bertholdt Hoover = 贝尔托特·胡佛
 Bertholt Hoover = 贝尔托特·胡佛
 Bertolt Hoover = 贝尔托特·胡佛
+Berthold Hoover = 贝尔托特·胡佛
 Annie Leonhart = 阿尼·利昂纳德
 Annie Leonheart = 阿尼·利昂纳德
 Zeke Yeager = 吉克·耶格尔
@@ -328,7 +330,6 @@ Cadet：训练兵
 Recruit：新兵
 Soldier：士兵
 Warrior：战士
-Braun：布朗
 // === 武器装备与物资 ===
 Gear：装置
 Anchor：锚钩
