@@ -1,4 +1,4 @@
-版本号：1.0.12
+版本号：1.0.13
 维护者：你
 更新时间：2026-11-16
 
@@ -154,6 +154,7 @@ Gah：呃
 
 
 通用词条
+// 不区分大小写
 Shingeki no Kyojin：进击的巨人
 Attack on Titan：进击的巨人
 Shingeki no Kyojin | Attack on Titan：进击的巨人
@@ -260,6 +261,7 @@ Abnormal Titan = 奇行种
 Titan Shifter = 巨人变身者
 Titan-shifter：巨人变身者
 Intelligent Titan：智慧巨人
+Intelligent Titans：智慧巨人
 Coordinate Power = 座标之力
 Paths = 道路
 Paths Realm = 道路空间
