@@ -223,6 +223,7 @@ Squad Levi：利威尔班
 Levi's squad：利威尔班
 Kenny's Squad：肯尼小队
 Commander Magath：马加特队长
+Reiss Chapel：雷斯教堂
 
 // === 国家、组织与部队 ===
 Paradis Island：帕拉迪岛
