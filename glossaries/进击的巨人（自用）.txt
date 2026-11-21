@@ -1,4 +1,4 @@
-版本号：1.1.4
+版本号：1.1.5
 维护者：你
 更新时间：2026-11-16
 
@@ -248,9 +248,9 @@ Sina Wall = 希娜之墙
 Maria：玛利亚
 Rose：罗塞
 Sina：希娜
-Shiganshina District = 希甘希纳区
+Shiganshina District = 希干希纳区
 Trost District = 托洛斯特区
-Stohess District = 斯托贝斯区
+Stohess District = 斯托贝斯 区
 Utgard Castle = 乌特迦德城堡
 Ragako Village = 拉加哥村
 Orvud District = 奥尔福德区
