@@ -26,6 +26,7 @@ Mylius Zeramuski = 米利乌斯·泽尔姆斯基
 Daz = 达兹
 Floch Forster = 弗洛克·福斯特
 Eren Kruger = 艾伦·克鲁格
+Harvey Arlert = 哈维·阿诺德
 
 // 调查兵团
 Levi Ackerman = 利威尔·阿克曼 
@@ -36,10 +37,13 @@ Moblit Berner = 莫布里特·巴纳
 Mike Zacharias = 米克·萨卡利亚斯
 Mike Zakarius = 米克·萨卡利亚斯
 Auruo Bossard = 奥路欧·博查特
+Oluo：奥路欧
 Petra Rall = 佩特拉·拉鲁
 Petra Ral = 佩特拉·拉鲁
 Erd Jin = 艾鲁多·琴
+Eld Jin = 艾鲁多·琴
 Gunter Shulz = 君达·修兹
+Gunther Shulz = 君达·修兹
 Dita Ness = 迪塔·尼斯
 Dirk：迪尔克
 Isabel Magnolia = 伊莎贝尔·马格诺利亚
@@ -55,6 +59,7 @@ Nile Dawk = 奈尔·德克
 Kenny Ackerman = 肯尼·阿克曼
 Marlowe Freudenberg = 马洛·弗登堡
 Hitch Dreyse = 希琪·德利斯
+Woermann：沃尔曼
 MP：宪兵团
 
 // 驻屯兵团
@@ -127,6 +132,7 @@ Hizuru = 希兹尔
 Hizuarian：希兹尔人
 Kay：好
 BANG：砰
+HMPHN：哼
 CRACK：咔嚓
 BOOOM：轰——
 BOOM：轰——
@@ -218,10 +224,10 @@ Yeagerists = 耶格尔派
 Eldian Restorationists：艾尔迪亚复权派
 
 // === 地理与设施 ===
-Shiganshina District = 希干希纳区
-Trost District = 托洛斯特区
-Stohess District = 斯托贝斯区
-Orvud District = 奥尔福德区
+Shiganshina District：希干希纳区
+Trost District：托洛斯特区
+Stohess District：斯托贝斯区
+Orvud District：奥尔福德区
 District：区
 Utgard Castle = 乌特迦德城堡
 Rakugo Village：拉加科村
@@ -238,6 +244,8 @@ Shiganshina：希干希纳
 Trost = 托洛斯特
 Mitras：米特拉斯
 Ehrmich：埃尔米赫
+Karanes：卡兰内斯
+Orvud：奥尔福德
 
 // === 九大巨人 ===
 Founding Titan：始祖巨人
