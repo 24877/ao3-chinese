@@ -63,6 +63,7 @@ Hitch Dreyse = 希琪·德利斯
 Djel Sannes = 杰尔·萨内斯
 Ralph：拉尔夫
 MP：宪兵团
+MPs：宪兵
 
 // 驻屯兵团
 Keith Sadies = 基斯·夏迪斯
@@ -124,6 +125,8 @@ Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
 Darius Zackly = 达里斯·扎卡里
 Wald：沃尔德
+Karl Fritz = 卡尔·弗里茨
+Inocencio：伊诺森西奥
 
 Wall Maria = 玛利亚之墙
 Wall Rose = 罗塞之墙
@@ -134,6 +137,7 @@ the Wall：城墙
 Walls：城墙
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
+
 Kay：好
 BANG：砰
 HMPHN：哼
@@ -176,17 +180,17 @@ Sweet Potato Girl = 芋头女
 Declaration of War：宣战公告
 Coordinate：座标
 Titan：巨人
+ODM gear：立体机动装置
 Vertical Maneuvering Equipment = 立体机动装置
 Omni-Directional Mobility Gear = 立体机动装置
 3D Gear: 立体机动装置
 Vertical Maneuvering Gear：立体机动装置
+Anti-Personnel ODM gear：对人立体机动装置
 Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置 
 Supreme Commander：最高统帅
 Scouts：调查兵团
 Scout Regiment：调查兵团
 Church：教会
-ODM gear：立体机动装置
-Anti-Personnel ODM gear：对人立体机动装置
 Commander Erwin：埃尔文团长
 Hange's squad：韩吉班
 Survey Corps commander：调查兵团团长
@@ -304,6 +308,7 @@ Paths = 道路
 Paths Realm = 道路空间
 "Founding Titan‘s Power" = 始祖巨人之力
 Vow Renouncing War = 不战之誓
+Vow of Renouncing War：不战之誓
 Rumbling = 地鸣
 Titan Serum = 巨人脊髓液
 Spinal Fluid：脊髓液
