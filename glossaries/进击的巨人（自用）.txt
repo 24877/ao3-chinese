@@ -300,6 +300,7 @@ Thunder Spear：雷枪
 // 主要部件与装备 
 Anchor：固定锚
 Gas Canister：气体罐 
+Gas Canisters：气体罐 
 Blade：刀片
 Trigger Grip：扳机式刀柄
 Equipment: 装备
