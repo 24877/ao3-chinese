@@ -120,6 +120,7 @@ the Warhammer：战锤巨人
 The Warhammer：战锤巨人
 the Cart：车力巨人
 the Beast：兽之巨人
+the Founding Titan：始祖巨人
 the Armoured Titan：铠之巨人
 the Warhammer Titan：战锤巨人
 The Warhammer Titan：战锤巨人
