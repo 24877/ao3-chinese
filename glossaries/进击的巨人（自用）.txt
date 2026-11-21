@@ -217,8 +217,6 @@ Garrison Commander：驻屯兵团司令
 Training Corps Instructor：训练兵团教官
 Instructor Shadis：夏迪斯教官
 Warchief：战士长
-Rakugo Village：拉加科村
-Ragako Village：拉加科村
 Premier Zackly：扎卡里总统
 Ymir：尤弥尔
 Ripper：开膛手
@@ -253,7 +251,8 @@ Shiganshina District = 希干希纳区
 Trost District = 托洛斯特区
 Stohess District = 斯托贝斯 区
 Utgard Castle = 乌特迦德城堡
-Ragako Village = 拉加哥村
+Rakugo Village：拉加科村
+Ragako Village：拉加科村
 Orvud District = 奥尔福德区
 Liberio：雷贝利欧
 Liberio Internment Zone = 雷贝利欧收容区
