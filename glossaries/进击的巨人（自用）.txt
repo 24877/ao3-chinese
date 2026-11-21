@@ -1,4 +1,4 @@
-版本号：1.1.1
+版本号：1.1.2
 维护者：你
 更新时间：2026-11-16
 
@@ -119,17 +119,23 @@ the Armored：铠之巨人
 the Armoured：铠之巨人
 the Warhammer：战锤巨人
 The Warhammer：战锤巨人
+the Jaw：颚之巨人
 the Cart：车力巨人
 the Beast：兽之巨人
+the Colossus：超大型巨人
+the Colossal：超大型巨人
 the Founding Titan：始祖巨人
 the Armored Titan：铠之巨人
 the Armoured Titan：铠之巨人
 the Warhammer Titan：战锤巨人
 The Warhammer Titan：战锤巨人
+the Jaw Titan：颚之巨人
 the Cart Titan：车力巨人
 the Beast Titan：兽之巨人
+the Colossus Titan：超大型巨人
+the Colossal Titan：超大型巨人
 
-the Wall = 城墙
+the Wall：城墙
 Walls：城墙
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
@@ -171,6 +177,7 @@ Potato Girl = 白薯女
 Sweet Potato Girl = 芋头女
 Declaration of War：宣战公告
 Liberio Festival：雷贝利欧典礼
+Libario：雷贝利欧
 Coordinate：座标
 Titan：巨人
 Vertical Maneuvering Equipment = 立体机动装置
@@ -207,6 +214,7 @@ Warchief：战士长
 Rakugo Village：拉加科村
 Ragako Village：拉加科村
 Premier Zackly：扎卡里总统
+Ymir：尤弥尔
 
 
 // === 国家、组织与部队 ===
