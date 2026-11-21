@@ -120,6 +120,7 @@ Dallis Zacklay = 达里斯·扎卡里
 Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
 Darius Zackly = 达里斯·扎卡里
+Wald：沃尔德
 
 Wall Maria = 玛利亚之墙
 Wall Rose = 罗塞之墙
@@ -192,7 +193,6 @@ junta：执政团
 Military Police：宪兵团
 Commander Pixis：皮克西斯司令
 Military Police Commander：宪兵团团长
-Wald：沃尔德
 Garrison Regiment：驻屯兵团
 Garrison Commander：驻屯兵团司令
 Training Corps Instructor：训练兵团教官
@@ -228,7 +228,7 @@ Shiganshina District：希干希纳区
 Trost District：托洛斯特区
 Stohess District：斯托贝斯区
 Orvud District：奥尔福德区
-District：区
+District = 区
 Utgard Castle = 乌特迦德城堡
 Rakugo Village：拉加科村
 Ragako Village：拉加科村
