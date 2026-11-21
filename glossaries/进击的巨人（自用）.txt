@@ -184,8 +184,6 @@ the 104th：第104期
 Potato Girl = 白薯女 
 Sweet Potato Girl = 芋头女
 Declaration of War：宣战公告
-Liberio Festival：雷贝利欧典礼
-Libario：雷贝利欧
 Coordinate：座标
 Titan：巨人
 Vertical Maneuvering Equipment = 立体机动装置
@@ -220,7 +218,7 @@ Warchief：战士长
 Premier Zackly：扎卡里总统
 Ymir：尤弥尔
 Ripper：开膛手
-
+inner walls：内墙
 
 // === 国家、组织与部队 ===
 Paradis Island = 帕拉迪岛
@@ -256,6 +254,8 @@ Ragako Village：拉加科村
 Orvud District = 奥尔福德区
 Liberio：雷贝利欧
 Liberio Internment Zone = 雷贝利欧收容区
+Liberio Festival：雷贝利欧典礼
+Libario：雷贝利欧
 Fort Slava = 斯拉巴要塞
 Mid-East Allied Forces = 中东联合
 Underground Chapel：地下礼拜堂
