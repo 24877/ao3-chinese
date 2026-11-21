@@ -1,4 +1,4 @@
-版本号：1.1.7
+版本号：1.1.8
 维护者：你
 更新时间：2026-11-16
 
@@ -60,7 +60,6 @@ Nile Dawk = 奈尔·德克
 Kenny Ackerman = 肯尼·阿克曼
 Marlowe Freudenberg = 马洛·弗登堡
 Hitch Dreyse = 希琪·德利斯
-Woermann：沃尔曼
 Djel Sannes = 杰尔·萨内斯
 Ralph：拉尔夫
 MP：宪兵团
@@ -71,6 +70,7 @@ Keith Shadis = 基斯·夏迪斯
 Hannes：汉尼斯
 Dot Pixis = 达特·皮克西斯
 Kitz Weilman = 奇兹·威尔曼
+Kitz Woermann = 奇兹·威尔曼
 Mitabi Yarunahha = 米塔比·雅尔纳赫
 
 // 马莱方角色
@@ -210,20 +210,21 @@ Levi Squad：利威尔班
 Squad Levi：利威尔班
 Levi's squad：利威尔班
 Kenny's Squad：肯尼小队
+Commander Magath：马加特队长
 
 // === 国家、组织与部队 ===
-Paradis Island = 帕拉迪岛
+Paradis Island：帕拉迪岛
 Paradis = 帕拉迪岛
 Marley = 马莱
 Eldia = 艾尔迪亚
-Survey Corps = 调查兵团
+Survey Corps：调查兵团
 Garrison：驻屯兵团
-Military Police Brigade = 宪兵团
+Military Police Brigade：宪兵团
 Training Corps：训练兵团
 Warrior Unit = 战士队
 Warrior Candidate：战士候补生
 Public Security：治安局
-Anti-Personnel Control Squad = 对人压制部队
+Anti-Personnel Control Squad：对人压制部队
 Yeagerists = 耶格尔派
 Eldian Restorationists：艾尔迪亚复权派
 
