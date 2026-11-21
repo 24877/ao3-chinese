@@ -1,4 +1,4 @@
-版本号：1.0.14
+版本号：1.1.0
 维护者：你
 更新时间：2026-11-16
 
@@ -127,6 +127,7 @@ The Warhammer Titan：战锤巨人
 the Cart Titan：车力巨人
 the Beast Titan：兽之巨人
 
+the Wall：城墙
 Walls：城墙
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
