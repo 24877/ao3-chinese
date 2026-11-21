@@ -1,4 +1,4 @@
-版本号：1.1.6
+版本号：1.1.7
 维护者：你
 更新时间：2026-11-16
 
@@ -40,8 +40,9 @@ Auruo Bossard = 奥路欧·博查特
 Oluo：奥路欧
 Petra Rall = 佩特拉·拉鲁
 Petra Ral = 佩特拉·拉鲁
-Erd Jin = 艾鲁多·琴
-Eld Jin = 艾鲁多·琴
+Erd Jin = 艾鲁多·金
+Eld Jin = 艾鲁多·金
+Eld Jinn = 艾鲁多·金
 Gunter Shulz = 君达·修兹
 Gunther Shulz = 君达·修兹
 Dita Ness = 迪塔·尼斯
@@ -60,6 +61,8 @@ Kenny Ackerman = 肯尼·阿克曼
 Marlowe Freudenberg = 马洛·弗登堡
 Hitch Dreyse = 希琪·德利斯
 Woermann：沃尔曼
+Djel Sannes = 杰尔·萨内斯
+Ralph：拉尔夫
 MP：宪兵团
 
 // 驻屯兵团
@@ -204,6 +207,7 @@ inner walls：内墙
 Captain Levi：利威尔兵长
 Captain Ackerman：阿克曼兵长
 Levi Squad：利威尔班
+Squad Levi：利威尔班
 Levi's squad：利威尔班
 Kenny's Squad：肯尼小队
 
@@ -243,9 +247,14 @@ Forest of Giant Trees = 巨木之森
 Shiganshina：希干希纳
 Trost = 托洛斯特
 Mitras：米特拉斯
-Ehrmich：埃尔米赫
 Karanes：卡兰内斯
 Orvud：奥尔福德
+Quinta：昆塔
+Krolva：克罗鲁巴
+Utopia：乌托邦
+Stohess：斯托黑斯
+Ehrmich：艾尔米哈
+Yarckel：亚克尔
 
 // === 九大巨人 ===
 Founding Titan：始祖巨人
