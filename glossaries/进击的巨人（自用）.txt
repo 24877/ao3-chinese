@@ -187,6 +187,9 @@ Vertical Maneuvering Equipment = 立体机动装置
 Omni-Directional Mobility Gear = 立体机动装置
 3D Gear: 立体机动装置
 Vertical Maneuvering Gear：立体机动装置
+Anti Personnel Squad：对人压制部队
+Anti-Personnel Squad：对人压制部队
+Anti Personnel ODM gear：对人立体机动装置
 Anti-Personnel ODM gear：对人立体机动装置
 Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置 
 Supreme Commander：最高统帅
