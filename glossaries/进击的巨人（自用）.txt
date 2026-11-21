@@ -1,4 +1,4 @@
-版本号：1.0.11
+版本号：1.0.12
 维护者：你
 更新时间：2026-11-16
 
@@ -40,6 +40,14 @@ Erd Jin = 艾鲁多·琴
 Gunter Shulz = 君达·修兹
 Dita Ness = 迪塔·尼斯
 Dirk：迪尔克
+Isabel Magnolia = 伊莎贝尔·马格诺利亚
+Furlan Church：法兰·恰奇
+Furlan：法兰
+Nanaba：纳拿巴
+Gelgar：格鲁噶
+Lynne：琳恩
+Henning：贺宁格
+
 
 // 宪兵团
 Nile Dawk = 奈尔·德克
@@ -76,12 +84,14 @@ Marcel Galliard = 马赛‧加里亚德
 Zofia Reitsch = 索菲亚·莱契
 Udo Bock = 乌德·博克
 Tom Xaver = 汤姆·库沙瓦
+Tom Ksaver = 汤姆·库沙瓦
 
 // 王族与贵族
-Rod Reiss = 罗德·雷伊斯
-Frieda Reiss = 弗丽达·雷伊斯
-Historia Reiss = 希斯特莉亚·雷伊斯
+Rod Reiss = 罗德·雷斯
+Frieda Reiss = 弗丽达·雷斯
+Historia Reiss = 希斯特莉亚·雷斯
 Krista Lenz = 赫里斯塔·兰斯
+Christa Lenz =  赫里斯塔·兰斯
 Uri Reiss = 乌利·雷斯
 
 // === 戴巴家族 ===
@@ -115,7 +125,7 @@ The Warhammer Titan：战锤巨人
 the Cart Titan：车力巨人
 the Beast Titan：兽之巨人
 
-
+Walls：城墙
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
 BANG：砰
@@ -132,6 +142,16 @@ THUNK：咚
 FWOOSH：呼——
 THRWACK：啪
 CRUNCH：咯吱
+POP：啵
+HISSSS：嘶
+PANG：砰
+SHINK：锵
+Slice：斩击
+GAAHHH：啊——
+THUD：咚
+HISSSSSS：嘶嘶嘶嘶
+Gah：呃
+
 
 通用词条
 Shingeki no Kyojin：进击的巨人
@@ -175,6 +195,12 @@ Garrison Regiment：驻屯兵团
 Garrison Commander：驻屯兵团司令
 Training Corps Instructor：训练兵团教官
 Instructor Shadis：夏迪斯教官
+Ehrmich：埃尔米赫
+Warchief：战士长
+Rakugo Village：拉加科村
+Ragako Village：拉加科村
+Premier Zackly：扎卡里总统
+
 
 // === 国家、组织与部队 ===
 Paradis Island = 帕拉迪岛
@@ -233,8 +259,7 @@ Pure Titan = 无垢巨人
 Abnormal Titan = 奇行种
 Titan Shifter = 巨人变身者
 Titan-shifter：巨人变身者
-Intelligent Titan = 智慧巨人
-Wall Titan = 城墙巨人
+Intelligent Titan：智慧巨人
 Coordinate Power = 座标之力
 Paths = 道路
 Paths Realm = 道路空间
