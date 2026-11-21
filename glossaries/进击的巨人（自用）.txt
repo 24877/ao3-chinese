@@ -116,7 +116,9 @@ Dimo Rebbs Edward = 迪墨·利布斯·爱德华
 Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
 Darius Zackly = 达里斯·扎卡里
 
-Maria：玛利亚
+Wall Maria = 玛利亚之墙
+Wall Rose = 罗塞之墙
+Wall Sina = 希娜之墙
 Rose：罗塞
 Sina：希娜
 the Wall：城墙
@@ -216,11 +218,6 @@ Yeagerists = 耶格尔派
 Eldian Restorationists：艾尔迪亚复权派
 
 // === 地理与设施 ===
-Wall Maria = 玛利亚之墙
-Wall Rose = 罗塞之墙
-Wall Sina = 希娜之墙
-Rose Wall = 罗塞之墙
-Sina Wall = 希娜之墙
 Shiganshina District = 希干希纳区
 Trost District = 托洛斯特区
 Stohess District = 斯托贝斯区
