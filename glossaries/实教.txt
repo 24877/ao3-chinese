@@ -1,4 +1,4 @@
-版本号：1.1.5
+版本号：1.1.6
 维护者：你
 更新时间：2026-11-18
 
@@ -7,6 +7,7 @@
 // —— 1-D 主角团 ——
 Ayanokouji Kiyotaka = 绫小路 清隆
 Ayanokouji：绫小路 
+Aynaokouji：绫小路 
 Kiyotaka：清隆
 Ayanokoji Kiyotaka = 绫小路 清隆
 Ayanokouji Atsuomi = 绫小路 笃臣
@@ -30,6 +31,7 @@ Sudo Ken = 须藤 健
 Sudō Ken = 须藤 健
 Matsushita Chiaki = 松下 千秋
 Hasebe Haruka = 长谷部 波瑠加
+Hasabe Haruka = 长谷部 波瑠加
 Shinohara Satsuki = 筱原 皋月
 Satou Maya = 佐藤 麻耶
 Satō Maya = 佐藤 麻耶
