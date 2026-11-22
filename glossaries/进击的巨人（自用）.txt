@@ -1,4 +1,4 @@
-版本号：1.1.15
+版本号：1.1.16
 维护者：你
 更新时间：2026-11-16
 
@@ -127,7 +127,6 @@ Eren Kruger = 艾伦·克鲁格
 Harvey Arlert = 哈维·阿诺德
 
 // 其他关键角色
-Ymir：尤弥尔
 Ymir Fritz = 尤弥尔·弗里茨
 Grisha Yeager = 格里沙·耶格尔
 Carla Yeager = 卡尔菈·耶格尔
@@ -215,8 +214,8 @@ Declaration of War：宣战公告
 Coordinate：座标
 Titan：巨人
 ODM gear：立体机动装置
-Vertical Maneuvering Equipment = 立体机动装置
-Omni-Directional Mobility Gear = 立体机动装置
+Vertical Maneuvering Equipment：立体机动装置
+Omni-Directional Mobility Gear：立体机动装置
 3D Gear: 立体机动装置
 Vertical Maneuvering Gear：立体机动装置
 Supreme Commander：最高统帅
@@ -225,7 +224,6 @@ The Church of the Walls：城墙教
 Wall Cult：城墙教
 military junta：军事执政团
 junta：执政团
-Ymir：尤弥尔
 inner walls：内墙
 Captain Levi：利威尔兵长
 Captain Ackerman：阿克曼兵长
@@ -317,17 +315,17 @@ Trost District：托洛斯特区
 Stohess District：斯托贝斯区
 Orvud District：奥尔福德区
 District = 区
-Utgard Castle = 乌特迦德城堡
+Utgard Castle = 乌特迦德 城堡
 Rakugo Village：拉加科村
 Ragako Village：拉加科村
 Liberio：雷贝利欧
-Liberio Internment Zone = 雷贝利欧收容区
+Liberio Internment Zone：雷贝利欧收容区
 Liberio Festival：雷贝利欧典礼
 Libario：雷贝利欧
-Fort Slava = 斯拉巴要塞
-Mid-East Allied Forces = 中东联合
+Fort Slava：斯拉巴要塞
+Mid-East Allied Forces：中东联合
 Underground Chapel：地下礼拜堂
-Forest of Giant Trees = 巨木之森
+Forest of Giant Trees：巨木之森
 Shiganshina：希干希纳
 Trost：托洛斯特
 Mitras：米特拉斯
@@ -381,11 +379,11 @@ Titan-shifter：巨人变身者
 Titan-shifters：巨人变身者
 Intelligent Titan：智慧巨人
 Intelligent Titans：智慧巨人
-Coordinate Power = 座标之力
+Coordinate Power：座标之力
 Paths = 道路
-Paths Realm = 道路空间
+Paths Realm：道路空间
 "Founding Titan‘s Power" = 始祖巨人之力
-Vow Renouncing War = 不战之誓
+Vow Renouncing War：不战之誓
 Vow of Renouncing War：不战之誓
 Rumbling = 地鸣
 Titan Serum：巨人脊髓液
@@ -404,7 +402,7 @@ Orientals：东洋人
 Subjects of Ymir：尤弥尔的子民
 Eldian：艾尔迪亚人
 Marleyan：马莱人
-Devil of All Earth = 大地恶魔
+Devil of All Earth：大地恶魔
 “On the other side of the wall, there is freedom.” = “墙壁的另一边，是自由。”
 “Shinzou wo sasageyo!” = “献出心脏！”
 
@@ -419,7 +417,6 @@ Soldier：士兵
 Warrior：战士
 veteran：老兵
 // === 武器装备与物资 ===
-Gear：装置
 Anchor：锚钩
 Canister：气罐
 Blade Replacement：替换刀片
