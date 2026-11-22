@@ -1,14 +1,11 @@
-版本号：1.1.6
+版本号：1.1.7
 维护者：你
 更新时间：2026-11-18
 
-// ===== 词条：区分大小写，人名/真名 =====
 词条
 // —— 1-D 主角团 ——
-Ayanokouji Kiyotaka = 绫小路 清隆
-Ayanokouji：绫小路 
-Aynaokouji：绫小路 
-Kiyotaka：清隆
+Ayanokouji Kiyotaka = 绫小路 清隆 
+Aynaokouji Kiyotaka = 绫小路 清隆
 Ayanokoji Kiyotaka = 绫小路 清隆
 Ayanokouji Atsuomi = 绫小路 笃臣
 Ayanokoji Atsuomi = 绫小路 笃臣
@@ -45,7 +42,6 @@ Onishima：鬼岛
 Naoe：直江
 Suzukake：铃悬
 Beppu：别府 
-
 
 // —— 学生会 / 教职员 ——
 Chabashira Sae = 茶柱 佐枝
@@ -118,9 +114,8 @@ Amasawa Ichika = 天泽 一夏
 Ibuki Mio = 伊吹 澪
 Shiranami Chihiro = 白波 千寻
 
-
-// ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
+// ===== 通用词条：不区分大小写，设定与概念 =====
 Ayanokouji Kiyotaka = 绫小路 清隆
 Ayanokoji Kiyotaka = 绫小路 清隆
 Sakayanagi Chairman = 坂柳 理事长
@@ -134,16 +129,16 @@ Classroom of the Elite = 欢迎来到实力至上主义的教室
 ようこそ実力至上主義の教室へ - 衣笠彰梧 = 欢迎来到实力至上主义的教室 - 衣笠彰梧
 Classroom of the Elite - Kinugasa Shougo = 欢迎来到实力至上主义的教室 - 衣笠彰梧
 Kinugasa Shougo = 衣笠 彰梧
-Special Exam = 特别考试
-Paper Shuffle = 纸牌洗牌考试
+Special Exam：特别考试
+Paper Shuffle：纸牌洗牌考试
 Island Exam = 无人岛考试
-Uninhabited Island Exam = 无人岛考试
-Sports Festival = 体育祭
-Mixed Training Camp = 合宿训练
-Field Trip = 修学旅行
-School Trip = 修学旅行
-White Room = 白屋
-White Room Graduate = 白屋出身者
+Uninhabited Island Exam：无人岛考试
+Sports Festival：体育祭
+Mixed Training Camp：合宿训练
+Field Trip：修学旅行
+School Trip：修学旅行
+White Room：白屋
+White Room Graduate：白屋出身者
 ANHS = ANHS
 COTE = COTE
 OAA = OAA
@@ -152,11 +147,8 @@ Student Council = 学生会
 Keyaki Mall = 榉树商场
 Dormitory = 宿舍
 Expulsion = 退学
-Evaluation = 评价
-Academic Ability = 学力
-Intellect = 知性
+Academic Ability：学力
 Judgment = 判断力
-Physical Ability = 身体能力
+Physical Ability：身体能力
 Cooperativeness = 协作性
-Social Contribution = 社会贡献
-Leadership = 领导能力
+Social Contribution：社会贡献
