@@ -1,4 +1,4 @@
-版本号：1.2.3
+版本号：1.2.4
 维护者：你
 更新时间：2026-11-16
 
@@ -35,7 +35,6 @@ Dirk：迪尔克
 Hange Zoe = 韩吉·佐耶
 Hange Zoë = 韩吉·佐耶
 Moblit Berner = 莫布里特·巴纳
-Berner：伯纳
 Nifa：妮法
 Keiji：凯吉
 Abel：阿贝尔
