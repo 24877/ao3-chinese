@@ -1,4 +1,4 @@
-版本号：1.1.17
+版本号：1.1.18
 维护者：你
 更新时间：2026-11-16
 
@@ -149,6 +149,7 @@ Gerald：杰拉尔德
 Roderich：罗德里希
 Deltoff：德尔托夫
 
+Paradise：帕拉迪岛
 Wall Maria：玛利亚之墙
 Wall Rose：罗塞之墙
 Wall Sina：希娜之墙
@@ -315,7 +316,6 @@ Marley Warriors：马莱战士队
 // === 地理与设施 ===
 Shiganshina District：希干希纳区
 Trost District：托洛斯特区
-Stohess District：斯托贝斯区
 Orvud District：奥尔福德区
 District = 区
 Utgard Castle = 乌特迦德 城堡
