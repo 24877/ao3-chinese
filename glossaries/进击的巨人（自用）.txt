@@ -205,6 +205,10 @@ Shink：锵
 Slash：唰
 THWINK：噌
 Ziiipp：咻——
+Tch：嘁
+THWACK：砰
+SLASH：唰
+Crack：咔嚓
 
 通用词条
 // 不区分大小写
