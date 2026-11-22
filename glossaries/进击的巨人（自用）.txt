@@ -1,4 +1,4 @@
-版本号：1.1.12
+版本号：1.1.13
 维护者：你
 更新时间：2026-11-16
 
@@ -104,6 +104,8 @@ Historia Reiss = 希斯特莉亚·雷斯
 Krista Lenz = 赫里斯塔·兰斯
 Christa Lenz =  赫里斯塔·兰斯
 Uri Reiss = 乌利·雷斯
+Urklyn：乌尔克林
+Florian：弗洛里安
 
 // === 戴巴家族 ===
 Tybur Family：戴巴家族
@@ -143,6 +145,10 @@ Inocencio：伊诺森西奥
 Nick：尼克
 Priest Nick：尼克神父
 Pastor Nick：尼克神父
+Aurille：奥里尔
+Gerald：杰拉尔德
+Roderich：罗德里希
+Deltoff：德尔托夫
 
 Wall Maria = 玛利亚之墙
 Wall Rose = 罗塞之墙
@@ -225,6 +231,16 @@ Squad Mike：米克班
 Kenny's Squad：肯尼小队
 Commander Magath：马加特队长
 Reiss Chapel：雷斯教堂
+Royal Government：王室政府
+Royal Assembly：王室议会
+King Fritz：弗里茨王
+False Monarchy：伪王政
+False Monarch：伪王
+False King：伪王
+True King：真王
+The Queen of the Walls：墙内女王
+Commander-in-Chief：总司令
+
 
 // === 国家、组织与部队 ===
 Paradis Island：帕拉迪岛
