@@ -1,4 +1,4 @@
-版本号：1.1.14
+版本号：1.1.15
 维护者：你
 更新时间：2026-11-16
 
@@ -231,12 +231,12 @@ Captain Levi：利威尔兵长
 Captain Ackerman：阿克曼兵长
 Levi Squad：利威尔班
 Squad Levi：利威尔班
-Levi's squad：利威尔班
-Hange's squad：韩吉班
+"Levi's squad"：利威尔班
+"Hange's squad"：韩吉班
 Squad Hange：韩吉班
 Mike Squad：米克班
 Squad Mike：米克班
-Kenny's Squad：肯尼小队
+"Kenny's Squad"：肯尼小队
 Commander Magath：马加特队长
 Reiss Chapel：雷斯教堂
 Royal Government：王室政府
@@ -417,6 +417,7 @@ Cadet：训练生
 Recruit：学员
 Soldier：士兵
 Warrior：战士
+veteran：老兵
 // === 武器装备与物资 ===
 Gear：装置
 Anchor：锚钩
@@ -446,7 +447,7 @@ Inheritance：继承
 Transfer：转移
 Devour：吞噬
 // === 组织与单位泛称 ===
-Squad：班
+Squad：小队
 Unit：部队
 Team：小队
 // === 其他通用概念 ===
