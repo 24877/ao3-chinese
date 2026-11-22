@@ -1,4 +1,4 @@
-版本号：1.1.13
+版本号：1.1.14
 维护者：你
 更新时间：2026-11-16
 
@@ -159,6 +159,14 @@ the Wall：城墙
 Walls：城墙
 Hizuru = 希兹尔
 Hizuarian：希兹尔人
+the Jaw：颚之巨人
+the Cart：车力巨人
+the Armoured：铠之巨人
+the Colossal：超大型巨人
+The Jaw：颚之巨人
+The Cart：车力巨人
+The Armoured：铠之巨人
+The Colossal：超大型巨人
 
 Kay：好
 BANG：砰
@@ -351,13 +359,9 @@ Warhammer Titan：战锤巨人
 the Founder：始祖巨人
 the Founding：始祖巨人
 the Armored：铠之巨人
-the Armoured：铠之巨人
 the Warhammer：战锤巨人
-the Jaw：颚之巨人
-the Cart：车力巨人
 the Beast：兽之巨人
 the Colossus：超大型巨人
-the Colossal：超大型巨人
 the Founding Titan：始祖巨人
 the Armored Titan：铠之巨人
 the Armoured Titan：铠之巨人
@@ -372,7 +376,9 @@ the Colossal Titan：超大型巨人
 Pure Titan：无垢巨人
 Abnormal Titan：奇行种
 Titan Shifter：巨人变身者
+Titan Shifters：巨人变身者
 Titan-shifter：巨人变身者
+Titan-shifters：巨人变身者
 Intelligent Titan：智慧巨人
 Intelligent Titans：智慧巨人
 Coordinate Power = 座标之力
@@ -440,7 +446,7 @@ Inheritance：继承
 Transfer：转移
 Devour：吞噬
 // === 组织与单位泛称 ===
-Squad：小队
+Squad：班
 Unit：部队
 Team：小队
 // === 其他通用概念 ===
