@@ -217,6 +217,7 @@ THRWACK：砰
 Thud：咚
 THUD：咚
 Thump：咚
+Thunk：咚
 THUNK：咚
 WOOSH：嗖——
 WHOOSH：嗖——
@@ -325,6 +326,8 @@ Marleyan army：马莱陆军
 Marley army：马莱陆军
 Marleyan Navy：马莱海军
 Marley Navy：马莱海军
+Marleyan Warriors：马莱战士
+Marleyan soldiers：马莱士兵
 War Chief：战士长
 Warchief：战士长
 Warrior Unit：战士队
@@ -336,6 +339,8 @@ Marleyan General Assembly：马莱国民议会
 General Assembly：国民议会
 Warrior Program：战士培养计划
 Marley Warriors：马莱战士队
+Honorary Marleyan：名誉马莱人
+Honourary Marleyan：名誉马莱人
 
 // === 地理与设施 ===
 Shiganshina District：希干希纳区
@@ -345,11 +350,21 @@ District = 区
 Utgard Castle = 乌特迦德 城堡
 Rakugo Village：拉加科村
 Ragako Village：拉加科村
-Liberio：雷贝利欧
 Liberio Internment Zone：雷贝利欧收容区
 Liberio Festival：雷贝利欧典礼
 Libario：雷贝利欧
-Fort Slava：斯拉巴要塞
+Liberio：雷贝利欧
+Lakua：拉库阿
+Odiha：奥迪哈
+Karifa：卡里法
+Acirfa：阿西尔法
+Salta：萨尔塔
+Fort Salta：萨尔塔要塞
+Slava：斯拉瓦
+Fort Slava：斯拉瓦要塞
+Lago：拉戈
+Monte：蒙特
+Valle：瓦列
 Mid-East Allied Forces：中东联合
 Underground Chapel：地下礼拜堂
 Forest of Giant Trees：巨木之森
