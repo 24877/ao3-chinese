@@ -212,11 +212,11 @@ Tap：嗒（轻敲）
 THWINK：噌
 Tch：嘁
 THWACK：砰
+THRWACK：砰
 Thud：咚
 THUD：咚
 Thump：咚
 THUNK：咚
-THRWACK：啪
 WOOSH：嗖——
 WHOOSH：嗖——
 Zaap：滋——
