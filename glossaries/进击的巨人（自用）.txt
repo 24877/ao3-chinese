@@ -1,4 +1,4 @@
-版本号：1.2.5
+版本号：1.2.6
 维护者：你
 更新时间：2026-11-16
 
@@ -274,6 +274,7 @@ True King：真王
 The Queen of the Walls：墙内女王
 Commander-in-Chief：总司令
 Assembly：议会
+"Humanity's Strongest" = 人类最强
 
 // === 国家、组织与部队 ===
 Marley = 马莱
