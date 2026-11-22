@@ -1,4 +1,4 @@
-版本号：1.2.2
+版本号：1.2.3
 维护者：你
 更新时间：2026-11-16
 
@@ -171,44 +171,47 @@ The Cart：车力巨人
 The Armoured：铠之巨人
 The Colossal：超大型巨人
 
-Kay：好
 BANG：砰
-HMPHN：哼
-CRACK：咔嚓
-BOOOM：轰——
 BOOM：轰——
-CRAAAASH：砰——
-WOOSH：嗖——
-WHOOSH：嗖——
-ZAAP：滋——
-ROAAAAAAR：吼——————
-Thump：咚
-THUNK：咚
-FWOOSH：呼——
-THRWACK：啪
+BOOOM：轰——
+Crack：咔嚓
+CRACK：咔嚓
 CRUNCH：咯吱
+Creeek：咯吱——
+CLANG：铛
+CRAAAASH：砰——
+Click：咔哒
+FWOOSH：呼——
+GAAHHH：啊——
+Gah：呃
+Hiss：嘶
+HISSSS：嘶
+HISSSSSS：嘶嘶嘶嘶
+HMPHN：哼
+Impact.：轰。
+Kay：好
 POP：啵
 Pop：啪
-HISSSS：嘶
 PANG：砰
+ROAAAAAAR：吼——————
 SHINK：锵
-Creeek：咯吱——
-Hiss：嘶
-SLICE：唰
 Slice：唰
-GAAHHH：啊——
-THUD：咚
-HISSSSSS：嘶嘶嘶嘶
-Gah：呃
-Click：咔哒
+SLICE：唰
+SLASH：唰
 Shink：锵
 Slash：唰
 THWINK：噌
-Ziiipp：咻——
 Tch：嘁
 THWACK：砰
-SLASH：唰
-Crack：咔嚓
+Thud：咚
+THUD：咚
+Thump：咚
+THUNK：咚
+THRWACK：啪
+WOOSH：嗖——
+WHOOSH：嗖——
+ZAAP：滋——
+Ziiipp：咻——
 
 通用词条
 // 不区分大小写
