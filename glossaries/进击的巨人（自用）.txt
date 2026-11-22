@@ -140,6 +140,9 @@ Darius Zackly = 达里斯·扎卡里
 Wald：沃尔德
 Karl Fritz = 卡尔·弗里茨
 Inocencio：伊诺森西奥
+Nick：尼克
+Priest Nick：尼克神父
+Pastor Nick：尼克神父
 
 Wall Maria = 玛利亚之墙
 Wall Rose = 罗塞之墙
@@ -205,6 +208,7 @@ Vertical Maneuvering Gear：立体机动装置
 Supreme Commander：最高统帅
 Church：教会
 The Church of the Walls：城墙教
+Wall Cult：城墙教
 military junta：军事执政团
 junta：执政团
 Ymir：尤弥尔
