@@ -1,4 +1,4 @@
-版本号：1.2.0
+版本号：1.2.1
 维护者：你
 更新时间：2026-11-16
 
@@ -149,6 +149,7 @@ Gerald：杰拉尔德
 Roderich：罗德里希
 Deltoff：德尔托夫
 
+Corps：兵团
 Paradis Island：帕拉迪岛
 Paradis = 帕拉迪岛
 Paradise：帕拉迪岛
@@ -203,6 +204,7 @@ Click：咔哒
 Shink：锵
 Slash：唰
 THWINK：噌
+Ziiipp：咻——
 
 通用词条
 // 不区分大小写
@@ -253,6 +255,7 @@ False King：伪王
 True King：真王
 The Queen of the Walls：墙内女王
 Commander-in-Chief：总司令
+Assembly：议会
 
 // === 国家、组织与部队 ===
 Marley = 马莱
