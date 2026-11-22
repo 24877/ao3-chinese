@@ -223,7 +223,6 @@ the 104th：第104期
 Potato Girl：白薯女 
 Sweet Potato Girl：芋头女
 Declaration of War：宣战公告
-Coordinate：座标
 Titan：巨人
 ODM gear：立体机动装置
 Vertical Maneuvering Equipment：立体机动装置
@@ -390,7 +389,8 @@ Titan-shifter：巨人变身者
 Titan-shifters：巨人变身者
 Intelligent Titan：智慧巨人
 Intelligent Titans：智慧巨人
-Coordinate Power：座标之力
+Coordinate：坐标
+Coordinate Power：坐标之力
 Paths = 道路
 Paths Realm：道路空间
 "Founding Titan‘s Power" = 始祖巨人之力
