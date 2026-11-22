@@ -113,6 +113,7 @@ Sagami Kazuma = 坂上 数马
 Amasawa Ichika = 天泽 一夏
 Ibuki Mio = 伊吹 澪
 Shiranami Chihiro = 白波 千寻
+You-Zitsu：实教
 
 通用词条
 // ===== 通用词条：不区分大小写，设定与概念 =====
