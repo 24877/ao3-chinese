@@ -176,11 +176,14 @@ BOOM：轰——
 BOOOM：轰——
 Crack：咔嚓
 CRACK：咔嚓
+Crackle：噼啪
 CRUNCH：咯吱
 Creeek：咯吱——
 CLANG：铛
+CRASSSH：轰隆
 CRAAAASH：砰——
 Click：咔哒
+CHARGE：冲啊
 FWOOSH：呼——
 GAAHHH：啊——
 Gah：呃
@@ -193,13 +196,20 @@ Kay：好
 POP：啵
 Pop：啪
 PANG：砰
+ROOOAR：吼——
 ROAAAAAAR：吼——————
+RATATATATA：哒哒哒哒哒
+Slap：啪
+SPLAT：啪叽
 SHINK：锵
 Slice：唰
 SLICE：唰
 SLASH：唰
 Shink：锵
 Slash：唰
+SPLATTER：噗嗤（溅射）
+Step：嗒（脚步声）
+Tap：嗒（轻敲）
 THWINK：噌
 Tch：嘁
 THWACK：砰
@@ -210,7 +220,10 @@ THUNK：咚
 THRWACK：啪
 WOOSH：嗖——
 WHOOSH：嗖——
+Zaap：滋——
 ZAAP：滋——
+ZIP：咻
+Ziiip：咻——
 Ziiipp：咻——
 
 通用词条
