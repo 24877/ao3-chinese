@@ -1,4 +1,4 @@
-版本号：1.1.19
+版本号：1.2.0
 维护者：你
 更新时间：2026-11-16
 
@@ -97,7 +97,7 @@ Tom Ksaver = 汤姆·克萨瓦
 Nicolo：尼柯洛
 
 // 王族与贵族
-Rod = 罗德
+Rod Reiss = 罗德·雷斯
 Frieda Reiss = 弗丽达·雷斯
 Freida Reiss = 弗丽达·雷斯
 Historia Reiss = 希斯特莉亚·雷斯
@@ -254,7 +254,6 @@ True King：真王
 The Queen of the Walls：墙内女王
 Commander-in-Chief：总司令
 
-
 // === 国家、组织与部队 ===
 Marley = 马莱
 Eldia = 艾尔迪亚
@@ -279,6 +278,7 @@ Cadet Corps：训练兵团
 Training Corps Instructor：训练兵团教官
 Instructor Shadis：夏迪斯教官
 Premier Zackly：扎卡里总统
+Premier：总统
 
 Anti Personnel Squad：对人压制部队
 Anti-Personnel Squad：对人压制部队
