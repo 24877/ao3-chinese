@@ -1,4 +1,4 @@
-版本号：1.1.7
+版本号：1.1.8
 维护者：你
 更新时间：2026-11-18
 
@@ -137,18 +137,19 @@ Sports Festival：体育祭
 Mixed Training Camp：合宿训练
 Field Trip：修学旅行
 School Trip：修学旅行
+4th：第四期
+White Room Masterpiece：白屋杰作
 White Room：白屋
 White Room Graduate：白屋出身者
 ANHS = ANHS
 COTE = COTE
 OAA = OAA
 OAA App = OAA应用
-Student Council = 学生会
-Keyaki Mall = 榉树商场
+Student Council：学生会
+Keyaki Mall：榉树商场
 Dormitory = 宿舍
 Expulsion = 退学
 Academic Ability：学力
-Judgment = 判断力
 Physical Ability：身体能力
 Cooperativeness = 协作性
 Social Contribution：社会贡献
