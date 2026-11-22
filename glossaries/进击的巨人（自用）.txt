@@ -149,6 +149,8 @@ Gerald：杰拉尔德
 Roderich：罗德里希
 Deltoff：德尔托夫
 
+Paradis Island：帕拉迪岛
+Paradis = 帕拉迪岛
 Paradise：帕拉迪岛
 Wall Maria：玛利亚之墙
 Wall Rose：罗塞之墙
@@ -253,8 +255,6 @@ Commander-in-Chief：总司令
 
 
 // === 国家、组织与部队 ===
-Paradis Island：帕拉迪岛
-Paradis = 帕拉迪岛
 Marley = 马莱
 Eldia = 艾尔迪亚
 Survey Corps：调查兵团
