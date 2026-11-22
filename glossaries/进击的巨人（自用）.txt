@@ -1,4 +1,4 @@
-版本号：1.1.10
+版本号：1.1.11
 维护者：你
 更新时间：2026-11-16
 
@@ -11,6 +11,7 @@ Mikasa Ackerman = 三笠·阿克曼
 Armin Arlert = 阿尔敏·阿诺德 
 Armin Artlert = 阿尔敏·阿诺德 
 Jean Kirstein = 让·基尔休斯坦
+Jean Kristein = 让·基尔休斯坦
 Connie Springer = 柯尼·史普林格
 Sasha Blouse = 萨莎·布劳斯 
 Marco Bott = 马可·波特
@@ -18,11 +19,6 @@ Marco Bott = 马可·波特
 // 调查兵团
 Levi Ackerman = 利威尔·阿克曼 
 Erwin Smith = 埃尔文·史密斯 
-Hange Zoe = 韩吉·佐耶
-Hange Zoë = 韩吉·佐耶
-Moblit Berner = 莫布里特·巴纳
-Mike Zacharias = 米克·萨卡利亚斯
-Mike Zakarius = 米克·萨卡利亚斯
 Auruo Bossard = 奥路欧·博查特
 Oluo：奥路欧
 Petra Rall = 佩特拉·拉鲁
@@ -32,15 +28,25 @@ Eld Jin = 艾鲁多·金
 Eld Jinn = 艾鲁多·金
 Gunter Shulz = 君达·修兹
 Gunther Shulz = 君达·修兹
+Isabel：伊莎贝尔
+Furlan：法兰
 Dita Ness = 迪塔·尼斯
 Dirk：迪尔克
-Isabel Magnolia = 伊莎贝尔·马格诺利亚
-Furlan Church：法兰·恰奇
-Furlan：法兰
+Hange Zoe = 韩吉·佐耶
+Hange Zoë = 韩吉·佐耶
+Moblit Berner = 莫布里特·巴纳
+Berner：伯纳
+Nifa：妮法
+Keiji：凯吉
+Abel：阿贝尔
+Mike Zacharias = 米克·萨卡利亚斯
+Mike Zakarius = 米克·萨卡利亚斯
 Nanaba：纳拿巴
 Gelgar：格鲁噶
 Lynne：琳恩
 Henning：贺宁格
+Toma：托马
+Ness：尼斯
 
 // 宪兵团
 Nile Dawk = 奈尔·德克
@@ -86,8 +92,9 @@ Colt Grice = 柯尔特·格莱斯
 Marcel Galliard = 马赛‧加里亚德
 Zofia Reitsch = 索菲亚·莱契
 Udo Bock = 乌德·博克
-Tom Xaver = 汤姆·库沙瓦
-Tom Ksaver = 汤姆·库沙瓦
+Tom Xaver = 汤姆·克萨瓦
+Tom Ksaver = 汤姆·克萨瓦
+Nicolo：尼柯洛
 
 // 王族与贵族
 Rod Reiss = 罗德·雷斯
@@ -124,6 +131,7 @@ Grisha Yeager = 格里沙·耶格尔
 Carla Yeager = 卡尔菈·耶格尔
 Dina Fritz = 戴娜·弗里茨
 Azumabito Kiyomi = 东人 清美
+Yelena：伊莲娜
 Onyankopon：欧良果彭
 Dallis Zacklay = 达里斯·扎卡里
 Dimo Rebbs Edward = 迪墨·利布斯·爱德华
@@ -164,7 +172,10 @@ Pop：啪
 HISSSS：嘶
 PANG：砰
 SHINK：锵
-Slice：斩击
+Creeek：咯吱——
+Hiss：嘶
+SLICE：唰
+Slice：唰
 GAAHHH：啊——
 THUD：咚
 HISSSSSS：嘶嘶嘶嘶
@@ -191,30 +202,11 @@ Vertical Maneuvering Equipment = 立体机动装置
 Omni-Directional Mobility Gear = 立体机动装置
 3D Gear: 立体机动装置
 Vertical Maneuvering Gear：立体机动装置
-Anti Personnel Squad：对人压制部队
-Anti-Personnel Squad：对人压制部队
-Anti Personnel ODM gear：对人立体机动装置
-Anti-Personnel ODM gear：对人立体机动装置
-Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置 
 Supreme Commander：最高统帅
-Scouts：调查兵团
-Scout Regiment：调查兵团
 Church：教会
-Commander Erwin：埃尔文团长
-Hange's squad：韩吉班
-Survey Corps commander：调查兵团团长
 The Church of the Walls：城墙教
 military junta：军事执政团
 junta：执政团
-Military Police：宪兵团
-Commander Pixis：皮克西斯司令
-Military Police Commander：宪兵团团长
-Garrison Regiment：驻屯兵团
-Garrison Commander：驻屯兵团司令
-Training Corps Instructor：训练兵团教官
-Instructor Shadis：夏迪斯教官
-Warchief：战士长
-Premier Zackly：扎卡里总统
 Ymir：尤弥尔
 inner walls：内墙
 Captain Levi：利威尔兵长
@@ -222,6 +214,10 @@ Captain Ackerman：阿克曼兵长
 Levi Squad：利威尔班
 Squad Levi：利威尔班
 Levi's squad：利威尔班
+Hange's squad：韩吉班
+Squad Hange：韩吉班
+Mike Squad：米克班
+Squad Mike：米克班
 Kenny's Squad：肯尼小队
 Commander Magath：马加特队长
 Reiss Chapel：雷斯教堂
@@ -232,16 +228,55 @@ Paradis = 帕拉迪岛
 Marley = 马莱
 Eldia = 艾尔迪亚
 Survey Corps：调查兵团
-Garrison：驻屯兵团
+Scouts：调查兵团
+Scout Regiment：调查兵团
+Scout Legion：调查兵团
+Recon Corps：调查兵团
+Commander Erwin：埃尔文团长
+Survey Corps commander：调查兵团团长
 Military Police Brigade：宪兵团
+Military Police：宪兵团
+Military Police Commander：宪兵团团长
+Commander Nile：奈尔团长
+Garrison：驻屯兵团
+Garrison Regiment：驻屯兵团
+Stationed Corps：驻屯兵团
+Garrison Commander：驻屯兵团司令
+Commander Pixis：皮克西斯司令
 Training Corps：训练兵团
 Cadet Corps：训练兵团
-Warrior Unit = 战士队
-Warrior Candidate：战士候补生
-Public Security：治安局
+Training Corps Instructor：训练兵团教官
+Instructor Shadis：夏迪斯教官
+Premier Zackly：扎卡里总统
+
+Anti Personnel Squad：对人压制部队
+Anti-Personnel Squad：对人压制部队
 Anti-Personnel Control Squad：对人压制部队
+Anti Personnel ODM gear：对人立体机动装置
+Anti-Personnel ODM gear：对人立体机动装置
+Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置 
 Yeagerists = 耶格尔派
 Eldian Restorationists：艾尔迪亚复权派
+
+Interior Police：内地宪兵
+Interior Military Police：内地宪兵
+Interior Squad：内地宪兵队
+Interior Policeman：内地宪兵
+Interior Policemen：内地宪兵们
+First Interior Squad：第一内地宪兵队
+Central Military Police：中央宪兵团
+
+Marleyan military：马莱军
+Marleyan army：马莱陆军
+Marley army：马莱陆军
+Marleyan Navy：马莱海军
+Marley Navy：马莱海军
+War Chief：战士长
+Warchief：战士长
+Warrior Unit：战士队
+Warrior Candidate：战士候补生
+Warchief Zeke：吉克战士长
+Public Security：治安局
 
 // === 地理与设施 ===
 Shiganshina District：希干希纳区
@@ -331,7 +366,6 @@ Gas Canister：气体罐
 Gas Canisters：气体罐 
 Blade：刀片
 Trigger Grip：扳机式刀柄
-Equipment: 装备
 
 Hardening：硬化
 Crystal：结晶
@@ -348,7 +382,7 @@ Captain：兵长
 Commander：团长
 Section Commander：分队长
 Squad Leader：班长
-Cadet：训练兵
+Cadet：训练生
 Recruit：学员
 Soldier：士兵
 Warrior：战士
@@ -381,9 +415,7 @@ Inheritance：继承
 Transfer：转移
 Devour：吞噬
 // === 组织与单位泛称 ===
-Corps：兵团
-Brigade：旅团
-Squad：班
+Squad：小队
 Unit：部队
 Team：小队
 // === 其他通用概念 ===
