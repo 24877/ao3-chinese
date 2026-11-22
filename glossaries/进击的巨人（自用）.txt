@@ -1,4 +1,4 @@
-版本号：1.1.11
+版本号：1.1.12
 维护者：你
 更新时间：2026-11-16
 
@@ -281,6 +281,11 @@ Warrior Unit：战士队
 Warrior Candidate：战士候补生
 Warchief Zeke：吉克战士长
 Public Security：治安局
+ General Staff：参谋本部
+Marleyan General Assembly：马莱国民议会
+General Assembly：国民议会
+Warrior Program：战士培养计划
+Marley Warriors：马莱战士队
 
 // === 地理与设施 ===
 Shiganshina District：希干希纳区
