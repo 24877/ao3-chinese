@@ -238,6 +238,7 @@ Squad Levi：利威尔班
 "Levi's squad"：利威尔班
 "Hange's squad"：韩吉班
 Squad Hange：韩吉班
+Section Commander Hange：韩吉分队长
 Mike Squad：米克班
 Squad Mike：米克班
 "Kenny's Squad"：肯尼小队
