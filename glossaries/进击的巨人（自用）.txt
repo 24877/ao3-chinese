@@ -262,12 +262,12 @@ Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置
 Yeagerists = 耶格尔派
 Eldian Restorationists：艾尔迪亚复权派
 
-Interior Police：内地宪兵
-Interior Military Police：内地宪兵
-Interior Squad：内地宪兵队
-Interior Policeman：内地宪兵
-Interior Policemen：内地宪兵们
-First Interior Squad：第一内地宪兵队
+Interior Police：中央宪兵
+Interior Military Police：中央宪兵
+Interior Squad：中央宪兵队
+Interior Policeman：中央宪兵
+Interior Policemen：中央宪兵们
+First Interior Squad：第一中央宪兵队
 Central Military Police：中央宪兵团
 
 Marleyan military：马莱军
