@@ -4,6 +4,7 @@
 
 通用词条
 L = L
+Yagami Light = 夜神 月
 Ayanokouji Kiyotaka = 绫小路 清隆 
 Luigi = 路易吉
 Mario = 马里奥
