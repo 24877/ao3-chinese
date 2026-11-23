@@ -44,7 +44,13 @@ Takemoto Shigeru = 竹本 茂
 Okitani Kyosuke = 冲谷 京介
 Onishima：鬼岛
 Naoe：直江
+Mika：美香 
+Kijima：木岛
 Suzukake：铃悬
+Tabuchi：田渊
+Ishida：石田
+Souya：宗谷
+Kamogawa：鸭川
 Beppu：别府 
 
 // —— 学生会 / 教职员 ——
