@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你
 更新时间：2026-11-16
 
@@ -56,6 +56,7 @@ Meimei：冥冥
 Ui Ui：忧忧
 Uiui：忧忧
 Haibara Yu = 灰原 雄
+Kong Shiu = 孔 时雨
 Kashimo Hajime = 鹿紫云 一
 Higuruma Hiromi = 日车 宽见
 Takaba Fumihiko = 高羽 史彦
@@ -79,7 +80,7 @@ Angel：天使
 Charles Bernard = 查尔斯·伯纳德
 Reggie Star = 雷吉·斯塔
 Dhruv Lakdawalla = 德鲁夫·拉克达瓦拉
-Uro Takato = 乌鹭 亨子
+Uro Takako = 乌鹭 亨子
 Ryu Ishigori = 石流 龙
 Kogane：小金虫
 
@@ -212,7 +213,7 @@ Iori Utahime = 庵 歌姬
 Kugisaki Nobara = 钉崎 野蔷薇
 Zenin Maki = 禅院 真希
 Tsukumo Yuki = 九十九 由基
-Uro Takato = 乌鹭 亨子
+Uro Takako = 乌鹭 亨子
 
 Jujutsu Kaisen：咒术回战
 呪術廻戦：咒术回战
