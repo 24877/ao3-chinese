@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：你
 更新时间：2026-10-29
 
@@ -34,7 +34,7 @@ Betelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
 Geuse = 裘斯
 Lye Batenkaitos = 莱伊·巴登凯托斯
 Regulus Corneas = 雷古勒斯·柯尼亚斯
-Sirius RomanneeConti = 西里乌斯 罗曼尼康蒂
+Sirius Romannee-Conti = 西里乌斯 罗曼尼康蒂
 Capella Emerada Lugunica = 卡佩拉·埃梅拉达·露格尼卡
 Capella Emerada Lugnica = 卡佩拉·埃梅拉达·露格尼卡
 Old Man Rom：罗姆爷
@@ -87,6 +87,14 @@ Tivey Pearlbaton = 缇碧·帕尔巴顿
 Mimi Pearlbaton = 蜜蜜·帕尔巴顿
 Julius Juukulius = 尤里乌斯·尤克历乌斯
 Julius Euclius = 尤里乌斯·尤克历乌斯
+El Shamak = 埃尔·纱幕
+Ul Shamak = 乌尔·纱幕
+Al Shamak = 阿尔·纱幕
+El Akra = 埃尔·阿克拉
+El Goa = 埃尔·唤火
+El Huma = 埃尔·修玛
+El Minya = 埃尔·密尼亚
+Myina：密尼亚
 "Re:ゼロから始める異世界生活" = Re 从零开始的异世界生活
 "Re:Zero Starting Life in Another World (Anime)" = Re 从零开始的异世界生活
 "Re:Zero" = Re Zero
@@ -102,8 +110,6 @@ Daphne = 达芙妮
 Sekhmet = 赛赫麦特
 Carmilla = 卡蜜拉
 Pandora = 潘朵拉
-El Shamak = 埃尔·纱幕
-El Goa = 埃尔·唤火
 Blood Bride = 血色新娘
 Sun Princess = 太阳姬
 Divine Dragon = 神龙
@@ -129,6 +135,7 @@ Wilhelm Van Astrea = 威尔海姆·范·阿斯特雷亚
 Theresia Van Astrea = 特雷西亚·范·阿斯特雷亚
 spirit：精灵
 great spirit：大精灵
+Door Crossing：门之跨越
 forbidden Library：禁书库
 Return by Death：死亡回归
 the bowel hunter：猎肠者
