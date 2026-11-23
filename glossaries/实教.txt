@@ -93,6 +93,9 @@ Onodera Kayano = 小野寺 萱乃
 Shiraishi Asuka = 白石 飞鸟
 Yamamura Miki = 山村 美纪
 Wang Meiyu = 王 美雨
+Mii：小美
+Mii-chan：小美
+Mei-Yu：美雨
 Ando Sayo = 安藤 纱代
 
 // —— 坂柳班（1-A / 2-A）——
