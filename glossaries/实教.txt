@@ -1,4 +1,4 @@
-版本号：1.1.14
+版本号：1.1.15
 维护者：你
 更新时间：2026-11-18
 
@@ -35,6 +35,7 @@ Hasabe Haruka = 长谷部 波瑠加
 Shinohara Satsuki = 筱原 皋月
 Satou Maya = 佐藤 麻耶
 Satō Maya = 佐藤 麻耶
+Sato Maya = 佐藤 麻耶
 Shiina Hiyori = 椎名 日和
 Ishizaki Daichi = 石崎 大地
 Kitou Hayato = 鬼头 隼
@@ -114,7 +115,7 @@ Sakayangi Arisu = 坂柳 有栖
 Kamuro Masumi = 神室 真澄
 Morishita Ai = 森下 蓝
 Katsuragi Kouhei = 葛城 康平
-Nishikawa Ryoko：西川 亮子
+Nishikawa Ryoko：西川亮子
 Nishikawa：西川
 Machida Koji = 町田 浩二
 Himeno Yuki = 姬野 雪
