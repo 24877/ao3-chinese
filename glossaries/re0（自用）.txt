@@ -1,4 +1,4 @@
-版本号：1.0.11
+版本号：1.0.12
 维护者：你
 更新时间：2026-10-29
 
@@ -35,9 +35,12 @@ Petelgeuse = 培提奇乌斯
 Geuse = 裘斯
 Lye Batenkaitos = 莱伊·巴登凯托斯
 Regulus Corneas = 雷古勒斯·柯尼亚斯
-Sirius Romannee-Conti = 西里乌斯 罗曼尼康蒂
+Sirius Romannee-Conti = 西里乌斯·罗曼尼康蒂
+Sirius = 西里乌斯
 Capella Emerada Lugunica = 卡佩拉·埃梅拉达·露格尼卡
 Capella Emerada Lugnica = 卡佩拉·埃梅拉达·露格尼卡
+Roy Alphard = 罗伊·阿尔法德
+Rui Arneb = 露伊·亚尔涅博
 Old Man Rom：罗姆爷
 Rom：罗姆爷
 Richardo Welkin = 里卡多·威尔金
@@ -95,7 +98,7 @@ El Akra = 埃尔·阿克拉
 El Goa = 埃尔·唤火
 El Huma = 埃尔·修玛
 El Minya = 埃尔·密尼亚
-Myina：密尼亚
+Mynia：密尼亚
 "Re:ゼロから始める異世界生活" = Re 从零开始的异世界生活
 "Re:Zero Starting Life in Another World (Anime)" = Re 从零开始的异世界生活
 "Re:Zero" = Re Zero
@@ -153,9 +156,8 @@ Witch of Pride：傲慢魔女
 Witch of Sloth：怠惰魔女
 Witch of Vanity：虚饰魔女
 Witch of Wrath：愤怒魔女
-"the Witch"：魔女
-"the first Witch"：最初的魔女
-"the Witch who devoured the world"：吞噬世界的魔女
+the first Witch：最初的魔女
+the Witch who devoured the world：吞噬世界的魔女
 Nee-sama：姐姐大人
 Sanctuary：圣域
 contractor：契约者
@@ -163,6 +165,13 @@ witch：魔女
 contract：契约
 Sin Archbishop：大罪司教
 Sloth：怠惰
+Greed：强欲
+Lust：色欲
+Wrath：愤怒
+Pride：傲慢
+Gluttony：暴食
+Envy：嫉妒
+Witch Cult：魔女教
 sword demon：剑鬼
 Sword Saint：剑圣
 camp：阵营
