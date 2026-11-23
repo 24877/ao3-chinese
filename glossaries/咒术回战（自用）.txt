@@ -220,6 +220,7 @@ Jujutsu Kaisen：咒术回战
 呪術廻戦 | Jujutsu Kaisen (Anime)：咒术回战
 Jujutsu：咒术
 sorcerer：咒术师
+sorceress：女咒术师
 grade 4 sorcerer：四级咒术师
 grade 3 sorcerer：三级咒术师
 grade 2 sorcerer：二级咒术师
