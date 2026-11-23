@@ -1,4 +1,4 @@
-版本号：1.2.7
+版本号：1.2.8
 维护者：你
 更新时间：2026-11-16
 
@@ -15,6 +15,7 @@ Jean Kirstein = 让·基尔休斯坦
 Jean Kristein = 让·基尔休斯坦
 Connie Springer = 柯尼·史普林格
 Sasha Blouse = 萨莎·布劳斯 
+Sasha Braus = 萨莎·布劳斯 
 Marco Bott = 马可·波特
 
 // 调查兵团
