@@ -1,4 +1,4 @@
-版本号：1.0.15
+版本号：1.0.16
 维护者：你
 更新时间：2026-10-29
 
@@ -140,6 +140,8 @@ Wilhelm Van Astrea = 威尔海姆·范·阿斯特雷亚
 Theresia Van Astrea = 特雷西亚·范·阿斯特雷亚
 Book of Wisdom：睿智之书
 Tome of Wisdom：睿智之书
+Invisible Hands：不可视之手
+Invisible Hand：不可视之手
 spirit：精灵
 great spirit：大精灵
 Door Crossing：门之跨越
@@ -166,6 +168,40 @@ Sanctuary：圣域
 contractor：契约者
 witch：魔女
 contract：契约
+sword demon：剑鬼
+Sword Saint：剑圣
+camp：阵营
+meteor：魔法器
+Great waterfall：大瀑布
+Lugunica：露格尼卡
+Kararagi：卡拉拉基
+Gusteko：古斯提克
+Gustecko：古斯提克
+Holy Kingdom of Gusteko = 古斯提克圣王国
+Vollachia = 佛拉基亚
+Vollachia Empire = 佛拉基亚帝国
+Sacred Vollachia Empire = 神圣佛拉基亚帝国
+Crau-Crown = 库劳库隆
+Crau-Crown Grasslands = 库劳库隆草原
+Kraukraun = 库劳库隆
+Kraukraun Grasslands = 库劳库隆草原
+merchant princess：商人公主
+capital：王都
+captain：大将
+spirit arts user：精灵使
+the beast of the end：终焉之兽
+pops：老板
+loot house：赃物库
+nyew：喵
+nyer：喵
+Royal Selection：王选
+Half-Elf：半精灵
+Mana：玛那
+Oni：鬼族
+Royal Guard：近卫骑士团
+Pleiades Watchtower：普莱迪斯监视塔
+Forbidden Library：禁书库
+Barusu：巴鲁斯
 Sin Archbishop：大罪司教
 Archbishop of the Sin：大罪司教
 Archbishop：司教
@@ -205,37 +241,3 @@ Archbishop of the Sin of Envy：嫉妒司教
 Sin Archbishop of Envy：嫉妒司教
 Envy Archbishop：嫉妒司教
 Archbishop of Envy：嫉妒司教
-sword demon：剑鬼
-Sword Saint：剑圣
-camp：阵营
-meteor：魔法器
-Great waterfall：大瀑布
-Lugunica：露格尼卡
-Kararagi：卡拉拉基
-Gusteko：古斯提克
-Gustecko：古斯提克
-Holy Kingdom of Gusteko = 古斯提克圣王国
-Vollachia = 佛拉基亚
-Vollachia Empire = 佛拉基亚帝国
-Sacred Vollachia Empire = 神圣佛拉基亚帝国
-Crau-Crown = 库劳库隆
-Crau-Crown Grasslands = 库劳库隆草原
-Kraukraun = 库劳库隆
-Kraukraun Grasslands = 库劳库隆草原
-merchant princess：商人公主
-capital：王都
-captain：大将
-spirit arts user：精灵使
-the beast of the end：终焉之兽
-pops：老板
-loot house：赃物库
-nyew：喵
-nyer：喵
-Royal Selection：王选
-Half-Elf：半精灵
-Mana：玛那
-Oni：鬼族
-Royal Guard：近卫骑士团
-Pleiades Watchtower：普莱迪斯监视塔
-Forbidden Library：禁书库
-Barusu：巴鲁斯
