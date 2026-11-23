@@ -16,12 +16,10 @@ Miku = 初音
 PaRappa Rappa = 帕拉帕·拉帕
 Fluttershy = 柔柔
 Ashley = 阿什莉
-Ash = 阿什
 Ayano Aishi = 爱诗绫乃
 Aishi Ayano = 爱诗 绫乃
-Eugene Krabs = 蟹老板
+Eugene Krabs：蟹老板
 Eugene = 尤金
-Krabs = 螃蟹
 penguin = 企鹅
 King Dedede = 帝帝帝大王
 Kasane Teto = 重音 Teto
