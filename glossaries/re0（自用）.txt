@@ -194,6 +194,7 @@ pops：老板
 loot house：赃物库
 nyew：喵
 nyer：喵
+nya：喵
 Royal Selection：王选
 Half-Elf：半精灵
 Mana：玛那
