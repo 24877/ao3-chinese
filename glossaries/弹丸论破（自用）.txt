@@ -1,4 +1,4 @@
-版本号：1.2.5
+版本号：1.2.6
 维护者：你
 更新时间：2026-11-15
 
@@ -227,6 +227,7 @@ Moral Compass：风纪委员
 Neurologist：神经学者
 Supreme Leader：总统
 Aikido Master：合气道家
+Yakuza：黑道
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
