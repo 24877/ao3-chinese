@@ -1,4 +1,4 @@
-版本号：1.1.12
+版本号：1.1.13
 维护者：你
 更新时间：2026-11-18
 
@@ -96,7 +96,7 @@ Ando Sayo = 安藤 纱代
 
 // —— 坂柳班（1-A / 2-A）——
 Sakayanagi Arisu = 坂柳 有栖
-Sakayanagi：坂柳
+Sakayangi：坂柳
 Kamuro Masumi = 神室 真澄
 Morishita Ai = 森下 蓝
 Katsuragi Kouhei = 葛城 康平
