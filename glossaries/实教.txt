@@ -1,4 +1,4 @@
-版本号：1.1.9
+版本号：1.1.10
 维护者：你
 更新时间：2026-11-18
 
@@ -6,6 +6,8 @@
 // —— 1-D 主角团 ——
 Ayanokouji Kiyotaka = 绫小路 清隆 
 Aynaokouji Kiyotaka = 绫小路 清隆
+Ayanokōuji Kiyotaka = 绫小路 清隆
+Ayanokōji Kiyotaka = 绫小路 清隆
 Ayanokoji Kiyotaka = 绫小路 清隆
 Ayanokouji Atsuomi = 绫小路 笃臣
 Ayanokoji Atsuomi = 绫小路 笃臣
