@@ -1,4 +1,4 @@
-版本号：1.2.6
+版本号：1.2.7
 维护者：你
 更新时间：2026-11-16
 
@@ -6,6 +6,7 @@
 // === 核心角色 ===
 // 主角团 - 第104期训练兵团
 Eren Yeager = 艾伦·耶格尔 
+Eren Jaeger = 艾伦·耶格尔
 Eran Yeagar = 艾伦·耶格尔 
 Mikasa Ackerman = 三笠·阿克曼 
 Armin Arlert = 阿尔敏·阿诺德 
@@ -131,7 +132,7 @@ Grisha Yeager = 格里沙·耶格尔
 Carla Yeager = 卡尔菈·耶格尔
 Dina Fritz = 戴娜·弗里茨
 Azumabito Kiyomi = 东人 清美
-Yelena：伊莲娜
+Yelena：伊雷娜
 Onyankopon：欧良果彭
 Dallis Zacklay = 达里斯·扎卡里
 Dimo Rebbs Edward = 迪墨·利布斯·爱德华
@@ -425,13 +426,14 @@ Coordinate：坐标
 Coordinate Power：坐标之力
 Paths = 道路
 Paths Realm：道路空间
-"Founding Titan‘s Power" = 始祖巨人之力
+"Founding Titan‘s Power"：始祖巨人之力
 Vow Renouncing War：不战之誓
 Vow of Renouncing War：不战之誓
 Rumbling = 地鸣
 Titan Serum：巨人脊髓液
 Spinal Fluid：脊髓液
 Thunder Spear：雷枪
+Thunder Spears：雷枪
 
 // 主要部件与装备 
 Gas Canister：气体罐 
@@ -495,4 +497,3 @@ Inherited Memory：继承的记忆
 Propaganda：宣传
 Oppression：压迫
 Hatred：仇恨
-Sacrifice：牺牲
