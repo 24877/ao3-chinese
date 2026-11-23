@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：你
 更新时间：2026-11-23
 
@@ -87,7 +87,7 @@ Stigma Carrier：星痕感染者
 Jenova Project：杰诺瓦计划
 Jenova Separation：杰诺瓦分离体
 Spirit Energy：精神能量
-Planet's Will：星球意志
+"Planet's Will"：星球意志
 Mako Poisoning：魔晄中毒
 Weapon Creatures：武器巨兽
 Sector 1 Mako Reactor：一号魔晄炉
@@ -119,7 +119,7 @@ Wall Market：围墙市场
 Sector 7 Slums：第七区贫民窟
 GoldSaucer：金碟游乐园
 Highwind：海温德号
-Lucrecia's Cave：露克蕾西娅洞穴
+"Lucrecia's Cave"：露克蕾西娅洞穴
 Edge：边缘之城
 Healen Lodge：疗养小屋
 Old Midgar：旧米德加废墟
