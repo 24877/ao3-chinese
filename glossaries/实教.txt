@@ -1,4 +1,4 @@
-版本号：1.1.15
+版本号：1.1.16
 维护者：你
 更新时间：2026-11-18
 
@@ -56,11 +56,12 @@ Souya：宗谷
 Kamogawa：鸭川
 Matsuo：松雄
 Beppu：别府 
+Onikijima：鬼岛
 
 // —— 学生会 / 教职员 ——
 Chabashira Sae = 茶柱 佐枝
 Hoshinomiya Chie = 星之宫 知惠
-Tsukishiro = 月城 常成
+Tsukishiro Tokinari = 月城 常成
 Sakayanagi Narumori = 坂柳 成守
 Tachibana: 橘
 Tachibana Akane: 橘茜
