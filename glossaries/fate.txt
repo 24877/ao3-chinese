@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：你
 更新时间：2026-10-23
 
@@ -26,7 +26,7 @@ Sola-Ui Nuada-Re Sophia-Ri = 索拉·娜泽莱·索非亚莉
 Uryuu Ryuunosuke = 雨生 龙之介
 Kuzuki Sohichirou = 葛木 宗一郎
 Fujimura Taiga = 藤村 大河
-Lord El-Melloi II = 埃尔梅罗二世
+Lord El-Melloi II：埃尔梅罗二世
 Caren Hortensia = 卡莲·奥尔黛西亚
 Reines El-Melloi Archisorte = 莱妮丝·埃尔梅罗·阿奇佐尔缇
 Luviagelita Edelfelt = 露维亚格丽塔·艾德费尔特
@@ -40,13 +40,13 @@ Altria: 阿尔托莉雅
 Gilgamesh = 吉尔伽美什
 Cu Chulainn = 库·丘林
 Iskandar = 伊斯坎达尔
-Diarmuid Ua Duibhne = 迪尔姆德·奥迪那
+Diarmuid Ua Duibhne：迪尔姆德·奥迪那
 Diarmuid = 迪尔姆德
 Medusa = 美杜莎
 Medea = 美狄亚
 Gilles de Rais = 吉尔·德·雷
 Gilles = 吉尔
-Hassan-i-Sabbah = 哈桑·萨巴赫
+Hassan-i-Sabbah：哈桑·萨巴赫
 Heracles = 赫拉克勒斯
 Lancelot = 兰斯洛特
 Sasaki Kojiro = 佐佐木 小次郎
@@ -57,10 +57,11 @@ Mash Kyrielight = 玛修·基列莱特
 "Jeanne d'Arc" = 贞德
 "Jeanne d'Arc Alter" = 贞德〔Alter〕
 Nero Claudius = 尼禄·克劳狄乌斯
-Okita Souji = 冲田总司
-Miyamoto Musashi = 宫本武藏
-Tamamo no Mae = 玉藻前
-Minamoto no Raikou = 源赖光
+Okita Souji = 冲田 总司
+Miyamoto Musashi = 宫本 武藏
+Tamamo no Mae：玉藻前
+Minamoto no Raikou：源赖光
+Minamoto Raikou = 源 赖光
 Gorgon = 戈尔贡
 Tiamat = 提亚马特
 Ereshkigal = 埃列什基伽尔
@@ -89,16 +90,16 @@ Sakata Kintoki = 坂田金时
 Leonardo da Vinci = 列奥纳多·达·芬奇
 Solomon = 所罗门
 Merlin = 梅林
-Zhuge Liang = 诸葛孔明
+Zhuge Liang：诸葛亮
 Thomas Edison = 托马斯·爱迪生
-Wu Zetian = 武则天
-Jing Ke = 荆轲
-Jack the Ripper = 开膛手杰克
+Wu Zetian；武则天
+Jing Ke：荆轲
+Jack the Ripper：开膛手杰克
 Hassan = 哈桑
-Hassan of the Cursed Arm = 咒腕之哈桑
-Hassan of the Hundred Faces = 百貌之哈桑
-Hassan of the Silent = 静谧之哈桑
-Grand Assassin = 山之翁
+Hassan of the Cursed Arm：咒腕之哈桑
+Hassan of the Hundred Faces：百貌之哈桑
+Hassan of the Silent：静谧之哈桑
+Grand Assassin：山之翁
 
 // —— 职阶名（作为称呼时直译）——
 Saber: Saber
@@ -118,50 +119,49 @@ Berserker: Berserker
 
 // ===== 通用词条：不区分大小写，设定概念 =====
 通用词条
-Holy Grail = 圣杯
-Holy Grail War = 圣杯战争
-Greater Grail = 大圣杯
-Lesser Grail = 小圣杯
-"Heaven's Feel" = 天之杯
-Third Magic = 第三魔法
-Heroic Spirit = 英灵
-Throne of Heroes = 英灵之座
-Servant = 从者
-Command Spell = 令咒
-Magic Circuit = 魔术回路
-Magical Energy = 魔力
-Mana = 魔力
-Prana = 普拉纳
-Mystic Code = 礼装
-Noble Phantasm = 宝具
-Territory Creation = 阵地作成
-Item Construction = 道具作成
-Independent Action = 单独行动
-Mad Enhancement = 狂化
-Riding = 骑乘
-Anti-Army = 对军
-Anti-Fortress = 对城
-Anti-Personnel = 对人
-Anti-World = 对界
-Bounded Field = 结界
-Catalyst = 触媒
-Root = 根源
-Akasha = 根源
-"Mage's Association" = 魔术协会
-Clock Tower = 时钟塔
+Holy Grail：圣杯
+Holy Grail War：圣杯战争
+Greater Grail：大圣杯
+Lesser Grail：小圣杯
+"Heaven's Feel"：天之杯
+Third Magic：第三魔法
+Heroic Spirit：英灵
+Throne of Heroes：英灵之座
+Servant：从者
+Command Spell：令咒
+Magic Circuit：魔术回路
+Magical Energy：魔力
+Mana：魔力
+Prana：普拉纳
+Mystic Code：礼装
+Noble Phantasm：宝具
+Territory Creation：阵地作成
+Item Construction：道具作成
+Independent Action：单独行动
+Mad Enhancement：狂化
+Riding：骑乘
+Anti-Army：对军
+Anti-Fortress：对城
+Anti-Personnel：对人
+Anti-World：对界
+Bounded Field：结界
+Catalyst：触媒
+Root：根源
+Akasha：根源
+"Mage's Association"：魔术协会
+Clock Tower：时钟塔
 Irisviel von Einzbern = 爱丽丝菲尔·冯·爱因兹贝伦
-Irisviel = 爱丽丝菲尔
-Einzbern = 爱因兹贝伦
-Tohsaka = 远坂
-Matou = 间桐
-Three Founding Families = 御三家
-Fuyuki City = 冬木市
-Chaldea = 迦勒底
-Chaldea Security Organization = 迦勒底安全保障机构
-Singularity = 特异点
-Lostbelt = 异闻带
-Human Order = 人理
-Pruned Event = 剪定事件
-Olympus = 奥林匹斯
-Shadow Border = 影之国边境
-Shinji = 慎二
+Einzbern：爱因兹贝伦
+Tohsaka：远坂
+Matou：间桐
+Three Founding Families：御三家
+Fuyuki City：冬木市
+Chaldea：迦勒底
+Chaldea Security Organization：迦勒底安全保障机构
+Singularity：特异点
+Lostbelt：异闻带
+Human Order：人理
+Pruned Event：剪定事件
+Olympus：奥林匹斯
+Shadow Border：影之国边境
+Shinji：慎二
