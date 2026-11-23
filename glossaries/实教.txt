@@ -41,6 +41,7 @@ Kitou Hayato = 鬼头 隼
 Sotomura Hideo = 外村 秀雄
 Komiya Kyougo = 小宫 叶吾
 Takemoto Shigeru = 竹本 茂
+Okitani Kyosuke = 冲谷 京介
 Onishima：鬼岛
 Naoe：直江
 Suzukake：铃悬
