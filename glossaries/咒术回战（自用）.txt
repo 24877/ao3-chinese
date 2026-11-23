@@ -211,6 +211,8 @@ Ieiri Shoko = 家入 硝子
 Iori Utahime = 庵 歌姬
 Kugisaki Nobara = 钉崎 野蔷薇
 Zenin Maki = 禅院 真希
+Tsukumo Yuki = 九十九 由基
+Uro Takato = 乌鹭 亨子
 
 Jujutsu Kaisen：咒术回战
 呪術廻戦：咒术回战
