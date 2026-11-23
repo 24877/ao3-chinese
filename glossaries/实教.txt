@@ -1,4 +1,4 @@
-版本号：1.1.16
+版本号：1.1.17
 维护者：你
 更新时间：2026-11-18
 
@@ -40,6 +40,7 @@ Sato Maya = 佐藤 麻耶
 Shiina Hiyori = 椎名 日和
 Ishizaki Daichi = 石崎 大地
 Kitou Hayato = 鬼头 隼
+Kito Hayato = 鬼头 隼
 Sotomura Hideo = 外村 秀雄
 Komiya Kyougo = 小宫 叶吾
 Takemoto Shigeru = 竹本 茂
