@@ -1,4 +1,4 @@
-版本号：1.0.10
+版本号：1.0.11
 维护者：你
 更新时间：2026-10-29
 
@@ -31,6 +31,7 @@ Meilie Portroute = 梅丽·波尔图特
 Fortuna = 福尔图娜
 Petelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
 Betelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
+Petelgeuse = 培提奇乌斯
 Geuse = 裘斯
 Lye Batenkaitos = 莱伊·巴登凯托斯
 Regulus Corneas = 雷古勒斯·柯尼亚斯
