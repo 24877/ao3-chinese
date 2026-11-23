@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你
 更新时间：2026-11-16
 
@@ -88,6 +88,7 @@ Hanami：花御
 Dagon：陀艮
 Mahito：真人
 Choso：胀相
+Chouso：胀相
 Kamo Choso = 加茂 胀相
 Eso：坏相
 Kechizu：血涂
@@ -206,9 +207,16 @@ Ramune：弹珠汽水
 通用词条
 Mei Mei：冥冥
 Mei：冥冥
+Ieiri Shoko = 家入 硝子
+Iori Utahime = 庵 歌姬
+Kugisaki Nobara = 钉崎 野蔷薇
+Zenin Maki = 禅院 真希
 
 Jujutsu Kaisen：咒术回战
+呪術廻戦：咒术回战
+呪術廻戦 | Jujutsu Kaisen (Anime)：咒术回战
 Jujutsu：咒术
+sorcerer：咒术师
 grade 4 sorcerer：四级咒术师
 grade 3 sorcerer：三级咒术师
 grade 2 sorcerer：二级咒术师
