@@ -4,43 +4,31 @@
 
 词条
 //角色
-Cloud：克劳德
-Cloud Strife：克劳德·斯特莱夫
-Strife：斯特莱夫
-Tifa：蒂法
-Tifa Lockhart：蒂法·洛克哈特
-Aerith：爱丽丝
-Aerith Gainsborough：爱丽丝·盖恩斯巴勒
-Barret：巴雷特
-Barret Wallace：巴雷特·华莱士
+Cloud Strife = 克劳德·斯特莱夫
+Tifa Lockhart = 蒂法·洛克哈特
+Aerith Gainsborough = 爱丽丝·盖恩斯巴勒
+Barret Wallace = 巴雷特·华莱士
 Red XIII：赤红十三
 Nanaki：纳纳奇
-Yuffie：尤菲
-Yuffie Kisaragi：尤菲·如月
-Cid：希德
-Cid Highwind：希德·海温德
-Vincent：文森特
-Vincent Valentine：文森特·瓦伦丁
-Zack：扎克斯
-Zack Fair：扎克斯·菲尔
+Yuffie Kisaragi = 尤菲·如月
+Cid Highwind = 希德·海温德
+Vincent Valentine = 文森特·瓦伦丁
+Zack Fair = 扎克斯·菲尔
 Sephiroth：萨菲罗斯
-Genesis：杰内西斯
-Genesis Rhapsodos：杰内西斯·拉普索道斯
-Angeal：安吉尔
-Angeal Hewley：安吉尔·修雷
+Genesis Rhapsodos = 杰内西斯·拉普索道斯
+Angeal Hewley = 安吉尔·修雷
 Yazoo：亚祖
 Kadaj：卡达裘
 Loz：罗兹
 Jessie：杰西
 Biggs：比格斯
 Wedge：威吉
-Cait Sith：凯特·西
+Cait Sith = 凯特·西
 Marlene：玛琳
 Denzel：丹泽尔
 Emina：艾米娜
 Lfalna：伊法露娜
-Rufus：路法斯
-Rufus Shinra：路法斯·神罗
+Rufus Shinra = 路法斯·神罗
 Tseng：曾
 Reno：雷诺
 Rude：路德
@@ -53,22 +41,21 @@ Scarlet：斯卡蕾特
 Palmer：帕尔默
 Reeve：里夫
 Professor Gast：加斯特博士
-Lucrecia：露克蕾西娅
-Lucrecia Crescent：露克蕾西亚·克蕾森特
+Lucrecia Crescent = 露克蕾西亚·克蕾森特
 Hollander：霍兰德
 Bugenhagen：布根哈根
 Chadley：查德利
 Jenova：杰诺瓦
 Fenrir：芬里尔
 
-通用词条
+SOLDIER：神罗战士
 
-//组织之类
+通用词条
+//组织
 Shinra：神罗
 Shinra Electric Power Company：神罗电力公司
 Turks：塔克斯
 Avalanche：雪崩
-SOLDIER：神罗战士
 The Planet：星球
 Lifestream：生命之流
 Gaia：盖亚
@@ -79,7 +66,6 @@ Security Officer：治安警卫
 Department Weapons Development：兵器开发部
 Urban Development Division：都市建设部
 Space Development Division：宇宙开发部
-
 
 //专有名词
 Mako：魔晄
