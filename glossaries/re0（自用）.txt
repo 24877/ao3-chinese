@@ -1,4 +1,4 @@
-版本号：1.0.13
+版本号：1.0.14
 维护者：你
 更新时间：2026-10-29
 
@@ -167,6 +167,8 @@ contractor：契约者
 witch：魔女
 contract：契约
 Sin Archbishop：大罪司教
+Archbishop of the Sin：大罪司教
+Archbishop：司教
 Sloth：怠惰
 Greed：强欲
 Lust：色欲
@@ -175,6 +177,27 @@ Pride：傲慢
 Gluttony：暴食
 Envy：嫉妒
 Witch Cult：魔女教
+Archbishop of the Sin of Sloth：怠惰大罪司教
+Sin Archbishop of Sloth：怠惰大罪司教
+Sloth Archbishop：怠惰大罪司教
+Archbishop of the Sin of Greed：强欲大罪司教
+Sin Archbishop of Greed：强欲大罪司教
+Greed Archbishop：强欲大罪司教
+Archbishop of the Sin of Wrath：愤怒大罪司教
+Sin Archbishop of Wrath：愤怒大罪司教
+Wrath Archbishop：愤怒大罪司教
+Archbishop of the Sin of Lust：色欲大罪司教
+Sin Archbishop of Lust：色欲大罪司教
+Lust Archbishop：色欲大罪司教
+Archbishop of the Sin of Gluttony：暴食大罪司教
+Sin Archbishop of Gluttony：暴食大罪司教
+Gluttony Archbishop：暴食大罪司教
+Archbishop of the Sin of Pride：傲慢大罪司教
+Sin Archbishop of Pride：傲慢大罪司教
+Pride Archbishop：傲慢大罪司教
+Archbishop of the Sin of Envy：嫉妒大罪司教
+Sin Archbishop of Envy：嫉妒大罪司教
+Envy Archbishop：嫉妒大罪司教
 sword demon：剑鬼
 Sword Saint：剑圣
 camp：阵营
