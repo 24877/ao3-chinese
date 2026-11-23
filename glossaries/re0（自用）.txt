@@ -1,4 +1,4 @@
-版本号：1.0.12
+版本号：1.0.13
 维护者：你
 更新时间：2026-10-29
 
@@ -138,6 +138,8 @@ Shaula = 夏乌拉
 Reinhard Van Astrea = 莱因哈鲁特·范·阿斯特雷亚
 Wilhelm Van Astrea = 威尔海姆·范·阿斯特雷亚
 Theresia Van Astrea = 特雷西亚·范·阿斯特雷亚
+Book of Wisdom：睿智之书
+Tome of Wisdom：睿智之书
 spirit：精灵
 great spirit：大精灵
 Door Crossing：门之跨越
