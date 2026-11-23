@@ -1,4 +1,4 @@
-版本号：1.1.10
+版本号：1.1.11
 维护者：你
 更新时间：2026-11-18
 
@@ -22,6 +22,7 @@ Ike Kanji = 池 宽治
 Maezono = 前园
 Yamauchi Haruki = 山内 春树
 Yukimura Teruhiko = 幸村 辉彦
+Keisei：幸村
 Kouenji Rokusuke = 高圆寺 六助
 Koenji Rokusuke = 高圆寺 六助
 Kōenji Rokusuke = 高圆寺 六助
