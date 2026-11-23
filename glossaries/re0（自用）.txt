@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你
 更新时间：2026-10-29
 
@@ -87,10 +87,10 @@ Tivey Pearlbaton = 缇碧·帕尔巴顿
 Mimi Pearlbaton = 蜜蜜·帕尔巴顿
 Julius Juukulius = 尤里乌斯·尤克历乌斯
 Julius Euclius = 尤里乌斯·尤克历乌斯
-"Re:ゼロから始める異世界生活" = "Re:从零开始的异世界生活"
-"Re:Zero Starting Life in Another World (Anime)" = "Re:从零开始的异世界生活"
-"Re:Zero" = "Re:Zero"
-"Re:ゼロから始める異世界生活 | Re:Zero Starting Life in Another World (Anime)" = "Re:从零开始的异世界生活"
+"Re:ゼロから始める異世界生活" = Re 从零开始的异世界生活
+"Re:Zero Starting Life in Another World (Anime)" = Re 从零开始的异世界生活
+"Re:Zero" = Re Zero
+"Re:ゼロから始める異世界生活 | Re:Zero Starting Life in Another World (Anime)" = Re 从零开始的异世界生活
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
