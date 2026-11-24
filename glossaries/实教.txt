@@ -1,4 +1,4 @@
-版本号：1.1.17
+版本号：1.1.18
 维护者：你
 更新时间：2026-11-18
 
@@ -58,6 +58,12 @@ Kamogawa：鸭川
 Matsuo：松雄
 Beppu：别府 
 Onikijima：鬼岛
+Hondo Ryotaro = 本堂 辽太郎
+Shibata So = 柴田 飒
+Shibata Sou = 柴田 飒
+Ijuin Wataru = 伊集院 航
+Sonoda Chiyo = 园田 千代
+Takahashi Osamu = 高桥 修
 
 // —— 学生会 / 教职员 ——
 Chabashira Sae = 茶柱 佐枝
@@ -78,6 +84,7 @@ Yamada Albert = 山田 阿尔伯特
 Housen Kazuomi = 宝泉 和臣
 Hosen Kazuomi = 宝泉 和臣
 Ishigami Kyou = 石上 京
+Ishigami Kyo = 石上 京
 Ishizaki Daichi = 石崎 大地
 Morishige Takurou = 森重 卓郎
 Kaneda Satoru = 金田 悟
