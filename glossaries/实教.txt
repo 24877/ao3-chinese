@@ -1,4 +1,4 @@
-版本号：1.1.18
+版本号：1.1.19
 维护者：你
 更新时间：2026-11-18
 
@@ -59,7 +59,7 @@ Matsuo：松雄
 Beppu：别府 
 Onikijima：鬼岛
 Hondo Ryotaro = 本堂 辽太郎
-Shibata So = 柴田 飒
+Shibata So：柴田飒
 Shibata Sou = 柴田 飒
 Ijuin Wataru = 伊集院 航
 Sonoda Chiyo = 园田 千代
