@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：你
 更新时间：2026-10-23
 
@@ -18,16 +18,18 @@ Nate River：尼亚
 Mello = 梅洛
 Mihael = 梅洛
 Mihael Keehl：梅洛
-Matt = 玛特
-Mail = 玛特
-Mail Jeevas：玛特
+Matt = 马特
+Mail = 马特
+Mail Jeevas：马特
 Watari：渡
 Quillsh：渡
+Wammy：渡
 Quillsh Wammy：渡
 Misora Naomi = 南空 直美
 Maki Shoko = 间木 照子
 Raye Penber = 雷·潘伯
 Yagami Soichiro = 夜神 总一郎
+Yagami Souichiro = 夜神 总一郎
 Yagami Souichirou = 夜神 总一郎
 Yagami Sachiko = 夜神 幸子
 Yagami Sayu = 夜神 妆裕
@@ -37,6 +39,7 @@ Ukita Hirokazu = 宇生田 广数
 Mogi Kanzo = 模木 完造
 Mogi Kanzou = 模木 完造
 Matsuda Touta = 松田 桃太
+Matsu：松田
 Aizawa Shuichi = 相泽 周市
 Aizawa Shuuichi = 相泽 周市
 Himura Yukio = 日村 雪秀
@@ -68,11 +71,13 @@ Death Note：死亡笔记
 Shinigami = 死神
 Shinigami Eyes：死神之眼
 Eyeball Trade：眼球交易
+Chief Yagami：夜神局长
 Task Force：基拉搜查本部
 Kira Task Force：基拉搜查本部
 Japanese Task Force：日本搜查本部
 SPK = SPK
 Secret Police Kai：秘密警察K
+Wammy Institute：华米之家
 "Wammy's House"：华米之家
 "L's Successor" = L的继承人
 New World：新世界
