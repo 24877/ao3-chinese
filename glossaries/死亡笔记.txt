@@ -1,35 +1,44 @@
-版本号：1.0.5
-维护者：你的名字
+版本号：1.0.6
+维护者：你
 更新时间：2026-10-23
 
-// ===== 词条：区分大小写，人名/死神真名 =====
 词条
 // —— 核心角色 ——
 Yagami Light = 夜神 月
 L Lawliet = L·Lawliet
 L = L
+Ryuzaki：龙崎
 Ryuk = 琉克
 Rem = 雷姆
 Amane Misa = 弥 海砂
+MisaMisa = MisaMisa
 Near = 尼亚
-River Nate = 尼亚
+Nate = 尼亚
+Nate River：尼亚
 Mello = 梅洛
-Keehl Mihael = 梅洛
-Matt = 马特
-Jeevas Mail = 马特
-Watari = 瓦特
-Wammy Quillsh = 库尔什·沃米
-
-// —— 夜神家 ——
+Mihael = 梅洛
+Mihael Keehl：梅洛
+Matt = 玛特
+Mail = 玛特
+Mail Jeevas：玛特
+Watari：渡
+Quillsh：渡
+Quillsh Wammy：渡
+Misora Naomi = 南空 直美
+Maki Shoko = 间木 照子
+Raye Penber = 雷·潘伯
 Yagami Soichiro = 夜神 总一郎
+Yagami Souichirou = 夜神 总一郎
 Yagami Sachiko = 夜神 幸子
 Yagami Sayu = 夜神 妆裕
 
 // —— 警方 / 基拉搜查本部 ——
 Ukita Hirokazu = 宇生田 广数
 Mogi Kanzo = 模木 完造
+Mogi Kanzou = 模木 完造
 Matsuda Touta = 松田 桃太
 Aizawa Shuichi = 相泽 周市
+Aizawa Shuuichi = 相泽 周市
 Himura Yukio = 日村 雪秀
 
 // —— 后续篇关键角色 ——
@@ -41,46 +50,37 @@ Linda = 琳达
 Stephen Gevanni = 史蒂芬·杰万尼
 Anthony Rester = 安东尼·雷斯特
 Roger Ruvie = 罗杰·鲁维
+Higuchi Kyosuke = 火口 卿介
 
 // —— 死神 ——
-Gelus = 杰卢斯
-Rem = 雷姆
+Gelus = 杰拉斯
 Armonia Justin Beyondormason = 阿尔莫尼亚·贾斯汀·比扬多梅森
 Sidoh = 希多
 Beppo = 贝波
 Deridovely = 德里多利
 Midora = 美朵拉
 
-// —— 称呼/敬称防误翻 ——
-"Yagami-kun": 夜神同学
-"Light-kun": 月同学
-"Ryuzaki": 龙崎
-
 // ===== 通用词条：不区分大小写，设定与概念 =====
 通用词条
 Kira = 基拉
 Amane Misa = 弥 海砂
-Death Note = 死亡笔记
+Death Note：死亡笔记
 Shinigami = 死神
-Shinigami Eyes = 死神之眼
-Eyeball Trade = 眼球交易
-Task Force = 基拉搜查本部
-Kira Task Force = 基拉搜查本部
-Japanese Task Force = 日本搜查本部
+Shinigami Eyes：死神之眼
+Eyeball Trade：眼球交易
+Task Force：基拉搜查本部
+Kira Task Force：基拉搜查本部
+Japanese Task Force：日本搜查本部
 SPK = SPK
-Secret Police Kai = 秘密警察K
-"Wammy's House"：沃米之家
+Secret Police Kai：秘密警察K
+"Wammy's House"：华米之家
 "L's Successor" = L的继承人
-New World = 新世界
-Justice = 正义
-Rule = 规则
-Rules of the Death Note = 死亡笔记规则
-Names and Lifespans = 姓名与寿命
-Fake Rules = 伪造规则
-Real Rules = 真实规则
+New World：新世界
+Rules of the Death Note：死亡笔记规则
+Names and Lifespans：姓名与寿命
+Fake Rules：伪造规则
+Real Rules：真实规则
 Notebook = 笔记
-Second Death Note = 第二本死亡笔记
-Shinigami Realm = 死神界
-Human World = 人类世界
-Suspect = 嫌疑人
+Second Death Note：第二本死亡笔记
+Shinigami Realm：死神界
 Criminal = 罪犯
