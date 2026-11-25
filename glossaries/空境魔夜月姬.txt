@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：你
 更新时间：2026-10-28
 
@@ -23,7 +23,7 @@ Noel = 诺艾尔
 // —— 魔法使之夜 ——
 Aozaki Aoko = 苍崎 青子
 Kuonji Alice = 久远寺 有珠
-Shizuki Kojirou = 静希 草十郎
+Shizuki Soujuurou = 静希 草十郎
 Kumanari Kinroku = 久万梨 金鹿
 Aozaki Touko = 苍崎 橙子
 
@@ -40,6 +40,10 @@ Seo Akira = 濑尾 晶
 Nanaya Shiki = 七夜 志贵
 
 通用词条
+Aozaki Aoko = 苍崎 青子
+Kuonji Alice = 久远寺 有珠
+Shizuki Soujuurou = 静希 草十郎
+Aozaki Touko = 苍崎 橙子
 // 世界观与设定
 Magician：魔法使
 Magecraft：魔术
