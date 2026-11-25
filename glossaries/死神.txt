@@ -1,4 +1,4 @@
-版本号:1.0.4
+版本号:1.0.5
 维护者:你
 更新时间:2026-10-30
 
@@ -15,6 +15,9 @@ Abarai Renji = 阿散井 恋次
 Ishida Uryu = 石田 雨龙
 Inoue Orihime = 井上 织姬
 Sado Yasutora = 茶渡 泰虎
+Arisawa Tatsuki = 有泽 龙贵
+Unagiya Ikumi = 鳗屋 育美
+Honshou Chizuru = 本匠 千鹤
 Urahara Kisuke = 浦原 喜助
 Shihouin Yoruichi = 四枫院 夜一
 Hitsugaya Toushirou = 日番谷 冬狮郎
@@ -33,7 +36,9 @@ Soifon = 碎蜂
 Soi Fon：碎蜂
 Omaeda Kichio = 大前田 希千代
 Unohana Retsu = 卯之花 烈
+Unohana Yachiru = 卯之花 八千流
 Kotetsu Isane = 虎彻 勇音
+Kotetsu Kiyone = 虎彻 清音
 Yamada Hanatarou = 山田 花太郎
 Komamura Souji = 狛村 左阵
 Iba Tetsuzaemon = 射场 铁左卫门
@@ -47,21 +52,42 @@ Ukitake Juushirou = 浮竹 十四郎
 Shiba Kaien = 志波 海燕
 Shiba Kuukaku = 志波 空鹤
 Shiba Ganju = 志波 岩鹫
+Hirako Shinji = 平子 真子
+Sarugaki Hiyori = 猿柿 日世里
+Muguruma Kensei = 六车 拳西
+Kuna Toshiro = 久南 白
+Aikawa Love = 爱川 罗武
+Ootoribashi Roujuurou = 凤桥 楼十郎
+Hachigen Ushouda = 有昭田 钵玄
 Yadomaru Lisa = 矢胴丸 莉莎
 Yadoumaru Lisa = 矢胴丸 莉莎
-Arisawa Tatsuki = 有泽 龙贵
-Unagiya Ikumi = 鳗屋 育美
 Don Kanonji = 唐 观音寺
-Tier Harribel = 蒂雅·赫丽贝尔
+Giselle Gewelle = 吉赛尔·茱艾尔
+Franceska Mila Rose = 弗朗切斯卡·米菈·罗兹
+Cyan Sung-Sun = 赛恩·孙孙
 Nelliel Tu Odelschwanck = 妮莉艾露·杜·奥戴修凡克
 Nelliel Tu Oderschvank = 妮莉艾露·杜·奥戴修凡克
+Coyote Starrk = 柯雅泰·史塔克
+Baraggan Louisenbairn = 拜勒岗·鲁伊森邦
+Tier Harribel = 蒂雅·赫丽贝尔
+Ulquiorra Cifer = 乌尔奇奥拉·西法
 Ulquiorra Schiffer = 乌尔奇奥拉·西法
+Nnoitra Gilga = 诺伊特拉·吉尔加
+Grimmjow Jaegerjaquez = 葛力姆乔·贾卡杰克
+Zommari Rureaux = 佐马利·路鲁
+Szayelaporro Granz = 萨尔阿波罗·格兰兹
+Aaroniero Arruruerie = 亚罗尼洛·艾鲁鲁耶利
+Yammy Llargo = 牙密·里亚尔戈
 Bambietta Basterbine = 邦比爱塔·芭丝塔拜姻
 Ichibe Hyosube = 兵主部 一兵卫
 Tenjiro Kirinji = 麒麟寺 天示郎
 Kirio Hikifune = 曳舟 桐生
 Senjumaru Shutara = 修多罗 千手丸
 Oetsu Nimaiya = 二枚屋 王悦
+Dokugamine Riruka = 毒峰 莉露卡
+Auki Yukishige = 雪绪 有希
+Tsukishima Shuukurou = 月岛 秀九郎
+Ginjou Ichigo = 银城 空吾
 Kon = 魂
 Zangetsu = 斩月
 Tensa Zangetsu = 天锁斩月
@@ -203,3 +229,5 @@ Yhwach: 友哈巴赫
 Auswahlen: 圣别
 Sankt Altar: 圣坛
 Kirchenlied: 圣唱
+Soul King：灵王
+Reiō：灵王
