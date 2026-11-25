@@ -1,4 +1,4 @@
-版本号:1.0.5
+版本号:1.0.6
 维护者:你
 更新时间:2026-10-30
 
@@ -146,6 +146,17 @@ Muramasa = 村正
 "Karakura Battle": 空座决战
 
 通用词条
+Shihouin Yoruichi = 四枫院 夜一
+Unohana Retsu = 卯之花 烈
+Tier Harribel = 蒂雅·赫丽贝尔
+Sui-Feng = 碎蜂
+Soifon = 碎蜂
+Soi Fon：碎蜂
+Hikifune Kirio = 曳舟 桐生
+Shutara Senjumaru = 修多罗 千手丸
+Ise Nanao = 伊势 七绪
+Bambietta Basterbine = 邦比爱塔·芭丝塔拜姻
+Inoue Orihime = 井上 织姬
 // 此区域不区分大小写，用于翻译通用概念
 Shinigami: 死神
 Zanpakutō: 斩魄刀
