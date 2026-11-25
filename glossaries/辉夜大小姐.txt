@@ -1,5 +1,5 @@
-版本号：1.0.5
-维护者：你的名字
+版本号：1.0.6
+维护者：你
 更新时间：2026-10-28
 
 词条
@@ -8,6 +8,7 @@ Shirogane Miyuki = 白银 御行
 Shinomiya Kaguya = 四宫 辉夜
 Fujiwara Chika = 藤原 千花
 Ishigami Yu = 石上 优
+Ishigami Yuu = 石上 优
 Iino Miko = 伊井野 弥子
 Hayasaka Ai = 早坂 爱
 
