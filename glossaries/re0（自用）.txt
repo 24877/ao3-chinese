@@ -1,4 +1,4 @@
-版本号：1.0.18
+版本号：1.0.19
 维护者：你
 更新时间：2026-10-29
 
@@ -48,7 +48,7 @@ Rom：罗姆爷
 Richardo Welkin = 里卡多·威尔金
 Ricardo Welkin = 里卡多·威尔金
 Big Bro：小哥
-Subaru-dono:昴殿下 
+Subaru-dono：昴殿下 
 Emilia-tan：爱蜜莉雅碳 
 EMT：爱蜜莉雅碳 
 Subaru-kyun：昴卿
@@ -125,6 +125,10 @@ Holy Dragon = 圣龙
 Nine Divine Generals = 九神将
 Blue Lightning = 青色雷光
 Star Gazer = 观星者
+White Whale：白鲸
+Great Rabbit：多兔
+Three Great Witchbeasts：三大魔兽
+Three Great Demon Beasts：三大魔兽
 Natsuki Subaru = 菜月 昴
 Emilia = 爱蜜莉雅
 Puck = 帕克
