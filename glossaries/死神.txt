@@ -26,8 +26,9 @@ Hinamori Momo = 雏森 桃
 Ichimaru Gin = 市丸 银
 Kira Izuru = 吉良 伊鹤
 Yamamoto Genryuusai Shigekuni = 山本 元柳斋 重国
+Sui-Feng = 碎蜂
 Soifon = 碎蜂
-Soi Fon = 碎蜂
+Soi Fon：碎蜂
 Omaeda Kichio = 大前田 希千代
 Unohana Retsu = 卯之花 烈
 Kotetsu Isane = 虎彻 勇音
