@@ -1,4 +1,4 @@
-版本号：1.0.17
+版本号：1.0.18
 维护者：你
 更新时间：2026-10-29
 
@@ -13,6 +13,7 @@ Roswall = 罗兹瓦尔
 Gospel：福音书
 Al：阿尔
 Otto Suwen = 奥托·苏文
+Kadomon Risch = 卡德蒙·里施
 Petra Leyte = 佩特拉·雷蒂
 Patrasche = 帕特拉修
 Frederica Baumann = 弗蕾德里卡·鲍曼
