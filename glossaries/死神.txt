@@ -1,4 +1,4 @@
-版本号:1.0.2
+版本号:1.0.3
 维护者:你
 更新时间:2026-10-30
 
@@ -46,9 +46,9 @@ Shiba Kuukaku = 志波 空鹤
 Shiba Ganju = 志波 岩鹫
 Arisawa Tatsuki = 有泽 龙贵
 Don Kanonji = 唐 观音寺
-Tier Harribel = 蒂雅 赫丽贝尔
-Nelliel Tu Odelschwanck = 妮莉艾露 杜 奥戴修凡克
-Ulquiorra Schiffer = 乌尔奇奥拉 西法
+Tier Harribel = 蒂雅·赫丽贝尔
+Nelliel Tu Odelschwanck = 妮莉艾露·杜·奥戴修凡克
+Ulquiorra Schiffer = 乌尔奇奥拉·西法
 Ichibe Hyosube = 兵主部 一兵卫
 Tenjiro Kirinji = 麒麟寺 天示郎
 Kirio Hikifune = 曳舟 桐生
