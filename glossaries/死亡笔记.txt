@@ -71,6 +71,7 @@ Death Note：死亡笔记
 Shinigami = 死神
 Shinigami Eyes：死神之眼
 Eyeball Trade：眼球交易
+Chief：局长
 Chief Yagami：夜神局长
 Task Force：基拉搜查本部
 Kira Task Force：基拉搜查本部
