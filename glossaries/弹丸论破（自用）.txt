@@ -1,10 +1,10 @@
-版本号：1.2.6
+版本号：1.2.7
 维护者：你
 更新时间：2026-11-15
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
-Sonia Nevermind = 索尼娅 内瓦麦
+Sonia Nevermind = 索尼娅·内瓦麦
 you Ultimates：你们这些超高校级
 
 通用词条
@@ -155,7 +155,6 @@ Murder Game：自相残杀
 Kill Game：杀戮游戏
 Killing Game：杀戮游戏
 Fan Killing Game：粉丝自制杀戮游戏
-get away with it：逃脱惩罚
 first blood perk：首杀特权
 motive video：动机影片
 Mastermind：黑幕
