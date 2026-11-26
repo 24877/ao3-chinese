@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：你
 更新时间：2026-10-23
 
@@ -15,6 +15,7 @@ Matou Shinji = 间桐 慎二
 Matou Kariya = 间桐 雁夜
 Matou Zouken = 间桐 脏砚
 Illyasviel von Einzbern = 伊莉雅斯菲尔·冯·爱因兹贝伦
+Illya：伊莉雅
 Irisviel von Einzbern = 爱丽丝菲尔·冯·爱因兹贝伦
 Chloe von Einzbern = 克洛伊·冯·爱因兹贝伦
 Hisau Maiya = 久宇 舞弥
@@ -30,7 +31,7 @@ Lord El-Melloi II：埃尔梅罗二世
 Caren Hortensia = 卡莲·奥尔黛西亚
 Reines El-Melloi Archisorte = 莱妮丝·埃尔梅罗·阿奇佐尔缇
 Luviagelita Edelfelt = 露维亚格丽塔·艾德费尔特
-Luvia = 露维亚
+Luvia Edelfelt = 露维亚·艾德费尔特
 Flat Escardos = 弗拉特·埃斯卡尔德斯
 Kischur Zelretch Schweinorg = 基修亚·泽尔里奇·施威因古
 
