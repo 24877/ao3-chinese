@@ -34,6 +34,7 @@ Fortuna = 福尔图娜
 Petelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
 Betelgeuse Romanee-Conti = 培提奇乌斯·罗曼尼康帝
 Petelgeuse = 培提奇乌斯
+Petelguese = 培提奇乌斯
 Geuse = 裘斯
 Lye Batenkaitos = 莱伊·巴登凯托斯
 Regulus Corneas = 雷古勒斯·柯尼亚斯
