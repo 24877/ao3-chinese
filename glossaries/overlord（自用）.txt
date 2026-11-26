@@ -1,14 +1,14 @@
-版本号:1.0.1
+版本号:1.0.2
 维护者:你
 更新时间:2026-11-10
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
-Ainz Ooal Gown = 安兹 乌尔 恭
+Ainz Ooal Gown = 安兹·乌尔·恭
 Momonga = 飞鼠
 Suzuki Satoru = 铃木 悟
 Albedo = 雅儿贝德
-Shalltear Bloodfallen = 夏提雅 布拉德弗伦
+Shalltear Bloodfallen = 夏提雅·布拉德弗伦
 Cocytus = 科塞特斯
 Aura Bella Fiora = 亚乌菈 贝拉 菲欧拉
 Mare Bello Fiore = 马雷 贝罗 菲欧雷
