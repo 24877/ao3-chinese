@@ -70,6 +70,7 @@ Taeko：多惠子
 Enoshima Junko = 江之岛 盾子
 Ikusaba Mukuro = 战刃 骸
 Monokuma：黑白熊
+Monobear：黑白熊
 
 // V3 角色
 Akamatsu Kaede = 赤松 枫
