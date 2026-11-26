@@ -1,4 +1,4 @@
-版本号：1.2.8
+版本号：1.2.9
 维护者：你
 更新时间：2026-11-15
 
@@ -34,6 +34,7 @@ Kuzuryu Natsumi = 九头龙 夏美
 Sato：佐藤
 Monomi：兔美
 Usami：兔美
+Twogami：食神
 Chou Koukou Kyuu no Sagishi = 超高校级的欺诈师
 "Chou Koukou Kyuu no Sagishi | Ultimate Imposter" = 超高校级的欺诈师
 
@@ -41,6 +42,7 @@ Chou Koukou Kyuu no Sagishi = 超高校级的欺诈师
 Naegi Makoto = 苗木 诚
 Naegi Komaru = 苗木 困
 Kirigiri Kyoko = 雾切 响子
+Kirigiri Kyouko = 雾切 响子
 Maizono Sayaka = 舞园 沙耶香
 Kuwata Leon = 桑田 怜恩
 Togami Byakuya = 十神 白夜
