@@ -1,4 +1,4 @@
-版本号：1.2.7
+版本号：1.2.8
 维护者：你
 更新时间：2026-11-15
 
@@ -35,7 +35,7 @@ Sato：佐藤
 Monomi：兔美
 Usami：兔美
 Chou Koukou Kyuu no Sagishi = 超高校级的欺诈师
-Chou Koukou Kyuu no Sagishi | Ultimate Imposter = 超高校级的欺诈师
+"Chou Koukou Kyuu no Sagishi | Ultimate Imposter" = 超高校级的欺诈师
 
 // 1代 角色
 Naegi Makoto = 苗木 诚
@@ -60,7 +60,7 @@ Yamada Hifumi = 山田 一二三
 Hagakure Yasuhiro = 叶隐 康比吕
 Celestia Ludenberg = 塞蕾丝缇雅·罗登贝克
 Celeste Ludenberg：塞蕾丝缇雅·罗登贝克
-Queen of Lies = 谎言女王
+Queen of Lies：谎言女王
 Celeste = 塞蕾丝
 Yasuhiro Taeko：安广多惠子
 Taeko Yasuhiro：安广多惠子
@@ -306,7 +306,7 @@ Ultimate Bodyguard：超高校级的保镖
 
 Dangan Ronpa：弹丸论破
 "Dangan Ronpa: Trigger Happy Havoc" = 弹丸论破 希望的学园与绝望的高中生
-Super Dangan Ronpa 2 = 超级弹丸论破2
+Super Dangan Ronpa 2：超级弹丸论破2
 "New Dangan Ronpa V3: Everyone's New Semester of Killing" = 新弹丸论破V3 大家的自相残杀新学期
 "Dangan Ronpa Another Episode: Ultra Despair Girls" = 弹丸论破外传 绝对绝望少女
 Dangan Ronpa Series：弹丸论破系列
