@@ -1,4 +1,4 @@
-版本号:1.0.6
+版本号:1.0.7
 维护者:你
 更新时间:2026-10-30
 
@@ -197,7 +197,6 @@ Sora no Kagami: 空座町
 Soul Burial: 魂葬
 Soul Candy: 灵魂糖果
 Artificial Soul: 改造魂魄
-White: 白一护
 Hollow Ichigo: 虚化一护
 Mugetsu: 无月
 Final Getsuga Tenshou: 最终月牙天冲
@@ -237,7 +236,7 @@ Seele Schneider: 魂斩刀
 Sklaverei: 圣隶
 Shadow: 影
 Stern Ritter: 星十字骑士团
-Wandenreich: 看不见的帝国
+Wandenreich: 无形帝国
 Yhwach: 友哈巴赫
 Auswahlen: 圣别
 Sankt Altar: 圣坛
