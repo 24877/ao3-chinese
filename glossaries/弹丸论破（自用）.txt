@@ -1,4 +1,4 @@
-版本号：1.2.9
+版本号：1.2.10
 维护者：你
 更新时间：2026-11-15
 
@@ -26,6 +26,7 @@ Owari Akane = 终里 赤音
 Soda Kazuichi = 左右田 和一
 Souda Kazuichi = 左右田 和一
 Tanaka Gundham = 田中 眼蛇梦
+Tanaka Gundam = 田中 眼蛇梦
 Tsumiki Mikan = 罪木 蜜柑
 Mioda Ibuki = 澪田 唯吹
 Hanamura Teruteru = 花村 辉辉
@@ -56,6 +57,7 @@ Ogami Sakura = 大神 樱
 Oogami Sakura = 大神 樱
 Ishimaru Kiyotaka = 石丸 清多夏
 Owada Mondo = 大和田 纹土
+Oowada Mondo = 大和田 纹土
 Fujisaki Chihiro = 不二咲 千寻
 Alter Ego：Alter Ego
 Yamada Hifumi = 山田 一二三
@@ -115,6 +117,7 @@ Great Gozu：格雷特 戈兹
 
 // 外传 绝对绝望少女
 Towa Monaca = 塔和 最中
+Towa Monaka = 塔和 最中
 Towa Haiji = 塔和 灰慈
 Daimon Masaru = 大门 胜
 Kemuri Jataro = 烟 蛇太郎
@@ -185,8 +188,8 @@ Virtual World：虚拟世界
 Gofer Project：方舟计划
 Hope Restoration Plan：希望更生计划
 Hope Restoration Program：希望更生程序
-Hope Cultivation Plan = 希望育成计划
-Kamukura Project = 神座计划
+Hope Cultivation Plan：希望育成计划
+Kamukura Project：神座计划
 The Biggest, Most Awful, Most Tragic Event in Human History：人类史上最大最恶的绝望事件
 truth bullet：言弹
 truth bullets：言弹
@@ -210,6 +213,7 @@ hiro：叶隐
 hina：葵
 taka：石丸
 Imposter：欺诈师
+Impostor：欺诈师
 Affluent Progeny：贵公子
 Fashionista：时尚达人
 clairvoyant：占卜师
@@ -230,6 +234,7 @@ Neurologist：神经学者
 Supreme Leader：总统
 Aikido Master：合气道家
 Yakuza：黑道
+Team Manager：经理
 
 // 超高校级的才能
 Ultimate Talent：超高校级的才能
