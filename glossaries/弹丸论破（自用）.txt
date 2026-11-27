@@ -1,4 +1,4 @@
-版本号：1.2.10
+版本号：1.2.11
 维护者：你
 更新时间：2026-11-15
 
@@ -14,6 +14,7 @@ Hinata Hajime = 日向 创
 Kamukura Izuru = 神座 出流
 Kamakura Izuru = 神座 出流
 Komaeda Nagito = 狛枝 凪斗
+Naito：凪斗
 Nanami Chiaki = 七海 千秋
 Nanami Chaiki = 七海 千秋
 Kuzuryu Fuyuhiko = 九头龙 冬彦
@@ -65,6 +66,7 @@ Hagakure Yasuhiro = 叶隐 康比吕
 Celestia Ludenberg = 塞蕾丝缇雅·罗登贝克
 Celeste Ludenberg：塞蕾丝缇雅·罗登贝克
 Queen of Lies：谎言女王
+Celes = 塞蕾丝
 Celeste = 塞蕾丝
 Yasuhiro Taeko：安广多惠子
 Taeko Yasuhiro：安广多惠子
